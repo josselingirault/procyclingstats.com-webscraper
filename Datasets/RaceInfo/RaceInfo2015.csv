@@ -1,0 +1,692 @@
+,Race_Name,Category,Number_stages
+0,Santos Tour Down Under 2015 ,2.WT,6
+1,Paris - Nice 2015 ,2.WT,8
+2,Tirreno-Adriatico 2015 ,2.WT,7
+3,Milano-Sanremo 2015 ,1.WT.A,1
+4,Volta Ciclista a Catalunya 2015 ,2.WT,7
+5,E3 Harelbeke 2015 ,1.WT.B,1
+6,Gent - Wevelgem 2015 ,1.WT.B,1
+7,Ronde van Vlaanderen / Tour des Flandres 2015 ,1.WT.A,1
+8,Vuelta Ciclista al Pais Vasco 2015 ,2.WT,6
+9,Paris - Roubaix 2015 ,1.WT.A,1
+10,Amstel Gold Race 2015 ,1.WT.B,1
+11,La Flèche Wallonne 2015 ,1.WT.B,1
+12,Liège - Bastogne - Liège 2015 ,1.WT.A,1
+13,Tour de Romandie 2015 ,2.WT,6
+14,Giro d'Italia 2015 ,GT.B,21
+15,Critérium du Dauphiné 2015 ,2.WT,8
+16,Tour de Suisse 2015 ,2.WT,9
+17,Tour de France 2015 ,GT.A,21
+18,Clasica Ciclista San Sebastian 2015 ,1.WT.B,1
+19,Tour de Pologne 2015 ,1.WT.B,7
+20,Eneco Tour 2015 ,2.WT,7
+21,Vuelta a España 2015 ,GT.B,21
+22,Vattenfall Cyclassics 2015 ,1.WT.B,1
+23,GP Ouest France - Plouay 2015 ,1.WT.B,1
+24,Grand Prix Cycliste de Québec 2015 ,1.WT.B,1
+25,Grand Prix Cycliste de Montréal 2015 ,1.WT.B,1
+26,Il Lombardia 2015 ,1.WT.A,1
+27,World Championships - TTT 2015 ,Worlds.TTT,1
+28,World Championships - ITT 2015 ,-,1
+29,World Championships U23 - Road Race 2015 ,Nationals.C1,1
+30,World Championships WE - Road Race 2015 ,F-WC,1
+31,Tour of Egypt 2015 ,2.2/U23,5
+32,National Championships Namibia - ITT 2015 ,Nationals.C3.TT,1
+33,National Championships Namibia - Road Race 2015 ,Nationals.C3,1
+34,National Championships South Africa - ITT 2015 ,Nationals.C3.TT,1
+35,National Championships South Africa U23 - ITT 2015 ,-,1
+36,National Championships South Africa - Road Race 2015 ,Nationals.C3,1
+37,African Continental Championships - TTT 2015 ,2.HC.TTT,1
+38,African Continental Championships - ITT 2015 ,UCI.Cont.Ch.TT,1
+39,African Continental Championships - Road Race 2015 ,UCI.Cont.Ch,1
+40,La Tropicale Amissa Bongo 2015 ,2.1,8
+41,Les Challenges de la Marche Verte - GP Sakia El Hamra 2015 ,1.2,1
+42,Les Challenges de la Marche Verte - GP Oued Eddahab 2015 ,1.2,1
+43,Les Challenges de la Marche Verte - GP Al Massira 2015 ,1.2,1
+44,Circuit International d\'Alger 2015 ,1.2,1
+45,Tour Internationale d\'Oranie 2015 ,2.2/U23,3
+46,Grand Prix de la Ville d\'Oran 2015 ,1.2,1
+47,Tour International de Blida 2015 ,2.2/U23,3
+48,Tour du Cameroun 2015 ,2.2/U23,8
+49,Criterium International de Setif 2015 ,1.2,1
+50,Tour International de Setif 2015 ,2.2/U23,4
+51,Tour Internationale d'Annaba 2015 ,2.2/U23,4
+52,Tour International de Constantine 2015 ,2.2/U23,3
+53,Circuit International de Constantine 2015 ,1.2,1
+54,Criterium International de Blida 2015 ,1.2,1
+55,Tour du Maroc 2015 ,2.2/U23,10
+56,National Championships Togo - Road Race 2015 ,Nationals.C3,1
+57,PMB Road Classic 2015 ,1.2,1
+58,Mayday Classic 2015 ,1.2,1
+59, Hibiscus Cycle Classic 2015 ,1.2,1
+60,Challenge du Prince - Trophée Princier 2015 ,1.2,1
+61,Challenge du Prince - Trophée de l'Anniversaire 2015 ,1.2,1
+62,Challenge du Prince - Trophée de la Maison Royale 2015 ,1.2,1
+63,National championships Algeria - ITT 2015 ,Nationals.C3.TT,1
+64,National Championships Morocco - ITT 2015 ,Nationals.C3.TT,1
+65,National Championships Tunisia - ITT 2015 ,Nationals.C3.TT,1
+66,National Championships Algeria - Road Race 2015 ,Nationals.C3,1
+67,National Championships Morocco - Road Race  2015 ,Nationals.C3,1
+68,National Championships Tunisia - Road Race 2015 ,Nationals.C3,1
+69,National Championships Mauritius - ITT 2015 ,Nationals.C3.TT,1
+70,National Championships Eritrea - ITT 2015 ,Nationals.C3.TT,1
+71,National Championships Ethiopia - ITT 2015 ,Nationals.C3.TT,1
+72,National Championships Ivory Coast - Road Race 2015 ,Nationals.C3,1
+73,National Championships Rwanda - ITT 2015 ,Nationals.C3.TT,1
+74,National Championships Zimbabwe - Road Race 2015 ,Nationals.C3,1
+75,National Championships Ethiopia U23 - ITT 2015 ,-,1
+76,National Championships Rwanda - Road Race 2015 ,Nationals.C3,1
+77,National Championships Eritrea - Road Race 2015 ,Nationals.C3,1
+78,National Championships Ethiopia - Road Race 2015 ,Nationals.C3,1
+79,National Championships Macedonia - Road Race 2015 ,Nationals.C3,1
+80,National Championships Mauritius - Road Race 2015 ,Nationals.C3,1
+81,National Championships Sao Tome and Principe - Road Race 2015 ,-,1
+82,National Championships Zimbabwe - ITT 2015 ,Nationals.C3.TT,1
+83,National Championships Eritrea MJ - Road Race 2015 ,-,1
+84,National Championships Uganda - Road Race 2015 ,Nationals.C3,1
+85,National Championships Angola - ITT 2015 ,-,1
+86,National Championships Angola - Road Race 2015 ,-,1
+87,Jeux Africains 2015 de Brazzaville - TTT 2015 ,-,1
+88,Jeux Africains 2015 de Brazzaville - ITT 2015 ,-,1
+89,Jeux Africains 2015 de Brazzaville - Road Race 2015 ,1.2,1
+90,Tour de Côte d'Ivoire-Tour de la Réconciliation 2015 ,2.2/U23,6
+91,Grand Prix Chantal Biya 2015 ,2.2/U23,4
+92,Tour du Faso 2015 ,2.2/U23,10
+93,Tour of Rwanda 2015 ,-,8
+94,Challenge des phosphates-Grand prix de Khouribga 2015 ,1.2,1
+95,Challenge des phosphates-Grand Prix Fkih Ben Saleh 2015 ,1.2,1
+96,Challenge des phosphates-Grand prix de Ben Guerir 2015 ,1.2,1
+97,Tour of Egypt 2015 ,2.2/U23,5
+98,Le Tour de Filipinas 2015 ,2.2/U23,4
+99,Dubai Tour 2015 ,2.HC,4
+100,Tour of Qatar 2015 ,2.HC,6
+101,Asian Cycling Championships U23 - Road Race 2015 ,E-CC,1
+102,Asian Cycling Championships - Road Race 2015 ,UCI.Cont.Ch,1
+103,Asian Cycling Championships - Road Race 2015  ,-,1
+104,Asian Cycling Championships - ITT 2015 ,UCI.Cont.Ch.TT,1
+105,Asian Continental Championships U23 - ITT 2015 ,E-CC.TT,1
+106,Tour of Oman 2015 ,2.HC,6
+107,Le Tour de Langkawi 2015 ,2.HC,8
+108,Tour de Taiwan 2015 ,2.1,5
+109,The Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2015 ,2.2/U23,6
+110,National Championships Kuwait - ITT 2015 ,UCI.NC.3.TT,1
+111,National Championships Kuwait - Road Race 2015 ,Nationals.C3,1
+112,National Championships United Arab Emirates - ITT 2015 ,Nationals.C3.TT,1
+113,National Championships United Arab Emirates - Road Race 2015 ,-,1
+114,International Tour de Banyuwangi Ijen 2015 ,2.2/U23,4
+115,National Championships Iran - ITT 2015 ,Nationals.C3.TT,1
+116,National Championships Iran - Road Race 2015 ,Nationals.C3,1
+117,Tour of Japan 2015 ,2.1,7
+118,National Championships Malaysia - Road Race 2015 ,Nationals.C3,1
+119,Tour of Iran (Azarbaijan) 2015 ,2.1,6
+120,Tour de Kumano 2015 ,2.2/U23,4
+121,Tour de Korea 2015 ,2.1,8
+122,South East Asian Games - ITT 2015 ,-,1
+123,South East Asian Games - Road Race 2015 ,-,1
+124,National Championships Syria - Road Race 2015 ,Nationals.C3,1
+125,National Championships Syria U23 - Road Race 2015 ,-,1
+126,National Championships Syria - ITT 2015 ,Nationals.C3.TT,1
+127,National Championships Syria U23 - ITT 2015 ,-,1
+128,National Championships Japan - ITT 2015 ,Nationals.C3.TT,1
+129,National Championships Japan U23 - ITT 2015 ,-,1
+130,National Championships Libanon - ITT 2015 ,Nationals.C3.TT,1
+131,National Championships Uzbekistan - ITT 2015 ,Nationals.C3.TT,1
+132,National Championships Uzbekistan U23 - ITT 2015 ,-,1
+133,National Championships Israel - ITT 2015 ,Nationals.C3.TT,1
+134,National Championships China - ITT 2015 ,-,1
+135,National Championships Kazakhstan - ITT 2015 ,Nationals.C3.TT,1
+136,National Championships Mongolia - ITT 2015 ,Nationals.C3.TT,1
+137,National Championships South Korea - ITT 2015 ,Nationals.C3.TT,1
+138,National Championships Uzbekistan - Road Race 2015 ,Nationals.C3,1
+139,National Championships Uzbekistan U23 - Road Race 2015 ,-,1
+140,National Championships Kyrgyzstan - Road Race 2015 ,Nationals.C3,1
+141,National Championships South Korea - Road Race 2015 ,Nationals.C3,1
+142,National Championships China - Road Race 2015 ,-,1
+143,National Championships Hong Kong - ITT 2015 ,Nationals.C3.TT,1
+144,National Championships Israel - Road Race 2015 ,Nationals.C3,1
+145,National Championships Mongolia - Road Race 2015 ,Nationals.C3,1
+146,National Championships Philippines - Road Race 2015 ,Nationals.C3,1
+147,National Championships Thailand - ITT 2015 ,Nationals.C3.TT,1
+148,National Championships Japan U23 - Road Race 2015 ,-,1
+149,National Championships Hong Kong - Road Race 2015 ,-,1
+150,National Championships Japan - Road Race 2015 ,Nationals.C3,1
+151,National Championships Kazakhstan - Road Race 2015 ,Nationals.C3,1
+152,National Championships Kyrgyzstan - ITT 2015 ,Nationals.C3.TT,1
+153,National Championships Libanon - Road Race 2015 ,Nationals.C3,1
+154,National Championships Philippines - ITT 2015 ,Nationals.C3.TT,1
+155,National Championships Thailand - Road Race 2015 ,Nationals.C3,1
+156,Tour of Qinghai Lake 2015 ,2.HC,13
+157,Tour de Hokkaido 2015 ,2.2/U23,3
+158,Tour of China I 2015 ,2.1,6
+159,Tour of Singkarak 2015 ,2.2/U23,9
+160,Tour of Almaty 2015 ,1.1,1
+161,Abu Dhabi Tour 2015 ,2.1,4
+162,Tour of China II 2015 ,2.1,6
+163,Japan Cup Cycle Road Race 2015 ,1.HC,1
+164,Tour of Hainan 2015 ,2.HC,9
+165,Tour of Taihu Lake 2015 ,2.1,9
+166,Tour of Borneo 2015 ,2.2/U23,5
+167,Tour de Okinawa 2015 ,1.2,1
+168,Tour of Yancheng Coastal Wetlands 2015 ,2.2/U23,2
+169,Tour of Fuzhou 2015 ,2.2/U23,3
+170,National Championships Taiwan - Road Race 2015 ,-,1
+171,Sharjah International Cycling Tour 2015 ,-,4
+172,National Championships Taiwan - ITT 2015 ,-,1
+173,UAE Cup 2015 ,1.2,1
+174,Jelajah Malaysia 2015 ,-,5
+175,Tour of Al Zubarah 2015 ,-,4
+176,Trofeo Santanyi-Ses Salines-Campos 2015 ,1.1,1
+177,Trofeo Andratx-Mirador d\'Es Colomer 2015 ,1.1,1
+178,Trofeo Serra de Tramuntana 2015 ,1.1,1
+179,Grand Prix Cycliste la Marseillaise 2015 ,1.1,1
+180,Trofeo Playa de Palma-Palma 2015 ,1.1,1
+181,Etoile de Bessèges 2015 ,2.1,5
+182,G.P. Costa degli Etruschi 2015 ,1.1,1
+183,Vuelta Ciclista a Murcia 2015 ,1.1,1
+184,Clasica de Almeria 2015 ,1.1,1
+185,GP Laguna 2015 ,1.2,1
+186,Volta ao Algarve em Bicicleta 2015 ,2.1,5
+187,Vuelta a Andalucia Ruta Ciclista Del Sol 2015 ,2.1,6
+188,Trofeo Laigueglia 2015 ,1.HC,1
+189,Tour Cycliste International du Haut Var Matin 2015 ,2.1,2
+190,Omloop Het Nieuwsblad Elite 2015 ,1.HC,1
+191,Classic Sud Ardèche - Souvenir Francis Delpech 2015 ,1.1,1
+192,Ster van Zwolle 2015 ,1.2,1
+193,SuisseGas Gran Premio Città di Lugano 2015 ,1.HC,1
+194,Kuurne-Bruxelles-Kuurne 2015 ,1.1,1
+195,La Drome Classic 2015 ,1.1,1
+196,Clássica Internacional Loulé Capital Europeia do Desporto 2015 ,1.2,1
+197,GP Izola 2015 ,1.2,1
+198,Le Samyn 2015 ,1.1,1
+199,Trofej Umag - Umag Trophy 2015 ,1.2,1
+200,Driedaagse van West-Vlaanderen 2015 ,2.1,3
+201,Strade Bianche 2015 ,1.HC,1
+202,Porec Trophy - Trofej Porec 2015 ,1.2,1
+203,Troféu Alpendre Internacional do Guadiana 2015 ,2.2/U23,2
+204,Rabobank Dorpenomloop Rucphen 2015 ,1.2,1
+205,Istarsko proljece - Istrian Spring Trophy 2015 ,2.2/U23,4
+206,Albert Achterhes Pet Ronde van Drenthe 2015 ,1.1,1
+207,Energiewacht Dwars door Drenthe 2015 ,1.1,1
+208,Omloop van het Waasland 2015 ,1.2,1
+209,Paris-Troyes 2015 ,1.2,1
+210,Sochi Cup 2015 ,1.2,1
+211,Nokere Koerse - Danilith Classic 2015 ,1.1,1
+212,Grand Prix of Sochi Mayor 2015 ,1.2,1
+213,GP Nobili Rubinetterie-Coppa Papa Carlo-Coppa Cittá  di Stresa 2015 ,1.HC,1
+214,Grand Prix of Sochi 2015 ,2.2/U23,4
+215,Handzame Classic 2015 ,1.1,1
+216,Classic Loire Atlantique 2015 ,1.1,1
+217,Ronde van Zeeland Seaports 2015 ,1.1,1
+218,GP Liberty Seguros-Troféu Sudoeste Alentejano e Costa Vicentina 2015 ,2.2/U23,2
+219,Cholet - Pays De Loire 2015 ,1.1,1
+220,Tour de Normandie 2015 ,2.2/U23,7
+221,Tour of Çanakkale 2015 ,2.2/U23,4
+222,Dwars door Vlaanderen / A travers la Flandre 2015 ,1.HC,1
+223,Volta ao Alentejo / Liberty Seguros 2015 ,2.2/U23,5
+224,Classica Corsica 2015 ,1.1,1
+225,Settimana Internazionale Coppi e Bartali 2015 ,2.1,5
+226,Critérium International 2015 ,2.HC,3
+227,Driedaagse De Panne-Koksijde 2015 ,2.HC,4
+228,Krasnodar - Anapa 2015 ,1.2,1
+229,Tour of Kuban 2015 ,2.2/U23,4
+230,Route Adélie de Vitré 2015 ,1.1,1
+231,Le Triptyque des Monts et Châteaux 2015 ,2.2/U23,4
+232,Gran Premio Miguel Indurain 2015 ,1.1,1
+233,Volta Limburg Classic 2015 ,1.1,1
+234,Paris-Camembert 2015 ,1.1,1
+235,Vuelta Ciclista a La Rioja 2015 ,1.1,1
+236,GP Adria Mobil 2015 ,1.2,1
+237,Trofeo Piva 2015 ,1.2,1
+238,Giro Belvedere di Villa di Cordignano 2015 ,1.2,1
+239,Circuit Cycliste Sarthe - Pays de la Loire 2015 ,2.1,5
+240,Scheldeprijs 2015 ,1.HC,1
+241,Tour of Mersin 2015 ,2.2/U23,4
+242,Circuit des Ardennes 2015 ,2.2/U23,4
+243,Ronde van Vlaanderen Beloften 2015 ,E-1.Ncup,1
+244,Trofeo Edil C 2015 ,1.2,1
+245,Klasika Primavera de Amorebieta 2015 ,1.1,1
+246,De Brabantse Pijl - La Flèche Brabançonne 2015 ,1.HC,1
+247,La Côte Picarde 2015 ,E-1.Ncup,1
+248,Maykop - Ulyap - Maykop 2015 ,1.2,1
+249,Tour du Loir et Cher E Provost 2015 ,2.2/U23,5
+250,GP de Denain Porte du Hainaut 2015 ,1.1,1
+251,Grand Prix of Adygeya 2015 ,2.2/U23,4
+252,Vuelta a Castilla y Leon 2015 ,2.1,3
+253,ZLM Roompot Tour 2015 ,E-1.Ncup,3
+254,Tour du Finistère 2015 ,1.1,1
+255,Arno Wallaard Memorial 2015 ,1.2,1
+256,Belgrade Banjaluka I 2015 ,1.2,1
+257,Liège - Bastogne - Liège U23 2015 ,E-1.Ncup,1
+258,Tro-Bro Léon 2015 ,1.1,1
+259,Belgrade Banjaluka II 2015 ,1.2,1
+260,Profronde van Noord-Holland 2015 ,1.2,1
+261,Giro del Trentino-Melinda 2015 ,2.HC,4
+262,Tour of Croatia 2015 ,2.1,5
+263,Gran Premio della Liberazione 2015 ,1.2,1
+264,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2015 ,2.2/U23,7
+265,ZODC Zuidenveld Tour 2015 ,1.2,1
+266,Zuid Oost Drenthe Classic I 2015 ,1.2,1
+267,Presidential Cycling Tour of Turkey 2015 ,2.HC,8
+268,Giro dell'Appennino 2015 ,1.1,1
+269,La Roue Tourangelle Région Centre - Trophée Harmonie Mutuelle 2015 ,1.1,1
+270,Paris - Mantes-en-Yvelines 2015 ,1.2,1
+271,Rutland - Melton International CiCLE Classic 2015 ,1.2,1
+272,Carpathian Couriers Race U-23 2015 ,2.2/U23,6
+273,Tour de Yorkshire 2015 ,2.1,3
+274,GP Viborg 2015 ,1.2,1
+275,Memorial Andrzeja Trochanowskiego 2015 ,1.2,1
+276,Moscow Cup 2015 ,1.2,1
+277,National Championships Belgium U23 - ITT 2015 ,-,1
+278,Vuelta Asturias Julio Alvarez Mendo 2015 ,2.1,2
+279,Himmerland Rundt 2015 ,1.2,1
+280,Memorial of Oleg Dyachenko 2015 ,1.2,1
+281,Memorial Romana Sieminskiego 2015 ,1.2,1
+282,Ronde van Overijssel 2015 ,1.2,1
+283,Grand Prix de la Somme « Conseil Général 80» 2015 ,1.1,1
+284,Circuito del Porto - Trofeo Arvedi 2015 ,1.2,1
+285,Grand Prix of Moscow 2015 ,1.2,1
+286,Skive-Løbet  2015 ,1.2,1
+287,Five rings of Moscow 2015 ,2.2/U23,5
+288,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais 2015 ,2.HC,5
+289,Tour d'Azerbaïdjan 2015 ,2.1,5
+290,Szlakiem Grodòw Piastowskich 2015 ,2.2/U23,4
+291,National Championships Cyprus - ITT 2015 ,Nationals.C3.TT,1
+292,Vuelta Ciclista Comunidad de Madrid 2015 ,2.1,2
+293,Berner Rundfahrt / Tour de Berne 2015 ,1.2,1
+294,Hadeland GP 2015 ,1.2,1
+295,Scandinavian Race in Uppsala 1909-2015 2015 ,1.2,1
+296,National Championships Cyprus - Road Race 2015 ,Nationals.C3,1
+297,Flèche Ardennaise 2015 ,1.2,1
+298,Grand Prix de la Ville de Nogent-sur-Oise 2015 ,1.2,1
+299,Ringerike GP 2015 ,1.2,1
+300,Tr. Città di San Vendemiano - 55° GP Industria & Commercio 2015 ,1.2,1
+301,Olympia's 3M Tour 2015 ,2.2/U23,8
+302,Bayern Rundfahrt 2015 ,2.HC,5
+303,National Championships Azerbaijan - ITT 2015 ,Nationals.C3.TT,1
+304,Flèche du Sud 2015 ,2.2/U23,5
+305,Rhône-Alpes Isère Tour 2015 ,2.2/U23,4
+306,Tour de Berlin 2015 ,2.2/U23,4
+307,Tour de Picardie 2015 ,2.1,3
+308,National Championships Azerbaijan - Road Race 2015 ,Nationals.C3,1
+309,Tour of Black Sea 2015 ,2.2/U23,4
+310,Visegrad 4 Bicycle Race - GP Czech Republic 2015 ,1.2,1
+311,An Post Rás 2015 ,2.2/U23,8
+312,Gran Premio Industrie del Marmo 2015 ,1.2,1
+313,Grand Prix Criquielion 2015 ,1.2,1
+314,Visegrad V4 Race - GP Polski 2015 ,1.2,1
+315,Tour of Norway 2015 ,2.HC,5
+316,Batyk - Karkonosze Tour 2015 ,2.2/U23,6
+317,Ronde de l'Isard 2015 ,2.2/U23,4
+318,Paris-Arras Tour 2015 ,2.2/U23,3
+319,World Ports Classic 2015 ,2.1,1
+320,Visegrad 4 Bicycle Race - GP Hungary - EYOF Test Race 2015 ,1.2,1
+321, Visegrad 4 Bicycle Race - GP Slovakia 2015 ,1.2,1
+322,Baloise Belgium Tour 2015 ,2.HC,5
+323,Tour des Fjords 2015 ,2.1,5
+324,Tour of Estonia 2015 ,2.1,2
+325,Course de la Paix U23 / Závod Míru U23 2015 ,E-2.Ncup,3
+326,Horizon Park Race for Peace 2015 ,1.2,1
+327,Tour de Gironde 2015 ,2.2/U23,3
+328,Grand Prix de Plumelec-Morbihan 2015 ,1.1,1
+329,Horizon Park Race Maidan 2015 ,1.2,1
+330,Boucles de l'Aulne - Châteaulin 2015 ,1.1,1
+331,Garmin Velothon Berlin 2015 ,1.1,1
+332,Horizon Park Classic 2015 ,1.2,1
+333,Paris-Roubaix Espoirs 2015 ,1.2,1
+334,Trofeo Alcide Degasperi 2015 ,1.2,1
+335,Skoda-Tour de Luxembourg 2015 ,2.HC,5
+336,Boucles de la Mayenne 2015 ,2.1,4
+337,National Championships Denmark U23 - ITT 2015 ,-,1
+338,Grand Prix of Vinnytsia 2015 ,1.2,1
+339,National Championships Macedonia - ITT 2015 ,Nationals.C3.TT,1
+340,Coppa della Pace - Trofeo F.lli Anelli 2015 ,1.2,1
+341,Grand Prix of ISD 2015 ,1.2,1
+342,Memorial Philippe Van Coningsloo 2015 ,1.2,1
+343,National Championships Denmark U23 - Road Race 2015 ,-,1
+344,Okolo Slovenska 2015 ,2.2/U23,5
+345,Tour of Ankara 2015 ,2.2/U23,4
+346,GP du canton d'Argovie 2015 ,1.HC,1
+347,Ronde de l'Oise 2015 ,2.2/U23,4
+348,National Championships Slovenia - ITT 2015 ,Nationals.C3.TT,1
+349,Tour of Malopolska 2015 ,2.2/U23,3
+350,GP Horsens 2015 ,1.2,1
+351,Ronde van Limburg 2015 ,1.1,1
+352,Rund um Köln 2015 ,1.1,1
+353,Velothon Wales 2015 ,1.1,1
+354,Fyen Rundt - Tour of Fyen 2015 ,1.2,1
+355,Grand Prix Sarajevo 2015 ,1.2,1
+356,Int. Raiffeisen Grand Prix Judendorf/Straßengel 2015 ,1.2,1
+357,Ster ZLM Toer GP Jan van Heeswijk 2015 ,2.1,5
+358,Route du Sud - la Depeche du Midi 2015 ,2.1,4
+359,Tour de Slovénie 2015 ,2.1,4
+360,European Games - ITT 2015 ,-,1
+361,Oberösterreichrundfahrt 2015 ,2.2/U23,4
+362,Tour de Serbie 2015 ,2.2/U23,4
+363,Tour des Pays de Savoie 2015 ,2.2/U23,5
+364,Korona Kocich Gor 2015 ,1.2,1
+365,Beaumont Trophy 2015 ,1.2,1
+366,Circuit de Wallonie Ville de Fleurus 2015 ,1.2,1
+367,European Games - Road Race 2015 ,Nationals.C3,1
+368,Memorial im. J. Grundmanna and J. Wizowskiego 2015 ,1.2,1
+369,National Championships Norway U23 - Road Race 2015 ,-,1
+370,Halle Ingooigem 2015 ,1.1,1
+371,National Championships Finland - ITT 2015 ,Nationals.C3.TT,1
+372,National Championships Italy - ITT 2015 ,Nationals.C3.TT,1
+373,National Championships Netherlands - ITT 2015 ,Nationals.C3.TT,1
+374,National Championships Poland - ITT 2015 ,Nationals.C3.TT,1
+375,National Championships Switzerland - ITT 2015 ,Nationals.C3.TT,1
+376,National Championships Turkey - ITT 2015 ,Nationals.C3.TT,1
+377,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2015 ,1.2,1
+378,National Championships Finland U23 - ITT 2015 ,-,1
+379,National Championships Netherlands U23 - ITT 2015 ,-,1
+380,National Championships Poland U23 - ITT 2015 ,-,1
+381,National Championships Switzerland U23 - ITT 2015 ,-,1
+382,National Championships Denmark - ITT 2015 ,Nationals.C3.TT,1
+383,National Championships Estonia - ITT 2015 ,Nationals.C3.TT,1
+384,National Championships France - ITT 2015 ,Nationals.C3.TT,1
+385,National Championships Great Britain - ITT 2015 ,Nationals.C3.TT,1
+386,National Championships Hungary - ITT 2015 ,Nationals.C3.TT,1
+387,National Championships Ireland - ITT 2015 ,Nationals.C3.TT,1
+388,National Championships Luxembourg - ITT 2015 ,Nationals.C3.TT,1
+389,National Championships Norway - ITT 2015 ,Nationals.C3.TT,1
+390,National Championships Sweden - ITT 2015 ,Nationals.C3.TT,1
+391,National Championships Great Britain U23 - ITT 2015 ,-,1
+392,National Championships Hungary - ITT 2015 ,-,1
+393,National Championships Luxembourg U23 - ITT 2015 ,-,1
+394,National Championships Portugal - ITT 2015 ,Nationals.C3.TT,1
+395,National Championships Albania - ITT 2015 ,Nationals.C3.TT,1
+396,National Championships Austria - ITT 2015 ,Nationals.C3.TT,1
+397,National Championships Belarus - ITT 2015 ,Nationals.C3.TT,1
+398,National Championships Belgium - ITT 2015 ,Nationals.C3.TT,1
+399,National Championships Czech Republic - ITT 2015 ,Nationals.C3.TT,1
+400,National Championships Czech Republic U23 - ITT 2015 ,-,1
+401,National Championships Germany - ITT 2015 ,Nationals.C3.TT,1
+402,National Championships Greece - ITT 2015 ,Nationals.C3.TT,1
+403,National Championships Latvia - ITT 2015 ,Nationals.C3.TT,1
+404,National Championships Lithuania - ITT 2015 ,Nationals.C3.TT,1
+405,National Championships Russia - ITT 2015 ,Nationals.C3.TT,1
+406,National Championships Serbia - ITT 2015 ,Nationals.C3.TT,1
+407,National Championships Slovakia - ITT 2015 ,Nationals.C3.TT,1
+408,National Championships Spain - ITT 2015 ,Nationals.C3.TT,1
+409,National Championships Turkey - Road Race 2015 ,Nationals.C3,1
+410,National Championships Ukraine - ITT 2015 ,Nationals.C3.TT,1
+411,National Championships Albania U23 - ITT 2015 ,-,1
+412,National Championships Belarus U23 - ITT 2015 ,-,1
+413,National Championships Germany U23 - ITT 2015 ,-,1
+414,National Championships Latvia U23 - ITT 2015 ,-,1
+415,National Championships Portugal U23 - ITT 2015 ,-,1
+416,National Championships Russia U23 - ITT 2015 ,-,1
+417,National Championships Serbia U23 - ITT 2015 ,-,1
+418,National Championships Slovakia U23 - ITT 2015 ,-,1
+419,National Championships Spain U23 - ITT 2015 ,-,1
+420,National Championships Ukraine U23 - ITT 2015 ,-,1
+421,National Championships Bulgaria - ITT 2015 ,Nationals.C3.TT,1
+422,National Championships Croatia - ITT 2015 ,Nationals.C3.TT,1
+423,National Championships Georgia - ITT 2015 ,Nationals.C3.TT,1
+424,National Championships Italy - Road Race 2015 ,Nationals.C3,1
+425,National Championships Moldova - ITT 2015 ,Nationals.C3.TT,1
+426,National Championships Romania - ITT 2015 ,Nationals.C3.TT,1
+427,National Championships Romania U23 - ITT 2015 ,-,1
+428,National Championships Netherlands U23 - Road Race 2015 ,-,1
+429,National Championships Poland U23 - Road Race 2015 ,-,1
+430,National Championships Portugal U23 - Road Race 2015 ,-,1
+431,National Championships Russia U23 - Road Race 2015 ,-,1
+432,National Championships Spain U23 - Road Race 2015 ,-,1
+433,National Championships Ukraine U23 - Road Race 2015 ,-,1
+434,National Championships Portugal - Road Race 2015 ,Nationals.C3,1
+435,National Championships Albania - Road Race 2015 ,Nationals.C3,1
+436,National Championships Austria - Road Race 2015 ,Nationals.C3,1
+437,National Championships Belarus - Road Race 2015 ,Nationals.C3,1
+438,National Championships Belgium - Road Race 2015 ,Nationals.C3,1
+439,National Championships Bosnia and Herzegovina - Road Race 2015 ,Nationals.C3,1
+440,National Championships Bulgaria - Road Race 2015 ,Nationals.C3,1
+441,National Championships Croatia - Road Race 2015 ,Nationals.C3,1
+442,National Championships Czech Republic - Road Race 2015 ,Nationals.C3,1
+443,National Championships Denmark - Road Race 2015 ,Nationals.C3,1
+444,National Championships Estonia - Road Race 2015 ,Nationals.C3,1
+445,National Championships Finland - Road Race 2015 ,Nationals.C3,1
+446,National Championships France - Road Race 2015 ,Nationals.C3,1
+447,National Championships Georgia - Road Race 2015 ,Nationals.C3,1
+448,National Championships Germany - Road Race 2015 ,Nationals.C3,1
+449,National Championships Great Britain - Road Race 2015 ,Nationals.C3,1
+450,National Championships Greece - Road Race 2015 ,Nationals.C3,1
+451,National Championships Hungary - Road Race 2015 ,Nationals.C3,1
+452,National Championships Ireland - Road Race 2015 ,Nationals.C3,1
+453,National Championships Latvia - Road Race 2015 ,Nationals.C3,1
+454,National Championships Lithuania - Road Race 2015 ,Nationals.C3,1
+455,National Championships Luxembourg - Road Race 2015 ,Nationals.C3,1
+456,National Championships Macedonia - Road Race 2015 ,Nationals.C3,1
+457,National Championships Moldova - Road Race 2015 ,Nationals.C3,1
+458,National Championships Montenegro - Road Race 2015 ,Nationals.C3,1
+459,National Championships Netherlands - Road Race 2015 ,Nationals.C3,1
+460,National Championships Norway - Road Race 2015 ,Nationals.C3,1
+461,National Championships Poland - Road Race 2015 ,Nationals.C3,1
+462,National Championships Romania - Road Race 2015 ,Nationals.C3,1
+463,National Championships Russia - Road Race 2015 ,Nationals.C3,1
+464,National Championships Serbia - Road Race 2015 ,Nationals.C3,1
+465,National Championships Slovakia - Road Race 2015 ,Nationals.C3,1
+466,National Championships Slovenia - Road Race 2015 ,Nationals.C3,1
+467,National Championships Spain - Road Race 2015 ,Nationals.C3,1
+468,National Championships Sweden - Road Race 2015 ,Nationals.C3,1
+469,National Championships Switzerland - Road Race 2015 ,Nationals.C3,1
+470,National Championships Ukraine - Road Race 2015 ,Nationals.C3,1
+471,National Championships Albania U23 - Road Race 2015 ,-,1
+472,National Championships Belarus U23 - Road Race 2015 ,-,1
+473,National Championships Italy U23 - Road Race 2015 ,-,1
+474,National Championships Romania U23 - Road Race 2015 ,-,1
+475,Sibiu Cycling Tour 2015 ,2.1,5
+476,Course Cycliste de Solidarnosc et des Champions Olympiques 2015 ,2.2/U23,5
+477,Int. Österreich-Rundfahrt-Tour of Austria 2015 ,2.HC,9
+478,Grand Prix Minsk 2015 ,1.2,1
+479,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2015 ,1.2,1
+480,Minsk Cup 2015 ,1.2,1
+481,National Championships Germany U23 - Road Race 2015 ,-,1
+482,National Championships Switzerland U23 - Road Race 2015 ,-,1
+483,Paris-Chauny (classique) 2015 ,1.2,1
+484,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2015 ,2.2/U23,4
+485,Giro del Medio Brenta 2015 ,1.2,1
+486,Giro Ciclistico della Valle d'Aosta Mont Blanc 2015 ,2.2/U23,6
+487,Volta a Portugal do Futuro / Liberty Seguros 2015 ,2.2/U23,4
+488,Trofeo Matteotti 2015 ,1.1,1
+489,Dwars door de Vlaamse Ardennen 2015 ,1.2,1
+490,Grand Prix Cerami 2015 ,1.1,1
+491,Podlasie Tour 2015 ,2.2/U23,3
+492,Tour de Wallonie 2015 ,2.HC,5
+493,Prueba Villafranca-Ordiziako Klasika 2015 ,1.1,1
+494,National Championships Italy U23 - ITT 2015 ,-,1
+495,Coppa dei Laghi - Trofeo Almar 2015 ,E-1.Ncup,1
+496,Grand Prix de la ville de Pérenchies 2015 ,1.2,1
+497,Dookola Mazowsza 2015 ,2.2/U23,5
+498,Volta a Portugal em Bicicleta / Liberty Seguros 2015 ,2.1,11
+499,Tour Alsace 2015 ,2.2/U23,5
+500,Circuito de Getxo 2015 ,1.1,1
+501,National Championships Belgium U23 - Road Race 2015 ,-,1
+502,Kreiz Breizh Elites 2015 ,2.2/U23,4
+503,Odessa Grand Prix - 2 2015 ,1.2,1
+504,Tour Cycliste International de la Guadeloupe 2015 ,2.2/U23,11
+505,Prudential RideLondon & Surrey Classic 2015 ,1.HC,1
+506,La Poly Normande 2015 ,1.1,1
+507,Odessa Grand Prix - 2 2015 ,1.2,1
+508,Trofeo Internazionale Bastianelli 2015 ,1.2,1
+509,Post Danmark Rundt - Tour of Denmark 2015 ,2.HC,6
+510,Vuelta a Burgos 2015 ,2.HC,5
+511,Tour de Hongrie 2015 ,2.2/U23,6
+512,Tour of Szeklerland 2015 ,2.2/U23,4
+513,UEC Road European Championships U23 - ITT 2015 ,E-CC.TT,1
+514,Memorial Henryka Lasaka 2015 ,1.2,1
+515,UEC Road European Championships U23 - Road Race 2015 ,E-CC,1
+516,National Championships Iceland - Road Race 2015 ,Nationals.C3,1
+517,Antwerpse Havenpijl 2015 ,1.2,1
+518,Gran Premio Sportivi di Poggiana-Trofeo Bonin Costruzioni-Gran Premio Pasta Zara 2015 ,1.2,1
+519,Puchar Uzdrowisk Karpackich 2015 ,1.2,1
+520,Tour de l'Ain 2015 ,2.1,5
+521,Arctic Race of Norway 2015 ,2.HC,4
+522,Czech Cycling Tour 2015 ,2.1,4
+523,GP Capodarco - Comunità di Capodarco 2015 ,1.2,1
+524,GP Stad Zottegem 2015 ,1.1,1
+525,Tour du Limousin 2015 ,2.1,4
+526,Baltic Chain Tour 2015 ,2.2/U23,3
+527,National Championships France U23 - ITT 2015 ,-,1
+528,Arnhem-Veenendaal Classic 2015 ,1.1,1
+529,Puchar Ministra Obrony Narodowej 2015 ,1.2,1
+530,Tour de l'Avenir 2015 ,E-2.Ncup,8
+531,Grote Prijs Jef Scherens - Rondom Leuven 2015 ,1.1,1
+532,National Championships France U23 - Road Race 2015 ,-,1
+533,Tour du Poitou Charentes 2015 ,2.1,5
+534,Grand Prix des Marbriers 2015 ,1.2,1
+535,Druivenkoers - Overijse 2015 ,1.1,1
+536,Ronde van Midden-Nederland 2015 ,2.2/U23,2
+537,Schaal Sels 2015 ,1.1,1
+538,Croatia-Slovenia 2015 ,1.2,1
+539,Tour of Bulgaria 2015 ,2.2/U23,5
+540,Brussels Cycling Classic 2015 ,1.HC,1
+541,Black Sea Cycling Tour 2015 ,2.2/U23,2
+542,GP de Fourmies / La Voix du Nord 2015 ,1.HC,1
+543,Tour of Britain 2015 ,2.HC,8
+544,Kernen Omloop Echt-Susteren 2015 ,1.2,1
+545,Giro della Regione Friuli Venezia Giulia 2015 ,2.2/U23,3
+546,East Bohemia Tour 2015 ,2.2/U23,3
+547,De Kustpijl 2015 ,1.2,1
+548,Tour du Doubs - Conseil Général 2015 ,1.1,1
+549,Velothon Stockholm 2015 ,1.1,1
+550,Chrono Champenois Masculin International 2015 ,1.2,1
+551,Coppa Agostoni - Giro delle Brianze 2015 ,1.1,1
+552,Grand Prix de Wallonie 2015 ,1.1,1
+553,Coppa Bernocchi 2015 ,1.1,1
+554,Kampioenschap van Vlaanderen 2015 ,1.1,1
+555,Primus Classic Impanis - Van Petegem 2015 ,1.HC,1
+556,Memorial Marco Pantani 2015 ,1.1,1
+557,GP Industria & Commercio di Prato 2015 ,1.1,1
+558,Grand Prix d'Isbergues - Pas de Calais 2015 ,1.1,1
+559,Rund um Sebnitz 2015 ,1.2,1
+560,Omloop van het Houtland Lichtervelde 2015 ,1.1,1
+561,Tour du Gévaudan Languedoc-Roussillon 2015 ,2.1,2
+562,Duo Normand 2015 ,1.1,1
+563,Gooikse Pijl 2015 ,1.2,1
+564,Ruota d'Oro - GP Festa del Perdono 2015 ,1.2,1
+565,Tre Valli Varesine 2015 ,1.HC,1
+566,Tour de l'Eurométropole 2015 ,2.1,5
+567,Milano-Torino 2015 ,1.HC,1
+568,Giro del Piemonte 2015 ,1.HC,1
+569,Sparkassen Münsterland Giro 2015 ,1.HC,1
+570,Piccolo Giro di Lombardia 2015 ,1.2,1
+571,Tour de Vendée 2015 ,1.1,1
+572,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke 2015 ,1.1,1
+573,International Tour of Torku Mevlana 2015 ,2.2/U23,4
+574,Gran Premio Città di Peccioli - Coppa Sabatini 2015 ,1.1,1
+575,Paris-Bourges 2015 ,1.1,1
+576,Giro dell'Emilia 2015 ,1.HC,1
+577,Gran Premio Bruno Beghelli 2015 ,1.HC,1
+578,Paris - Tours Elite 2015 ,1.HC,1
+579,Paris-Tours Espoirs 2015 ,1.2,1
+580,Nationale Sluitingprijs - Putte - Kapellen 2015 ,1.1,1
+581,Chrono des Nations 2015 ,1.1,1
+582,Tour of Aegean 2015 ,2.2/U23,4
+583,National Championships Australia - ITT 2015 ,Nationals.C3.TT,1
+584,National Championships Australia U23 - ITT  2015 ,-,1
+585,National Championships New Zealand - ITT 2015 ,Nationals.C3.TT,1
+586,National Championships New Zealand U23 - ITT 2015 ,-,1
+587,National Championships Australia U23 - Road Race 2015 ,-,1
+588,National Championships Australia - Road Race 2015 ,Nationals.C3,1
+589,National Championships New Zealand - Road Race 2015 ,Nationals.C3,1
+590,New Zealand Cycle Classic 2015 ,2.2/U23,5
+591,Cadel Evans Great Ocean Road Race 2015 ,1.1,1
+592,Herald Sun Tour 2015 ,2.1,5
+593,Oceania Continental Championships - ITT 2015 ,UCI.Cont.Ch.TT,1
+594,Oceania Continental Championships U23 - ITT 2015 ,E-CC.TT,1
+595,Oceania Continental Championships - Road Race 2015 ,UCI.Cont.Ch,1
+596,The REV Classic 2015 ,1.2,1
+597,Vuelta al Tachira en Bicicleta 2015 ,2.2/U23,10
+598,Tour de San Luis 2015 ,2.1,7
+599,National Championships Colombia - ITT 2015 ,Nationals.C3.TT,1
+600,National Championships Colombia - Road Race 2015 ,Nationals.C3,1
+601,Vuelta Independencia Nacional Republica Dominicana 2015 ,2.2/U23,8
+602,National Championships Chile - ITT 2015 ,UCI.NC.3.TT,1
+603,National Championships Chile U23 - ITT 2015 ,-,1
+604,National Championships Chile - Road Race 2015 ,UCI.NC.3,1
+605,National Championships Uruguay - Road Race 2015 ,-,1
+606,Vuelta Ciclista del Uruguay 2015 ,2.2/U23,10
+607,Volta Ciclística Internacional do Rio Grande do Sul 2015 ,2.2/U23,5
+608,National Championships Argentina - ITT 2015 ,Nationals.C3.TT,1
+609,national Championships Argentina U23 - ITT 2015 ,-,1
+610,National Championships Argentina - Road Race 2015 ,Nationals.C3,1
+611,National Championships Argentina U23 - Road Race 2015 ,-,1
+612,Joe Martin Stage Race p/b Nature Valley 2015 ,2.2/U23,9
+613,Vuelta Mexico 2015 ,2.2/U23,6
+614,Silver City's Tour of the Gila 2015 ,2.2/U23,5
+615,Panamerican Games - ITT 2015 ,UCI.Cont.Ch.TT,1
+616,Panamerican Championships U23 - ITT 2015 ,E-CC.TT,1
+617,Panamerican Championships U23 - Road Race 2015 ,E-CC,1
+618,Amgen Tour of California 2015 ,2.HC,8
+619,National Championships Antigua and Barbuda - ITT 2015 ,-,1
+620,Panamerican Championships - Road Race 2015 ,UCI.Cont.Ch,1
+621,Copa Federacion Venezolana de Ciclismo 2015 ,1.2,1
+622,Clasico FVCiclismo Corre Por la VIDA 2015 ,1.2,1
+623,National Championships United States - ITT 2015 ,Nationals.C3.TT,1
+624,National Championships United States - Road Race 2015 ,Nationals.C3,1
+625,Volta Ciclistica internacional do Paraná 2015 ,2.2/U23,5
+626,Grand Prix Cycliste de Saguenay 2015 ,2.2/U23,4
+627,Winston Salem Cycling Classic 2015 ,1.2,1
+628,The Parx Casino Philly Cycling Classic 2015 ,1.2,1
+629,Tour de Beauce 2015 ,2.2/U23,6
+630,Vuelta Ciclista a Venezuela 2015 ,2.2/U23,10
+631,National Championships Bermuda - ITT 2015 ,Nationals.C3.TT,1
+632,National Championships Bolivia - ITT 2015 ,Nationals.C3.TT,1
+633,National Championships Bolivia U23 - ITT 2015 ,-,1
+634,National Championships Cuba - ITT 2015 ,Nationals.C3.TT,1
+635,National Championships Aruba - ITT 2015 ,Nationals.C3.TT,1
+636,National Championships Bolivia - Road Race 2015 ,-,1
+637,National Championships Bolivia U23 - Road Race 2015 ,-,1
+638,National Championships Aruba - Road Race 2015 ,Nationals.C3,1
+639,National Championships Bermuda - Road Race 2015 ,Nationals.C3,1
+640,National Championships Cuba - Road Race 2015 ,Nationals.C3,1
+641,National Championships Guatemala - ITT 2015 ,Nationals.C3.TT,1
+642,National Championships Nicaragua 2015 ,Nationals.C3.TT,1
+643,National Championships Guatemala U23 - ITT 2015 ,-,1
+644,National Championships Ecuador - ITT 2015 ,Nationals.C3.TT,1
+645,National Championships United States U23 - Road Race 2015 ,-,1
+646,National Championships Canada - ITT 2015 ,Nationals.C3.TT,1
+647,National Championships Costa Rica - ITT 2015 ,Nationals.C3.TT,1
+648,National Championships Ecuador - Road Race 2015 ,Nationals.C3,1
+649,National Championships Belize - ITT 2015 ,Nationals.C3.TT,1
+650,National Championships Brazil - ITT 2015 ,Nationals.C3.TT,1
+651,National Championships Dominican Republic - ITT 2015 ,Nationals.C3.TT,1
+652,National Championships Mexico - ITT 2015 ,Nationals.C3.TT,1
+653,National Championships Panama - ITT 2015 ,Nationals.C3.TT,1
+654,National Championships Venezuela - ITT 2015 ,Nationals.C3.TT,1
+655,National Championships Dominican Republic U23 - Road Race 2015 ,-,1
+656,National Championships Mexico U23 - ITT 2015 ,-,1
+657,National Championships United States U23 - ITT 2015 ,-,1
+658,National Championships Canada - Road Race 2015 ,Nationals.C3,1
+659,National Championships El Salvador - ITT 2015 ,Nationals.C3.TT,1
+660,National Championships Puerto Rico - ITT 2015 ,Nationals.C3.TT,1
+661,National Championships Guatemala U23 - Road Race 2015 ,-,1
+662,National Championships Antigua and Barbuda - Road Race 2015 ,Nationals.C3,1
+663,National Championships Belize - Road Race 2015 ,Nationals.C3,1
+664,National Championships Brazil - Road Race 2015 ,Nationals.C3,1
+665,National Championships Costa Rica - Road Race 2015 ,Nationals.C3,1
+666,National Championships Dominican Republic - Road Race 2015 ,-,1
+667,National Championships El Salvador - Road Race 2015 ,Nationals.C3,1
+668,National Championships Guatemala - Road Race 2015 ,Nationals.C3,1
+669,National Championships Mexico - Road Race 2015 ,Nationals.C3,1
+670,National Championships Panama - Road Race 2015 ,Nationals.C3,1
+671,National Championships Puerto Rico - Road Race 2015 ,Nationals.C3,1
+672,National Championships Venezuela - Road Race 2015 ,Nationals.C3,1
+673,White Spot / Delta Road Race 2015 ,1.2,1
+674,National Championships Peru - ITT 2015 ,-,1
+675,National Championships Peru - Road Race 2015 ,-,1
+676,Panamerican Games - ITT 2015 ,UCI.Cont.Ch.TT,1
+677,Panamerican Games - Road Race 2015 ,1.2,1
+678,Vuelta a Colombia 2015 ,2.2/U23,13
+679,The Larry H.Miller Tour of Utah 2015 ,2.HC,7
+680,Aquece Rio - International Road Cycling Challenge 2015 ,1.2,1
+681,USA Pro Challenge 2015 ,2.HC,7
+682,Tour do Rio 2015 ,2.2/U23,5
+683,Tour of Alberta 2015 ,2.1,6
+684,The Reading 120 2015 ,1.2,1
+685,World Championships U23 - ITT 2015 ,UCI.WO.u23.TT,1
+686,World Championships - Road Race 2015 ,Worlds.RR,1
+687,Tobago Cycling Classic 2015 ,1.2,1
+688,Vuelta a Guatemala 2015 ,2.2/U23,7
+689,Copa América de Ciclismo 2015 ,1.2,1
+690,Vuelta Kölbi a Costa Rica 2015 ,2.2/U23,11

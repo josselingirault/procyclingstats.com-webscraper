@@ -1,0 +1,592 @@
+,Race_Name,Category,Number_stages
+0,Santos Tour Down Under 2013 ,2.WT,6
+1,Paris - Nice 2013 ,2.WT,8
+2,Tirreno-Adriatico 2013 ,2.WT,7
+3,Milano-Sanremo 2013 ,1.WT.A,1
+4,Volta Ciclista a Catalunya 2013 ,2.WT,7
+5,E3 Prijs Vlaanderen - Harelbeke 2013 ,1.WT.B,1
+6,Gent - Wevelgem 2013 ,1.WT.B,1
+7,Ronde van Vlaanderen / Tour des Flandres 2013 ,1.WT.A,1
+8,Vuelta Ciclista al Pais Vasco 2013 ,2.WT,6
+9,Paris - Roubaix 2013 ,1.WT.A,1
+10,Amstel Gold Race 2013 ,1.WT.B,1
+11,La Flèche Wallonne 2013 ,1.WT.B,1
+12,Liège - Bastogne - Liège 2013 ,1.WT.A,1
+13,Tour de Romandie 2013 ,2.WT,6
+14,Giro d'Italia 2013 ,GT.B,21
+15,Critérium du Dauphiné 2013 ,2.WT,8
+16,Tour de Suisse 2013 ,2.WT,9
+17,Tour de France 2013 ,GT.A,21
+18,Clasica Ciclista San Sebastian 2013 ,1.WT.B,1
+19,Tour de Pologne 2013 ,1.WT.B,7
+20,Eneco Tour 2013 ,2.WT,7
+21,Vuelta a España 2013 ,GT.B,21
+22,Vattenfall Cyclassics 2013 ,1.WT.B,1
+23,GP Ouest France - Plouay 2013 ,1.WT.B,1
+24,Grand Prix Cycliste de Québec 2013 ,1.WT.B,1
+25,Grand Prix Cycliste de Montréal 2013 ,1.WT.B,1
+26,Il Lombardia 2013 ,1.WT.A,1
+27,Tour of Beijing 2013 ,2.WT,5
+28, World Championships - TTT 2013 ,Worlds.TTT,1
+29,World Championships - ITT 2013 ,-,1
+30,World Championships U23 - Road Race 2013 ,Nationals.C1,1
+31,World Championships - Road Race 2013 ,Worlds.RR,1
+32,La Tropicale Amissa Bongo 2013 ,2.1,7
+33,Fenkel Northern Redsea 2013 ,2.2/U23,2
+34,Tour of Eritrea 2013 ,2.2/U23,4
+35,Circuit of Asmara 2013 ,1.2,1
+36,Les Challenges de la Marche Verte - GP Sakia El Hamra 2013 ,1.2,1
+37,Les Challenges de la Marche Verte - GP Oued Eddahab 2013 ,1.2,1
+38,National Championships South Africa - ITT 2013 ,Nationals.C3.TT,1
+39,Les Challenges de la Marche Verte - GP Al Massira 2013 ,1.2,1
+40,National Championships Namibia - ITT 2013 ,Nationals.C3.TT,1
+41,National Championships South-Africa TTT 2013 ,-,1
+42,National Championships Namibia - Road Race 2013 ,Nationals.C3,1
+43,National Championships South Africa - Road Race 2013 ,Nationals.C3,1
+44,National Championships South-Africa U23 - Road Race 2013 ,Nationals.C3,1
+45,Tour d'Algérie 2013 ,2.2/U23,7
+46,Circuit d'Alger 2013 ,1.2,1
+47,Tour de Tipaza 2013 ,2.2/U23,3
+48,Tour de Blida 2013 ,2.2/U23,3
+49,Tour du Maroc 2013 ,2.2/U23,10
+50,Mzansi Tour 2013 ,2.2/U23,5
+51,Challenge du Prince - Trophée Princier 2013 ,1.2,1
+52,Challenge du Prince - Trophée de l\'Anniversaire 2013 ,1.2,1
+53,Challenge du Prince - Trophée de la Maison Royale 2013 ,1.2,1
+54,National Championships Eritrea - ITT 2013 ,Nationals.C3.TT,1
+55,National Championships Eritrea - Road Race 2013 ,Nationals.C3,1
+56,National Championships Algeria - ITT 2013 ,Nationals.C3.TT,1
+57,National Championships Algeria - Road Race 2013 ,Nationals.C3,1
+58,National Championships Morocco - ITT 2013 ,Nationals.C2.TT,1
+59,National Championships Morocco - Road Race 2013 ,Nationals.C2,1
+60,National Championships Burkina Faso - Road Race 2013 ,Nationals.C3,1
+61,National Championships Ivory Coast - Road Race 2013 ,Nationals.C3,1
+62,National Championships Rwanda - Road Race 2013 ,Nationals.C3,1
+63,National Championships Tunisia - ITT 2013 ,Nationals.C3.TT,1
+64,National Championships Gabon - ITT 2013 ,-,1
+65,National Championships Zimbabwe - Road Race 2013 ,Nationals.C3,1
+66,National Championships Gabon - Road Race 2013 ,-,1
+67,National Championships Tunisia - Road Race 2013 ,Nationals.C3,1
+68,National Championships Ethiopia - ITT 2013 ,-,1
+69,National Championships Ethiopia - Road Race 2013 ,-,1
+70,Grand Prix Chantal Biya 2013 ,2.2/U23,4
+71,Tour du Faso 2013 ,2.2/U23,10
+72,Tour of Rwanda 2013 ,2.2/U23,8
+73, African Continental Championships - TTT 2013 ,2.HC.TTT,1
+74,African Continental Championships - ITT 2013 ,UCI.Cont.Ch.TT,1
+75,African Continental Championships - Road Race 2013 ,UCI.Cont.Ch,1
+76,Tour of Qatar 2013 ,2.HC,6
+77,Tour of Oman 2013 ,2.HC,6
+78,Tour de Langkawi 2013 ,2.HC,10
+79,Asian Cycling Championships - c.l.m. ind. / ind. TT - MU 2013 ,E-CC.TT,1
+80,Asian Cycling Championships - ITT 2013 ,UCI.Cont.Ch.TT,1
+81,Asian Cycling Championships - en ligne / ind. road race - MU 2013 ,E-CC,1
+82,Asian Cycling Championships - Road Race 2013 ,UCI.Cont.Ch,1
+83,Tour de Taiwan 2013 ,2.1,7
+84,The Maha Chackri Sirindhorn's Cup Tour of Thailand 2013 ,2.2/U23,6
+85,Le Tour de Filipinas 2013 ,2.2/U23,4
+86,Melaka Governor's Cup 2013 ,1.2,1
+87,National Championship United Arab Emirates - ITT 2013 ,-,1
+88,Tour of Japan 2013 ,2.1,6
+89,Tour of Iran 2013 ,2.2/U23,6
+90,National Championships Philippines - Road Race 2013 ,-,1
+91,National Championships Philippines - ITT 2013 ,-,1
+92,Tour de Kumano 2013 ,2.2/U23,4
+93,Tour of Singkarak 2013 ,2.2/U23,7
+94,National Championships Japan - ITT 2013 ,Nationals.C3.TT,1
+95,Tour de Korea 2013 ,2.2/U23,8
+96,National Championships Japan U23 - ITT 2013 ,-,1
+97,National Championships Lebanon - ITT 2013 ,-,1
+98,National Championships Kazakhstan - ITT 2013 ,Nationals.C3.TT,1
+99,National Championships Uzbekistan - ITT 2013 ,-,1
+100,National Championships Iran - ITT 2013 ,Nationals.C3.TT,1
+101,National Championships Kazakhstan - Road Race 2013 ,Nationals.C3,1
+102,National Championships Malaysia - Road Race 2013 ,Nationals.C3,1
+103,National Championships Iran - Road Race 2013 ,Nationals.C3,1
+104,National Championships Japan - Road Race 2013 ,Nationals.C3,1
+105,National Championships Malaysia - ITT 2013 ,Nationals.C3.TT,1
+106,National Championships South Korea - Road Race 2013 ,Nationals.C3,1
+107,National Championships Uzbekistan - Road Race 2013 ,Nationals.C3,1
+108,National Championships Uzbekistan U23 - ITT 2013 ,-,1
+109,National Championships Israel - ITT 2013 ,Nationals.C3.TT,1
+110,Jelajah Malaysia 2013 ,2.2/U23,5
+111,National Championships Hong Kong - Road Race 2013 ,Nationals.C3,1
+112,National Championships Thailand - Road Race 2013 ,-,1
+113,National Championships Hong Kong - ITT 2013 ,Nationals.C3.TT,1
+114,Tour of Qinghai Lake 2013 ,2.HC,13
+115,Tour of Borneo 2013 ,2.2/U23,5
+116,Tour of East Java 2013 ,2.2/U23,3
+117,Tour of China I 2013 ,2.1,6
+118,Tour de Hokkaido 2013 ,2.2/U23,3
+119,National Championships Taiwan - Road Race 2013 ,-,1
+120,National Championships Taiwan - ITT 2013 ,-,1
+121,Tour of China II 2013 ,2.1,6
+122,Tour of Almaty 2013 ,1.2,1
+123,Japan Cup Cycle Road Race 2013 ,1.HC,1
+124,Tour of Hainan 2013 ,2.HC,9
+125,National Championships India - Road Race 2013 ,Nationals.C3,1
+126,National Championships India - ITT 2013 ,Nationals.C3.TT,1
+127,Tour of Taihu Lake 2013 ,2.1,9
+128,Banyuwangi Tour de Ijen 2013 ,2.2/U23,4
+129,Tour de Okinawa 2013 ,1.2,1
+130,Tour of Nanjing 2013 ,1.2,1
+131,Tour of Fuzhou 2013 ,2.2/U23,3
+132,Sharjah International Cycling Tour 2013 ,2.2/U23,4
+133,Tour of Al Zubarah 2013 ,2.2/U23,4
+134,"CFI International race 1, Mumbai 2013 ",1.2,1
+135,"CFI International race 2, Jaipur 2013 ",1.2,1
+136,"CFI International race 3, Dehli 2013 ",1.2,1
+137,Grand Prix Cycliste la Marseillaise 2013 ,1.1,1
+138,Etoile de Bessèges 2013 ,2.1,6
+139,Trofeo Palma 2013 ,1.1,1
+140,Trofeo Migjorn 2013 ,1.1,1
+141,"Trofeo Serra de Tramuntana, Deià-Lluc 2013 ",1.1,1
+142,Tour Méditerranéen Cycliste Professionnel 2013 ,2.1,5
+143,Trofeo Alcúdia-Can Picafort-Playa de Muro 2013 ,1.1,1
+144,Volta ao Algarve 2013 ,2.1,4
+145,Tour Cycliste International du Haut Var Matin 2013 ,2.1,2
+146,Trofeo Laigueglia 2013 ,1.1,1
+147,Vuelta a Andalucia Ruta Ciclista Del Sol 2013 ,2.1,4
+148,Omloop Het Nieuwsblad Elite 2013 ,1.HC,1
+149,La Drôme Classic 2013 ,1.1,1
+150,Vuelta Ciclista a Murcia 2013 ,1.1,1
+151,Beverbeek Classic 2013 ,1.2,1
+152,Clasica de Almeria 2013 ,1.HC,1
+153,Classic Sud Ardèche - Souvenir Francis Delpech 2013 ,1.1,1
+154,GP Città di Lugano 2013 ,1.1,1
+155,Le Samyn 2013 ,1.1,1
+156,G.P. Camaiore 2013 ,1.1,1
+157,Driedaagse van West-Vlaanderen 2013 ,2.1,3
+158,Strade Bianche 2013 ,1.1,1
+159,Ster van Zwolle 2013 ,1.2,1
+160,Roma Maxima 2013 ,1.1,1
+161,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2013 ,1.2,1
+162,Trofej Umag - Umag Trophy 2013 ,1.2,1
+163,Albert Achterhes Pet Ronde van Drenthe 2013 ,1.1,1
+164,De Weiert Dwars door Drenthe 2013 ,1.1,1
+165,Omloop van het Waasland 2013 ,1.2,1
+166,Paris-Troyes 2013 ,1.2,1
+167,Porec Trophy - Trofej Porec 2013 ,1.2,1
+168,Rabobank Dorpenomloop Rucphen 2013 ,1.2,1
+169,Nokere Koerse-Danilith Classic 2013 ,1.1,1
+170,GP Nobili Rubinetterie-Coppa Papà Carlo-Coppa Città di Stresa 2013 ,1.1,1
+171,Istarsko proljece - Istrian Spring Trophy 2013 ,2.2/U23,4
+172,Handzame Classic 2013 ,1.1,1
+173,Classic Loire Atlantique 2013 ,1.1,1
+174,Cholet - Pays De Loire 2013 ,1.1,1
+175,Gran Premio San Giuseppe 2013 ,1.2,1
+176,Grand Prix de la Ville de Nogent-sur-Oise 2013 ,1.2,1
+177,Tour de Normandie 2013 ,2.2/U23,7
+178,Dwars Door Vlaanderen 2013 ,1.HC,1
+179,Settimana Internazionale Coppi e Bartali 2013 ,2.1,6
+180,Volta ao Alentejo/Crédito Agricola Costa Azul 2013 ,2.2/U23,5
+181,Critérium International 2013 ,2.HC,3
+182,Kosice-Miskolc 2013 ,1.2,1
+183,Driedaagse De Panne-Koksijde 2013 ,2.HC,4
+184,Route Adélie de Vitré 2013 ,1.1,1
+185,Le Triptyque des Monts et Châteaux 2013 ,2.2/U23,4
+186,Gran Premio Miguel Indurain 2013 ,1.1,1
+187,Volta Limburg Classic 2013 ,1.1,1
+188,Boucle de l'Artois - Trophée Arras Leader 2013 ,2.2/U23,3
+189,Val d'Ille Classic - Souvenir Julien Ditlecadet 2013 ,1.1,1
+190,Vuelta Ciclista a La Rioja 2013 ,1.1,1
+191,Giro del Belvedere di Villa di Cordignano 2013 ,1.2,1
+192,Circuit Cycliste Sarthe - Pays de la Loire 2013 ,2.1,5
+193,GP Palio del Recioto 2013 ,1.2,1
+194,Scheldeprijs 2013 ,1.HC,1
+195,Grand Prix of Sochi 2013 ,2.2/U23,5
+196,Grand Prix Pino Cerami 2013 ,1.1,1
+197,Circuit des Ardennes International 2013 ,2.2/U23,4
+198,Klasika Primavera de Amorebieta 2013 ,1.1,1
+199,GP Sencur 2013 ,1.2,1
+200,Trofeo Piva Banca Popolare di Vicenza 2013 ,1.2,1
+201,Paris-Camembert 2013 ,1.1,1
+202,De Brabantse Pijl - La Flèche Brabançonne 2013 ,1.HC,1
+203,Tour du Loir et Cher E Provost 2013 ,2.2/U23,5
+204,GP de Denain Porte du Hainaut 2013 ,1.1,1
+205,Vuelta a Castilla y Leon 2013 ,2.1,3
+206,Tour du Finistère 2013 ,1.1,1
+207,Liège - Bastogne - Liège 2013 ,E-1.Ncup,1
+208,Trofeo Edil C 2013 ,1.2,1
+209,Tro-Bro Léon 2013 ,1.1,1
+210,Grand Prix of Donetsk 2013 ,1.2,1
+211,Giro del Trentino 2013 ,2.HC,5
+212,Grand Prix of Adygeya 2013 ,2.2/U23,5
+213,Arno Wallaard Memorial 2013 ,1.2,1
+214,Banja Luka Belgrade I 2013 ,1.2,1
+215,Grand Prix Herning 2013 ,1.2,1
+216,Presidential Cycling Tour of Turkey 2013 ,2.HC,8
+217,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2013 ,1.1,1
+218,Banja Luka-Belgrade II 2013 ,1.2,1
+219,Int. Ronde van Noord-Holland 2013 ,1.2,1
+220,Paris - Mantes-en-Yvelines 2013 ,1.2,1
+221,Rutland - Melton International CiCLE Classic 2013 ,1.2,1
+222,Gran Premio della Liberazione 2013 ,1.2,1
+223,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2013 ,2.2/U23,7
+224,Skive-Løbet  2013 ,1.2,1
+225,GP Industria & Artigianato 2013 ,1.1,1
+226,Himmerland Rundt 2013 ,1.2,1
+227,ZODC Zuidenveld Tour 2013 ,1.2,1
+228,Zuid Oost Drenthe Classic I 2013 ,1.2,1
+229,Giro della Toscana 2013 ,1.1,1
+230,Destination Thy 2013 ,1.2,1
+231,GP Industrie del Marmo 2013 ,1.2,1
+232,Zuid Oost Drenthe Classic II 2013 ,1.2,1
+233,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2013 ,2.HC,5
+234,Rund um den Finanzplatz Eschborn-Frankfurt 2013 ,1.HC,1
+235,Carpathian Couriers Race U-23 2013 ,2.2/U23,5
+236,Grote Prijs 1 Mei - Ereprijs Victor de Bruyne 2013 ,1.2,1
+237,Mayor Cup 2013 ,1.2,1
+238,Memorial Andrzeja Trochanowskiego 2013 ,1.2,1
+239,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2013 ,1.2,1
+240,Tour de Azerbaijan 2013 ,2.2/U23,5
+241,Memorial of Oleg Dyachenko 2013 ,1.2,1
+242,Szlakiem Grodòw Piastowskich 2013 ,2.1,4
+243,Grand Prix of Moscow 2013 ,1.2,1
+244,Vuelta a la Comunidad de Madrid 2013 ,1.1,1
+245,Berner Rundfahrt / Tour de Berne 2013 ,1.2,1
+246,Hadeland GP 2013 ,1.2,1
+247,Ronde van Overijssel 2013 ,1.2,1
+248,Circuit de Wallonie 2013 ,1.2,1
+249,Circuito del Porto - Trofeo Arvedi 2013 ,1.2,1
+250,Five rings of Moscow 2013 ,2.2/U23,5
+251,Ringerike GP 2013 ,1.2,1
+252,Flèche du Sud 2013 ,2.2/U23,5
+253,Giro della Regione Friuli Venezia Giulia 2013 ,2.2/U23,5
+254,National Championships Austria - ITT 2013 ,Nationals.C3.TT,1
+255,Rhône-Alpes Isère Tour 2013 ,2.2/U23,4
+256,Ronde van Limburg 2013 ,1.2,1
+257,Tour de Berlin 2013 ,2.2/U23,5
+258,Tour de Picardie 2013 ,2.1,3
+259,Vuelta Asturias Julio Alvarez Mendo 2013 ,2.1,2
+260,Classic Beograd - Cacak 2013 ,1.2,1
+261,Scandinavian Race in Uppsala 1909-2013 2013 ,1.2,1
+262,National Championships Cyprus - Road Race 2013 ,Nationals.C3,1
+263,Rund um Köln 2013 ,1.1,1
+264,Royal Smilde Olympia's Tour 2013 ,2.2/U23,7
+265,Glava Tour of Norway 2013 ,2.1,5
+266,Ronde de l\'Isard 2013 ,2.2/U23,4
+267,Grand Prix Criquielion 2013 ,1.2,1
+268,Paris-Arras Tour 2013 ,2.2/U23,2
+269,An Post Ras 2013 ,2.2/U23,8
+270,Simac Omloop der Kempen 2013 ,1.2,1
+271,Baloise Belgium Tour 2013 ,2.HC,5
+272,Bayern-Rundfahrt 2013 ,2.HC,5
+273,Tour de Gironde 2013 ,2.2/U23,4
+274,Race Horizon Park 1 2013 ,1.2,1
+275,Grand Prix de Plumelec-Morbihan 2013 ,1.1,1
+276,Course de la Paix U23 / Závod Míru U23 2013 ,2.2/U23,3
+277,Boucles de l'Aulne - Châteaulin 2013 ,1.1,1
+278,Race Horizon Park 2 2013 ,1.2,1
+279,Tr. Città di San Vendemiano - GP Industria e Commercio 2013 ,1.2,1
+280,Tour of Estonia 2013 ,2.1,4
+281,National Championships Denmark U23 - ITT 2013 ,-,1
+282,Ronde van Zeeland Seaports 2013 ,1.1,1
+283,Coppa della Pace - Trofeo F.lli Anelli 2013 ,1.2,1
+284,Grand Prix Südkärnten 2013 ,1.2,1
+285,Memorial Philippe Van Coningsloo 2013 ,1.2,1
+286,Trofeo Alcide Degasperi 2013 ,1.2,1
+287,National Championships Denmark U23 - Road Race 2013 ,-,1
+288,National Championships Germany U23 - Road Race 2013 ,-,1
+289,Okolo Slovenska 2013 ,2.2/U23,6
+290,National Championships Netherlands U23 - ITT 2013 ,-,1
+291,GP du canton d\'Argovie / GP Gippingen 2013 ,1.1,1
+292,Ronde de l'Oise 2013 ,2.2/U23,4
+293,National Championships Slovenia - ITT 2013 ,Nationals.C1.TT,1
+294,Jurmala Grand Prix 2013 ,1.1,1
+295,Internationale Thüringen-Rundfahrt U23 2013 ,2.2/U23,8
+296,National Championships Switzerland U23 - Road Race 2013 ,-,1
+297,Garmin ProRace Berlin 2013 ,1.1,1
+298,Jurmala Grand Prix 2013 ,1.1,1
+299,National Championships Macedonia - ITT 2013 ,Nationals.C3.TT,1
+300,Int. Raiffeisen Grand Prix Judendorf/Straßengel 2013 ,1.2,1
+301,Tour de Serbie 2013 ,2.2/U23,6
+302,Skoda-Tour de Luxembourg 2013 ,2.HC,5
+303,Ster ZLM Toer GP Jan van Heeswijk 2013 ,2.1,5
+304,Route du Sud - la Depêche du Midi 2013 ,2.1,4
+305,Tour de Slovénie 2013 ,2.1,4
+306,Boucles de la Mayenne 2013 ,2.2/U23,4
+307,Tour des Pays de Savoie 2013 ,2.2/U23,4
+308,Tour of Malopolska 2013 ,2.2/U23,3
+309,Oberösterreichrundfahrt 2013 ,2.2/U23,3
+310,Flèche Ardennaise 2013 ,1.2,1
+311,National Championships Norway U23 - Road Race 2013 ,-,1
+312,Halle-Ingooigem 2013 ,1.1,1
+313,National Championships Netherlands - ITT 2013 ,Nationals.C3.TT,1
+314,National Championships Switzerland - ITT 2013 ,Nationals.C3.TT,1
+315,National Championships Switzerland U23 - ITT 2013 ,-,1
+316,National Championships Azerbaijan - ITT 2013 ,-,1
+317,National Championships Denmark - ITT 2013 ,Nationals.C3.TT,1
+318,National Championships Estonia - ITT 2013 ,Nationals.C3.TT,1
+319,National Championships France - ITT 2013 ,Nationals.C1.TT,1
+320,National Championships Great Britain - ITT 2013 ,Nationals.C2.TT,1
+321,National Championships Hungary - ITT 2013 ,Nationals.C3.TT,1
+322,National Championships Ireland - ITT 2013 ,Nationals.C3.TT,1
+323,National Championships Latvia - ITT 2013 ,Nationals.C3.TT,1
+324,National Championships Luxembourg - ITT 2013 ,Nationals.C3.TT,1
+325,National Championships Norway - ITT 2013 ,Nationals.C3.TT,1
+326,National Championships Poland - ITT 2013 ,Nationals.C2.TT,1
+327,National Championships Sweden - ITT 2013 ,Nationals.C3.TT,1
+328,National Championships Turkey - ITT 2013 ,Nationals.C3.TT,1
+329,National Championships Ukraine - ITT 2013 ,Nationals.C3.TT,1
+330,National Championships Estonia U23 - ITT 2013 ,-,1
+331,National Championships Great Britain U23 - ITT 2013 ,-,1
+332,National Championships Hungary U23 - ITT 2013 ,-,1
+333,National Championships Ireland U23 - ITT 2013 ,-,1
+334,National Championships Latvia U23 - ITT 2013 ,-,1
+335,National Championships Poland U23 - ITT 2013 ,-,1
+336,National Championships Russia U23 - ITT 2013 ,-,1
+337,National Championships Spain U23 - ITT 2013 ,-,1
+338,National Championships Ukraine U23 - ITT 2013 ,-,1
+339,National Championships Azerbaijan - Road Race 2013 ,Nationals.C3,1
+340,National Championships Belarus - ITT 2013 ,Nationals.C3.TT,1
+341,National Championships Czech Republic - ITT 2013 ,Nationals.C3.TT,1
+342,National Championships Czech Republic U23 - ITT 2013 ,-,1
+343,National Championships Georgia - ITT 2013 ,Nationals.C3.TT,1
+344,National Championships Germany - ITT 2013 ,Nationals.C1.TT,1
+345,National Championships Greece - ITT 2013 ,Nationals.C3.TT,1
+346,National Championships Lithuania - ITT 2013 ,Nationals.C3.TT,1
+347,National Championships Portugal - ITT 2013 ,Nationals.C3.TT,1
+348,National Championships Russia - ITT 2013 ,Nationals.C3.TT,1
+349,National Championships Serbia - ITT 2013 ,Nationals.C3.TT,1
+350,National Championships Slovakia - ITT 2013 ,Nationals.C3.TT,1
+351,National Championships Spain - ITT 2013 ,Nationals.C3.TT,1
+352,National Championships Turkey - Road Race 2013 ,Nationals.C3,1
+353,National Championships Germany U23 - ITT 2013 ,-,1
+354,National Championships Portugal U23 - ITT 2013 ,-,1
+355,National Championships Slovakia U23 - ITT 2013 ,-,1
+356,National Championships Spain U23 - Road Race 2013 ,-,1
+357,National Championships Croatia - ITT 2013 ,Nationals.C3.TT,1
+358,National Championships Estonia - Road Race 2013 ,Nationals.C3,1
+359,National Championships Hungary - Road Race 2013 ,Nationals.C3,1
+360,National Championships Italy - Road Race 2013 ,Nationals.C3,1
+361,National Championships Latvia - Road Race 2013 ,Nationals.C3,1
+362,National Championships Moldova - ITT 2013 ,Nationals.C3.TT,1
+363,National Championships Romania - ITT 2013 ,Nationals.C3.TT,1
+364,National Championships Romania U23 - ITT 2013 ,-,1
+365,National Championships Serbia - Road Race 2013 ,-,1
+366,National Championships Greece U23 - ITT 2013 ,-,1
+367,National Championships Italy U23 - Road Race 2013 ,-,1
+368,National Championships Latvia U23 - Road Race 2013 ,-,1
+369,National Championships Moldova U23 - ITT 2013 ,-,1
+370,National Championships Netherlands U23 - Road Race 2013 ,-,1
+371,National Championships Poland U23 - Road Race 2013 ,-,1
+372,National Championships Portugal U23 - Road Race 2013 ,-,1
+373,National Championships Russia U23 - Road Race 2013 ,-,1
+374,National Championships Ukraine U23 - Road Race 2013 ,-,1
+375,National Championships Austria - Road Race 2013 ,Nationals.C3,1
+376,National Championships Belarus - Road Race 2013 ,Nationals.C3,1
+377,National Championships Belgium - Road Race 2013 ,Nationals.C3,1
+378,National Championships Bulgaria - Road Race 2013 ,-,1
+379,National Championships Croatia - Road Race 2013 ,Nationals.C3,1
+380,National Championships Czech Republic - Road Race 2013 ,Nationals.C3,1
+381,National Championships Denmark - Road Race 2013 ,-,1
+382,National Championships France - Road Race 2013 ,Nationals.C3,1
+383,National Championships Georgia - Road Race 2013 ,Nationals.C3,1
+384,National Championships Germany - Road Race 2013 ,Nationals.C1,1
+385,National Championships Great Britain - Road Race 2013 ,Nationals.C3,1
+386,National Championships Greece - Road Race 2013 ,Nationals.C3,1
+387,National Championships Ireland - Road Race 2013 ,Nationals.C3,1
+388,National Championships Italy - ITT 2013 ,Nationals.C3.TT,1
+389,National Championships Lithuania - Road Race 2013 ,Nationals.C3,1
+390,National Championships Luxembourg - Road Race 2013 ,Nationals.C3,1
+391,National Championships Netherlands - Road Race 2013 ,Nationals.C3,1
+392,National Championships Norway - Road Race 2013 ,Nationals.C3,1
+393,National Championships Poland - Road Race 2013 ,Nationals.C2,1
+394,National Championships Portugal - Road Race 2013 ,Nationals.C3,1
+395,National Championships Romania - Road Race 2013 ,Nationals.C3,1
+396,National Championships Russia - Road Race 2013 ,Nationals.C1,1
+397,National Championships Slovakia - Road Race 2013 ,Nationals.C3,1
+398,National Championships Slovenia - Road Race 2013 ,Nationals.C3,1
+399,National Championships Spain - Road Race 2013 ,Nationals.C3,1
+400,National Championships Sweden - Road Race 2013 ,Nationals.C3,1
+401,National Championships Switzerland - Road Race 2013 ,Nationals.C3,1
+402,National Championships Ukraine - Road Race 2013 ,Nationals.C3,1
+403,National Championships Bulgaria - ITT 2013 ,Nationals.C3.TT,1
+404,Course Cycliste de Solidarnosc et des Champions Olympiques 2013 ,2.1,4
+405,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2013 ,1.2,1
+406,National Championships Finland - ITT 2013 ,Nationals.C3.TT,1
+407,National Championships Finland U23 - ITT 2013 ,-,1
+408,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2013 ,1.2,1
+409,Int. Österreich-Rundfahrt-Tour of Austria 2013 ,2.HC,8
+410,National Championships Bosnia and Herzegovina - Road Race 2013 ,Nationals.C3,1
+411,National Championships Finland - Road Race 2013 ,Nationals.C3,1
+412,National Championships Macedonia - Road Race 2013 ,Nationals.C3,1
+413,Romanian Cycling Tour 2013 ,2.2/U23,7
+414,Vuelta a la Comunidad de Madrid Sub 23 2013 ,2.2/U23,2
+415,Giro del Medio Brenta 2013 ,1.2,1
+416,GP de Pont à Marcq - La Ronde Pévèloise 2013 ,1.2,1
+417,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2013 ,2.2/U23,6
+418,Sibiu Cycling Tour 2013 ,2.1,5
+419,Czech Cycling Tour 2013 ,2.2/U23,4
+420,GP van de stad Geel 2013 ,1.2,1
+421,Giro dell'Appennino 2013 ,1.1,1
+422,European Championship ITT U23 2013 ,E-CC.TT,1
+423,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2013 ,2.2/U23,3
+424,Tour de Wallonie 2013 ,2.HC,5
+425,Central European Tour Miskolc GP 2013 ,1.2,1
+426,Central European Tour Budapest GP 2013 ,1.2,1
+427,European Championships U23 - Road Race 2013 ,E-CC,1
+428,Dookola Mazowsza 2013 ,2.2/U23,6
+429,Tour Alsace 2013 ,2.2/U23,6
+430,Prueba Villafranca-Ordiziako Klasika 2013 ,1.1,1
+431,GP Kranj 2013 ,1.2,1
+432,Kreiz Breizh Elites 2013 ,2.2/U23,4
+433,La Poly Normande 2013 ,1.1,1
+434,National Championships Iceland - Road Race 2013 ,Nationals.C3,1
+435,Trofeo Matteotti 2013 ,1.1,1
+436,Grand Prix de la ville de Pérenchies 2013 ,1.2,1
+437,National Championships Albania - Road Race 2013 ,Nationals.C3,1
+438,Post Danmark Rundt - Tour of Denmark 2013 ,2.HC,6
+439,Circuito de Getxo 'Memorial Ricardo Otxoa' 2013 ,1.1,1
+440,Vuelta Ciclista a León 2013 ,2.2/U23,3
+441,Tour Cycliste International de la Guadeloupe 2013 ,2.2/U23,11
+442,Ride London Classic 2013 ,1.1,1
+443,Antwerpse Havenpijl 2013 ,1.2,1
+444,Trofeo Internazionale Bastianelli 2013 ,1.2,1
+445,Vuelta a Burgos 2013 ,2.HC,5
+446,Volta a Portugal em Bicicleta Liberty Seguros 2013 ,2.1,11
+447,Arctic Race of Norway 2013 ,2.1,4
+448,Tour of Szeklerland 2013 ,2.2/U23,4
+449,Tour de l\'Ain 2013 ,2.1,5
+450,Memorial Henryka Lasaka 2013 ,1.2,1
+451,National Championships Belgium - ITT 2013 ,Nationals.C3.TT,1
+452,Gran Premio Sportivi di Poggiana-Trofeo Bonin Costruzioni-Gran Premio Pasta Zara 2013 ,1.2,1
+453,National Championships Belgium U23 - ITT 2013 ,-,1
+454,Puchar Uzdrowisk Karpackich 2013 ,1.2,1
+455,Tour des Fjords 2013 ,2.1,4
+456,GP Capodarco - Comunità di Capodarco 2013 ,1.2,1
+457,Puchar Ministra Obrony Narodowej 2013 ,1.2,1
+458,Baltic Chain Tour 2013 ,2.2/U23,6
+459,GP Stad Zottegem 2013 ,1.1,1
+460,Tour du Limousin 2013 ,2.1,4
+461,Grand Prix des Marbriers 2013 ,1.2,1
+462,Coppa Agostoni - Giro delle Brianze 2013 ,1.1,1
+463,Druivenkoers - Overijse 2013 ,1.1,1
+464,GP Banca di Legnano - Coppa Bernocchi 2013 ,1.1,1
+465,National Championships France U23 - ITT 2013 ,-,1
+466,Tre Valli Varesine 2013 ,1.HC,1
+467,Dutch Food Valley Classic 2013 ,1.1,1
+468,Châteauroux Classic de l\'Indre Trophée Fenioux 2013 ,1.1,1
+469,National Championships Belgium U23 - Road Race 2013 ,-,1
+470,National Championships France U23 - Road Race 2013 ,-,1
+471,Tour du Poitou Charentes 2013 ,2.1,5
+472,World Ports Classic 2013 ,2.1,1
+473,Memorial Marco Pantani 2013 ,1.1,1
+474,Schaal Sels 2013 ,1.1,1
+475,Croatia - Slovenia 2013 ,1.2,1
+476,Rabo Ronde van Midden-Nederland 2013 ,1.2,1
+477,Tour of Bulgaria 2013 ,2.2/U23,6
+478,"Settimana Ciclistica Lombarda by Bergamasca, Memorial Adriano Rodoni 2013 ",2.1,3
+479,Okolo Jižních Čech 2013 ,2.2/U23,4
+480,Brussels Cycling Classic 2013 ,1.HC,1
+481,GP de Fourmies / La Voix du Nord 2013 ,1.HC,1
+482,Kernen Omloop Echt-Susteren 2013 ,1.2,1
+483,De Kustpijl 2013 ,1.2,1
+484,Tour du Jura 2013 ,1.2,1
+485,Grote Prijs Jef Scherens - Rondom Leuven 2013 ,1.1,1
+486,Tour du Doubs - Conseil Général 2013 ,1.1,1
+487,Tour of Britain 2013 ,2.1,8
+488,Chrono Champenois Masculin International 2013 ,1.2,1
+489,Rabo Baronie Breda Classic 2013 ,1.2,1
+490,Grand Prix de Wallonie 2013 ,1.1,1
+491,Grand Prix de la Somme « Conseil Général 80» 2013 ,1.1,1
+492,Kampioenschap van Vlaanderen 2013 ,1.1,1
+493, GP Costa Degli Etruschi 2013 ,1.1,1
+494,GP Impanis - Van Petegem 2013 ,1.1,1
+495,Tour Bohemia 2013 ,1.2,1
+496,GP Industria & Commercio di Prato 2013 ,1.1,1
+497,Grand Prix d\'Isbergues - Pas de Calais 2013 ,1.1,1
+498,World Championships U23 - ITT 2013 ,UCI.WO.u23.TT,1
+499,Ruota d'Oro - GP Festa del Perdono 2013 ,1.2,1
+500,Omloop van het Houtland Lichtervelde 2013 ,1.1,1
+501,Tour du Gévaudan Languedoc-Roussillon 2013 ,2.2/U23,2
+502,Duo Normand 2013 ,1.1,1
+503,Gooikse Pijl 2013 ,1.2,1
+504,Milano-Torino 2013 ,1.HC,1
+505,Sparkassen Münsterland Giro 2013 ,1.1,1
+506,Tour de l\'Eurométropole 2013 ,2.1,4
+507,Piccolo Giro di Lombardia 2013 ,1.2,1
+508,Tour de Vendée 2013 ,1.HC,1
+509,Binche-Chimay-Binche / Mémorial Frank Vandenbroucke 2013 ,1.1,1
+510,Gran Premio Città di Peccioli - Coppa Sabatini 2013 ,1.1,1
+511,Paris-Bourges 2013 ,1.1,1
+512,Giro dell'Emilia 2013 ,1.HC,1
+513,Paris - Tours 2013 ,1.HC,1
+514,Gran Premio Bruno Beghelli 2013 ,1.1,1
+515,Paris-Tours Espoirs 2013 ,1.2,1
+516,Nationale Sluitingprijs - Putte - Kapellen 2013 ,1.1,1
+517,Chrono des Nations 2013 ,1.1,1
+518,Chrono des Nations U23 2013 ,1.2,1
+519,National Championships Australia - ITT 2013 ,Nationals.C3.TT,1
+520,National Championships Australia U23 - ITT 2013 ,-,1
+521,National Championships New Zealand - ITT 2013 ,Nationals.C3.TT,1
+522,National Championships New Zealand - ITT 2013 ,-,1
+523,National Championships Australia - Road Race 2013 ,-,1
+524,National Championships Australia - Road Race 2013 ,Nationals.C3,1
+525,National Championships New Zealand - Road Race 2013 ,Nationals.C3,1
+526,New Zealand Cycle Classic 2013 ,2.2/U23,5
+527,Oceania Continental Championships - ITT 2013 ,UCI.Cont.Ch.TT,1
+528,Oceania Cycling Championships - c.l.m. ind. / ind. TT - MU 2013 ,E-CC.TT,1
+529,Oceania Cycling Championships - en ligne / ind. road race - ME 2013 ,None,1
+530,Copa América de Ciclismo 2013 ,1.2,1
+531,Vuelta al Tachira en Bicicleta 2013 ,2.2/U23,10
+532,National Championships Uruguay - ITT 2013 ,-,1
+533,National Championships Uruguay - Road Race 2013 ,Nationals.C3,1
+534,Tour de San Luis 2013 ,2.1,7
+535,National Championships Argentina - ITT 2013 ,-,1
+536,National Championships Argentina - Road Race 2013 ,Nationals.C3,1
+537,National Championships Colombia - ITT 2013 ,Nationals.C3,1
+538,National Championships Colombia U23 - ITT 2013 ,-,1
+539,National Championships Colombia 2013 ,Nationals.C3,1
+540,Vuelta a Guatemala 2013 ,2.2/U23,8
+541,Tour of the Gila 2013 ,2.2/U23,5
+542,Champ. Panaméricain c.l.m. ind. / Panamerican Champ. ind. TT - MU 2013 ,E-CC.TT,1
+543,Champ. Panaméricain c.l.m. ind. / Panamerican Champ. ind. TT 2013 ,UCI.Cont.Ch.TT,1
+544,Pan American Championships - Road Race U23 2013 ,E-CC,1
+545,Pan American Championships - Road Race 2013 ,1.HC,1
+546,Amgen Tour of California 2013 ,2.HC,8
+547,National Championships United States WE - ITT 2013 ,F-NC.TT.2,1
+548,National Championships United States WE - Road Race 2013 ,F-NC.2,1
+549,The Philadelphia Cycling Classic 2013 ,1.2,1
+550,National Championships Bolivia - ITT 2013 ,-,1
+551,National Championships Bolivia - Road Race 2013 ,-,1
+552,National Championships Puerto Rico - Road Race 2013 ,Nationals.C3,1
+553,Vuelta a Colombia 2013 ,2.2/U23,14
+554,Tour de Beauce 2013 ,2.2/U23,6
+555,National Championships Costa Rica - ITT 2013 ,Nationals.C3.TT,1
+556,National Championships Belize - ITT 2013 ,-,1
+557,National Championships Bermuda - Road Race 2013 ,-,1
+558,National Championships Canada - ITT 2013 ,Nationals.C3.TT,1
+559,National Championships Canada - Road Race 2013 ,Nationals.C3,1
+560,National Championships Curaçao - ITT 2013 ,-,1
+561,National Championships Mexico - ITT 2013 ,Nationals.C3.TT,1
+562,National Championships Venezuela - ITT 2013 ,Nationals.C3.TT,1
+563,National Championships Belize - Road Race 2013 ,Nationals.C3,1
+564,National Championships Costa Rica - Road Race 2013 ,Nationals.C3,1
+565,National Championships Guatemala - ITT 2013 ,Nationals.C3.TT,1
+566,National Championships Mexico - Road Race 2013 ,Nationals.C3,1
+567,National Championships Venezuela - Road Race 2013 ,Nationals.C3,1
+568,National Championships Panama - ITT 2013 ,Nationals.C3.TT,1
+569,National Championships Brazil - ITT 2013 ,Nationals.C3.TT,1
+570,National Championships El Salvador - ITT 2013 ,Nationals.C3.TT,1
+571,National Championships Brazil - Road Race 2013 ,Nationals.C3,1
+572,National Championships El Salvador - Road Race 2013 ,Nationals.C3,1
+573,National Championships Guatemala - Road Race 2013 ,-,1
+574,National Championships Panama - Road Race 2013 ,Nationals.C3,1
+575,National Championships United States U23 - Road Race 2013 ,-,1
+576,National Championships United States U23 - ITT 2013 ,-,1
+577,Tour de Delta 2013 ,1.2,1
+578,Vuelta Ciclista a Venezuela 2013 ,2.2/U23,10
+579,Tour of Elk Grove 2013 ,2.1,3
+580,The Larry H.Miller Tour of Utah 2013 ,2.1,6
+581,Ruta del Centro	 2013 ,2.2/U23,6
+582,"Vuelta al Sur de Bolivia (Sucre, Potosi) 2013 ",2.2/U23,5
+583,USA Pro Challenge 2013 ,2.HC,7
+584,Tour do Rio 2013 ,2.2/U23,5
+585,Tour of Alberta 2013 ,2.1,6
+586,Bucks County Classic 2013 ,1.2,1
+587,Tobago Cycling Classic 2013 ,1.2,1
+588,Vuelta a Bolivia 2013 ,2.2/U23,12
+589,National Championships Paraguay - ITT 2013 ,UCI.NC.3.TT,1
+590,Vuelta Kolbi a Costa Rica 2013 ,2.2/U23,12

@@ -1,0 +1,671 @@
+,Race_Name,Category,Number_stages
+0,Santos Tour Down Under 2017 ,2.WT,6
+1,Cadel Evans Great Ocean Road Race 2017 ,1.WT.C,1
+2,Abu Dhabi Tour 2017 ,2.WT.C,4
+3,Omloop Het Nieuwsblad 2017 ,1.WT.C,1
+4,Strade Bianche 2017 ,1.WT.C,1
+5,Paris - Nice 2017 ,2.WT,8
+6,Tirreno-Adriatico 2017 ,2.WT,7
+7,Milano-Sanremo 2017 ,1.WT.A,1
+8, Volta Ciclista a Catalunya 2017 ,2.WT,7
+9,Dwars Door Vlaanderen / A travers la Flandre 2017 ,1.WT.C,1
+10,Record Bank E3 Harelbeke 2017 ,1.WT.B,1
+11,Gent-Wevelgem in Flanders Fields 2017 ,1.WT.B,1
+12,Ronde van Vlaanderen / Tour des Flandres 2017 ,1.WT.A,1
+13,Vuelta al Pais Vasco 2017 ,2.WT,6
+14,Paris-Roubaix 2017 ,1.WT.A,1
+15,Amstel Gold Race 2017 ,1.WT.A,1
+16, La Flèche Wallonne 2017 ,1.WT.B,1
+17,Liège - Bastogne - Liège 2017 ,1.WT.A,1
+18,Tour de Romandie 2017 ,2.WT,6
+19,Eschborn-Frankfurt 'Rund um den Finanzplatz' 2017 ,1.WT.C,1
+20,Giro d'Italia 2017 ,GT.B,21
+21,Amgen Tour of California 2017 ,2.WT.C,7
+22,Critérium du Dauphiné 2017 ,2.WT,8
+23,Tour de Suisse 2017 ,2.WT,9
+24,Tour de France 2017 ,GT.A,21
+25,Clásica Ciclista San Sebastian 2017 ,1.WT.B,1
+26,Tour de Pologne 2017 ,2.WT,7
+27,Prudential RideLondon-Surrey Classic 2017 ,1.WT.C,1
+28,BinckBank Tour 2017 ,2.WT,7
+29,Vuelta a España 2017 ,GT.B,21
+30,Cyclassics Hamburg 2017 ,1.WT.B,1
+31,Bretagne Classic - Ouest-France 2017 ,1.WT.B,1
+32,Grand Prix Cycliste de Québec 2017 ,1.WT.B,1
+33,Grand Prix Cycliste de Montréal 2017 ,1.WT.B,1
+34,Il Lombardia 2017 ,1.WT.A,1
+35,Presidential Cycling Tour of Turkey 2017 ,2.WT.C,6
+36,Gree - Tour of Guangxi 2017 ,2.WT.C,6
+37,World Championships - TTT 2017 ,Worlds.TTT,1
+38,World Championships U23 - ITT 2017 ,UCI.WO.u23.TT,1
+39,World Championships WE - ITT 2017 ,F-WC.TT,1
+40,World Championships - ITT 2017 ,-,1
+41,World Championships U23 - Road Race 2017 ,Nationals.C1,1
+42,World Championships WE - Road Race 2017 ,-,1
+43,World Championships - Road Race 2017 ,Worlds.RR,1
+44,National Championships Namibia - ITT 2017 ,Nationals.C3.TT,1
+45,Les Challenges de la Marche Verte - GP Sakia El Hamra 2017 ,1.2,1
+46,National Championships Namibia U23 - ITT 2017 ,-,1
+47,National Championships Namibia - Road Race 2017 ,Nationals.C3,1
+48,Les Challenges de la Marche Verte - GP Oued Eddahab 2017 ,1.2,1
+49,Les Challenges de la Marche Verte - GP Al Massira 2017 ,1.2,1
+50,National Championships South Africa - ITT 2017 ,Nationals.C3.TT,1
+51,Challenge du Prince - Trophée Princier 2017 ,1.2,1
+52,Challenge du Prince - Trophée de l'Anniversaire 2017 ,1.2,1
+53,National Championships South Africa - Road Race 2017 ,Nationals.C3,1
+54,Challenge du Prince - Trophée de la Maison Royale 2017 ,1.2,1
+55,African Continental Championships - TTT 2017 ,Worlds.TTT,1
+56,African Continental Championships - ITT 2017 ,UCI.Cont.Ch.TT,1
+57,African Continental Championships - Road Race 2017 ,E-CC,1
+58,La Tropicale Amissa Bongo 2017 ,2.1,7
+59,Tour du Cameroun 2017 ,2.2/U23,8
+60,Tour du Maroc 2017 ,2.2/U23,10
+61,Fenkil Northern Red Sea Challenge 2017 ,1.2,1
+62,Massawa Circuit 2017 ,1.2,1
+63,Tour Eritrea 2017 ,2.2/U23,5
+64,Tour du Senegal 2017 ,2.2/U23,8
+65,Asmara Circuit 2017 ,1.2,1
+66,Tour de Tunisie 2017 ,2.2/U23,5
+67,National Championships Morocco - ITT 2017 ,Nationals.C3.TT,1
+68,National Championships Morocco U23 - ITT 2017 ,-,1
+69,National Championships Morocco - Road Race 2017 ,-,1
+70,National Championships Morocco U23 - Road Race 2017 ,-,1
+71,National Championships Morocco WE - Road Race  2017 ,F-NC.2,1
+72,National Championships Tunisia - Road Race 2017 ,Nationals.C3,1
+73,National Championships Angola - Road Race 2017 ,Nationals.C3,1
+74,National Championships Burkina Faso U23 - Road Race 2017 ,-,1
+75,National Championships Mauritius - ITT 2017 ,Nationals.C3.TT,1
+76,National Championships Tunisia - ITT 2017 ,Nationals.C3.TT,1
+77,National Championships Eritrea - ITT 2017 ,Nationals.C3.TT,1
+78,National Championships Ethiopia - ITT 2017 ,Nationals.C3.TT,1
+79,National Championships Ethiopia - Road Race 2017 ,Nationals.C3,1
+80,National Championships Rwanda - ITT 2017 ,Nationals.C3.TT,1
+81,National Championships Eritrea - Road Race 2017 ,Nationals.C3,1
+82,National Championships Mauritius - Road Race 2017 ,Nationals.C3,1
+83,National Championships Rwanda - Road Race 2017 ,Nationals.C3,1
+84,National Championships Zimbabwe - ITT 2017 ,Nationals.C3.TT,1
+85,National Championships Zimbabwe U23 - ITT 2017 ,-,1
+86,National Championships Zimbabwe - Road Race 2017 ,Nationals.C3,1
+87,National Championships Zimbabwe U23 - Road Race 2017 ,-,1
+88,National Championships Uganda - Road Race 2017 ,Nationals.C3,1
+89,National Championships Algeria - ITT 2017 ,Nationals.C3.TT,1
+90,National Championships Algeria U23 - ITT 2017 ,-,1
+91,National Championships Algeria - Road Race 2017 ,Nationals.C3,1
+92,National Championships Algeria U23 - Road Race 2017 ,-,1
+93,Tour Meles Zenawi for Green Development 2017 ,2.2/U23,5
+94,Tour de Côte d'Ivoire-Tour de la Réconciliation 2017 ,2.2/U23,7
+95,Grand Prix Chantal Biya 2017 ,2.2/U23,4
+96,Tour du Faso 2017 ,2.2/U23,10
+97,Tour of Rwanda 2017 ,2.2/U23,8
+98,National Championships Benin - Road Race 2017 ,Nationals.C3,1
+99,Dubai Tour 2017 ,2.HC,5
+100,Tour of Oman 2017 ,2.HC,6
+101,Le Tour de Filipinas 2017 ,2.2/U23,4
+102,Le Tour de Langkawi 2017 ,2.HC,8
+103,Asian Cycling Championships - TTT 2017 ,-,1
+104,Asian Cycling Championships - ITT 2017 ,UCI.Cont.Ch.TT,1
+105,Asian Cycling Championships U23 - ITT 2017 ,UCI.Cont.Ch.TT,1
+106,Asian Cycling Championships U23 - Road Race 2017 ,E-CC,1
+107,Asian Cycling Championships - Road Race 2017 ,E-CC,1
+108,Tour de Taiwan 2017 ,2.1,5
+109,Tour de Tochigi 2017 ,2.2/U23,3
+110,National Championships United Arab Emirates - ITT 2017 ,Nationals.C3.TT,1
+111,The Princess Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2017 ,2.1,6
+112,National Championships United Arab Emirates - Road Race 2017 ,Nationals.C3,1
+113,Tour de Lombok 2017 ,2.2/U23,4
+114,National Championships Singapore - Road Race 2017 ,Nationals.C3,1
+115,Tour of Japan 2017 ,2.1,8
+116,National Championships Uzbekistan - ITT 2017 ,Nationals.C3.TT,1
+117,National Championships Uzbekistan U23 - ITT 2017 ,-,1
+118,Tour de Kumano 2017 ,2.2/U23,4
+119,National Championships Uzbekistan - Road Race 2017 ,Nationals.C3,1
+120,Tour de Korea 2017 ,2.1,5
+121,National Championships Israel - ITT 2017 ,Nationals.C3.TT,1
+122,National Championships Hong Kong - Road Race 2017 ,Nationals.C3,1
+123,National Championships Kazakhstan - ITT 2017 ,Nationals.C3.TT,1
+124,National Championships Japan - ITT 2017 ,Nationals.C3.TT,1
+125,National Championships Mongolia - ITT 2017 ,Nationals.C3.TT,1
+126,National Championships Japan U23 - ITT 2017 ,-,1
+127,National Championships Hong Kong - ITT 2017 ,Nationals.C3.TT,1
+128,National Championships Israel - Road Race 2017 ,Nationals.C3,1
+129,National Championships Hong Kong U23 - ITT 2017 ,-,1
+130,National Championships Japan U23 - Road Race 2017 ,-,1
+131,National Championships Japan - Road Race 2017 ,Nationals.C3,1
+132,National Championships Kazakhstan - Road Race 2017 ,Nationals.C3,1
+133,National Championships Mongolia - Road Race 2017 ,Nationals.C3,1
+134,National Championships South Korea - ITT 2017 ,Nationals.C3.TT,1
+135,National Championships South Korea - Road Race 2017 ,Nationals.C3,1
+136,National Championships Iran - Road Race 2017 ,Nationals.C3,1
+137,National Championships Iran - ITT 2017 ,Nationals.C3.TT,1
+138,National Championships Libanon - ITT 2017 ,Nationals.C3.TT,1
+139,National Championships Libanon MJ - ITT 2017 ,J-NC2.TT,1
+140,Tour de Flores 2017 ,2.2/U23,6
+141,Tour of Qinghai Lake 2017 ,2.HC,13
+142,Tour of Xingtai 2017 ,2.2/U23,3
+143,Tour de Hokkaido 2017 ,2.2/U23,3
+144,Tour of China I 2017 ,2.1,5
+145,Tour de Molvccas 2017 ,2.2/U23,5
+146,Tour of China II 2017 ,2.1,5
+147,International Tour de Banyuwangi Ijen 2017 ,2.2/U23,4
+148,Tour of Almaty 2017 ,2.1,2
+149,Jelajah Malaysia 2017 ,2.2/U23,5
+150,Sun Hung Kai Properties Hong Kong Challenge 2017 ,1.1,1
+151,Tour of Iran (Azarbaijan) 2017 ,2.1,6
+152,Tour of Taihu Lake 2017 ,2.1,8
+153,Tour de Selangor 2017 ,2.2/U23,5
+154,Japan Cup Cycle Road Race 2017 ,1.HC,1
+155,Tour of Hainan 2017 ,2.HC,9
+156,National Championships India - ITT 2017 ,Nationals.C3.TT,1
+157,National Championships India - Road Race 2017 ,Nationals.C3,1
+158,Tour of Fuzhou 2017 ,2.1,5
+159,Tour de Okinawa 2017 ,1.2,1
+160,Tour de Singkarak 2017 ,2.2/U23,9
+161,Tour of Quanzhou Bay 2017 ,2.2/U23,3
+162,"Trofeo Porreres, Felanitx, Ses Salines, Campos 2017 ",1.1,1
+163,Trofeo Serra de Tramuntana 2017 ,1.1,1
+164,Trofeo Andratx-Mirador des Colomer 2017 ,1.1,1
+165,Grand Prix Cycliste la Marseillaise 2017  ,1.1,1
+166,Trofeo Palma 2017 ,1.1,1
+167,Etoile de Bessèges 2017 ,2.1,5
+168,Volta a la Comunitat Valenciana 2017 ,2.1,5
+169,G.P. Costa degli Etruschi 2017 ,1.1,1
+170,Vuelta Ciclista a la Region de Murcia 'Costa Calida' 2017 ,1.1,1
+171,Trofeo Laigueglia 2017 ,1.HC,1
+172,Clasica de Almeria 2017 ,1.1,1
+173,Volta ao Algarve em Bicicleta 2017 ,2.HC,5
+174,Vuelta a Andalucia Ruta Ciclista Del Sol 2017 ,2.1,5
+175,Tour Cycliste International du Haut Var Matin 2017 ,2.1,2
+176,GP Laguna Porec 2017 ,1.2,1
+177,Tour Cycliste International La Provence 2017 ,2.1,3
+178,Volta ao Alentejo 2017 ,2.1,5
+179,Classic Sud Ardèche - Souvenir Francis Delpech 2017 ,1.1,1
+180,Kuurne-Bruxelles-Kuurne 2017 ,1.HC,1
+181,Royal Bernard Drome Classic 2017 ,1.1,1
+182,GP Izola 2017 ,1.2,1
+183,Le Samyn 2017 ,1.1,1
+184,Trofej Umag - Umag Trophy 2017 ,1.2,1
+185,Trofej Porec - Porec Trophy 2017 ,1.2,1
+186,GP Industria & Artigianato 2017 ,1.HC,1
+187,Dwars door West-Vlaanderen Johan Museeuw Classic 2017 ,1.1,1
+188,Classica da Arrabida - Cylin'Portugal 2017 ,1.2,1
+189,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2017 ,1.2,1
+190,International Rhodes Grand Prix 2017 ,1.2,1
+191,Istarsko Proljece - Istrian Spring Trophy 2017 ,2.2/U23,4
+192,International Tour of Rhodes 2017 ,2.2/U23,3
+193,Ronde van Drenthe 2017 ,1.1,1
+194,Classica Aldeias do Xisto - Cylin'Portugal 2017 ,1.2,1
+195,Paris-Troyes 2017 ,1.2,1
+196,Rabobank Dorpenomloop Rucphen 2017 ,1.2,1
+197,Danilith - Nokere Koerse 2017 ,1.HC,1
+198,Handzame Classic 2017 ,1.1,1
+199,Classic Loire Atlantique 2017 ,1.1,1
+200,Popolarissima 2017 ,1.2,1
+201,Tour de Normandie 2017 ,2.2/U23,7
+202,Settimana Internazionale Coppi e Bartali 2017 ,2.1,5
+203,Driedaagse De Panne-Koksijde 2017 ,2.HC,4
+204,Route Adélie de Vitré 2017 ,1.1,1
+205,Le Triptyque des Monts et Chateaux 2017 ,2.2/U23,4
+206,Gran Premio Miguel Indurain 2017 ,1.1,1
+207,Volta Limburg Classic 2017 ,1.1,1
+208,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle 2017 ,1.1,1
+209,Vuelta Ciclista a La Rioja 2017 ,1.1,1
+210,GP Adria Mobil 2017 ,1.2,1
+211,Trofeo Piva 2017 ,1.2,1
+212,Circuit Cycliste Sarthe - Pays de la Loire 2017 ,2.1,5
+213,Scheldeprijs 2017 ,1.HC,1
+214,Circuit des Ardennes International 2017 ,2.2/U23,4
+215,Trofeo Edil C 2017 ,1.2,1
+216,Giro dell'Appennino 2017 ,1.1,1
+217,Klasika Primavera de Amorebieta 2017 ,1.1,1
+218,Paris-Camembert 2017 ,1.1,1
+219,De Brabantse Pijl - La Flèche Brabançonne 2017 ,1.HC,1
+220,Tour du Loir et Cher 2017 ,2.2/U23,5
+221,GP de Denain - Porte du Hainaut / Valenciennes Métropole 2017 ,1.HC,1
+222,Tour du Finistère 2017 ,1.1,1
+223,Liège - Bastogne - Liège U23 2017 ,E-1.Ncup,1
+224,ZLM Tour 2017 ,E-1.Ncup,1
+225,Tour of the Alps 2017 ,2.HC,5
+226,Tro-Bro Léon 2017 ,1.1,1
+227,Giro del Belvedere 2017 ,1.2,1
+228,Tour of Croatia 2017 ,2.1,6
+229,G.P. Palio del Recioto 2017 ,1.2,1
+230,Tour of Mersin 2017 ,2.2/U23,4
+231,Arno Wallaard Memorial 2017 ,1.2,1
+232,Visegrad 4 Kerekparverseny 2017 ,1.2,1
+233,Rutland - Melton Cicle Classic 2017 ,1.2,1
+234,Tr. Città di S. Vendemiano - 57th GP Industria & Commercio 2017 ,1.2,1
+235,Visegrad 4 Bicycle Race - GP Slovakia 2017 ,1.2,1
+236,Gran Premio della Liberazione 2017 ,1.2,1
+237,Le Tour de Bretagne Cycliste 2017 ,2.2/U23,7
+238,Tour de Yorkshire 2017 ,2.1,3
+239,GP Himmerland Rundt 2017 ,1.2,1
+240,Toscana Terra di Ciclismo Eroica 2017 ,2.2/U23,3
+241,Vuelta Asturias Julio Alvarez Mendo 2017 ,2.1,3
+242,Beograd - Banjaluka I 2017 ,1.2,1
+243,Carpathian Couriers Race U-23 2017 ,2.2/U23,4
+244,GP Viborg 2017 ,1.2,1
+245,ZODC Zuidenveld Tour 2017 ,1.2,1
+246,Belgrade Banjaluka II 2017 ,1.2,1
+247,Paris - Mantes-en-Yvelines 2017 ,1.2,1
+248,Skive-Løbet  2017 ,1.2,1
+249,Circuit de Wallonie 2017 ,1.2,1
+250,Memorial Andrzeja Trochanowskiego 2017 ,1.2,1
+251,National Championships Belgium U23 - ITT 2017 ,-,1
+252,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2017 ,1.2,1
+253,Memorial Romana Sieminskiego 2017 ,1.2,1
+254,Tour d'Azerbaïdjan 2017 ,2.1,5
+255,Rhône-Alpes Isère Tour 2017 ,2.2/U23,4
+256,National Championships Cyprus - ITT 2017 ,Nationals.C3.TT,1
+257,Vuelta Ciclista Comunidad de Madrid 2017 ,2.1,3
+258,CCC Tour - Grody Piastowskie 2017 ,2.2/U23,3
+259,Five Rings of Moscow 2017 ,2.2/U23,5
+260,Ronde van Overijssel 2017 ,1.2,1
+261,Sundvolden GP 2017 ,1.2,1
+262,Gran Premio Città di Lugano 2017 ,1.HC,1
+263,National Championships Cyprus - Road Race 2017 ,Nationals.C3,1
+264,Circuito del Porto - Trofeo Arvedi 2017 ,1.2,1
+265,Flèche Ardennaise 2017 ,1.2,1
+266,Ringerike GP 2017 ,1.2,1
+267,4 Jours de Dunkerque / Tour des Hauts-de-France 2017 ,2.HC,6
+268,National Championships Azerbaijan - ITT 2017 ,Nationals.C3.TT,1
+269,Tour of Ankara 2017 ,2.2/U23,4
+270,National Championships Azerbaijan - Road Race 2017 ,Nationals.C3,1
+271,National Championships Denmark U23 - ITT 2017 ,-,1
+272,Scandinavian Race in Uppsala 1909-2017 2017 ,1.2,1
+273,Gran Premio Industrie del Marmo 2017 ,1.2,1
+274,Grand Prix Criquielion 2017 ,1.2,1
+275,National Championships Denmark U23 - Road Race 2017 ,-,1
+276,Profronde van Noord-Holland 2017 ,1.2,1
+277,Tour of Norway 2017 ,2.HC,5
+278,Baltyk - Karkonosze Tour 2017 ,2.2/U23,6
+279,Tour of Ukraine 2017 ,2.2/U23,5
+280,Ronde de l'Isard 2017 ,2.2/U23,4
+281,Vuelta a Castilla y Leon 2017 ,2.1,3
+282,A Travers Les Hauts De France - Trophee Paris-Arras Tour 2017 ,2.2/U23,3
+283,Berner Rundfahrt / Tour de Berne 2017 ,1.2,1
+284,Tour of Albania 2017 ,2.2/U23,5
+285,Grand Prix de la Somme « Conseil Général 80» 2017 ,1.1,1
+286,An Post Rás 2017 ,2.2/U23,8
+287,National Championships Germany U23 - Road Race 2017 ,-,1
+288,SwissEver GP Cham - Hagendorn 2017 ,F-1.2,1
+289,Baloise Belgium Tour 2017 ,2.HC,5
+290,Tour des Fjords 2017 ,2.1,5
+291,Flèche du Sud 2017 ,2.2/U23,5
+292,Gemenc Grand Prix 2017 ,2.2/U23,3
+293,Tour of Estonia 2017 ,2.1,2
+294,Horizon Park Race for Peace 2017 ,1.2,1
+295,Grand Prix de Plumelec-Morbihan 2017 ,1.1,1
+296,Horizon Park Race Maidan 2017 ,1.2,1
+297,Tour de Gironde Cycliste International 2017 ,2.2/U23,2
+298,Tour du Jura Cycliste 2017 ,2.2/U23,2
+299,Boucles de l'Aulne - Chateaulin 2017 ,1.1,1
+300,Horizon Park Classic 2017 ,1.2,1
+301,Paris-Roubaix Espoirs 2017 ,1.2,1
+302,Games of the Small States of Europe 2017 ,-,1
+303,Skoda-Tour de Luxembourg 2017 ,2.HC,5
+304,Boucles de la Mayenne 2017 ,2.1,4
+305,Szlakiem Walk Majora Hubala 2017 ,2.1,5
+306,Grand Prix Priessnitz spa 2017 ,E-2.Ncup,4
+307,GP Beiras e Serra da Estrela 2017 ,2.1,3
+308,Hammer Sportzone Limburg 2017 ,hammer.gc,3
+309,Tour of Bihor - Bellotto 2017 ,2.2/U23,4
+310,Trofeo Alcide Degasperi 2017 ,1.2,1
+311,Carrefour Market Heistse Pijl 2017 ,1.1,1
+312,Coppa della Pace -Trofeo F.lli Anelli 2017 ,1.2,1
+313,Memorial Philippe Van Coningsloo 2017 ,1.2,1
+314,Okolo Slovenska 2017 ,2.1,5
+315,GP du canton d'Argovie 2017 ,1.HC,1
+316,Oberösterreichrundfahrt 2017 ,2.2/U23,4
+317,Ronde de l'Oise 2017 ,2.2/U23,4
+318,National Championships Slovenia - ITT 2017 ,Nationals.C3.TT,1
+319,Giro Ciclistico d'Italia 2017 ,2.2/U23,8
+320,National Championships Slovenia U23 - ITT 2017 ,-,1
+321,Tour of Malopolska 2017 ,2.2/U23,3
+322,Dwars door de Vlaamse Ardennen 2017 ,1.2,1
+323,Fyen Rundt - Tour of Fyen 2017 ,1.2,1
+324,Ronde van Limburg 2017 ,1.1,1
+325,Rund um Köln 2017 ,1.1,1
+326,GP Horsens Posten 2017 ,1.2,1
+327,Ster ZLM 2017 ,2.1,5
+328,Route du Sud - la Depeche du Midi 2017 ,2.1,4
+329,Tour of Slovenia 2017 ,2.1,4
+330,Le Tour de Savoie Mont Blanc 2017 ,2.2/U23,5
+331,National Championships Finland - ITT 2017 ,Nationals.C3.TT,1
+332,National Championships Finland U23 - ITT 2017 ,-,1
+333,Tour de Serbia 2017 ,2.2/U23,3
+334,Grand Prix Doliny Baryczy Xxvii Memorial Grundmanna I Wizowskiego 2017 ,1.2,1
+335,National Championships Finland - Road Race 2017 ,Nationals.C3,1
+336,National Championships Montenegro - Road Race 2017 ,Nationals.C3,1
+337,Ride Bruges (Bruges Cycling Classic) 2017 ,1.1,1
+338,Beaumont Trophy 2017 ,1.2,1
+339,International Race Korona Kocich Gor 2017 ,1.2,1
+340,National Championships Norway U23 - Road Race 2017 ,-,1
+341,National Championships Ukraine U23 - ITT 2017 ,-,1
+342,Halle Ingooigem 2017 ,1.1,1
+343,National Championships Bulgaria - ITT 2017 ,Nationals.C3.TT,1
+344,National Championships Estonia - ITT 2017 ,Nationals.C3.TT,1
+345,National Championships Latvia - ITT 2017 ,Nationals.C3.TT,1
+346,National Championships Luxembourg - ITT 2017 ,Nationals.C3.TT,1
+347,National Championships Netherlands - ITT 2017 ,Nationals.C3.TT,1
+348,National Championships Poland - ITT 2017 ,Nationals.C3.TT,1
+349,National Championships Ukraine - ITT 2017 ,Nationals.C3.TT,1
+350,National Championships Latvia U23 - ITT 2017 ,-,1
+351,National Championships Luxembourg U23 - ITT 2017 ,-,1
+352,National Championships Netherlands U23 - ITT 2017 ,-,1
+353,National Championships Poland U23 - ITT 2017 ,-,1
+354,National Championships Belarus - ITT 2017 ,Nationals.C3.TT,1
+355,National Championships Belgium - ITT 2017 ,Nationals.C3.TT,1
+356,National Championships Czech Republic - ITT 2017 ,Nationals.C3.TT,1
+357,National Championships Denmark - ITT 2017 ,Nationals.C3.TT,1
+358,National Championships France - ITT 2017 ,Nationals.C3.TT,1
+359,National Championships Great Britain - ITT 2017 ,Nationals.C3.TT,1
+360,National Championships Ireland - ITT 2017 ,Nationals.C3.TT,1
+361,National Championships Norway - ITT 2017 ,Nationals.C3.TT,1
+362,National Championships Sweden - ITT 2017 ,Nationals.C3.TT,1
+363,National Championships Switzerland - ITT 2017 ,Nationals.C3.TT,1
+364,National Championships Switzerland WE - ITT 2017 ,F-NC.TT.2,1
+365,National Championships Belarus U23 - ITT 2017 ,-,1
+366,National Championships Great Britain U23 - ITT 2017 ,-,1
+367,National Championships Switzerland U23 - ITT 2017 ,-,1
+368,National Championships Austria - ITT 2017 ,Nationals.C3.TT,1
+369,National Championships Germany - ITT 2017 ,Nationals.C3.TT,1
+370,National Championships Greece - ITT 2017 ,Nationals.C3.TT,1
+371,National Championships Hungary - ITT 2017 ,Nationals.C3.TT,1
+372,National Championships Italy - ITT 2017 ,Nationals.C3.TT,1
+373,National Championships Kosovo - ITT 2017 ,Nationals.C3.TT,1
+374,National Championships Kosovo U23 - ITT 2017 ,-,1
+375,National Championships Lithuania - ITT 2017 ,Nationals.C3.TT,1
+376,National Championships Lithuania U23 - ITT 2017 ,-,1
+377,National Championships Portugal - ITT 2017 ,Nationals.C3.TT,1
+378,National Championships Romania - Road Race 2017 ,Nationals.C3,1
+379,National Championships Romania U23 - ITT 2017 ,-,1
+380,National Championships Russia - ITT 2017 ,Nationals.C3.TT,1
+381,National Championships Serbia - ITT 2017 ,Nationals.C3.TT,1
+382,National Championships Slovakia - ITT 2017 ,Nationals.C3.TT,1
+383,National Championships Spain - ITT 2017 ,Nationals.C3.TT,1
+384,National Championships Germany U23 - ITT 2017 ,-,1
+385,National Championships Hungary U23 - ITT 2017 ,-,1
+386,National Championships Portugal U23 - ITT 2017 ,-,1
+387,National Championships Spain U23 - ITT 2017 ,-,1
+388,National Championships Ukraine U23 - Road Race 2017 ,-,1
+389,National Championships Bosnia and Herzegovina - Road Race 2017 ,Nationals.C3,1
+390,National Championships Croatia - ITT 2017 ,Nationals.C3.TT,1
+391,National Championships Croatia U23 - ITT 2017 ,-,1
+392,National Championships Georgia - ITT 2017 ,Nationals.C3.TT,1
+393,National Championships Kosovo - Road Race 2017 ,Nationals.C3,1
+394,National Championships Macedonia - ITT 2017 ,Nationals.C3.TT,1
+395,National Championships Moldova - ITT 2017 ,Nationals.C3.TT,1
+396,National Championships Moldova U23 - ITT 2017 ,-,1
+397,National Championships Netherlands U23 - Road Race 2017 ,-,1
+398,National Championships Poland U23 - Road Race 2017 ,-,1
+399,National Championships Portugal U23 - Road Race 2017 ,-,1
+400,National Championships Spain U23 - Road Race 2017 ,-,1
+401,National Championships Austria - Road Race 2017 ,Nationals.C3,1
+402,National Championships Belarus - Road Race 2017 ,Nationals.C3,1
+403,National Championships Belgium - Road Race 2017 ,Nationals.C3,1
+404,National Championships Bulgaria - Road Race 2017 ,Nationals.C3,1
+405,National Championships Croatia - Road Race 2017 ,Nationals.C3,1
+406,National Championships Czech Republic - Road Race 2017 ,Nationals.C3,1
+407,National Championships Denmark - Road Race 2017 ,Nationals.C3,1
+408,National Championships Estonia - Road Race 2017 ,Nationals.C3,1
+409,National Championships France - Road Race 2017 ,Nationals.C3,1
+410,National Championships Georgia - Road Race 2017 ,Nationals.C3,1
+411,National Championships Germany - Road Race 2017 ,Nationals.C3,1
+412,National Championships Great Britain - Road Race 2017 ,Nationals.C3,1
+413,National Championships Greece - Road Race 2017 ,Nationals.C3,1
+414,National Championships Hungary - Road Race 2017 ,Nationals.C3,1
+415,National Championships Iceland - ITT 2017 ,Nationals.C3.TT,1
+416,National Championships Ireland - Road Race 2017 ,Nationals.C3,1
+417,National Championships Italy - Road Race 2017 ,Nationals.C3,1
+418,National Championships Latvia - Road Race 2017 ,Nationals.C3,1
+419,National Championships Lithuania - Road Race 2017 ,Nationals.C3,1
+420,National Championships Luxembourg - Road Race 2017 ,Nationals.C3,1
+421,National Championships Macedonia - Road Race 2017 ,Nationals.C3,1
+422,National Championships Moldova - Road Race 2017 ,Nationals.C3,1
+423,National Championships Netherlands - Road Race 2017 ,Nationals.C3,1
+424,National Championships Norway - Road Race 2017 ,Nationals.C3,1
+425,National Championships Poland - Road Race 2017 ,Nationals.C3,1
+426,National Championships Portugal - Road Race 2017 ,Nationals.C3,1
+427,National Championships Romania - ITT 2017 ,Nationals.C3.TT,1
+428,National Championships Romania U23 - Road Race 2017 ,-,1
+429,National Championships Russia - Road Race 2017 ,Nationals.C3,1
+430,National Championships Serbia - Road Race 2017 ,Nationals.C3,1
+431,National Championships Slovakia - Road Race 2017 ,Nationals.C3,1
+432,National Championships Slovenia - Road Race 2017 ,Nationals.C3,1
+433,National Championships Spain - Road Race 2017 ,Nationals.C3,1
+434,National Championships Sweden - Road Race 2017 ,Nationals.C3,1
+435,National Championships Switzerland - Road Race 2017 ,Nationals.C3,1
+436,National Championships Ukraine - Road Race 2017 ,Nationals.C3,1
+437,National Championships Hungary U23 - Road Race 2017 ,-,1
+438,National Championships Kosovo U23 - Road Race 2017 ,-,1
+439,Tour de Hongrie 2017 ,2.2/U23,6
+440,Trofeo Citta di Brescia 2017 ,1.2,1
+441,National Championships Albania - ITT 2017 ,Nationals.C3.TT,1
+442,Course Cycliste de Solidarnosc et des Champions Olympiques 2017 ,2.2/U23,5
+443,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2017 ,1.2,1
+444,National Championships Albania - Road Race 2017 ,Nationals.C3,1
+445,National Championships Turkey - ITT 2017 ,Nationals.C3.TT,1
+446,Volta a Portugal do Futuro 2017 ,2.2/U23,4
+447,National Championships Iceland - Road Race 2017 ,Nationals.C3,1
+448,National Championships Iceland U23 - Road Race 2017 ,-,1
+449,National Championships Turkey - Road Race 2017 ,Nationals.C3,1
+450,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2017 ,1.2,1
+451,Int. Österreich-Rundfahrt-Tour of Austria 2017 ,2.1,7
+452,KOGA Slag om Norg 2017 ,1.1,1
+453,Sibiu Cycling Tour 2017 ,2.1,5
+454,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2017 ,2.2/U23,6
+455,Grote Prijs Stad Sint-Niklaas 2017 ,1.2,1
+456,Minsk Cup 2017 ,1.2,1
+457,Grand Prix Minsk 2017 ,1.2,1
+458,Velothon Wales 2017 ,1.1,1
+459,Giro del Medio Brenta 2017 ,1.2,1
+460,Midden Brabant-Poort Omloop 2017 ,1.2,1
+461,Giro Ciclistico della Valle d'Aosta Mont Blanc 2017 ,2.2/U23,5
+462,National Championships Lebanon - Road Race 2017 ,Nationals.C3,1
+463,Trofeo Matteotti 2017 ,1.1,1
+464,Grand Prix Cerami 2017 ,1.1,1
+465,VOO-Tour de Wallonie 2017 ,2.HC,5
+466,Grand Prix de la ville de Pérenchies 2017 ,1.2,1
+467,Prueba Villafranca-Ordiziako Klasika 2017 ,1.1,1
+468,Dookola Mazowsza 2017 ,2.2/U23,5
+469,Tour Alsace 2017 ,2.2/U23,5
+470,National Championships France U23 - ITT 2017 ,-,1
+471,National Championships Russia U23/MJ - ITT 2017 ,-,1
+472,Kreiz Breizh Elites 2017 ,2.2/U23,4
+473,La Poly Normande 2017 ,1.1,1
+474,Rad am Ring 2017 ,1.1,1
+475,GP Kranj 2017 ,1.2,1
+476,National Championships France U23 - Road Race 2017 ,-,1
+477,National Championships Russia U23/MJ - Road Race 2017 ,-,1
+478,Circuito de Getxo 'Memorial Ricardo Otxoa' 2017 ,1.1,1
+479,Vuelta a Burgos 2017 ,2.HC,5
+480,European Continental Championships - ITT 2017 ,UCI.Cont.Ch.TT,1
+481,European Continental Championships U23 - ITT 2017 ,F-CC.TT.2,1
+482,Volta a Portugal em Bicicleta Santander Totta 2017 ,2.1,11
+483,Dwars door het Hageland - Aarschot 2017 ,1.1,1
+484,European Continental Championships U23 - Road Race 2017 ,UCI.Cont.Ch.TT,1
+485,Hansa Bygg Kalmar Grand Prix Road Race 2017 ,1.2,1
+486,Tour de Ribas 2017 ,1.2,1
+487, European Continental Championships - Road Race 2017 ,E-CC,1
+488,Antwerpse Havenpijl 2017 ,1.2,1
+489,Odessa Grand Prix 2017 ,1.2,1
+490,Tour de l'Ain 2017 ,2.1,5
+491,Cycling Tour Of Szeklerland 2017 ,2.2/U23,5
+492,Arctic Race of Norway 2017 ,2.HC,4
+493,Czech Cycling Tour 2017 ,2.1,4
+494,Memorial Henryka Lasaka 2017 ,1.2,1
+495,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni-7th Gran premio Pasta Zara 2017 ,1.2,1
+496,National Championships Belgium U23 - Road Race 2017 ,-,1
+497,Puchar Uzdrowisk Karpackich 2017 ,1.2,1
+498,Tour du Limousin 2017 ,2.1,4
+499,GP Capodarco - Comunità di Capodarco 2017 ,1.2,1
+500,Veenendaal Veenendaal Classic 2017 ,1.1,1
+501,Tour de l'Avenir 2017 ,E-2.Ncup,9
+502,Puchar Mon. 2017 ,1.2,1
+503,Grote Prijs Jef Scherens - Rondom Leuven 2017 ,1.1,1
+504,Szlakiem Wielkich Jezior 2017 ,1.2,1
+505,GP Stad Zottegem 2017 ,1.1,1
+506,Tour du Poitou Charentes 2017 ,2.1,5
+507,Grand Prix des Marbriers 2017 ,1.2,1
+508,Druivenkoers - Overijse 2017 ,1.1,1
+509,Baltic Chain Tour 2017 ,2.2/U23,4
+510,PRO Ötztaler 5500 2017 ,1.1,1
+511,Omloop Mandel-Leie-Schelde Meulebeke 2017 ,1.1,1
+512,Ronde van Midden Nederland 2017 ,2.2/U23,2
+513,Schaal Sels 2017 ,1.1,1
+514,Croatia-Slovenia 2017 ,1.2,1
+515,Okolo Jižních Čech / Tour of South Bohemia 2017 ,2.2/U23,5
+516,Brussels Cycling Classic 2017 ,1.HC,1
+517,GP de Fourmies / La Voix du Nord 2017 ,1.HC,1
+518,OVO Energy Tour of Britain 2017 ,2.HC,8
+519, International Cycling Tour of Bulgaria - North 2017 ,2.2/U23,4
+520,Kernen Omloop Echt-Susteren 2017 ,1.2,1
+521,Olympia's Tour 2017 ,2.2/U23,6
+522, International Cycling Tour of Bulgaria - South 2017 ,2.2/U23,3
+523,East Bohemia Tour 2017 ,2.2/U23,2
+524,De Kustpijl 2017 ,1.2,1
+525,Tour du Jura 2017 ,1.2,1
+526,Tour du Doubs 2017 ,1.1,1
+527,Grand Prix de la Ville de Nogent-sur-Oise 2017 ,1.2,1
+528,Int. Raiffeisen Grand Prix Judendorf/Straßengel 2017 ,1.2,1
+529,Grote Prijs Marcel Kint 2017 ,1.2,1
+530,PostNord Danmark Rundt - Tour of Denmark 2017 ,2.HC,5
+531,Coppa Agostoni - Giro delle Brianze 2017 ,1.1,1
+532,Grand Prix de Wallonie 2017 ,1.1,1
+533,Coppa Bernocchi 2017 ,1.1,1
+534,Kampioenschap van Vlaanderen 2017 ,1.1,1
+535,Primus Classic 2017 ,1.HC,1
+536,Memorial Marco Pantani 2017 ,1.1,1
+537,Visegrad 4 Bicycle Race - GP Czech Republic 2017 ,1.2,1
+538,Grand Prix d'Isbergues - Pas de Calais 2017 ,1.1,1
+539,Visegrad 4 Bicycle Race Grand Prix Poland 2017 ,1.2,1
+540,Omloop van het Houtland Lichtervelde 2017 ,1.1,1
+541,Tour du Gévaudan Languedoc-Roussillon 2017 ,2.2/U23,2
+542,Duo Normand 2017 ,1.1,1
+543,Gooikse Pijl 2017 ,1.2,1
+544,Paris-Chauny (classique) 2017 ,1.2,1
+545,Giro della Toscana - Memorial Alfredo Martini 2017 ,2.1,2
+546,Ruota d'Oro - GP Festa del Perdono 2017 ,1.2,1
+547,Coppa Sabatini - Gran Premio citta di Peccioli 2017 ,1.1,1
+548,National Championships Albania U23 - Road Race 2017 ,-,1
+549,Giro dell'Emilia 2017 ,1.HC,1
+550,Omloop Eurometropool 2017 ,1.1,1
+551,Törökbálint GP - Memorial Imre Riczu 2017 ,1.2,1
+552,Gran Premio Bruno Beghelli 2017 ,1.HC,1
+553,Tour de l'Eurométropole 2017 ,1.HC,1
+554,Tour de Vendée 2017 ,1.1,1
+555,Piccolo Giro di Lombardia 2017 ,1.2,1
+556,Sparkassen Münsterland Giro 2017 ,1.HC,1
+557,Tre Valli Varesine 2017 ,1.HC,1
+558,Binche - Chimay - Binche 2017 ,1.1,1
+559,Milano-Torino 2017 ,1.HC,1
+560,Paris-Bourges 2017 ,1.1,1
+561,Paris-Tours Elite 2017 ,1.HC,1
+562,Paris-Tours Espoirs 2017 ,2.2/U23,1
+563,Famenne Ardenne Classic 2017 ,1.1,1
+564,Tacx Pro Classic 2017 ,1.1,1
+565,Chrono des Nations 2017 ,1.1,1
+566,Chrono des Nations U23 2017 ,1.2,1
+567,Sluitingsprijs Putte-Kapellen 2017 ,1.1,1
+568,National Championships Australia - ITT 2017 ,Nationals.C3.TT,1
+569,National Championships Australia U23 - ITT 2017 ,-,1
+570,National Championships New Zealand - ITT 2017 ,Nationals.C3.TT,1
+571,National Championships New Zealand U23 - ITT 2017 ,-,1
+572,National Championships Australia U23 - Road Race 2017 ,-,1
+573,National Championships Australia - Road Race 2017 ,Nationals.C3,1
+574,National Championships New Zealand - Road Race 2017 ,Nationals.C3,1
+575,New Zealand Cycle Classic 2017 ,2.2/U23,5
+576,Herald Sun Tour 2017 ,2.1,5
+577,Oceania Continental Championships - ITT 2017 ,UCI.Cont.Ch.TT,1
+578,Oceania Continental Championships U23 - ITT 2017 ,UCI.Cont.Ch.TT,1
+579,Oceania Continental Championships - Road Race 2017 ,E-CC,1
+580,Vuelta al Táchira en Bicicleta 2017 ,2.2/U23,10
+581,Vuelta Ciclista a la Provincia de San Juan 2017 ,2.1,7
+582,National Championships Uruguay - ITT 2017 ,Nationals.C3.TT,1
+583,National Championships Uruguay - Road Race 2017 ,Nationals.C3,1
+584,National Championships Colombia - ITT 2017 ,Nationals.C3.TT,1
+585,National Championships Colombia U23 - ITT 2017 ,-,1
+586,National Championships Colombia U23 - Road Race 2017 ,-,1
+587,National Championships Colombia - Road Race 2017 ,Nationals.C3,1
+588,Vuelta Independencia Nacional Republica Dominicana 2017 ,2.2/U23,8
+589,Joe Martin Stage Race 2017 ,2.2/U23,8
+590,Vuelta Ciclista del Uruguay 2017 ,2.2/U23,11
+591,National Championships Chile - ITT 2017 ,Nationals.C3,1
+592,National Championships Chile U23 - ITT 2017 ,-,1
+593,National Championships Mexico - ITT 2017 ,Nationals.C3.TT,1
+594,National Championships Mexico U23 - ITT 2017 ,-,1
+595,National Championships Chile - Road Race 2017 ,Nationals.C3,1
+596,National Championships Chile U23 - Road Race 2017 ,-,1
+597,National Championships Mexico - Road Race 2017 ,Nationals.C3,1
+598,Tour of the Gila 2017 ,2.2/U23,5
+599,National Championships Argentina - ITT  2017 ,Nationals.C3.TT,1
+600,National Championships Argentina U23 - ITT 2017 ,-,1
+601,National Championships Argentina U23 - Road Race 2017 ,-,1
+602,National Championships Argentina - Road Race 2017 ,Nationals.C3,1
+603,Campeonato Panamericano de Ruta - ITT 2017 ,UCI.Cont.Ch.TT,1
+604,Campeonato Panamericano de Ruta U23 - ITT 2017 ,E-CC.TT,1
+605,Campeonato Panamericano de Ruta U23 - Road Race 2017 ,E-CC,1
+606,Campeonato Panamericano de Ruta - Road Race 2017 ,E-CC,1
+607,National Championships Bolivia - ITT 2017 ,-,1
+608,National Championships Bolivia U23 - ITT 2017 ,-,1
+609,National Championships Bolivia - Road Race 2017 ,-,1
+610,National Championships Bolivia U23 - Road Race 2017 ,-,1
+611,Winston Salem Cycling Classic 2017 ,1.1,1
+612,Grand Prix Cycliste de Saguenay 2017 ,2.2/U23,4
+613,Tour de Beauce 2017 ,2.2/U23,6
+614,National Championships Cuba - ITT 2017 ,Nationals.C3.TT,1
+615,National Championships Cuba U23 - ITT 2017 ,-,1
+616,National Championships Cuba - Road Race 2017 ,Nationals.C3,1
+617,National Championships Cuba U23 - Road Race 2017 ,-,1
+618,National Championships Puerto Rico - ITT 2017 ,Nationals.C3.TT,1
+619,National Championships Puerto Rico U23 - ITT 2017 ,-,1
+620,National Championships Belize - ITT 2017 ,Nationals.C3.TT,1
+621,National Championships Bermuda - ITT 2017 ,Nationals.C3.TT,1
+622,National Championships Guatemala - ITT 2017 ,Nationals.C3.TT,1
+623,National Championships Guatemala U23 - ITT 2017 ,-,1
+624,National Championships Costa Rica - ITT 2017 ,Nationals.C3.TT,1
+625,National Championships Dominican Republic - ITT 2017 ,Nationals.C3.TT,1
+626,National Championships Guyana - ITT 2017 ,Nationals.C3.TT,1
+627,National Championships Panama - ITT 2017 ,Nationals.C3.TT,1
+628,National Championships Venezuela - ITT 2017 ,Nationals.C3.TT,1
+629,National Championships Antigua and Barbuda - ITT 2017 ,Nationals.C3.TT,1
+630,National Championships El Salvador - ITT 2017 ,Nationals.C3.TT,1
+631,National Championships El Salvador U23 - ITT 2017 ,-,1
+632,National Championships Guatemala - Road Race 2017 ,Nationals.C3,1
+633,National Championships United States - ITT 2017 ,Nationals.C3.TT,1
+634,National Championships Antigua and Barbuda - Road Race 2017 ,Nationals.C3,1
+635,National Championships Belize - Road Race 2017 ,Nationals.C3,1
+636,National Championships Canada - Road Race 2017 ,Nationals.C3,1
+637,National Championships Costa Rica - Road Race 2017 ,Nationals.C3,1
+638,National Championships Dominican Republic - Road Race 2017 ,Nationals.C3,1
+639,National Championships Dominican Republic U23 - Road Race 2017 ,-,1
+640,National Championships El Salvador - Road Race 2017 ,Nationals.C3,1
+641,National Championships Guyana - Road Race 2017 ,Nationals.C3,1
+642,National Championships Panama - Road Race 2017 ,Nationals.C3,1
+643,National Championships Puerto Rico - Road Race 2017 ,Nationals.C3,1
+644,National Championships United States - Road Race 2017 ,Nationals.C3,1
+645,National Championships Venezuela - Road Race 2017 ,Nationals.C3,1
+646,National Championships Canada - ITT 2017 ,Nationals.C3.TT,1
+647,National Championships United States U23 - ITT 2017 ,-,1
+648,National Championships United States U23 - Road Race 2017 ,-,1
+649,National Championships Aruba - ITT 2017 ,Nationals.C3.TT,1
+650,National Championships Aruba U23 - ITT 2017 ,-,1
+651,National Championships Aruba U23 - Road Race 2017 ,-,1
+652,National Championships Bermuda - Road Race 2017 ,Nationals.C3,1
+653,White Spot / Delta Road Race 2017 ,1.2,1
+654,Cascade Cycling Classic 2017 ,2.2/U23,5
+655,Tour Cycliste International de la Guadeloupe 2017 ,2.2/U23,12
+656,The Larry H.Miller Tour of Utah 2017 ,2.HC,7
+657,Vuelta a Colombia 2017 ,2.2/U23,12
+658,Colorado Classic 2017 ,2.HC,4
+659,National Championships Brazil - ITT 2017 ,Nationals.C3.TT,1
+660,National Championships Brazil U23 - ITT 2017 ,-,1
+661,Tour of Alberta 2017 ,2.1,4
+662,National Championships Ecuador - ITT 2017 ,Nationals.C3.TT,1
+663,National Championships Ecuador - Road Race 2017 ,Nationals.C3,1
+664,National Championships Ecuador U23 - Road Race 2017 ,-,1
+665,Tobago Cycling Classic 2017 ,1.2,1
+666,Vuelta Ciclista de Chile 2017 ,2.2/U23,6
+667,Vuelta a Guatemala 2017 ,2.2/U23,11
+668,Vuelta Ciclista a Venezuela 2017 ,2.2/U23,10
+669,Vuelta Ciclista Internacional a Costa Rica 2017 ,2.2/U23,10

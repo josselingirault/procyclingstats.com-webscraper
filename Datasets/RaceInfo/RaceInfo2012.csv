@@ -1,0 +1,518 @@
+,Race_Name,Category,Number_stages
+0,Santos Tour Down Under 2012 ,2.WT,6
+1,Paris - Nice 2012 ,2.WT,8
+2,Tirreno-Adriatico 2012 ,2.WT,7
+3,Milano-Sanremo 2012 ,1.WT.A,1
+4,Volta Ciclista a Catalunya 2012 ,2.WT,7
+5,E3 Prijs Vlaanderen 2012 ,1.WT.B,1
+6,Gent - Wevelgem 2012 ,1.WT.B,1
+7,Ronde van Vlaanderen / Tour des Flandres 2012 ,1.WT.A,1
+8,Vuelta Ciclista al Pais Vasco 2012 ,2.WT,6
+9,Paris - Roubaix 2012 ,1.WT.A,1
+10,Amstel Gold Race 2012 ,1.WT.B,1
+11,La Flèche Wallonne 2012 ,1.WT.B,1
+12,Liège - Bastogne - Liège 2012 ,1.WT.A,1
+13,Tour de Romandie 2012 ,2.WT,6
+14,Giro d'Italia 2012 ,GT.B,21
+15,Critérium du Dauphiné 2012 ,2.WT,8
+16,Tour de Suisse 2012 ,2.WT,9
+17,Tour de France 2012 ,GT.A,21
+18,Tour de Pologne 2012 ,1.WT.B,7
+19,Eneco Tour 2012 ,2.WT,7
+20,Clasica Ciclista San Sebastian 2012 ,1.WT.B,1
+21,Vuelta a España 2012 ,GT.B,21
+22,Vattenfall Cyclassics 2012 ,1.WT.B,1
+23,GP Ouest France - Plouay 2012 ,1.WT.B,1
+24,Grand Prix Cycliste de Quebec 2012 ,1.WT.B,1
+25,Grand Prix Cycliste de Montréal 2012 ,1.WT.B,1
+26,Il Lombardia 2012 ,1.WT.A,1
+27,Tour of Beijing 2012 ,2.WT,5
+28,UCI TTT World Championships Men 2012 ,Worlds.TTT,1
+29,UCI TTT World Championships Women 2012 ,-,1
+30,World Championships MJ - ITT 2012 ,J-WC.TT,1
+31,World Championships U23 - ITT 2012 ,UCI.WO.u23.TT,1
+32,World Championships Road Race Junior Women 2012 ,-,1
+33,World Championships WE - ITT 2012 ,F-WC.TT,1
+34,World Championships - ITT 2012 ,-,1
+35,World Championships Road Race Junior Women 2012 ,-,1
+36,World Championships U23 - Road Race 2012 ,Nationals.C1,1
+37,World Championships - Road Race 2012 ,Worlds.RR,1
+38,World Championships MJ - Road Race 2012 ,J-WC,1
+39,National Championships South-Africa - ITT 2012 ,Nationals.C3.TT,1
+40,National Championships South Africa - Road Race 2012 ,Nationals.C3,1
+41,Tour du Cameroun 2012 ,2.2/U23,8
+42,Tour d\'Algérie 2012 ,2.2/U23,5
+43,Circuit d\'Alger 2012 ,1.2,1
+44,Tour du Maroc 2012 ,2.2/U23,10
+45,National Championships Namibia - Road Race 2012 ,Nationals.C3,1
+46,National Championships Namibia - ITT 2012 ,Nationals.C3.TT,1
+47,Les Challenges Phosphatiers-Challenge Khouribga 2012 ,1.2,1
+48,Les Challenges Phosphatiers-Challenge Youssoufia 2012 ,1.2,1
+49,Les Challenges Phosphatiers-Challenge Ben Guerir 2012 ,1.2,1
+50,La Tropicale Amissa Bongo 2012 ,2.1,6
+51,Challenge Du Prince - Trophée Princier 2012 ,1.2,1
+52,Challenge du Prince - Trophée de l\'Anniversaire 2012 ,1.2,1
+53,Challenge Du Prince - Trophée de la Maison Royale 2012 ,1.2,1
+54,Tour of Eritrea 2012 ,2.2/U23,5
+55,National Championships Tunisia - ITT 2012 ,Nationals.C3.TT,1
+56,Kwita Izina Cycling Tour 2012 ,2.2/U23,3
+57,National Championships Burkina Faso - Road Race 2012 ,Nationals.C3,1
+58,National Championships Algeria - ITT 2012 ,Nationals.C3.TT,1
+59,National Championships Algeria - Road Race 2012 ,Nationals.C3,1
+60,National Championships Eritrea - ITT 2012 ,Nationals.C3.TT,1
+61,National Championships Morocco - ITT 2012 ,Nationals.C2.TT,1
+62,National Championships Eritrea - Road Race 2012 ,Nationals.C3,1
+63,National Championships Morocco - Road Race 2012 ,Nationals.C3,1
+64,National Championships Tunisia - Road Race 2012 ,Nationals.C3,1
+65,National Championships Uganda - Road Race 2012 ,Nationals.C3,1
+66,Grand Prix Chantal Biya 2012 ,2.2/U23,4
+67,Tour du Faso 2012 ,2.2/U23,10
+68,National Championships Rwanda - Road Race 2012 ,Nationals.C3,1
+69,African Continental Championships TTT 2012 ,-,1
+70,African Continental Championships - ITT 2012 ,UCI.Cont.Ch.TT,1
+71,African Continental Championships - Road Race 2012 ,UCI.Cont.Ch,1
+72,Tour of Rwanda 2012 ,2.2/U23,9
+73,Tour de Langkawi 2012 ,2.HC,10
+74,Tour de Taiwan 2012 ,2.1,7
+75,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012 ,2.2/U23,6
+76,Le Tour de Filipinas 2012 ,2.2/U23,4
+77,Tour de Korea 2012 ,2.2/U23,8
+78,Tour of Borneo 2012 ,2.2/U23,5
+79,National Championships Japan - Road Race 2012 ,Nationals.C3,1
+80,Jelajah Malaysia 2012 ,2.2/U23,6
+81,International Azerbaïjan Tour 2012 ,2.2/U23,6
+82,Tour of Japan 2012 ,2.2/U23,6
+83,Tour de Kumano 2012 ,2.2/U23,4
+84,Tour of Singkarak 2012 ,2.2/U23,7
+85,National Championships Japan - ITT 2012 ,Nationals.C3.TT,1
+86,Polygon Tour de Jakarta 2012 ,1.2,1
+87,National Championships Israel - ITT 2012 ,Nationals.C3.TT,1
+88,National Championships Kazakhstan - ITT 2012 ,Nationals.C3.TT,1
+89,National Championships Uzbekistan - ITT 2012 ,Nationals.C3.TT,1
+90,National Championships Israel - Road Race 2012 ,Nationals.C3,1
+91,National Championships Kyrgyzstan - ITT 2012 ,Nationals.C3.TT,1
+92,National Championships Malaysia - ITT 2012 ,Nationals.C3.TT,1
+93,National Championships Singapore - ITT 2012 ,-,1
+94,National Championships Hong Kong - Road Race 2012 ,Nationals.C3,1
+95,National Championships Kazakhstan - Road Race 2012 ,Nationals.C3,1
+96,National Championships Kyrgyzstan - Road Race 2012 ,Nationals.C3,1
+97,National Championships Malaysia - Road Race 2012 ,Nationals.C3,1
+98,National Championships Singapore - Road Race 2012 ,Nationals.C3,1
+99,National Championships South Korea - Road Race 2012 ,Nationals.C3,1
+100,National Championships Uzbekistan - Road Race 2012 ,Nationals.C3,1
+101,Tour of Qinghai Lake 2012 ,2.HC,13
+102,Tour of East Java 2012 ,2.2/U23,4
+103,Tour of China I 2012 ,2.1,6
+104,Tour de Hokkaido 2012 ,2.2/U23,3
+105,Tour of China II 2012 ,2.1,6
+106,Butra Heidelberg Cement Tour dé Brunei 2012 ,2.2/U23,5
+107,National Championships India - ITT 2012 ,Nationals.C3.TT,1
+108,National Championships India - Road Race 2012 ,Nationals.C3,1
+109,Tour of Hainan 2012 ,2.HC,9
+110,Japan Cup Cycle Road Race 2012 ,1.HC,1
+111,Tour of Taihu Lake 2012 ,2.1,8
+112,Tour of Fuzhou 2012 ,2.2/U23,3
+113,Tour de Okinawa 2012 ,1.2,1
+114,Banyuwangi Tour de Ijen 2012 ,2.2/U23,3
+115,ADC Tour of Vietnam 2012 ,2.2/U23,5
+116,Grand Prix Cycliste La Marseillaise 2012 ,1.1,1
+117,Etoile de Bessèges 2012 ,2.1,6
+118,GP Costa Degli Etruschi 2012 ,1.1,1
+119,Trofeo Palma de Mallorca 2012 ,1.1,1
+120,Trofeo Migjorn 2012 ,1.1,1
+121,Trofeo Deià 2012 ,1.1,1
+122,Tour Méditerranéen Cycliste Professionnel 2012 ,2.1,4
+123, Giro della Provincia di reggio Calabria 2012 ,2.1,2
+124,Volta ao Algarve 2012 ,2.1,5
+125,Tour Cycliste International du Haut Var 2012 ,2.1,2
+126,Trofeo Laigueglia 2012 ,1.1,1
+127,Omloop Het Nieuwsblad 2012 ,1.HC,1
+128,Gp Citté di Lugano 2012 ,1.1,1
+129,Beverbeek Classic 2012 ,1.2,1
+130,Ster van Zwolle 2012 ,1.2,1
+131,Kuurne-Bruxelles-Kuurne 2012 ,1.1,1
+132,Les Boucles du Sud Ardèche - Souvenir F. Delpech 2012 ,1.1,1
+133,Gp Samyn 2012 ,1.1,1
+134,Driedaagse van West-Vlaanderen 2012 ,2.1,3
+135,Vuelta ciclista a la region de Murcia 2012 ,2.1,2
+136,Montepaschi Strade Bianche - Eroica Toscana 2012 ,1.1,1
+137,Grand Prix De La Ville De Lillers Souvenir Bruno C 2012 ,1.2,1
+138,Trofeo Zssdi - Unione dei Circoli sportivi 2012 ,1.2,1
+139,Dwars door Drenthe 2012 ,1.1,1
+140,Albert Achterhes Pet Ronde van Drenthe 2012 ,1.1,1
+141,Dorpenomloop Rucphen 2012 ,1.2,1
+142,Omloop van het Waasland 2012 ,1.2,1
+143,Paris-Troyes 2012 ,1.2,1
+144,Porec Trophy - Trofej Porec 2012 ,1.2,1
+145,Trofeo Franco Balestra Memorial Metelli 2012 ,1.2,1
+146,Nokere-Koerse 2012 ,1.1,1
+147,Istarsko proljece - Istrian Spring Trophy 2012 ,2.2/U23,4
+148,Handzame Classic 2012 ,1.1,1
+149,Classic Loire Atlantique 2012 ,1.1,1
+150,Cholet - Pays De Loire 2012 ,1.1,1
+151,Gran Premio San Giuseppe 2012 ,1.2,1
+152,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2012 ,1.2,1
+153,Tour de Normandie 2012 ,2.2/U23,8
+154,Settimana Internazionale Coppi e Bartali 2012 ,2.1,6
+155,Dwars Door Vlaanderen 2012 ,1.1,1
+156,Volta ao Alentejo/Crédito Agrícola Costa Azul 2012 ,2.2/U23,4
+157,Critérium International 2012 ,2.HC,3
+158,Driedaagse De Panne-Koksijde 2012 ,2.HC,4
+159,Route Adélie de Vitré 2012 ,1.1,1
+160,Le Triptyque des Monts et Châteaux 2012 ,2.2/U23,4
+161,Gran Premio Miguel Indurain 2012 ,1.HC,1
+162,Volta Limburg Classic 2012 ,1.1,1
+163,Flèche d'Emeraude - Saint Malo 2012 ,1.1,1
+164,Grand Prix de la Ville de Nogent-sur-Oise 2012 ,1.2,1
+165,Trofeo Piva Banca Popolare di Vicenza 2012 ,1.2,1
+166,Circuit cycliste Sarthe - Pays de la Loire 2012 ,2.1,5
+167,Scheldeprijs 2012 ,1.HC,1
+168,Grand Prix of Sochi 2012 ,2.2/U23,5
+169,Grand Prix Pino Cerami 2012 ,1.1,1
+170,Circuit des Ardennes International 2012 ,2.2/U23,4
+171,Klasika Primavera de Amorebieta 2012 ,1.1,1
+172,Rund um Köln 2012 ,1.1,1
+173,Dwars door het Hageland 2012 ,1.2,1
+174,Giro del Belvedere 2012 ,1.2,1
+175,Paris-Camembert 2012 ,1.1,1
+176,GP Palio del Recioto 2012 ,1.2,1
+177,De Brabantse Pijl - La Flèche Brabançonne 2012 ,1.HC,1
+178,Tour du Loir-et-Cher 'E. Provost' 2012 ,2.2/U23,5
+179,GP de Denain Porte du Hainaut 2012 ,1.1,1
+180,Vuelta a Castilla y Leon 2012 ,2.1,3
+181,Tour du Finistère 2012 ,1.1,1
+182,Liège - Bastogne - Liège 2012 ,E-1.Ncup,1
+183,Trofeo Edil C 2012 ,1.2,1
+184,Giro dell'Appennino 2012 ,1.1,1
+185,Tro-Bro Léon 2012 ,1.1,1
+186,Grand Prix of Donetsk 2012 ,1.2,1
+187,Zellik - Galmaarden 2012 ,1.2,1
+188,Giro del Trentino 2012 ,2.HC,4
+189,Grand Prix of Adygeya 2012 ,2.2/U23,5
+190,Arno Wallaard Memorial 2012 ,1.2,1
+191,Banja Luka - Belgrade I 2012 ,1.2,1
+192,Presidential Cycling Tour of Turkey 2012 ,2.HC,8
+193,Vuelta Ciclista a La Rioja 2012 ,1.1,1
+194,Banja Luka-Belgrade II 2012 ,1.2,1
+195,Ronde van Noord-Holland 2012 ,1.2,1
+196,Val d\'Ille U Classic 35 - Souvenir Julien 2012 ,1.2,1
+197,Gran Premio della Liberazione 2012 ,1.2,1
+198,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012 ,2.2/U23,7
+199,Vuelta Asturias Julio Alvarez Mendo 2012 ,2.1,4
+200,GP Industria & Artigianato 2012 ,1.1,1
+201,Giro della Toscana 2012 ,1.1,1
+202,GP Industrie del Marmo 2012 ,1.2,1
+203,Himmerland Rundt 2012 ,1.2,1
+204,Paris - Mantes-en-Yvelines 2012 ,1.2,1
+205,Rutland - Melton International CiCLE Classic 2012 ,1.2,1
+206,Rund um den Finanzplatz Eschborn-Frankfurt 2012 ,1.HC,1
+207,Grote Prijs 1 Mei - Ereprijs Victor de Bruyne 2012 ,1.2,1
+208,Mayor Cup 2012 ,1.2,1
+209,Memorial Andrzeja Trochanowskiego 2012 ,1.2,1
+210,Rund um den Finanzplatz Eschborn-Frankfurt 2012 ,1.2,1
+211,Trofeo Papà Cervi Coppa 1° Maggio 2012 ,1.2,1
+212,Giro della Regione Friuli Venezia Giulia 2012 ,2.2/U23,5
+213,Memorial of Oleg Dyachenko 2012 ,1.2,1
+214,Carpathia Couriers Paths 2012 ,2.2/U23,4
+215,Grand Prix of Moscow 2012 ,1.2,1
+216,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012 ,2.HC,5
+217,Szlakiem Grodòw Piastowskich 2012 ,2.1,4
+218,Grand Prix Dobrich I 2012 ,1.2,1
+219,Ronde van Overijssel 2012 ,1.2,2
+220,Vuelta a la Comunidad de Madrid 2012 ,2.1,2
+221,Five Rings of Moscow 2012 ,2.2/U23,5
+222,Circuit de Wallonie 2012 ,1.2,1
+223,Circuito del Porto - Trofeo Arvedi 2012 ,1.2,1
+224,Grand Prix Dobrich II 2012 ,1.2,1
+225,Omloop der Kempen 2012 ,1.2,1
+226,Heydar Aliyev Anniversary Tour 2012 ,2.2/U23,5
+227,Rhône-Alpes Isère Tour 2012 ,2.2/U23,4
+228,Tour of Malopolska 2012 ,2.2/U23,3
+229,Tour de Picardie 2012 ,2.1,3
+230,Scandinavian Race in Uppsala 1909-2012 2012 ,1.2,1
+231,Rogaland GP 2012 ,1.1,1
+232,Royal Smilde Olympia’s Tour 2012 ,2.2/U23,7
+233,National Championships Austria - ITT 2012 ,Nationals.C3.TT,1
+234,Circuit de Lorraine Professionnel 2012 ,2.1,5
+235,Glava Tour of Norway 2012 ,2.1,5
+236,Flèche du Sud 2012 ,2.2/U23,5
+237,International Tour of Hellas 2012 ,2.2/U23,5
+238,Ronde van Limburg 2012 ,1.2,1
+239,Tour de Berlin 2012 ,2.2/U23,5
+240,Riga Grand Prix 2012 ,1.2,1
+241,Sparkassen Neuseenclassics - Rund um die Braunkohle 2012 ,1.1,1
+242,An Post Ras 2012 ,2.2/U23,8
+243,Grand Prix Criquielion 2012 ,1.2,1
+244,Bayern-Rundfahrt 2012 ,2.HC,5
+245,Tour of Belgium 2012 ,2.HC,5
+246,Tour of Trakya 2012 ,2.2/U23,4
+247,Tallinn-Tartu Grand Prix 2012 ,1.1,1
+248,Grand Prix de Plumelec-Morbihan 2012 ,1.1,1
+249,SEB Tartu Grand Prix 2012 ,1.1,1
+250,Tour de Gironde 2012 ,2.2/U23,3
+251,Boucles de l'Aulne - Châteaulin 2012 ,1.1,1
+252,GP Industria e Commercio - Tr. Città di San Vendemiano 2012 ,1.2,1
+253,Paris-Roubaix Espoirs 2012 ,1.2,1
+254,Race Horizon Park 2012 ,1.2,1
+255,Skoda-Tour de Luxembourg 2012 ,2.HC,5
+256,Trofeo Melinda - Val di Non 2012 ,1.1,1
+257,Romanian Cycling Tour 2012 ,2.2/U23,9
+258,Trofeo Alcide Degasperi 2012 ,1.2,1
+259,Coppa della Pace - Trofeo F.lli Anelli 2012 ,1.2,1
+260,Grand Prix Südkärnten 2012 ,1.2,1
+261,Memorial Philippe Van Coningsloo 2012 ,1.2,1
+262,Riga Grand Prix 2012 ,1.2,1
+263,Okolo Slovenska 2012 ,2.2/U23,5
+264,GP du Canton d'Argovie / GP Gippingen 2012 ,1.1,1
+265,Ronde de l'Oise 2012 ,2.2/U23,4
+266,National Championships Slovenia - ITT 2012 ,Nationals.C3.TT,1
+267,Giro Ciclistico d'Italia 2012 ,2.2/U23,10
+268,Ronde van Zeeland Seaports 2012 ,1.1,1
+269,Internationale Thüringen-Rundfahrt U23 2012 ,2.2/U23,7
+270,Garmin ProRace 2012 ,1.1,1
+271,National Championships Macedonia - ITT 2012 ,Nationals.C3.TT,1
+272,Route du Sud - la Depêche du Midi 2012 ,2.1,4
+273,Ster ZLM Toer GP Jan van Heeswijk 2012 ,2.1,4
+274,Tour De Slovénie 2012 ,2.1,4
+275,Boucles de la Mayenne 2012 ,2.2/U23,4
+276,National Championships Finland - ITT 2012 ,Nationals.C3.TT,1
+277,National Championships Finland - Road Race 2012 ,Nationals.C3,1
+278,Flèche Ardennaise 2012 ,1.2,1
+279,Halle-Ingooigem 2012 ,1.1,1
+280,National Championships Estonia - ITT 2012 ,Nationals.C3.TT,1
+281,National Championships Netherlands - ITT 2012 ,Nationals.C3.TT,1
+282,National Championships Switzerland - ITT 2012 ,Nationals.C3.TT,1
+283,National Championships Czech Republic - ITT 2012 ,Nationals.C3.TT,1
+284,National Championships Denmark - ITT 2012 ,Nationals.C3.TT,1
+285,National Championships France - ITT 2012 ,Nationals.C1.TT,1
+286,National Championships Hungary - ITT 2012 ,Nationals.C3.TT,1
+287,National Championships Ireland - ITT 2012 ,Nationals.C3.TT,1
+288,National Championships Latvia - ITT 2012 ,Nationals.C3.TT,1
+289,National Championships Luxembourg - ITT 2012 ,Nationals.C3.TT,1
+290,National Championships Norway - ITT 2012 ,Nationals.C3.TT,1
+291,National Championships Poland - ITT 2012 ,Nationals.C2.TT,1
+292,National Championships Slovakia - ITT 2012 ,Nationals.C3.TT,1
+293,National Championships Luxembourg 2012 ,-,1
+294,National Championships Estonia - Road Race 2012 ,Nationals.C3,1
+295,National Championships Azerbaijan - ITT 2012 ,Nationals.C3.TT,1
+296,National Championships Belarus - ITT 2012 ,Nationals.C3.TT,1
+297,National Championships Croatia - ITT 2012 ,Nationals.C3.TT,1
+298,National Championships Georgia - ITT 2012 ,Nationals.C3.TT,1
+299,National Championships Germany - ITT 2012 ,Nationals.C1.TT,1
+300,National Championships Greece - ITT 2012 ,Nationals.C3.TT,1
+301,National Championships Lithuania - ITT 2012 ,Nationals.C3.TT,1
+302,National Championships Romania - ITT 2012 ,Nationals.C3.TT,1
+303,National Championships Russia - ITT 2012 ,Nationals.C3.TT,1
+304,National Championships Spain - ITT 2012 ,Nationals.C3.TT,1
+305,National Championships Turkey - ITT 2012 ,Nationals.C3.TT,1
+306,National Championships Ukraine - ITT 2012 ,Nationals.C3.TT,1
+307,National TT Championships Portugal 2012 ,Nationals.C3.TT,1
+308,National Championships Italy - Road Race 2012 ,Nationals.C3,1
+309,National Championships Latvia - Road Race 2012 ,Nationals.C3,1
+310,National Championships Moldova - ITT 2012 ,Nationals.C3.TT,1
+311,National Championships Serbia - ITT 2012 ,Nationals.C3.TT,1
+312,National Championships Turkey - Road Race 2012 ,Nationals.C3,1
+313,National Championships Austria - Road Race 2012 ,Nationals.C3,1
+314,National Championships Azerbaijan - Road Race 2012 ,Nationals.C3,1
+315,National Championships Belarus - Road Race 2012 ,F-NC.2,1
+316,National Championships Belgium - Road Race 2012 ,Nationals.C3,1
+317,National Championships Croatia - Road Race 2012 ,Nationals.C3,1
+318,National Championships Czech Republic - Road Race 2012 ,Nationals.C3,1
+319,National Championships Denmark - Road Race 2012 ,-,1
+320,National Championships France - Road Race 2012 ,Nationals.C3,1
+321,National Championships Georgia - Road Race 2012 ,Nationals.C3,1
+322,National Championships Germany - Road Race 2012 ,Nationals.C1,1
+323,National Championships Great Britain - Road Race 2012 ,Nationals.C3,1
+324,National Championships Greece - Road Race 2012 ,Nationals.C3,1
+325,National Championships Hungary - Road Race 2012 ,Nationals.C3,1
+326,National Championships Ireland - Road Race 2012 ,Nationals.C3,1
+327,National Championships Italy - ITT 2012 ,Nationals.C3.TT,1
+328,National Championships Lithuania - Road Race 2012 ,Nationals.C3,1
+329,National Championships Luxembourg - Road Race 2012 ,Nationals.C3,1
+330,National Championships Macedonia - Road Race 2012 ,Nationals.C3,1
+331,National Championships Moldova - Road Race 2012 ,Nationals.C3,1
+332,National Championships Netherlands - Road Race 2012 ,Nationals.C3,1
+333,National Championships Norway - Road Race 2012 ,Nationals.C3,1
+334,National Championships Poland - Road Race 2012 ,Nationals.C2,1
+335,National Championships Romania - Road Race 2012 ,Nationals.C3,1
+336,National Championships Russia - Road Race 2012 ,Nationals.C2,1
+337,National Championships Serbia - Road Race 2012 ,Nationals.C3,1
+338,National Championships Slovakia - Road Race 2012 ,Nationals.C3,1
+339,National Championships Slovenia - Road Race 2012 ,Nationals.C3,1
+340,National Championships Spain - Road Race 2012 ,Nationals.C3,1
+341,National Championships Sweden - Road Race 2012 ,Nationals.C3,1
+342,National Championships Switzerland - Road Race 2012 ,Nationals.C3,1
+343,National Championships Ukraine - Road Race 2012 ,Nationals.C3,1
+344,National Championships Sweden - ITT 2012 ,Nationals.C3.TT,1
+345,Internationale Wielertrofee Jong Maar Moedig I.W.T 2012 ,1.2,1
+346,Czech Cycling Tour 2012 ,2.2/U23,4
+347,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2012 ,1.2,1
+348,Int. Osterreich-Rundfahrt-Tour of Austria 2012 ,2.HC,8
+349,National Championships Bulgaria - Road Race 2012 ,Nationals.C3,1
+350,National Championships Albania - Road Race 2012 ,Nationals.C3,1
+351,Course Cycliste de Solidarnosc et des Champions Olympiques 2012 ,2.1,6
+352,Sibiu Cycling Tour 2012 ,2.2/U23,5
+353,Giro del Medio Brenta 2012 ,1.2,1
+354,GP de Pont a Marcq - La Ronde Pévèloise 2012 ,1.2,1
+355,GP van de stad Geel 2012 ,1.2,1
+356,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2012 ,2.2/U23,4
+357,GP Nobili Rubinetterie Coppa Citta di Stresa 2012 ,1.1,1
+358,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012 ,2.2/U23,7
+359,Tour de Wallonie 2012 ,2.HC,5
+360,Central European Tour Miskolc GP 2012 ,1.2,1
+361,Central European Tour Budapest GP 2012 ,1.2,1
+362,Grand Prix de la ville de Pérenchies 2012 ,1.2,1
+363,Tour Alsace 2012 ,2.2/U23,6
+364,Prueba Villafranca-Ordiziako Klasika 2012 ,1.1,1
+365,Dookola Mazowsza 2012 ,2.2/U23,4
+366,Kreiz Breizh Elites 2012 ,2.2/U23,4
+367,La Poly Normande 2012 ,1.1,1
+368,Trofeo Matteotti 2012 ,1.1,1
+369,Circuito De Getxo \'Memorial Ricardo Otxoa\' 2012 ,1.1,1
+370,Vuelta a Burgos 2012 ,2.HC,5
+371,Paris - Corrèze 2012 ,2.1,2
+372,Antwerpse Havenpijl 2012 ,1.2,1
+373,Trofeo Internazionale Bastianelli 2012 ,1.2,1
+374,Tour de l'Ain - La route du progrès 2012 ,2.1,6
+375,Vuelta Ciclista a León 2012 ,2.2/U23,5
+376,La Mi-Août en Bretagne 2012 ,2.2/U23,4
+377,Tour of Szeklerland 2012 ,2.2/U23,5
+378,G.P. Camaiore 2012 ,1.1,1
+379,Memorial Henryka Lasaka 2012 ,1.2,1
+380,National Championships Iceland - Road Race 2012 ,Nationals.C3,1
+381,Gran Premio Sportivi di Poggiana-Trofeo Bonin Costruzioni 2012 ,1.2,1
+382,Puchar Uzdrowisk Karpackich 2012 ,1.2,1
+383,Tour du Limousin 2012 ,2.HC,4
+384,Volta a Portugal em Bicicleta 2012 ,2.1,11
+385,GP Banca di Legnano - Coppa Bernocchi 2012 ,1.1,1
+386,GP Capodarco - Comunità di Capodarco 2012 ,1.2,1
+387,Coppa Agostoni - Giro della Brianza 2012 ,1.1,1
+388,Dutch Food Valley Classic 2012 ,1.1,1
+389,Tre Valli Varesine 2012 ,1.HC,1
+390,National Championships Bosnia and Herzegovina - Road Race 2012 ,Nationals.C3,1
+391,Grand Prix Kralovehradeckeho kraje 2012 ,1.2,1
+392,Puchar Ministra Obrony Narodowej 2012 ,1.2,1
+393,Chateauroux Classic de l'Indre Trophee Fenioux 2012 ,1.1,1
+394,GP Stad Zottegem 2012 ,1.1,1
+395,Tour du Poitou Charentes 2012 ,2.1,5
+396,Baltic Chain Tour 2012 ,2.2/U23,5
+397,Grand Prix des Marbriers 2012 ,1.2,1
+398,Post Danmark Rundt 2012 ,2.HC,6
+399,52nd Druivenkoers - Overijse 2012 ,1.1,1
+400,GP Industria Commercio Artigianato Carnaghese 2012 ,1.1,1
+401,83th Giro Del Veneto - Coppa Placci 2012 ,1.1,1
+402,Schaal Sels 2012 ,1.1,1
+403,Ljubljana - Zagreb 2012 ,1.2,1
+404,Ronde van Midden-Nederland 2012 ,1.2,1
+405,World Ports Classic 2012 ,2.1,1
+406,Grote Prijs Jef Scherens - Rondom Leuven 2012 ,1.1,1
+407,National Championships Great Britain - ITT 2012 ,Nationals.C3.TT,1
+408,Tour du Doubs - Conseil General 2012 ,1.1,1
+409,Kernen Omloop Echt-Susteren 2012 ,1.2,1
+410,Memorial Davide Fardelli - Cronometro Individuale 2012 ,1.2,1
+411,Giro di Padania 2012 ,2.1,6
+412,Memorial Rik Van Steenbergen 2012 ,1.1,1
+413,Okolo Jižních Čech 2012 ,2.2/U23,4
+414,Paris-Bruxelles 2012 ,1.HC,1
+415,GP de Fourmies - La Voix du Nord 2012 ,1.HC,1
+416,Tour of Britain 2012 ,2.1,8
+417,Chrono Champenois Masculin International 2012 ,1.2,1
+418,Tour of Bulgaria 2012 ,2.2/U23,8
+419,Grand Prix de Wallonie 2012 ,1.1,1
+420,Grand Prix de la Somme « Conseil Général 80 » 2012 ,1.1,1
+421,Kampioenschap van Vlaanderen 2012 ,1.1,1
+422,GP Impanis - Van Petegem 2012 ,1.1,1
+423,Memorial Marco Pantani - Trofeo Sidermac 2012 ,1.1,1
+424,GP Industria & Commercio di Prato 2012 ,1.1,1
+425,Grand Prix d'Isbergues - Pas de Calais 2012 ,1.1,1
+426,Tour Bohemia 2012 ,1.2,1
+427,Trofeo G. Bianchin 2012 ,1.2,1
+428,Omloop van het Houtland 2012 ,1.1,1
+429,Tour of Vojvodina I 2012 ,1.2,1
+430, Tour of Vojvodina II 2012 ,1.2,1
+431,De Kustpijl 2012 ,1.2,1
+432,9th Gooikse Pijl 2012 ,1.2,1
+433,Ruota d'Oro - GP Festa del Perdono 2012 ,1.2,1
+434,Milano-Torino 2012 ,1.HC,1
+435,Gran Piemonte 2012 ,1.HC,1
+436,Eurométropole Tour 2012 ,2.1,4
+437,Duo Normand 2012 ,1.1,1
+438,Binche-Tournai-Binche/ Mémorial Frank Vandenbroucke 2012 ,1.1,1
+439,Sparkassen Münsterland Giro 2012 ,1.1,1
+440,Gran Premio Città di Peccioli - Coppa Sabatini 2012 ,1.1,1
+441,Paris-Bourges 2012 ,1.1,1
+442,Giro dell'Emilia 2012 ,1.HC,1
+443,Piccolo Giro di Lombardia 2012 ,1.2,1
+444,Paris - Tours 2012 ,1.HC,1
+445,Gran Premio Bruno Beghelli 2012 ,1.1,1
+446,Paris-Tours Espoirs 2012 ,1.2,1
+447,Nationale Sluitingprijs Putte - Kapellen 2012 ,1.1,1
+448,Tour de Vendée 2012 ,1.HC,1
+449,Chrono des Nations 2012 ,1.1,1
+450,National Championships New Zealand - ITT 2012 ,Nationals.C3.TT,1
+451,National Championships Australia - Road Race 2012 ,Nationals.C3,1
+452,National Championships New Zealand - Road Race 2012 ,Nationals.C3,1
+453,National Championships Australia - ITT 2012 ,Nationals.C3.TT,1
+454,New Zealand Cycle Classic 2012 ,2.2/U23,5
+455,Oceania Cycling Championships - ITT 2012 ,UCI.Cont.Ch.TT,1
+456,Oceania Cycling Championships - Road Race 2012 ,None,1
+457,Vuelta Ciclista De Chile 2012 ,2.2/U23,11
+458,Copa América De Ciclismo 2012 ,1.2,1
+459,Vuelta al Tachira en Bicicleta 2012 ,2.2/U23,10
+460,Tour de San Luis 2012 ,2.1,7
+461,Vuelta Independencia Nacional 2012 ,2.2/U23,11
+462,Rutas de América 2012 ,2.2/U23,7
+463,Pan American Championships - ITT 2012 ,None,1
+464,Pan American Championships - Road Race 2012 ,1.HC,1
+465,Vuelta Mexico Telmex 2012 ,2.2/U23,8
+466,Vuelta Ciclista al Uruguay 2012 ,2.2/U23,10
+467,National Championships Argentina - ITT 2012 ,Nationals.C3.TT,1
+468,National Championships Argentina - Road Race 2012 ,Nationals.C3,1
+469,Tour of the Battenkill 2012 ,1.2,1
+470,Tour of the Gila 2012 ,2.2/U23,5
+471,Amgen Tour of California 2012 ,2.HC,8
+472,Vuelta a Guatemala 2012 ,2.2/U23,8
+473,National Championships Mexico - ITT 2012 ,Nationals.C3.TT,1
+474,National Championships United States - ITT 2012 ,Nationals.C3.TT,1
+475,National Championships Mexico - Road Race 2012 ,Nationals.C3,1
+476,National Championships United States - Road Race 2012 ,Nationals.C3,1
+477,TD Bank International Cycling Championship 2012 ,1.HC,1
+478,National Championships Suriname - ITT 2012 ,Nationals.C3.TT,1
+479,Vuelta Pilsen a Colombia 2012 ,2.2/U23,12
+480,National Championships Canada - ITT 2012 ,Nationals.C3.TT,1
+481,National Championships Panama - ITT 2012 ,Nationals.C3.TT,1
+482,National Championships Aruba - ITT 2012 ,Nationals.C3.TT,1
+483,National Championships Brazil - ITT 2012 ,Nationals.C3.TT,1
+484,National Championships Canada - Road Race 2012 ,Nationals.C3,1
+485,National Championships Costa Rica - ITT 2012 ,Nationals.C3.TT,1
+486,National Championships Curaçao - ITT 2012 ,Nationals.C3.TT,1
+487,National Championships Saint Kitts and Nevis - ITT 2012 ,Nationals.C3.TT,1
+488,National Championships Venezuela - ITT 2012 ,Nationals.C2.TT,1
+489,National Championships United States U23 - Road Race 2012 ,-,1
+490,National Championships Aruba - Road Race 2012 ,Nationals.C3,1
+491,National Championships Brazil - Road Race 2012 ,Nationals.C3,1
+492,National Championships Costa Rica - Road Race 2012 ,Nationals.C3,1
+493,National Championships Cuba - Road Race 2012 ,F-WC.Leader,1
+494,National Championships Curaçao - Road Race 2012 ,Nationals.C3,1
+495,National Championships Dominican Republic - Road Race 2012 ,Nationals.C3,1
+496,National Championships El Salvador - ITT 2012 ,Nationals.C3.TT,1
+497,National Championships Panama - Road Race 2012 ,Nationals.C3,1
+498,National Championships Saint Kitts and Nevis - Road Race 2012 ,Nationals.C3,1
+499,National Championships Saint Lucia - Road Race 2012 ,Nationals.C3,1
+500,National Championships Suriname - Road Race 2012 ,Nationals.C3,1
+501,National Championships Venezuela - Road Race 2012 ,Nationals.C2,1
+502,National Championships Puerto Rico - ITT 2012 ,-,1
+503,Vuelta Ciclista a Venezuela 2012 ,2.2/U23,10
+504,Tour of Elk Grove 2012 ,2.1,3
+505,Tour Cycliste International de la Guadeloupe 2012 ,2.2/U23,11
+506,Tour of Utah 2012 ,2.1,6
+507,USA Pro Cycling Challenge 2012 ,2.HC,7
+508,Tour do Rio 2012 ,2.2/U23,5
+509,Thompson Bucks County Classic 2012 ,1.2,1
+510,Tobago Cycling Classic 2012 ,1.2,1
+511,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012 ,2.2/U23,8
+512,Vuelta a Bolivia 2012 ,2.2/U23,12
+513,National Championships Colombia - ITT 2012 ,Nationals.C3,1
+514,National Championships Colombia - Road Race 2012 ,Nationals.C3,1
+515,Vuelta Mundo Maya 2012 ,2.2/U23,8
+516,Vuelta Internacional a Costa Rica 2012 ,2.2/U23,12

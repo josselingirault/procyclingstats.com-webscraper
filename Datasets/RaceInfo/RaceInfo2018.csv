@@ -1,0 +1,651 @@
+,Race_Name,Category,Number_stages
+0,Santos Tour Down Under 2018 ,2.WT,6
+1,Cadel Evans Great Ocean Road Race 2018 ,1.WT.C,1
+2,Abu Dhabi Tour 2018 ,2.WT.C,5
+3,Omloop Het Nieuwsblad Elite 2018 ,1.WT.C,1
+4,Strade Bianche 2018 ,1.WT.C,1
+5,Paris - Nice 2018 ,2.WT,8
+6,Tirreno-Adriatico 2018 ,2.WT,7
+7,Milano-Sanremo 2018 ,1.WT.A,1
+8,Volta Ciclista a Catalunya 2018 ,2.WT,7
+9,Record Bank E3 Harelbeke 2018 ,1.WT.B,1
+10,Gent-Wevelgem in Flanders Fields 2018 ,1.WT.B,1
+11,Dwars door Vlaanderen - A travers la Flandre 2018 ,1.WT.C,1
+12,Ronde van Vlaanderen - Tour des Flandres 2018 ,1.WT.A,1
+13,Itzulia Basque Country 2018 ,2.WT,6
+14,Paris-Roubaix 2018 ,1.WT.A,1
+15,Amstel Gold Race 2018 ,1.WT.A,1
+16,La Flèche Wallonne 2018 ,1.WT.B,1
+17,Liège - Bastogne - Liège 2018 ,1.WT.A,1
+18,Tour de Romandie 2018 ,2.WT,6
+19,Eschborn-Frankfurt 2018 ,1.WT.C,1
+20,Giro d'Italia 2018 ,GT.B,21
+21,Amgen Tour of California 2018 ,2.WT.C,7
+22,Critérium du Dauphiné 2018 ,2.WT,8
+23,Tour de Suisse 2018 ,2.WT,9
+24,Tour de France 2018 ,GT.A,21
+25,Prudential RideLondon-Surrey Classic 2018 ,1.WT.C,1
+26,Clasica Ciclista San Sebastian 2018 ,1.WT.B,1
+27,Tour de Pologne 2018 ,2.WT,7
+28,Binck Bank Tour 2018 ,2.WT,7
+29,EuroEyes Cyclassics Hamburg 2018 ,1.WT.B,1
+30,La Vuelta ciclista a España 2018 ,GT.B,21
+31,Bretagne Classic - Ouest-France 2018 ,1.WT.B,1
+32,Grand Prix Cycliste de Québec 2018 ,1.WT.B,1
+33,Grand Prix Cycliste de Montréal 2018 ,1.WT.B,1
+34,Presidential Cycling Tour of Turkey 2018 ,2.WT.C,6
+35,Il Lombardia 2018 ,1.WT.A,1
+36,Gree-Tour of Guangxi 2018 ,2.WT.C,6
+37,World Championships - TTT 2018 ,Worlds.TTT,1
+38,World Championships WE - TTT 2018 ,F-CDM-TTT,1
+39,World Championships U23 - ITT 2018 ,UCI.WO.u23.TT,1
+40,World Championships WJ - ITT 2018 ,-,1
+41,World Championships MJ - ITT 2018 ,J-WC.TT,1
+42,World Championships WE - ITT 2018 ,F-WC.TT,1
+43,World Championships - ITT 2018 ,Worlds.TT,1
+44,World Championships MJ - Road Race 2018 ,J-WC,1
+45,World Championships WJ - Road Race 2018 ,-,1
+46,World Championships U23 - Road Race 2018 ,Nationals.C1,1
+47,World Championships WE - Road Race 2018 ,F-WC,1
+48,World Championships - Road Race 2018 ,Worlds.RR,1
+49,La Tropicale Amissa Bongo 2018 ,2.1,7
+50,Tour International des Zibans 2018 ,2.2/U23,4
+51,Coupe des Nations de l'Espoir Blue Line 2018 ,E-2.Ncup,4
+52,National Championships Namibia - ITT 2018 ,Nationals.C3.TT,1
+53,National Championships Namibia - Road Race 2018 ,Nationals.C3,1
+54,National Championships Namibia U23 - Road Race 2018 ,-,1
+55,National Championships South Africa - ITT 2018 ,Nationals.C3.TT,1
+56,National Championships South Africa U23 - ITT 2018 ,-,1
+57,National Championships South Africa - Road Race 2018 ,Nationals.C3,1
+58,National Championships South Africa U23 - Road Race 2018 ,-,1
+59,African Continental Championships - TTT 2018 ,2.HC.TTT,1
+60,African Continental Championships - ITT 2018 ,UCI.Cont.Ch.TT,1
+61,African Continental Championships - Road Race 2018 ,E-CC,1
+62,Grand Prix International de la ville d'Alger 2018 ,2.2/U23,4
+63,Tour Cycliste International de la Pharmacie Centrale de Tunisie 2018 ,2.2/U23,2
+64,Grand Prix International de la Pharmacie Centrale de Tunisie 2018 ,1.2,1
+65,Tour d'Algérie Cycliste 2018 ,2.2/U23,7
+66,Tour du Maroc 2018 ,2.2/U23,10
+67,Tour du Sénégal 2018 ,2.2/U23,8
+68,Tour de Limpopo 2018 ,2.2/U23,4
+69,Tour International de la Wilaya d'Oran 2018 ,2.2/U23,4
+70,100 Cycle Challenge 2018 ,1.2,1
+71,Tour du Cameroun 2018 ,2.2/U23,8
+72,National Championships Mauritius - ITT 2018 ,Nationals.C3.TT,1
+73,National Championships Eritrea - ITT 2018 ,Nationals.C3.TT,1
+74,National Championships Rwanda - ITT 2018 ,Nationals.C3.TT,1
+75,National Championships Eritrea - Road Race 2018 ,Nationals.C3,1
+76,National Championships Mauritius - Road Race 2018 ,Nationals.C3,1
+77,National Championships Rwanda - Road Race 2018 ,Nationals.C3,1
+78,National Championships Ethiopia - ITT 2018 ,Nationals.C3.TT,1
+79,National Championships Tunisia - ITT 2018 ,Nationals.C3.TT,1
+80,National Championships Morocco - ITT 2018 ,Nationals.C3.TT,1
+81,National Championships Angola - Road Race 2018 ,Nationals.C3,1
+82,National Championships Morocco - Road Race 2018 ,Nationals.C3,1
+83,National Championships Tunisia - Road Race 2018 ,Nationals.C3,1
+84,National Championships Algeria - ITT 2018 ,Nationals.C3.TT,1
+85,National Championships Algeria - Road Race 2018 ,Nationals.C3,1
+86,Tour of Rwanda 2018 ,2.2/U23,8
+87,Tour de Côte d'Ivoire-Tour de la Réconciliation 2018 ,2.2/U23,7
+88,Grand Prix Chantal Biya 2018 ,2.2/U23,5
+89,Tour du Faso 2018 ,2.2/U23,10
+90,Africa Cup - TTT 2018 ,1.2,1
+91,Africa Cup - ITT 2018 ,1.2,1
+92,Africa Cup 2018 ,1.1,1
+93,Sharjah Tour 2018 ,2.1,4
+94,Tour of Indonesia 2018 ,2.1,4
+95,Dubai Tour 2018 ,2.HC,5
+96,Asian Cycling Championships - TTT 2018 ,2.HC.TTT,1
+97,Asian Cycling Championships U23 - ITT 2018 ,E-CC.TT,1
+98,Asian Cycling Championships - ITT 2018 ,UCI.Cont.Ch.TT,1
+99,Asian Cycling Championships U23 - Road Race 2018 ,E-CC,1
+100,Asian Cycling Championships - Road Race 2018 ,E-CC,1
+101,Tour of Oman 2018 ,2.HC,6
+102,Tour de Taiwan 2018 ,2.1,5
+103,Le Tour de Langkawi 2018 ,2.HC,8
+104,Tour de Tochigi 2018 ,2.2/U23,3
+105,National Championships United Arab Emirates - Road Race 2018 ,Nationals.C3,1
+106,National Championships United Arab Emirates - ITT 2018 ,Nationals.C3.TT,1
+107,"The Princess Maha Chackri Sirindhorn's Cup ""Tour of Thailand"" 2018 ",2.1,6
+108,Tour De Lombok Mandalika 2018 ,2.2/U23,3
+109,Sri Lanka T-Cup 2018 ,2.2/U23,3
+110,Tour of Japan 2018 ,2.1,8
+111,Le Tour de Filipinas 2018 ,2.2/U23,4
+112,Tour de Korea 2018 ,2.1,5
+113,Tour de Kumano 2018 ,2.2/U23,4
+114,National Championships Japan - ITT 2018 ,Nationals.C3.TT,1
+115,National Championships Japan U23 - ITT 2018 ,-,1
+116,National Championships Uzbekistan - ITT 2018 ,Nationals.C3.TT,1
+117,National Championships Mongolia - ITT 2018 ,Nationals.C3.TT,1
+118,National Championships Mongolia U23 - ITT 2018 ,-,1
+119,National Championships Uzbekistan - Road Race 2018 ,Nationals.C3,1
+120,National Championships South Korea - ITT 2018 ,Nationals.C3.TT,1
+121,National Championships Japan U23 - Road Race 2018 ,-,1
+122,National Championships Japan - Road Race 2018 ,Nationals.C3,1
+123,National Championships South Korea - Road Race 2018 ,Nationals.C3,1
+124,National Championships Mongolia - Road Race 2018 ,Nationals.C3,1
+125,National Championships Mongolia U23 - Road Race 2018 ,-,1
+126,National Championships Kazakhstan - ITT 2018 ,Nationals.C3.TT,1
+127,National Championships Iran - Road Race 2018 ,Nationals.C3,1
+128,National Championships Kuwait - ITT 2018 ,Nationals.C3.TT,1
+129,National Championships Hong Kong - ITT 2018 ,Nationals.C3.TT,1
+130,National Championships Iran - ITT 2018 ,Nationals.C3.TT,1
+131,National Championships Kuwait - Road Race 2018 ,Nationals.C3,1
+132,National Championships Hong Kong - Road Race 2018 ,Nationals.C3,1
+133,National Championships Kazakhstan - Road Race 2018 ,Nationals.C3,1
+134,National Championships Singapore - ITT 2018 ,Nationals.C3.TT,1
+135,National Championships Singapore U23 - ITT 2018 ,-,1
+136,National Championships Singapore - Road Race 2018 ,Nationals.C3,1
+137,National Championships Singapore U23 - Road Race 2018 ,-,1
+138,National Championships Indonesia - ITT 2018 ,Nationals.C3.TT,1
+139,National Championships Indonesia - Road Race 2018 ,Nationals.C3,1
+140,Tour of Qinghai Lake 2018 ,2.HC,13
+141,Summer Asian Games - Road Race 2018 ,E-CC,1
+142,Summer Asian Games - ITT 2018 ,-,1
+143,Tour of Xingtai 2018 ,2.2/U23,3
+144,Tour of China I 2018 ,2.1,7
+145,Tour of China II 2018 ,2.1,6
+146,Tour de Siak 2018 ,2.2/U23,4
+147,International Tour de Banyuwangi Ijen 2018 ,2.2/U23,4
+148,Tour of Almaty 2018 ,2.1,2
+149,Tour of Iran (Azarbaijan) 2018 ,2.1,6
+150,Tour of Taihu Lake 2018 ,2.1,8
+151,Hammer Hong Kong 2018  Stage 1 ,-,0
+152,Oita Urban Classic 2018 ,1.2,1
+153,Japan Cup Cycle Road Race 2018 ,1.HC,1
+154,Tour of Hainan 2018 ,2.HC,9
+155,Tour de Singkarak 2018 ,2.2/U23,8
+156,Tour of Quanzhou Bay 2018 ,2.2/U23,3
+157,Tour de Okinawa 2018 ,1.2,1
+158,Tour of Fuzhou 2018 ,2.1,5
+159,National Championships Qatar - Road Race 2018 ,Nationals.C3,1
+160,"Trofeo Campos, Porreres, Felanitx, Ses Salines 2018 ",1.1,1
+161,Trofeo Serra de Tramuntana 2018 ,1.1,1
+162,Trofeo Lloseta - Andratx 2018 ,1.1,1
+163,Grand Prix Cycliste la Marseillaise 2018  ,1.1,1
+164,Trofeo Palma 2018 ,1.1,1
+165,Etoile de Bessèges 2018 ,2.1,5
+166,Volta a la Comunitat Valenciana 2018 ,2.1,5
+167,Tour Cycliste International La Provence 2018 ,2.1,4
+168,Vuelta Ciclista a la Region de Murcia Costa Calida 2018 ,1.1,1
+169,Clasica de Almeria 2018 ,1.HC,1
+170,Trofeo Laigueglia 2018 ,1.HC,1
+171,Volta ao Algarve em Bicicleta 2018 ,2.HC,5
+172,Vuelta a Andalucia Ruta Ciclista Del Sol 2018 ,2.HC,5
+173,Tour Cycliste International du Haut Var Matin 2018 ,2.1,2
+174,GP Laguna Porec 2018 ,1.2,1
+175,Grand Prix Alanya 2018 ,1.2,1
+176,Tour of Antalya 2018 ,2.2/U23,4
+177,Faun Environnement - Classic de l'Ardèche Rhône Crussol 2018 ,1.1,1
+178,Kuurne-Bruxelles-Kuurne 2018 ,1.HC,1
+179,Royal Bernard Drome Classic 2018 ,1.1,1
+180,GP Izola 2018 ,1.2,1
+181,Le Samyn 2018 ,1.1,1
+182,Trofej Umag - Umag Trophy 2018 ,1.2,1
+183,Tour of Mediterrennean 2018 ,2.2/U23,3
+184,Trofej Porec - Porec Trophy 2018 ,1.2,1
+185,GP Industria & Artigianato 2018 ,1.HC,1
+186,Dwars door West-Vlaanderen / Johan Museeuw Classics 2018 ,1.1,1
+187,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2018 ,1.2,1
+188,International Rhodes Grand Prix 2018 ,1.2,1
+189,Istarsko Proljece - Istrian Spring Trophy 2018 ,2.2/U23,4
+190,International Tour of Rhodes 2018 ,2.2/U23,3
+191,Ronde van Drenthe 2018 ,1.HC,1
+192,Classica da Arrabida - Cyclin'Portugal 2018 ,1.2,1
+193,Grand Prix Side 2018 ,1.2,1
+194,Paris-Troyes 2018 ,1.2,1
+195,Rabobank Dorpenomloop Rucphen 2018 ,1.2,1
+196,Danilith Nokere Koerse 2018 ,1.HC,1
+197,Volta ao Alentejo 2018 ,2.2/U23,6
+198,Handzame Classic 2018 ,1.HC,1
+199,Grand Prix de Denain - Porte du Hainaut 2018 ,1.HC,1
+200,Popolarissima 2018 ,1.2,1
+201,Tour de Normandie 2018 ,2.2/U23,7
+202,Driedaagse Brugge - De Panne 2018 ,1.HC,1
+203,Settimana Internazionale Coppi e Bartali 2018 ,2.1,5
+204,Tour of Cartier - East Mediterrannean Cycling Prohect 2018 ,2.2/U23,4
+205,Classic Loire Atlantique 2018 ,1.1,1
+206,Cholet - Pays de la Loire 2018 ,1.1,1
+207,Classica Aldeias do Xisto - Cyclin'Portugal 2018 ,1.2,1
+208,Tour of Fatih Sultan Mehmet 2018 ,2.2/U23,2
+209,Route Adélie de Vitré 2018 ,1.1,1
+210,Gran Premio Miguel Indurain 2018 ,1.1,1
+211,Volta Limburg Classic 2018 ,1.1,1
+212,Le Triptyque des Monts et Chateaux 2018 ,2.2/U23,4
+213,Visegrad 4 Bicycle Race- GP Slovakia 2018 ,1.2,1
+214,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle 2018 ,1.1,1
+215,GP Adria Mobil 2018 ,1.2,1
+216,Trofeo Piva 2018 ,1.2,1
+217,Giro del Belvedere 2018 ,1.2,1
+218,Circuit Cycliste Sarthe - Pays de la Loire 2018 ,2.1,4
+219,G.P. Palio del Recioto 2018 ,1.2,1
+220,Scheldeprijs 2018 ,1.HC,1
+221,Circuit des Ardennes International 2018 ,2.2/U23,4
+222,Ronde van Vlaanderen Beloften 2018 ,E-1.Ncup,1
+223,Trofeo Edil C 2018 ,1.2,1
+224,Klasika Primavera de Amorebieta 2018 ,1.1,1
+225,Paris-Camembert 2018 ,1.1,1
+226,De Brabantse Pijl - La Flèche Brabanconne 2018 ,1.HC,1
+227,Tour du Loir et Cher E Provost 2018 ,2.2/U23,5
+228,GP Beiras e Serra da Estrela 2018 ,2.1,3
+229,Tour du Finistère 2018 ,1.1,1
+230,Liège - Bastogne - Liège U23 2018 ,1.2,1
+231,ZLM tour 2018 ,E-1.Ncup,1
+232,Tro-Bro Léon 2018 ,1.1,1
+233,Tour of the Alps 2018 ,2.HC,5
+234,Tour of Croatia 2018 ,2.HC,6
+235,Tour of Mersin 2018 ,2.2/U23,4
+236,Vuelta a Castilla y Leon 2018 ,2.1,3
+237,Arno Wallaard Memorial 2018 ,1.2,1
+238,Tour du Jura Cycliste 2018 ,2.2/U23,2
+239,Visegrad 4 Bicycle Race - GP Czech Republic 2018 ,1.2,1
+240,Giro dell'Appennino 2018 ,1.1,1
+241,Rutland - Melton Cicle Classic 2018 ,1.2,1
+242,Tr. Città di S. Vendemiano - 58th GP Industria & Commercio 2018 ,1.2,1
+243,Visegrad 4 Bicycle Race Grand Prix Poland 2018 ,1.2,1
+244,Gran Premio della Liberazione 2018 ,1.2,1
+245,Le Tour de Bretagne Cycliste 2018 ,2.2/U23,7
+246,Vuelta Asturias Julio Alvarez Mendo 2018 ,2.1,3
+247,Belgrade Banjaluka 2018 ,2.1,2
+248,Carpathian Couriers Race 2018 ,2.2/U23,7
+249,GP Himmerland Rundt 2018 ,1.2,1
+250,PWZ Zuidenveld Tour 2018 ,1.2,1
+251,Toscana Terra di Ciclismo Eroica 2018 ,2.2/U23,3
+252,Paris - Mantes-en-Yvelines 2018 ,1.2,1
+253,Skive-Løbet  2018 ,1.2,1
+254,Eschborn-Frankfurt U23 2018 ,1.2,1
+255,Memorial Andrzeja Trochanowskiego 2018 ,1.2,1
+256,National Championships Belgium U23 - ITT 2018 ,-,1
+257,Five Rings of Moscow 2018 ,2.2/U23,5
+258,Memorial Romana Sieminskiego 2018 ,1.2,1
+259,Tour de Yorkshire 2018 ,2.1,4
+260,Rhône-Alpes Isère Tour 2018 ,2.2/U23,4
+261,Tour of Mesopotamia 2018 ,2.2/U23,4
+262,Vuelta Ciclista Comunidad de Madrid 2018 ,2.1,3
+263,Sundvolden GP 2018 ,1.2,1
+264,Circuito del Porto - Trofeo Arvedi 2018 ,1.2,1
+265,Flèche Ardennaise 2018 ,1.2,1
+266,Ringerike GP 2018 ,1.2,1
+267,4 Jours de Dunkerque / Grand Prix des Hauts de France 2018 ,2.HC,6
+268,National Championships Cyprus - ITT 2018 ,Nationals.C3.TT,1
+269,Flèche du Sud 2018 ,2.2/U23,5
+270,Vuelta Aragon 2018 ,2.1,3
+271,CCC Tour - Grody Piastowskie 2018 ,2.2/U23,4
+272,Ronde van Overijssel 2018 ,1.2,1
+273,Scandinavian Race in Uppsala 1909-2018 2018 ,1.2,1
+274,Visegrad 4 Kerekparverseny 2018 ,1.2,1
+275,Gran Premio Industrie del Marmo 2018 ,1.2,1
+276,Grand Prix Criquielion 2018 ,1.2,1
+277,Profronde van Noord-Holland 2018 ,1.2,1
+278,National Championships Cyprus - Road Race 2018 ,Nationals.C3,1
+279,Tour of Norway 2018 ,2.HC,5
+280,Baltyk - Karkonosze Tour 2018 ,2.2/U23,5
+281,Ronde de l'Isard 2018 ,2.2/U23,4
+282,Tour de l'Ain 2018 ,2.1,3
+283,A Travers Les Hauts De France - Trophee Paris-Arras Tour 2018 ,2.2/U23,3
+284,Tour of Albania 2018 ,2.2/U23,5
+285,Grote Prijs Marcel Kint 2018 ,1.1,1
+286,Rás Tailteann 2018 ,2.2/U23,8
+287,Tour des Fjords 2018 ,2.HC,3
+288,Baloise Belgium Tour 2018 ,2.HC,5
+289,Gemenc Grand Prix 2018 ,2.2/U23,3
+290,Hammer Stavanger 2018 ,hammer.gc,3
+291,Tour of Estonia 2018 ,2.1,2
+292,Grand Prix de Plumelec-Morbihan 2018 ,1.1,1
+293,Boucles de l'Aulne - Chateaulin 2018 ,1.1,1
+294,Circuit de Wallonie 2018 ,1.2,1
+295,Paris-Roubaix Espoirs 2018 ,1.2,1
+296,Skoda-Tour de Luxembourg 2018 ,2.HC,5
+297,Boucles de la Mayenne 2018 ,2.1,4
+298,Szlakiem Walk Majora Hubala 2018 ,2.1,4
+299,Grand Prix Priessnitz spa 2018 ,E-2.Ncup,4
+300,Hammer Sportzone Limburg 2018 ,hammer.gc,3
+301,Cycling Tour of Bihor - Bellotto 2018 ,2.2/U23,4
+302,Horizon Park Race for Peace 2018 ,1.2,1
+303,Market Heistse Pijl 2018 ,1.1,1
+304,Horizon Park Race Maidan 2018 ,1.2,1
+305,Trofeo Alcide Degasperi 2018 ,1.2,1
+306,Gran Premio Citta di Lugano 2018 ,1.1,1
+307,Coppa della Pace - 44th Trofeo F.lli Anelli 2018 ,1.2,1
+308,Horizon Park Race Classic 2018 ,1.2,1
+309,Memorial Philippe Van Coningsloo 2018 ,1.2,1
+310,GP du canton d'Argovie 2018 ,1.HC,1
+311,Giro Ciclistico d'Italia 2018 ,2.2/U23,11
+312,Ronde de l'Oise 2018 ,2.2/U23,4
+313,National Championships Slovenia - ITT 2018 ,Nationals.C3.TT,1
+314,Tour de Serbia 2018 ,2.2/U23,3
+315,Tour of Malopolska 2018 ,2.2/U23,3
+316,Dwars door de Vlaamse Ardennen 2018 ,1.2,1
+317,National Championships Denmark U23 - ITT 2018 ,-,1
+318,Ronde van Limburg 2018 ,1.1,1
+319,Rund um Köln 2018 ,1.1,1
+320,Midden-Brabant Poort Omloop 2018 ,1.2,1
+321,National Championships Denmark U23 - Road Race 2018 ,-,1
+322,Tour of Slovenia 2018 ,2.1,5
+323,La Route d'Occitanie 2018 ,2.1,4
+324,Oberösterreichrundfahrt 2018 ,2.2/U23,4
+325,Dwars door het Hageland - Aarschot 2018 ,1.1,1
+326,Fyen Rundt - Tour of Fyen 2018 ,1.1,1
+327,Grand Prix Doliny Baryczy Zmigrod - The XXVIII th Mem. Józefa Grundmana i Jerzego Wizowskiego 2018 ,1.2,1
+328,Elfstedenronde 2018 ,1.1,1
+329,GP Horsens Posten 2018 ,1.1,1
+330,International Race Grand Prix Doliny Baryczy Milicz 2018 ,1.2,1
+331,National Championships Germany U23 - Road Race 2018 ,-,1
+332,National Championships Luxembourg U23 - Road Race 2018 ,-,1
+333,National Championships Norway U23 - Road Race 2018 ,-,1
+334,National Championships Switzerland U23 - Road Race 2018 ,-,1
+335,Tour of Mevlana 2018 ,2.2/U23,4
+336,Halle Ingooigem 2018 ,1.1,1
+337,Adriatica Ionica Race/Following the Serenissima Routes 2018 ,2.1,5
+338,National Championships Sweden - ITT 2018 ,Nationals.C3.TT,1
+339,National Championships Ukraine - ITT 2018 ,Nationals.C3.TT,1
+340,National Championships Ukraine U23 - ITT 2018 ,-,1
+341, National Championships Belgium - ITT 2018 ,Nationals.C3.TT,1
+342,National Championships Czech Republic - ITT 2018 ,Nationals.C3.TT,1
+343,National Championships Czech Republic U23 - ITT 2018 ,-,1
+344,National Championships Norway - ITT 2018 ,Nationals.C3.TT,1
+345,National Championships Slovakia - ITT 2018 ,Nationals.C3.TT,1
+346,Le Tour de Savoie Mont Blanc 2018 ,2.2/U23,5
+347,National Championships Greece - ITT 2018 ,Nationals.C3.TT,1
+348,National Championships Kosovo - ITT 2018 ,Nationals.C3.TT,1
+349,National Championships Lithuania - ITT 2018 ,Nationals.C3.TT,1
+350,National Championships Lithuania U23 - ITT 2018 ,-,1
+351,National Championships Poland - ITT 2018 ,Nationals.C3.TT,1
+352,National Championships Portugal - ITT 2018 ,Nationals.C3.TT,1
+353,National Championships Romania - ITT 2018 ,Nationals.C3.TT,1
+354,National Championships Romania U23 - ITT 2018 ,-,1
+355,National Championships Serbia - ITT 2018 ,Nationals.C3.TT,1
+356,National Championships Spain - ITT 2018 ,Nationals.C3.TT,1
+357,National Championships Portugal U23 - ITT 2018 ,-,1
+358,National Championships Spain U23 - ITT 2018 ,-,1
+359,National Championships Croatia - ITT 2018 ,Nationals.C3.TT,1
+360,National Championships Israel - ITT 2018 ,Nationals.C3.TT,1
+361,National Championships Kosovo - Road Race 2018 ,Nationals.C3,1
+362,National Championships Macedonia - ITT 2018 ,Nationals.C3.TT,1
+363,National Championships Montenegro - Road Race 2018 ,Nationals.C3,1
+364,National Championships Croatia U23 - ITT 2018 ,None,1
+365,National Championships Israel U23 - ITT 2018 ,-,1
+366,National Championships Italy U23 - Road Race 2018 ,-,1
+367,National Championships Portugal U23 - Road Race 2018 ,-,1
+368,National Championships Spain U23 - Road Race 2018 ,-,1
+369,National Championships Belgium - Road Race 2018 ,Nationals.C3,1
+370,National Championships Croatia - Road Race 2018 ,Nationals.C3,1
+371,National Championships Czech Republic - Road Race 2018 ,Nationals.C3,1
+372,National Championships Greece - Road Race 2018 ,Nationals.C3,1
+373,National Championships Iceland - Road Race 2018 ,Nationals.C3,1
+374,National Championships Lithuania - Road Race 2018 ,Nationals.C3,1
+375,National Championships Macedonia - Road Race 2018 ,Nationals.C3,1
+376,National Championships Norway - Road Race 2018 ,Nationals.C3,1
+377,National Championships Poland - Road Race 2018 ,Nationals.C3,1
+378,National Championships Portugal - Road Race 2018 ,Nationals.C3,1
+379,National Championships Romania - Road Race 2018 ,Nationals.C3,1
+380,National Championships Serbia - Road Race 2018 ,Nationals.C3,1
+381,National Championships Slovakia - Road Race 2018 ,Nationals.C3,1
+382,National Championships Slovenia - Road Race 2018 ,Nationals.C3,1
+383,National Championships Spain - Road Race 2018 ,Nationals.C3,1
+384,National Championships Sweden - Road Race 2018 ,Nationals.C3,1
+385,National Championships Ukraine - Road Race 2018 ,Nationals.C3,1
+386,National Championships Ukraine U23 - Road Race 2018 ,-,1
+387,Paris-Chauny (classique) 2018 ,1.1,1
+388,National Championships Romania U23 - Road Race 2018 ,-,1
+389,National Championships Azerbaijan - ITT 2018 ,Nationals.C3.TT,1
+390,National Championships Bulgaria - ITT 2018 ,Nationals.C3.TT,1
+391,National Championships Netherlands - ITT 2018 ,Nationals.C3.TT,1
+392,National Championships Switzerland - ITT 2018 ,Nationals.C3.TT,1
+393,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2018 ,1.2,1
+394,Mediterranean Games - Road Race 2018 ,-,1
+395,National Championships Greece U23 - ITT 2018 ,-,1
+396,National Championships Netherlands U23 - ITT 2018 ,-,1
+397,National Championships Switzerland U23 - ITT 2018 ,-,1
+398,National Championships Azerbaijan - Road Race 2018 ,Nationals.C3,1
+399,National Championships Denmark - ITT 2018 ,Nationals.C3.TT,1
+400,National Championships Estonia - ITT 2018 ,Nationals.C3.TT,1
+401,National Championships France - ITT 2018 ,Nationals.C3.TT,1
+402,National Championships Great Britain - ITT 2018 ,Nationals.C3.TT,1
+403,National Championships Hungary - ITT 2018 ,Nationals.C3.TT,1
+404,National Championships Ireland - ITT 2018 ,Nationals.C3.TT,1
+405,National Championships Latvia - ITT 2018 ,Nationals.C3.TT,1
+406,National Championships Luxembourg - ITT 2018 ,Nationals.C3.TT,1
+407,National Championships Great Britain U23 - ITT 2018 ,-,1
+408,National Championships Hungary U23 - ITT 2018 ,-,1
+409,National Championships Ireland U23 - ITT 2018 ,-,1
+410,National Championships Luxembourg U23 - ITT 2018 ,-,1
+411,National Championships Austria - ITT 2018 ,Nationals.C3.TT,1
+412,National Championships Belarus - ITT 2018 ,Nationals.C3.TT,1
+413,National Championships Finland - ITT 2018 ,Nationals.C3.TT,1
+414,National Championships Georgia - ITT 2018 ,Nationals.C3.TT,1
+415,National Championships Germany - ITT 2018 ,Nationals.C3.TT,1
+416,National Championships Russia - ITT 2018 ,Nationals.C3.TT,1
+417,National Championships Germany U23 - ITT 2018 ,-,1
+418,National Championships Israel - Road Race 2018 ,Nationals.C3,1
+419,National Championships Israel U23 - Road Race 2018 ,-,1
+420,National Championships Italy - Road Race 2018 ,Nationals.C3,1
+421,National Championships Moldova - ITT 2018 ,Nationals.C3.TT,1
+422,Mediterranean Games - ITT 2018 ,-,1
+423,National Championships Netherlands U23 - Road Race 2018 ,-,1
+424,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2018 ,1.2,1
+425, National Championships Finland - Road Race 2018 ,Nationals.C3,1
+426,National Championships Austria - Road Race  2018 ,Nationals.C3,1
+427,National Championships Belarus - Road Race 2018 ,Nationals.C3,1
+428,National Championships Bosnia and Herzegovina - Road Race 2018 ,Nationals.C3,1
+429,National Championships Bulgaria - Road Race 2018 ,Nationals.C3,1
+430,National Championships Denmark - Road Race 2018 ,Nationals.C3,1
+431,National Championships Estonia - Road Race 2018 ,Nationals.C3,1
+432,National Championships France - Road Race 2018 ,Nationals.C3,1
+433,National Championships Georgia - Road Race 2018 ,Nationals.C3,1
+434,National Championships Germany - Road Race 2018 ,Nationals.C3,1
+435,National Championships Great Britain - Road Race 2018 ,Nationals.C3,1
+436,National Championships Hungary - Road Race 2018 ,Nationals.C3,1
+437,National Championships Hungary U23 - Road Race 2018 ,-,1
+438,National Championships Ireland - Road Race 2018 ,Nationals.C3,1
+439,National Championships Latvia - Road Race 2018 ,Nationals.C3,1
+440,National Championships Lebanon - Road Race 2018 ,Nationals.C3,1
+441,National Championships Luxembourg - Road Race 2018 ,Nationals.C3,1
+442,National Championships Moldova - Road Race 2018 ,Nationals.C3,1
+443,National Championships Netherlands - Road Race 2018 ,Nationals.C3,1
+444,National Championships Russia - Road Race 2018 ,Nationals.C3,1
+445,National Championships Russia WE - Road Race 2018 ,F-NC.2,1
+446,National Championships Switzerland - Road Race 2018 ,Nationals.C3,1
+447,National Championships Turkey - ITT 2018 ,Nationals.C3.TT,1
+448,Trofeo Citta di Brescia 2018 ,1.2,1
+449,Course Cycliste de Solidarnosc et des Champions Olympiques 2018 ,2.2/U23,5
+450,National Championships Turkey - Road Race 2018 ,Nationals.C3,1
+451,National Championships Turkey MJ - Road Race 2018 ,J-NC2,1
+452,Sibiu Cycling Tour 2018 ,2.1,5
+453,National Championships Italy U23 - ITT 2018 ,-,1
+454,Int. Österreich-Rundfahrt-Tour of Austria 2018 ,2.1,8
+455,National Championships Albania - ITT 2018 ,Nationals.C3.TT,1
+456,National Championships Albania - Road Race 2018 ,Nationals.C3,1
+457,National Championships Lebanon - ITT 2018 ,Nationals.C3.TT,1
+458,Giro del Medio Brenta 2018 ,1.2,1
+459,Grand Prix Albert Fauville - Baulet 2018 ,1.2,1
+460,Grand Prix de la Ville de Nogent-sur-Oise 2018 ,1.2,1
+461,Giro Ciclistico della Valle d'Aosta Mont Blanc 2018 ,2.2/U23,5
+462,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2018 ,2.2/U23,4
+463,UEC Juniors & U23 Road European Championships U23 - Road Race 2018 ,-,1
+464,Grande Prémio de Portugal N2 2018 ,2.2/U23,5
+465,Grand Prix de la ville de Pérenchies 2018 ,1.2,1
+466,V4 Special Series Debrecen - Ibrany 2018 ,1.2,1
+467,Prueba Villafranca-Ordiziako Klasika 2018 ,1.1,1
+468,Dookola Mazowsza 2018 ,2.2/U23,4
+469,Grand Prix Cerami 2018 ,1.1,1
+470,VOO-Tour de Wallonie 2018 ,2.HC,5
+471,Kreiz Breizh Elites 2018 ,2.2/U23,4
+472,GP Kranj 2018 ,1.2,1
+473,"Circuito de Getxo ""Memorial Ricardo Otxoa"" 2018 ",1.1,1
+474,PostNord Danmark Rundt - Tour of Denmark 2018 ,2.HC,5
+475,Volta a Portugal em Bicicleta Santander Totta 2018 ,2.1,11
+476,Tour Alsace 2018 ,2.2/U23,5
+477,Tour Cycliste International de la Guadeloupe 2018 ,2.2/U23,12
+478,Hansa Bygg Kalmar Grand Prix Road Race 2018 ,1.2,1
+479,La Poly Normande 2018 ,1.1,1
+480,Antwerpse Havenpijl 2018 ,1.2,1
+481,Vuelta a Burgos 2018 ,2.HC,5
+482,Cycling Tour of Szeklerland 2018 ,2.2/U23,6
+483,European Continental Championships - ITT 2018 ,UCI.Cont.Ch.TT,1
+484,Czech Cycling Tour 2018 ,2.1,4
+485,KOGA Slag om Norg 2018 ,1.1,1
+486,Memorial Henryka Lasaka 2018 ,1.2,1
+487, European Continental Championships - Road Race 2018 ,E-CC,1
+488,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni-8 Gran Premio Pasta Zara 2018 ,1.2,1
+489,National Championships Belgium U23 - Road Race 2018 ,-,1
+490,Puchar Uzdrowisk Karpackich 2018 ,1.2,1
+491,Tour de Hongrie 2018 ,2.1,6
+492,Tour du Limousin 2018 ,2.1,4
+493,Arctic Race of Norway 2018 ,2.HC,4
+494,GP Capodarco - Comunità di Capodarco 2018 ,1.2,1
+495,Tour de l'Avenir 2018 ,E-2.Ncup,10
+496,Minsk Cup 2018 ,1.2,1
+497,Grand Prix Minsk 2018 ,1.2,1
+498,GP Stad Zottegem 2018 ,1.1,1
+499,Tour Poitou-Charentes en Nouvelle Aquitaine 2018 ,2.1,5
+500,Grand Prix des Marbriers 2018 ,1.2,1
+501,Veenendaal-Veenendaal Classic 2018 ,1.1,1
+502,National Championships France U23 - ITT 2018 ,-,1
+503,Deutschland Tour 2018 ,2.1,4
+504,Baltic Chain Tour 2018 ,2.2/U23,4
+505,Great War Remembrance Race 2018 ,1.1,1
+506,National Championships France U23 - Road Race 2018 ,-,1
+507,Omloop Mandel-Leie-Schelde Meulebeke 2018 ,1.1,1
+508,Schaal Sels 2018 ,1.1,1
+509,Croatia-Slovenia 2018 ,1.2,1
+510,Ronde van Midden Nederland 2018 ,1.2,1
+511,Druivenkoers - Overijse 2018 ,1.1,1
+512,Hafjell GP 2018 ,1.2,1
+513,Brussels Cycling Classic 2018 ,1.HC,1
+514,Lillehammer GP 2018 ,1.2,1
+515,GP de Fourmies / La Voix du Nord 2018 ,1.HC,1
+516,Ovo Energy Tour of Britain 2018 ,2.HC,8
+517,Antwerp Port Epic 2018 ,1.1,1
+518,Gylne Gutuer 2018 ,1.2,1
+519,Okolo Jižních Čech / Tour of South Bohemia 2018 ,2.2/U23,5
+520,Giro della Regione Friuli Venezia Giulia 2018 ,2.2/U23,3
+521,Tour du Doubs 2018 ,1.1,1
+522,Chrono Champenois Masculin International 2018 ,1.2,1
+523,Olympia's Tour 2018 ,2.2/U23,7
+524,Grand Prix de Wallonie 2018 ,1.1,1
+525,Okolo Slovenska 2018 ,2.1,5
+526,Kampioenschap van Vlaanderen 2018 ,1.1,1
+527,Tour of Cappadocia 2018 ,2.2/U23,3
+528,Primus Classic 2018 ,1.HC,1
+529,Coppa Agostoni - Giro delle Brianze 2018 ,1.1,1
+530,Coppa Bernocchi - 43è GP BPM 2018 ,1.1,1
+531,Grote Prijs Jef Scherens - Rondom Leuven 2018 ,1.1,1
+532,Int. RAIFFEISEN Grand Prix Judendorf-Straßengel 2018 ,1.2,1
+533,Giro della Toscana - Memorial Alfredo Martini 2018 ,1.1,1
+534,Omloop van het Houtland Lichtervelde 2018 ,1.1,1
+535,Turul Romaniei 2018 ,2.2/U23,5
+536,Coppa Sabatini - Gran Premio citta  di Peccioli 2018 ,1.1,1
+537,Tour de l'Eurométropole 2018 ,1.HC,1
+538,Memorial Marco Pantani 2018 ,1.1,1
+539,Duo Normand 2018 ,1.1,1
+540,Gooikse Pijl 2018 ,1.1,1
+541,Grand Prix d'Isbergues - Pas de Calais 2018 ,1.1,1
+542,Trofeo Matteotti 2018 ,1.1,1
+543,Tour du Gévaudan Occitanie 2018 ,1.2,1
+544,Ruota d'Oro - GP Festa del Perdono 2018 ,1.2,1
+545,Famenne Ardenne Classic 2018 ,1.1,1
+546,Tour of Black Sea 2018 ,2.2/U23,7
+547,Binche - Chimay - Binche / Memorial Frank Vandenbroucke 2018 ,1.1,1
+548,Sparkassen Münsterland Giro 2018 ,1.HC,1
+549,National Championships Italy - ITT 2018 ,Nationals.C3.TT,1
+550,Paris-Bourges 2018 ,1.1,1
+551,Giro dell'Emilia 2018 ,1.HC,1
+552,Tour de Vendée 2018 ,1.1,1
+553,Gran Premio Bruno Beghelli 2018 ,1.HC,1
+554,Paris - Tours Elite 2018 ,1.HC,1
+555,Il Piccolo Lombardia 2018 ,1.2,1
+556,Paris-Tours Espoirs 2018 ,1.2,1
+557,Tre Valli Varesine 2018 ,1.HC,1
+558,Milano-Torino 2018 ,1.HC,1
+559,Gran Piemonte 2018 ,1.HC,1
+560,Tacx Pro Classic / Ronde van Zeeland 2018 ,1.1,1
+561,De Kustpijl 2018 ,1.2,1
+562,Chrono des Nations 2018 ,1.1,1
+563,Chrono des Nations U23 2018 ,1.2,1
+564,National Championships Australia U23 - ITT 2018 ,-,1
+565,National Championships Australia - ITT 2018 ,Nationals.C3.TT,1
+566,National Championships New Zealand - ITT 2018 ,Nationals.C3.TT,1
+567,National Championships New Zealand U23 - ITT 2018 ,-,1
+568,National Championships Australia U23 - Road Race 2018 ,-,1
+569,National Championships Australia - Road Race 2018 ,Nationals.C3,1
+570,National Championships New Zealand - Road Race 2018 ,Nationals.C3,1
+571,New Zealand Cycle Classic 2018 ,2.2/U23,5
+572,Gravel and Tar 2018 ,1.2,1
+573,Herald Sun Tour 2018 ,2.1,5
+574, Oceania Continental Championships - ITT 2018 ,UCI.Cont.Ch.TT,1
+575,Oceania Continental Championships U23 - ITT 2018 ,E-CC.TT,1
+576,Oceania Continental Championships - Road Race 2018 ,E-CC,1
+577,Commonwealth Games - ITT 2018 ,None,1
+578,Commonwealth Games - Road Race 2018 ,-,1
+579,National Championships Fiji - ITT 2018 ,Nationals.C3.TT,1
+580,National Championships Fiji - Road Race 2018 ,Nationals.C3,1
+581,Vuelta al Tachira en Bicicleta 2018 ,2.2/U23,10
+582,Vuelta a San Juan Internacional 2018 ,2.1,7
+583,National Championships Colombia - ITT 2018 ,Nationals.C3.TT,1
+584,National Championships Colombia - Road Race 2018 ,Nationals.C3,1
+585,Colombia Oro y Paz 2018 ,2.1,6
+586,National Championships Uruguay - ITT 2018 ,-,1
+587,National Championships Uruguay U23 - ITT 2018 ,-,1
+588,National Championships Uruguay - Road Race 2018 ,Nationals.C3,1
+589,Vuelta Ciclista del Uruguay 2018 ,2.2/U23,12
+590,National Championships Argentina - ITT 2018 ,Nationals.C3.TT,1
+591,National Championships Argentina U23 - ITT 2018 ,-,1
+592,National Championships Argentina - Road Race 2018 ,Nationals.C3,1
+593,National Championships Argentina U23 - Road Race 2018 ,-,1
+594,Joe Martin Stage Race 2018 ,2.2/U23,8
+595,Tour of the Gila 2018 ,2.2/U23,5
+596,Pan American Championships - ITT 2018 ,UCI.Cont.Ch.TT,1
+597,Pan American Championships U23 - ITT 2018 ,E-CC.TT,1
+598,Pan American Championships U23 - Road Race 2018 ,E-CC,1
+599,Pan American Championships - Road Race 2018 ,E-CC,1
+600,Juegos Suramericanos - ITT 2018 ,-,1
+601, Winston Salem Cycling Classic 2018 ,1.1,1
+602,Juegos Suramericanos - Road Race 2018 ,-,1
+603,Tour de Beauce 2018 ,2.2/U23,6
+604,National Championships Cuba - ITT 2018 ,Nationals.C3.TT,1
+605,National Championships Cuba - Road Race 2018 ,Nationals.C3,1
+606,National Championships Puerto Rico - ITT 2018 ,Nationals.C3.TT,1
+607,National Championships Bermuda - ITT 2018 ,Nationals.C3.TT,1
+608,National Championships El Salvador - ITT 2018 ,Nationals.C3.TT,1
+609,National Championships El Salvador U23 - ITT 2018 ,-,1
+610,National Championships Canada - ITT 2018 ,Nationals.C3.TT,1
+611,National Championships United States - ITT 2018 ,Nationals.C3.TT,1
+612,National Championships Venezuela - ITT 2018 ,Nationals.C3.TT,1
+613,National Championships Belize - ITT 2018 ,Nationals.C3.TT,1
+614,National Championships Canada - Road Race 2018 ,Nationals.C3,1
+615,National Championships Bermuda - Road Race 2018 ,Nationals.C3,1
+616,National Championships Guatemala - ITT 2018 ,Nationals.C3.TT,1
+617,National Championships Puerto Rico - Road Race 2018 ,Nationals.C3,1
+618,National Championships United States - Road Race 2018 ,Nationals.C3,1
+619,National Championships Venezuela - Road Race 2018 ,Nationals.C3,1
+620,National Championships Brazil - ITT 2018 ,Nationals.C3.TT,1
+621,National Championships Costa Rica - ITT 2018 ,Nationals.C3.TT,1
+622,National Championships Mexico - ITT 2018 ,Nationals.C3.TT,1
+623,National Championships Panama - ITT 2018 ,Nationals.C3.TT,1
+624,National Championships Mexico - Road Race 2018 ,Nationals.C3,1
+625,National Championships Brazil - Road Race 2018 ,Nationals.C3,1
+626,National Championships Costa Rica - Road Race 2018 ,Nationals.C3,1
+627,National Championships Guatemala - Road Race 2018 ,Nationals.C3,1
+628,National Championships Panama - Road Race 2018 ,Nationals.C3,1
+629,Vuelta Ciclista a Venezuela 2018 ,2.2/U23,10
+630,White Spot / Delta Road Race 2018 ,1.2,1
+631,Chrono Kristin Armstrong 2018 ,1.2,1
+632,National Championships Ecuador - ITT 2018 ,Nationals.C3.TT,1
+633,National Championships Ecuador U23 - ITT 2018 ,-,1
+634,National Championships Ecuador - Road Race 2018 ,Nationals.C3,1
+635,National Championships Ecuador U23 - Road Race 2018 ,-,1
+636,Juegos Deportivos Centroamericanos y del Caribe - ITT 2018 ,-,1
+637,National Championships United States U23 - ITT 2018 ,-,1
+638,National Championships United States U23 - Road Race 2018 ,-,1
+639,Juegos Deportivos Centroamericanos y del Caribe - Road Race 2018 ,-,1
+640,The Larry H.Miller Tour of Utah 2018 ,2.HC,7
+641,Colorado Classic 2018 ,2.HC,4
+642,National Championships Belize - Road Race 2018 ,Nationals.C3,1
+643,Elite Road Caribbean Championships - ITT 2018 ,-,1
+644,Elite Road Caribbean Championships - Road Race 2018 ,-,1
+645,Elite Road Caribbean Championships U23 - Road Race 2018 ,-,1
+646,Vuelta a Guatemala 2018 ,2.2/U23,10
+647,Gran Premio FECOCI 2018 ,1.2,1
+648,Gran Premio Comite Olímpico Nacional 2018 ,1.2,1
+649,Vuelta Ciclista Internacional a Costa Rica 2018 ,2.2/U23,10
