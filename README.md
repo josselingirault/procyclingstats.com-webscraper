@@ -12,5 +12,7 @@ Feel free to download the data and use it as you see fit. This repository is  as
 
 ## todo-list
 [ ] Repair stage data
+
 [ ] Add race/stage data generating code
+
 [ ] Fetch result data
