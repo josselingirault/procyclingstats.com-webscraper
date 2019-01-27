@@ -11,8 +11,8 @@ This repository contains datasets scraped from the procycling stats.com website,
 Feel free to download the data and use it as you see fit. This repository is  as a demo project. If you want up to date data, you'll have to run the code yourself and probably tinker with the code, as the procyclingstats url structures tend to change quite a bit with time.
 
 ## todo-list
-- [ ] Repair stage data
+- [x] Repair stage data
 
-- [ ] Add race/stage data generating code
+- [x] Add race/stage data generating code
 
 - [ ] Fetch result data
