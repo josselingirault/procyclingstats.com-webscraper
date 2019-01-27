@@ -1,309 +1,796 @@
-,Category,Date,Finish,Length,Number_stages,Race_ID,Race_Name,Stage#,Stage_Name,Stage_Type,Start,url
-0,1.WT.A,,,,1.0,,Milano-Sanremo 2008 ,,,,,
-1,2.WT,,,,6.0,,Vuelta Ciclista al Pais Vasco 2008 ,,,,,
-2,2.WT,,,,6.0,,Tour de Romandie 2008 ,,,,,
-3,GT.B,,,,21.0,,Giro d'Italia 2008 ,,,,,
-4,2.WT,,,,8.0,,Critérium Du Dauphiné Libéré 2008 ,,,,,
-5,2.WT,,,,9.0,,Tour de Suisse 2008 ,,,,,
-6,Nationals.C3.TT,,,,1.0,,National Championships Switzerland - ITT 2008  Stage 1 ,,,,,
-7,1.WT.B,,,,1.0,,Clasica Ciclista San Sebastian 2008 ,,,,,
-8,1.WT.B,,,,6.0,,Tour de Pologne 2008 ,,,,,
-9,J-WC.TT,,,,1.0,,World Championships MJ - ITT 2008 ,,,,,
-10,-,,,,1.0,,World Championships WJ - ITT 2008 ,,,,,
-11,J-WC,,,,1.0,,World Championships MJ - Road Race 2008 ,,,,,
-12,-,,,,1.0,,World Championships WJ - Road Race 2008 ,,,,,
-13,UCI.WO.u23.TT,,,,1.0,,World Championships U23 - ITT 2008 ,,,,,
-14,F-WC.TT,,,,1.0,,World Championships WE - ITT 2008 ,,,,,
-15,-,,,,1.0,,World Championships - ITT 2008 ,,,,,
-16,Nationals.C1,,,,1.0,,World Championships U23 - Road Race 2008 ,,,,,
-17,Worlds.RR,,,,1.0,,World Championships - Road Race 2008 ,,,,,
-18,2.2/U23,,,,7.0,,Tour of Egypt 2008 ,,,,,
-19,1.2,,,,1.0,,Grand Prix of Sharm el-Sheikh 2008 ,,,,,
-20,Nationals.C3,,,,1.0,,National Championships Namibia - Road Race 2008 ,,,,,
-21,2.2/U23,,,,7.0,,Tour of Libya 2008 ,,,,,
-22,2.2/U23,,,,8.0,,Tour du Cameroun 2008 ,,,,,
-23,1.2,,,,1.0,,GP de la ville de Tunis 2008 ,,,,,
-24,1.2,,,,1.0,,GP de la Banque de l'Habitat 2008 ,,,,,
-25,Nationals.C3,,,,1.0,,National Championships South Africa - Road Race 2008 ,,,,,
-26,2.2/U23,,,,7.0,,Boucle du Coton 2008 ,,,,,
-27,Nationals.C3.TT,,,,1.0,,National Championships Tunisia - ITT 2008 ,,,,,
-28,2.2/U23,,,,12.0,,Tour du Maroc 2008 ,,,,,
-29,Nationals.C3.TT,,,,1.0,,National Championships Algeria - ITT 2008 ,,,,,
-30,Nationals.C3,,,,1.0,,National Championships Algeria - Road Race 2008 ,,,,,
-31,Nationals.C3,,,,1.0,,National Championships Tunisia - Road Race 2008 ,,,,,
-32,Nationals.C3,,,,1.0,,National Championships Zimbabwe - Road Race 2008 ,,,,,
-33,2.2/U23,,,,6.0,,Tour of Thailand 2008 ,,,,,
-34,2.2/U23,,,,4.0,,Grand Prix Chantal Biya 2008 ,,,,,
-35,2.2/U23,,,,9.0,,Tour du Sénégal 2008 ,,,,,
-36,1.2,,,,1.0,,Pick n Pay Amashovashova National Classic 2008 ,,,,,
-37,Nationals.C3.TT,,,,1.0,,National Championships Namibia - ITT 2008 ,,,,,
-38,-,,,,1.0,,African Continental Championships - ITT 2008 ,,,,,
-39,-,,,,1.0,,African Cycling Championships - Road Race 2008 ,,,,,
-40,2.2/U23,,,,7.0,,Jelajah Malaysia 2008 ,,,,,
-41,1.2,,,,1.0,,Mohammad Bin Rashid International Cycling Cup 2008 ,,,,,
-42,2.2/U23,,,,4.0,,Umm Al Quwain International Race 2008 ,,,,,
-43,2.2/U23,,,,7.0,,Taftan Tour 2008 ,,,,,
-44,2.2/U23,,,,8.0,,Tour de Taiwan 2008 ,,,,,
-45,2.2/U23,,,,5.0,,Tour of East Java 2008 ,,,,,
-46,-,,,,1.0,,Asian Cycling Championships - Road Race 2008 ,,,,,
-47,2.2/U23,,,,5.0,,Presidential Tour of Iran 2008 ,,,,,
-48,2.2/U23,,,,3.0,,Tour de Kumano 2008 ,,,,,
-49,2.2/U23,,,,7.0,,Tour of Japan 2008 ,,,,,
-50,2.2/U23,,,,9.0,,Azerbaïjan Tour 2008 ,,,,,
-51,Nationals.C3,,,,1.0,,National Championships Japan - Road Race 2008 ,,,,,
-52,Nationals.C3.TT,,,,1.0,,National Championships Japan - ITT 2008 ,,,,,
-53,Nationals.C3.TT,,,,1.0,,National Championships Iran - ITT 2008 ,,,,,
-54,Nationals.C3,,,,1.0,,National Championships Iran - Road Race 2008 ,,,,,
-55,Nationals.C3.TT,,,,1.0,,National Championships Mongolia - ITT 2008 ,,,,,
-56,2.2/U23,,,,11.0,,Tour de Korea-Japan 2008 ,,,,,
-57,Nationals.C3.TT,,,,1.0,,National Championships Israel - ITT 2008 ,,,,,
-58,Nationals.C3.TT,,,,1.0,,National Championships Kazakhstan - ITT 2008 ,,,,,
-59,Nationals.C3,,,,1.0,,National Championships Israel - Road Race 2008 ,,,,,
-60,2.2/U23,,,,3.0,,Jelajah Negeri Sembilan 2008 ,,,,,
-61,2.2/U23,,,,6.0,,Tour de Hokkaido 2008 ,,,,,
-62,2.2/U23,,,,5.0,,Kerman Tour 2008 ,,,,,
-63,2.2/U23,,,,1.0,,Tour de Okinawa 2008 ,,,,,
-64,1.2,,,,1.0,,International Grand Prix Al-Khor 2008 ,,,,,
-65,1.2,,,,1.0,,International Grand Prix Losail 2008 ,,,,,
-66,1.2,,,,1.0,,International Grand Prix Messaeed 2008 ,,,,,
-67,1.2,,,,1.0,,International Grand Prix Doha 2008 ,,,,,
-68,2.2/U23,,,,3.0,,Golden Jersey 2008 ,,,,,
-69,1.1,,,,1.0,,GP Costa Degli Etruschi 2008 ,,,,,
-70,1.1,,,,1.0,,Trofeo Mallorca 2008 ,,,,,
-71,1.1,,,,1.0,,Trofeo Cala: Cala Millor - Son Servera 2008 ,,,,,
-72,1.1,,,,1.0,,Trofeo Pollença 2008 ,,,,,
-73,1.1,,,,1.0,,Trofeo Sóller 2008 ,,,,,
-74,1.2,,,,1.0,,Coppa San Geo 2008 ,,,,,
-75,2.1,,,,5.0,,Vuelta ciclista a la region de Murcia 2008 ,,,,,
-76,2.1,,,,3.0,,Driedaagse van West-Vlaanderen 2008 ,,,,,
-77,1.2,,,,1.0,,Trofeo Franco Balestra - Memorial Sabbadini 2008 ,,,,,
-78,1.2,,,,1.0,,Paris-Troyes 2008 ,,,,,
-79,1.2,,,,1.0,,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2008 ,,,,,
-80,1.2,,,,1.0,,GP Palio del Recioto 2008 ,,,,,
-81,2.HC,,,,3.0,,Critérium International 2008 ,,,,,
-82,2.HC,,,,5.0,,Driedaagse De Panne-Koksijde 2008  Stage 5 (ITT) ,,,,,
-83,2.2/U23,,,,3.0,,Boucle de l'Artois - Trophée Arras Leader 2008 ,,,,,
-84,-,,,,1.0,,Trofeo Banca Popolare di Vicenza 2008 ,,,,,
-85,2.1,,,,5.0,,Circuit Cycliste Sarthe - Pays de la Loire 2008 ,,,,,
-86,Nationals.C3,,,,1.0,,National Championships Venezuela - Road Race 2008 ,,,,,
-87,2.1,,,,7.0,,Presidential Cycling Tour of Turkey 2008 ,,,,,
-88,1.HC,,,,1.0,,Scheldeprijs 2008 ,,,,,
-89,2.2/U23,,,,4.0,,Tour du Loir-et-Cher 'E. Provost' 2008 ,,,,,
-90,2.2/U23,,,,5.0,,Grand Prix of Sochi 2008 ,,,,,
-91,1.2,,,,1.0,,Beograd - Banja Luka I 2008 ,,,,,
-92,1.2,,,,1.0,,Beograd - Banja Luka II 2008 ,,,,,
-93,2.1,,,,4.0,,Giro del Trentino 2008 ,,,,,
-94,1.2,,,,1.0,,Gran Premio della Liberazione 2008 ,,,,,
-95,E-2.Ncup,,,,6.0,,Giro delle Regioni 2008 ,,,,,
-96,1.1,,,,1.0,,Ronde van Noord-Holland 2008 ,,,,,
-97,1.2,,,,1.0,,East Midlands International Cicle Classic 2008 ,,,,,
-98,1.2,,,,1.0,,Paris - Mantes-en-Yvelines 2008 ,,,,,
-99,2.2/U23,,,,4.0,,Flèche du Sud 2008 ,,,,,
-100,1.HC,,,,1.0,,Rund um den Henninger-Turm 2008 ,,,,,
-101,1.2,,,,1.0,,GP Copenhagen - Odsherred Classic 2008 ,,,,,
-102,1.2,,,,1.0,,Memoriał Andrzeja Trochanowskiego 2008 ,,,,,
-103,1.2,,,,1.0,,Rund um den Henninger Turm U23 2008 ,,,,,
-104,2.2/U23,,,,3.0,,Volta Ciclista da Ascension 2008 ,,,,,
-105,1.2,,,,1.0,,Grand Prix of Moscow 2008 ,,,,,
-106,1.2,,,,1.0,,Grand Prix Bourgas 2008 ,,,,,
-107,1.2,,,,1.0,,Majowy Wyscig Klasyczny - Lublin 2008 ,,,,,
-108,1.2,,,,1.0,,Memorial of Oleg Dyachenko 2008 ,,,,,
-109,1.1,,,,1.0,,Giro Di Toscana 2008 ,,,,,
-110,-,,,,1.0,,Berner Rundfahrt 2008 ,,,,,
-111,1.2,,,,1.0,,Circuito del Porto - Trofeo Arvedi 2008 ,,,,,
-112,2.HC,,,,6.0,,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2008 ,,,,,
-113,2.2/U23,,,,6.0,,Five Rings of Moscow 2008 ,,,,,
-114,2.2/U23,,,,5.0,,Giro della Regione Friuli Venezia Giulia 2008 ,,,,,
-115,2.1,,,,5.0,,Szlakiem Grodów Piastowskich 2008 ,,,,,
-116,2.2/U23,,,,4.0,,International Halkidiki Cycle Race 2008 ,,,,,
-117,1.2,,,,1.0,,Scandinavian Race Uppsala 2008 ,,,,,
-118,1.2,,,,1.0,,Circuit De Wallonie 2008 ,,,,,
-119,1.2,,,,1.0,,GP Industrie del Marmo 2008 ,,,,,
-120,1.2,,,,1.0,,Mayor Cup 2008 ,,,,,
-121,1.2,,,,1.0,,Classic Beograd - Cacak 2008 ,,,,,
-122,2.2/U23,,,,10.0,,Olympia's Tour 2008 ,,,,,
-123,1.2,,,,1.0,,Coppa Caivano 2008 ,,,,,
-124,1.2,,,,1.0,,Grand Prix Jasna Gora-Stochowa 2008 ,,,,,
-125,1.2,,,,1.0,,Raiffeisen Grand Prix Judendorf/Straßengel 2008 ,,,,,
-126,2.2/U23,,,,4.0,, Ronde de l\'Isard 2008 ,,,,,
-127,1.2,,,,1.0,,GP Hydraulika Mikolasek 2008 ,,,,,
-128,1.2,,,,1.0,,GP Kooperativa 2008 ,,,,,
-129,1.1,,,,1.0,,SEB Tartu Grand Prix 2008 ,,,,,
-130,1.2,,,,1.0,,GP Palma / Velka cena Palma 2008 ,,,,,
-131,1.2,,,,1.0,,Grand Prix Criquielion 2008 ,,,,,
-132,1.2,,,,1.0,,Velika Nagrada Ptuja 2008 ,,,,,
-133,2.HC,,,,5.0,,Bayern-Rundfahrt 2008 ,,,,,
-134,2.2/U23,,,,3.0,,Tour Des Pays De Savoie 2008 ,,,,,
-135,1.1,,,,1.0,,GP Kranj 2008 ,,,,,
-136,-,,,,1.0,,Grand Prix de Plumelec-Morbihan 2008 ,,,,,
-137,1.1,,,,1.0,,Boucles de l'Aulne - Châteaulin 2008 ,,,,,
-138,1.2,,,,1.0,,Coppa della Pace - Trofeo F.lli Anelli 2008 ,,,,,
-139,1.2,,,,1.0,,Paris-Roubaix Espoirs 2008 ,,,,,
-140,1.2,,,,1.0,,Riga GP 2008 ,,,,,
-141,1.2,,,,1.0,,Trofeo Alcide Degasperi 2008 ,,,,,
-142,2.2/U23,,,,7.0,,Volta Ciclista Internacional a Lleida 2008 ,,,,,
-143,2.2/U23,,,,7.0,,Baltyk - Karkonosze Tour 2008 ,,,,,
-144,2.HC,,,,5.0,,Skoda-Tour de Luxembourg 2008 ,,,,,
-145,1.2,,,,1.0,, Memorial Philippe Van Coningsloo 2008 ,,,,,
-146,1.2,,,,1.0,,Coppa Colli Briantei Internazionale 2008 ,,,,,
-147,1.2,,,,1.0,,GP Industria e Commercio - Tr. Città di San Vendemiano 2008 ,,,,,
-148,2.1,,,,4.0,,Tour de Slovénie 2008 ,,,,,
-149,2.2/U23,,,,5.0,,Ronde de l'Oise 2008 ,,,,,
-150,2.2/U23,,,,7.0,,Tour de Serbie 2008 ,,,,,
-151,2.1,,,,5.0,,Ster Elektrotoer 2008 ,,,,,
-152,2.1,,,,4.0,,Route du Sud - la Depêche du Midi 2008 ,,,,,
-153,Nationals.C3.TT,,,,1.0,,National TT Championships Romania 2008 ,,,,,
-154,Nationals.C3,,,,1.0,,National Championships Mongolia - Road Race 2008 ,,,,,
-155,Nationals.C3,,,,1.0,,National Championships Romania - Road Race 2008 ,,,,,
-156,1.2,,,,1.0,,Grand Prix of Wales 2008 ,,,,,
-157,1.2,,,,1.0,,Flèche Ardennaise 2008 ,,,,,
-158,Nationals.C3.TT,,,,1.0,,National Championships Slovenia - ITT 2008 ,,,,,
-159,Nationals.C3.TT,,,,1.0,,National Championships Sweden Itt 2008 ,,,,,
-160,Nationals.C3,,,,1.0,,National Championships Albania - Road Race 2008 ,,,,,
-161,Nationals.C3,,,,1.0,,National Championships Belarus - ITT 2008 ,,,,,
-162,Nationals.C3.TT,,,,1.0,,National Championships Czech Republic - ITT 2008 ,,,,,
-163,Nationals.C3.TT,,,,1.0,,National Championships Hungary - ITT 2008 ,,,,,
-164,Nationals.C3,,,,1.0,,National Championships Luxembourg - ITT 2008 ,,,,,
-165,Nationals.C2.TT,,,,1.0,,National Championships Poland I.t.t. 2008 ,,,,,
-166,Nationals.C3.TT,,,,1.0,,National Championships Slovakia - ITT 2008 ,,,,,
-167,Nationals.C3,,,,1.0,,National Championships Turkey - Road Race 2008 ,,,,,
-168,Nationals.C3.TT,,,,1.0,,National Championships Ukraine - ITT 2008 ,,,,,
-169,Nationals.C3.TT,,,,1.0,,National Championships Bulgaria - ITT 2008 ,,,,,
-170,Nationals.C3.TT,,,,1.0,,National Championships Croatia - ITT 2008 ,,,,,
-171,-,,,,1.0,,National Championships Croatia U23 - ITT 2008 ,,,,,
-172,Nationals.C3.TT,,,,1.0,,National Championships Estonia - ITT 2008 ,,,,,
-173,Nationals.C3.TT,,,,1.0,,National Championships Finland - ITT 2008 ,,,,,
-174,Nationals.C3.TT,,,,1.0,,National Championships Greece - ITT 2008 ,,,,,
-175,Nationals.C3.TT,,,,1.0,,National Championships Ireland - ITT 2008 ,,,,,
-176,Nationals.C3.TT,,,,1.0,,National Championships Latvia - ITT 2008 ,,,,,
-177,Nationals.C3.TT,,,,1.0,,National Championships Lithuania - ITT 2008 ,,,,,
-178,Nationals.C3.TT,,,,1.0,,National Championships Moldova - ITT 2008 ,,,,,
-179,Nationals.C3.TT,,,,1.0,,National Championships Russia - ITT 2008 ,,,,,
-180,Nationals.C3.TT,,,,1.0,,National Championships Serbia - ITT 2008 ,,,,,
-181,Nationals.C3,,,,1.0,,National Championships Lithuania - Road Race 2008 ,,,,,
-182,Nationals.C3,,,,1.0,,National Championships Moldavie - Road Race 2008 ,,,,,
-183,Nationals.C3.TT,,,,1.0,,National TT Championships Portugal 2008 ,,,,,
-184,Nationals.C3,,,,1.0,,National Championship Austria - Road Race 2008 ,,,,,
-185,Nationals.C3,,,,1.0,,National Championships Belarus - Road Race 2008 ,,,,,
-186,Nationals.C3,,,,1.0,,National Championships Bulgaria - Road Race 2008 ,,,,,
-187,Nationals.C3,,,,1.0,,National Championships Croatia - Road Race 2008 ,,,,,
-188,Nationals.C3,,,,1.0,,National Championships Czech Republic - Road Race 2008 ,,,,,
-189,Nationals.C3,,,,1.0,,National Championships Finland - Road Race 2008 ,,,,,
-190,Nationals.C3,,,,1.0,,National Championships Greece - Road Race 2008 ,,,,,
-191,Nationals.C3,,,,1.0,,National Championships Hungary - Road Race 2008 ,,,,,
-192,Nationals.C3,,,,1.0,,National Championships Latvia - Road Race 2008 ,,,,,
-193,Nationals.C2,,,,1.0,,National Championships Russia - Road Race 2008 ,,,,,
-194,Nationals.C3,,,,1.0,,National Championships Serbia - Road Race 2008 ,,,,,
-195,Nationals.C3,,,,1.0,,National Championships Sweden - Road Race 2008 ,,,,,
-196,Nationals.C3,,,,1.0,,National Championships Ukraine - Road Race 2008 ,,,,,
-197,-,,,,1.0,,European Championships U23 - ITT 2008 ,,,,,
-198,1.2,,,,1.0,,Trofeo Citta' di Brescia Mem. Fiori e Volpi 2008 ,,,,,
-199,2.1,,,,7.0,,Course de Solidarnosc et des Champions Olympiques 2008 ,,,,,
-200,Nationals.C3,,,,1.0,,National Championships Morocco - Road Race 2008 ,,,,,
-201,1.2,,,,1.0,,Tour du Jura 2008 ,,,,,
-202,1.1,,,,1.0,,Tour du Doubs - Conseil General 2008 ,,,,,
-203,1.2,,,,1.0,, Giro Valli Aretine - GP Città di Arezzo 2008 ,,,,,
-204,1.2,,,,1.0,,De Drie Zustersteden - Willebroek 2008 ,,,,,
-205,2.2/U23,,,,5.0,,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2008 ,,,,,
-206,2.2/U23,,,,3.0,,GP Cycliste de Gemenc 2008 ,,,,,
-207,1.2,,,,1.0,,Cronoscalata Gardone V.T. - Prati di Caregno 2008 ,,,,,
-208,1.2,,,,1.0,,Giro del Medio Brenta 2008 ,,,,,
-209,1.2,,,,1.0,,Pomorski Klasyk 2008 ,,,,,
-210,2.2/U23,,,,8.0,,Way to Pekin 2008 ,,,,,
-211,1.2,,,,1.0,,Plovdiv Cup 2008 ,,,,,
-212,1.2,,,,1.0,,Giro del Casentino 2008 ,,,,,
-213,2.HC,,,,5.0,,Tour de Wallonie 2008 ,,,,,
-214,1.2,,,,1.0,,Grand Prix Bradlo 2008 ,,,,,
-215,2.2/U23,,,,4.0,,Kreiz Breizh Elites 2008 ,,,,,
-216,1.2,,,,1.0,,Gran Premio Inda - Trofeo Aras Frattini 2008 ,,,,,
-217,1.2,,,,1.0,,Grand Prix de la ville de Pérenchies 2008 ,,,,,
-218,2.2/U23,,,,6.0,,Dookola Mazowsza 2008 ,,,,,
-219,1.2,,,,1.0,,GP P-Nivo 2008 ,,,,,
-220,1.1,,,,1.0,,Sparkassen Giro 2008 ,,,,,
-221,1.2,,,,1.0,,Gp Folignano - Trofeo Avis 2008 ,,,,,
-222,2.1,,,,2.0,,Paris - Corrèze 2008 ,,,,,
-223,2.2/U23,,,,4.0,,Tour of Malopolska 2008 ,,,,,
-224,2.2/U23,,,,4.0,,Tour of Szeklerland  2008 ,,,,,
-225,1.2,,,,1.0,,Trofeo Internazionale Bastianelli 2008 ,,,,,
-226,1.2,,,,1.0,,GP Citta' di Felino 2008 ,,,,,
-227,1.2,,,,1.0,,Gp Di Poggiana 2008 ,,,,,
-228,1.2,,,,1.0,,Puchar Ministra Obrony Narodowej 2008 ,,,,,
-229,1.2,,,,1.0,,GP Capodarco 2008 ,,,,,
-230,1.2,,,,1.0,,Memorial Henryka Lasaka 2008 ,,,,,
-231,1.2,,,,1.0,,Gara Ciclistica Montappone - Tr. Marini Silvano Cappelli Sp. 2008 ,,,,,
-232,1.2,,,,1.0,,Puchar Uzdrowisk Karpackich 2008 ,,,,,
-233,1.2,,,,1.0,,2 Giorni Marchigiana - GP Ind.Com.Art di Castelfidardo 2008 ,,,,,
-234,1.2,,,,1.0,,2 Giorni Marchigiana - Trofeo Citta de Castelfidardo 2008 ,,,,,
-235,1.2,,,,1.0,,Grand Prix des Marbriers 2008 ,,,,,
-236,2.2/U23,,,,5.0,,GP Tell 2008 ,,,,,
-237,2.2/U23,,,,4.0,,Szlakiem Walk Majora Hubala 2008 ,,,,,
-238,2.1,,,,5.0,,Tour of Ireland 2008 ,,,,,
-239,Nationals.C3,,,,1.0,,National Championships Iceland - Road Race 2008 ,,,,,
-240,1.2,,,,1.0,,Ronde van Midden-Nederland 2008 ,,,,,
-241,2.2/U23,,,,6.0,,Okolo Slovenska 2008 ,,,,,
-242,E-2.Ncup,,,,10.0,,Tour de l'Avenir 2008 ,,,,,
-243,J-1.1,,,,1.0,,Memorial Davide Fardelli 2008 ,,,,,
-244,1.2,,,,1.0,,Trofeo Salvatore Morucci 2008 ,,,,,
-245,2.2/U23,,,,8.0,,Tour of Bulgaria 2008 ,,,,,
-246,1.2,,,,1.0,,Chrono Champenois Masculin 2008 ,,,,,
-247,1.1,,,,1.0,,GP Briek Schotte 2008 ,,,,,
-248,1.1,,,,1.0,,23rd Grand Prix de la Somme « Conseil Général 80 » 2008 ,,,,,
-249,Nationals.C3.TT,,,,1.0,,National Championships Austria - ITT 2008 ,,,,,
-250,1.1,,,,1.0,,Memorial Viviana Manservisi 2008 ,,,,,
-251,1.2,,,,1.0,,Lombardia Tour 2008 ,,,,,
-252,1.2,,,,1.0,,Praha - Karlovy Vary - Praha 2008 ,,,,,
-253,1.2,,,,1.0,,Giro del Canavese 2008 ,,,,,
-254,1.2,,,,1.0,,Trofeo G. Bianchin 2008 ,,,,,
-255,1.2,,,,1.0,,Piccolo Giro di Lombardia 2008 ,,,,,
-256,1.1,,,,1.0,,Tour de Vendée 2008 ,,,,,
-257,1.2,,,,1.0,,Paris-Tours Espoirs 2008 ,,,,,
-258,1.1,,,,1.0,,Nationale Sluitingprijs Putte - Kapellen 2008 ,,,,,
-259,1.1,,,,1.0,,Chrono Des Nations 2008 ,,,,,
-260,Nationals.C3.TT,,,,1.0,,National Championships Eritrea - Road Race 2008 ,,,,,
-261,Nationals.C3.TT,,,,1.0,,National Championships New Zealand - ITT 2008 ,,,,,
-262,Nationals.C3,,,,1.0,,National Championships New Zealand - Road Race 2008 ,,,,,
-263,2.2/U23,,,,7.0,,Tour of Wellington 2008 ,,,,,
-264,1.2,,,,1.0,,Copa America de Ciclismo 2008 ,,,,,
-265,-,,,,6.0,,Tour de San Luis 2008 ,,,,,
-266,2.2/U23,,,,15.0,,Vuelta Ciclista a Cuba 2008 ,,,,,
-267,2.2/U23,,,,6.0,,Tour of Belize 2008 ,,,,,
-268,2.2/U23,,,,11.0,,Vuelta Independencia Nacional 2008 ,,,,,
-269,Nationals.C3.TT,,,,1.0,,National Championships Mexico - ITT 2008 ,,,,,
-270,Nationals.C3,,,,1.0,,National Championships Mexico Road Race 2008 ,,,,,
-271,Nationals.C3.TT,,,,1.0,,National Championships Chile - ITT 2008 ,,,,,
-272,Nationals.C3,,,,1.0,,National Championships Chile - Road Race 2008 ,,,,,
-273,Nationals.C3.TT,,,,1.0,,National Championships Argentina - ITT 2008 ,,,,,
-274,Nationals.C3,,,,1.0,,National Championships Argentina - Road Race 2008 ,,,,,
-275,Nationals.C3.TT,,,,1.0,,National Championships Cuba - ITT 2008 ,,,,,
-276,Nationals.C3,,,,1.0,,National Championships Cuba - Road Race 2008 ,,,,,
-277,Nationals.C3.TT,,,,1.0,,National Championships Venezuela Itt 2008 ,,,,,
-278,1.2,,,,1.0,,Clasico Aniversario de la Federacion Venezolana de Ciclismo 2008 ,,,,,
-279,1.2,,,,1.0,,Copa Federacion Venezolana de Ciclismo Corre por la Vida 2008 ,,,,,
-280,UCI.Cont.Ch.TT,,,,1.0,,Pan-American Championships - ITT 2008 ,,,,,
-281,2.2/U23,,,,15.0,,Vuelta a Colombia 2008 ,,,,,
-282,Nationals.C3,,,,1.0,,National Championships Ecuador - Road Race 2008 ,,,,,
-283,-,,,,1.0,,Pan-American Championships - Road Race 2008 ,,,,,
-284,2.2/U23,,,,5.0,,Doble Sucre Potosi G.P. Cemento Fancesa 2008 ,,,,,
-285,1.2,,,,1.0,,Tour de Leelanau 2008 ,,,,,
-286,1.1,,,,1.0,,Commerce Bank Lehigh Valley Classic 2008 ,,,,,
-287,1.1,,,,1.0,,Commerce Bank Reading Classic 2008 ,,,,,
-288,E-2.Ncup,,,,5.0,,Coupe des Nations Ville Saguenay 2008 ,,,,,
-289,2.2/U23,,,,7.0,,Tour de Beauce 2008 ,,,,,
-290,Nationals.C3,,,,1.0,,National Championships Brazil - Road Race 2008 ,,,,,
-291,Nationals.C3.TT,,,,1.0,,National Championships Brazil - ITT 2008 ,,,,,
-292,2.2/U23,,,,7.0,,Tour of Pennsylvania 2008 ,,,,,
-293,Nationals.C3,,,,1.0,,National Championships Costa Rica - Road Race 2008 ,,,,,
-294,Nationals.C3.TT,,,,1.0,,National TT Championships Canada 2008 ,,,,,
-295,2.2/U23,,,,11.0,,Tour Cycliste International de Martinique 2008 ,,,,,
-296,Nationals.C3,,,,1.0,,National Championships Canada - Road Race 2008 ,,,,,
-297,1.2,,,,1.0,,Prova Ciclistica 9 de Julho 2008 ,,,,,
-298,1.2,,,,1.0,,Clasico Ciudad de Caracas 2008 ,,,,,
-299,2.2/U23,,,,3.0,,Rochester Omnium 2008 ,,,,,
-300,2.2/U23,,,,14.0,,Vuelta Ciclista a Venezuela 2008 ,,,,,
-301,Nationals.C3.TT,,,,1.0,,National Championships United States - ITT 2008 ,,,,,
-302,Nationals.C3,,,,1.0,,National Championships United States - Road Race 2008 ,,,,,
-303,1.2,,,,1.0,,Univest Grand Prix 2008 ,,,,,
-304,2.1,,,,7.0,,Tour of Missouri 2008 ,,,,,
-305,2.2/U23,,,,8.0,,Vuelta Mexico 2008 ,,,,,
-306,2.2/U23,,,,10.0,,Clásico Ciclístico Internacional Banfoandes 2008 ,,,,,
-307,2.2/U23,,,,7.0,,Vuelta a Chihuahua Internacional 2008 ,,,,,
+,Stage_Name,Date,Stage_Type,Start,Finish,Race_ID,Stage#,url,Length
+0,Milano-Sanremo 2008,2008-03-22,RR,Milano,Sanremo,0,0,race/milano-sanremo/2008,298.0
+1,Vuelta Ciclista al Pais Vasco 2008  Stage 1,2008-04-07,RR,Start,Finish,1,1,race/itzulia-basque-country/2008/stage-1,137.0
+2,Vuelta Ciclista al Pais Vasco 2008  Stage 2,2008-04-08,RR,Start,Finish,1,2,race/itzulia-basque-country/2008/stage-2,153.0
+3,Vuelta Ciclista al Pais Vasco 2008  Stage 3,2008-04-09,RR,Start,Finish,1,3,race/itzulia-basque-country/2008/stage-3,195.0
+4,Vuelta Ciclista al Pais Vasco 2008  Stage 4,2008-04-10,RR,Start,Finish,1,4,race/itzulia-basque-country/2008/stage-4,162.0
+5,Vuelta Ciclista al Pais Vasco 2008  Stage 5,2008-04-11,RR,Start,Finish,1,5,race/itzulia-basque-country/2008/stage-5,162.0
+6,Vuelta Ciclista al Pais Vasco 2008  Stage 6 (ITT),2008-04-12,ITT,Start,Finish,1,6,race/itzulia-basque-country/2008/stage-6,20.0
+7,Tour de Romandie 2008  Prologue,2008-04-29,Prologue,Start,Finish,2,1,race/tour-de-romandie/2008/prologue,2.0
+8,Tour de Romandie 2008  Stage 2,2008-04-30,RR,Start,Finish,2,2,race/tour-de-romandie/2008/stage-2,185.0
+9,Tour de Romandie 2008  Stage 3,2008-05-01,RR,Start,Finish,2,3,race/tour-de-romandie/2008/stage-3,0.0
+10,Tour de Romandie 2008  Stage 4 (ITT),2008-05-02,ITT,Start,Finish,2,4,race/tour-de-romandie/2008/stage-4,19.0
+11,Tour de Romandie 2008  Stage 5,2008-05-03,RR,Start,Finish,2,5,race/tour-de-romandie/2008/stage-5,112.0
+12,Tour de Romandie 2008  Stage 6,2008-05-04,RR,Start,Finish,2,6,race/tour-de-romandie/2008/stage-6,159.0
+13,Giro d'Italia 2008  Stage 1 (TTT),2008-05-10,TTT,Palermo,Palermo,3,1,race/giro-d-italia/2008/stage-1,23.0
+14,Giro d'Italia 2008  Stage 2,2008-05-11,RR,Cefalù,Agrigento,3,2,race/giro-d-italia/2008/stage-2,207.0
+15,Giro d'Italia 2008  Stage 3,2008-05-12,RR,Catania,Milazzo,3,3,race/giro-d-italia/2008/stage-3,221.0
+16,Giro d'Italia 2008  Stage 4,2008-05-13,RR,Pizzo Calabro,Catanzaro-Lungomare,3,4,race/giro-d-italia/2008/stage-4,183.0
+17,Giro d'Italia 2008  Stage 5,2008-05-14,RR,Belvedere Marittimo,Contursi Terme,3,5,race/giro-d-italia/2008/stage-5,203.0
+18,Giro d'Italia 2008  Stage 6,2008-05-15,RR,Potenza,Peschici,3,6,race/giro-d-italia/2008/stage-6,232.0
+19,Giro d'Italia 2008  Stage 7,2008-05-16,RR,Vasto,Pescocostanzo,3,7,race/giro-d-italia/2008/stage-7,180.0
+20,Giro d'Italia 2008  Stage 8,2008-05-17,RR,Rivisondoli,Tivoli,3,8,race/giro-d-italia/2008/stage-8,208.0
+21,Giro d'Italia 2008  Stage 9,2008-05-18,RR,Civitavecchia,San Vincenzo,3,9,race/giro-d-italia/2008/stage-9,218.0
+22,Giro d'Italia 2008  Stage 10 (ITT),2008-05-20,ITT,Pesaro,Urbino,3,10,race/giro-d-italia/2008/stage-10,39.0
+23,Giro d'Italia 2008  Stage 11,2008-05-21,RR,Urbania,Cesena,3,11,race/giro-d-italia/2008/stage-11,199.0
+24,Giro d'Italia 2008  Stage 12,2008-05-22,RR,Forli,Carpi,3,12,race/giro-d-italia/2008/stage-12,169.0
+25,Giro d'Italia 2008  Stage 13,2008-05-23,RR,Cittadella,Cittadella,3,13,race/giro-d-italia/2008/stage-13,177.0
+26,Giro d'Italia 2008  Stage 14,2008-05-24,RR,Alpe di Pampeago,Val de Viemme,3,14,race/giro-d-italia/2008/stage-14,193.0
+27,Giro d'Italia 2008  Stage 15,2008-05-25,RR,Arabba,Passo Fedaia,3,15,race/giro-d-italia/2008/stage-15,153.0
+28,Giro d'Italia 2008  Stage 16 (ITT),2008-05-26,ITT,San Vigilio di Marebbe,Plan de Corones,3,16,race/giro-d-italia/2008/stage-16,12.9
+29,Giro d'Italia 2008  Stage 17,2008-05-28,RR,Start,Finish,3,17,race/giro-d-italia/2008/stage-17,146.0
+30,Giro d'Italia 2008  Stage 18,2008-05-29,RR,Start,Finish,3,18,race/giro-d-italia/2008/stage-18,147.0
+31,Giro d'Italia 2008  Stage 19,2008-05-30,RR,Prosolana,Monte Porra,3,19,race/giro-d-italia/2008/stage-19,238.0
+32,Giro d'Italia 2008  Stage 20,2008-05-31,RR,Rovetta,Tirano,3,20,race/giro-d-italia/2008/stage-20,232.0
+33,Giro d'Italia 2008  Stage 21 (ITT),2008-06-01,ITT,Cesano Maderno,Milano,3,21,race/giro-d-italia/2008/stage-21,28.0
+34,Critérium Du Dauphiné Libéré 2008  Prologue,2008-06-08,Prologue,Start,Finish,4,1,race/dauphine/2008/prologue,5.0
+35,Critérium Du Dauphiné Libéré 2008  Stage 2,2008-06-09,RR,Start,Finish,4,2,race/dauphine/2008/stage-2,194.0
+36,Critérium Du Dauphiné Libéré 2008  Stage 3,2008-06-10,RR,Start,Finish,4,3,race/dauphine/2008/stage-3,184.0
+37,Critérium Du Dauphiné Libéré 2008  Stage 4 (ITT),2008-06-11,ITT,Start,Finish,4,4,race/dauphine/2008/stage-4,31.0
+38,Critérium Du Dauphiné Libéré 2008  Stage 5,2008-06-12,RR,Start,Finish,4,5,race/dauphine/2008/stage-5,193.0
+39,Critérium Du Dauphiné Libéré 2008  Stage 6,2008-06-13,RR,Start,Finish,4,6,race/dauphine/2008/stage-6,125.0
+40,Critérium Du Dauphiné Libéré 2008  Stage 7,2008-06-14,RR,Start,Finish,4,7,race/dauphine/2008/stage-7,233.0
+41,Critérium Du Dauphiné Libéré 2008  Stage 8,2008-06-15,RR,Start,Finish,4,8,race/dauphine/2008/stage-8,127.0
+42,Tour de Suisse 2008  Stage 1,2008-06-14,RR,Start,Finish,5,1,race/tour-de-suisse/2008/stage-1,146.0
+43,Tour de Suisse 2008  Stage 2,2008-06-15,RR,Start,Finish,5,2,race/tour-de-suisse/2008/stage-2,197.0
+44,Tour de Suisse 2008  Stage 3,2008-06-16,RR,Start,Finish,5,3,race/tour-de-suisse/2008/stage-3,155.0
+45,Tour de Suisse 2008  Stage 4,2008-06-17,RR,Start,Finish,5,4,race/tour-de-suisse/2008/stage-4,171.0
+46,Tour de Suisse 2008  Stage 5,2008-06-18,RR,Start,Finish,5,5,race/tour-de-suisse/2008/stage-5,190.0
+47,Tour de Suisse 2008  Stage 6,2008-06-19,RR,Start,Finish,5,6,race/tour-de-suisse/2008/stage-6,188.0
+48,Tour de Suisse 2008  Stage 7,2008-06-20,RR,Start,Finish,5,7,race/tour-de-suisse/2008/stage-7,171.0
+49,Tour de Suisse 2008  Stage 8 (ITT),2008-06-21,ITT,Start,Finish,5,8,race/tour-de-suisse/2008/stage-8,25.0
+50,Tour de Suisse 2008  Stage 9,2008-06-22,RR,Start,Finish,5,9,race/tour-de-suisse/2008/stage-9,168.0
+51,National Championships Switzerland - ITT 2008 Stage 1,2008-06-24,RR,Start,Finish,6,0,race/nc-switzerland-itt/2008,0.0
+52,Clasica Ciclista San Sebastian 2008,2008-08-02,RR,Start,Finish,7,0,race/san-sebastian/2008,0.0
+53,Tour de Pologne 2008  Prologue,2008-09-14,Prologue,Warszawa, Warszawa ,8,1,race/tour-de-pologne/2008/prologue,4.0
+54,Tour de Pologne 2008  Stage 2,2008-09-15,RR,Plock,Olsztyn,8,2,race/tour-de-pologne/2008/stage-2,231.2
+55,Tour de Pologne 2008  Stage 3,2008-09-16,RR,Mikolajki,Bialystok,8,3,race/tour-de-pologne/2008/stage-3,184.8
+56,Tour de Pologne 2008  Stage 4,2008-09-18,RR,Naleczow,Rzeszow,8,4,race/tour-de-pologne/2008/stage-4,239.7
+57,Tour de Pologne 2008  Stage 5,2008-09-19,RR,Krynica Gorska,Zakopane,8,5,race/tour-de-pologne/2008/stage-5,118.0
+58,Tour de Pologne 2008  Stage 6,2008-09-20,RR,Rabki,Krakow,8,6,race/tour-de-pologne/2008/stage-6,95.4
+59,World Championships MJ - ITT 2008,2008-07-18,RR,Start,Finish,0,0,race/uci-world-championships-itt-mj/2008,26.8
+60,World Championships WJ - ITT 2008,2008-07-18,RR,Start,Finish,1,0,race/world-championships-wj-itt/2008,14.1
+61,World Championships MJ - Road Race 2008,2008-07-20,RR,Start,Finish,2,0,race/uci-world-championships-mj/2008,0.0
+62,World Championships WJ - Road Race 2008,2008-07-20,RR,Start,Finish,3,0,race/world-championships-junior-women/2008,0.0
+63,World Championships U23 - ITT 2008,2008-09-23,RR,Start,Finish,4,0,race/world-championships-itt-u23/2008,0.0
+64,World Championships WE - ITT 2008,2008-09-24,RR,Start,Finish,5,0,race/world-championship-itt-we/2008,25.15
+65,World Championships - ITT 2008,2008-09-25,RR,Start,Finish,6,0,race/world-championship-itt/2008,43.7
+66,World Championships U23 - Road Race 2008,2008-09-26,RR,Start,Finish,7,0,race/world-championships-u23/2008,173.35
+67,World Championships - Road Race 2008,2008-09-28,RR,Start,Finish,8,0,race/world-championship/2008,260.0
+68,Tour of Egypt 2008  Prologue,2008-02-11,Prologue,Nuweiba,Nuweiba,0,1,race/tour-d-egypt/2008/prologue,8.0
+69,Tour of Egypt 2008  Stage 1,2008-02-12,RR,Nuweiba,Nuweiba,0,2,race/tour-d-egypt/2008/stage-1,135.0
+70,Tour of Egypt 2008  Stage 2,2008-02-13,RR,Nuweiba,Nuweiba,0,3,race/tour-d-egypt/2008/stage-2,140.0
+71,Tour of Egypt 2008  Stage 3,2008-02-14,RR,Nuweiba,Nuweiba,0,4,race/tour-d-egypt/2008/stage-3,170.0
+72,Tour of Egypt 2008  Stage 4,2008-02-15,RR,Nuweiba,Sharm El-Sheikh,0,5,race/tour-d-egypt/2008/stage-4,170.0
+73,Tour of Egypt 2008  Stage 5,2008-02-16,RR,Sharm El-Sheikh,Sharm El-Sheikh,0,6,race/tour-d-egypt/2008/stage-5,160.0
+74,Tour of Egypt 2008  Stage 6,2008-02-17,RR,Sharm El-Sheikh,Sharm El-Sheikh,0,7,race/tour-d-egypt/2008/stage-6,120.0
+75,Grand Prix of Sharm el-Sheikh 2008,2008-02-19,RR,Sharm el-Sheikh,Sharm el-Sheikh,1,0,race/grand-prix-of-sharm-el-sheikh/2008,123.0
+76,National Championships Namibia - Road Race 2008,2008-03-04,RR,Start,Finish,2,0,race/nc-namibia/2008,0.0
+77,Tour of Libya 2008  Stage 1 (ITT),2008-03-15,ITT,Tripoli,Tripoli,3,1,race/tour-of-libya/2008/stage-1,36.0
+78,Tour of Libya 2008  Stage 2,2008-03-16,RR,Tripoli,Misurata,3,2,race/tour-of-libya/2008/stage-2,0.0
+79,Tour of Libya 2008  Stage 3,2008-03-17,RR,Misurata,Sirte,3,3,race/tour-of-libya/2008/stage-3,0.0
+80,Tour of Libya 2008  Stage 4,2008-03-18,RR,Sirte,Tawargha,3,4,race/tour-of-libya/2008/stage-4,0.0
+81,Tour of Libya 2008  Stage 5,2008-03-19,RR,Misurata,Bani Walid,3,5,race/tour-of-libya/2008/stage-5,0.0
+82,Tour of Libya 2008  Stage 6,2008-03-20,RR,Bani Walid,Gharian,3,6,race/tour-of-libya/2008/stage-6,0.0
+83,Tour of Libya 2008  Stage 7,2008-03-21,RR,Gharian,Tripoli,3,7,race/tour-of-libya/2008/stage-7,0.0
+84,Tour du Cameroun 2008  Stage 1,2008-03-29,RR,Moukong,Maroua,4,1,race/tour-du-cameroun/2008/stage-1,121.0
+85,Tour du Cameroun 2008  Stage 2,2008-03-30,RR,Garoua,Garoua,4,2,race/tour-du-cameroun/2008/stage-2,107.0
+86,Tour du Cameroun 2008  Stage 3,2008-03-31,RR,Ngaouyanga,Ngaoundéré,4,3,race/tour-du-cameroun/2008/stage-3,76.7
+87,Tour du Cameroun 2008  Stage 4,2008-04-01,RR,Batié,Bafang,4,4,race/tour-du-cameroun/2008/stage-4,30.0
+88,Tour du Cameroun 2008  Stage 5,2008-04-02,RR,Bonabéri,Buéa,4,5,race/tour-du-cameroun/2008/stage-5,96.0
+89,Tour du Cameroun 2008  Stage 6,2008-04-03,RR,Douala,Kribi,4,6,race/tour-du-cameroun/2008/stage-6,164.0
+90,Tour du Cameroun 2008  Stage 7,2008-04-05,RR,Mbalmayo,Sangmelima,4,7,race/tour-du-cameroun/2008/stage-7,123.0
+91,Tour du Cameroun 2008  Stage 8,2008-04-06,RR,Sangmelima,Yaoundé,4,8,race/tour-du-cameroun/2008/stage-8,164.0
+92,GP de la ville de Tunis 2008,2008-04-07,RR,Start,Finish,5,0,race/gp-de-la-ville-de-tunis/2008,90.0
+93,GP de la Banque de l'Habitat 2008,2008-04-08,RR,Start,Finish,6,0,race/gp-de-la-banque-de-l-habitat/2008,102.0
+94,National Championships South Africa - Road Race 2008,2008-05-11,RR,Start,Finish,7,0,race/nc-south-africa/2008,0.0
+95,Boucle du Coton 2008  Stage 1,2008-05-12,RR,Ziniaré,Koudougou,8,1,race/boucle-du-coton/2008/stage-1,141.0
+96,Boucle du Coton 2008  Stage 2,2008-05-13,RR,Sabou,Boromo,8,2,race/boucle-du-coton/2008/stage-2,98.0
+97,Boucle du Coton 2008  Stage 3,2008-05-14,RR,Boromo,Diébougou,8,3,race/boucle-du-coton/2008/stage-3,125.0
+98,Boucle du Coton 2008  Stage 4,2008-05-15,RR,Diébougou,Houndé,8,4,race/boucle-du-coton/2008/stage-4,122.0
+99,Boucle du Coton 2008  Stage 5,2008-05-16,RR,Bobo Dioulasso,Banfora,8,5,race/boucle-du-coton/2008/stage-5,87.0
+100,Boucle du Coton 2008  Stage 6,2008-05-17,RR,Bobo Dioulasso,Orodara,8,6,race/boucle-du-coton/2008/stage-6,71.0
+101,Boucle du Coton 2008  Stage 7,2008-05-18,RR,Bobo Dioulasso,Bobo Dioulasso,8,7,race/boucle-du-coton/2008/stage-7,131.0
+102,National Championships Tunisia - ITT 2008,2008-05-27,RR,Start,Finish,9,0,race/nc-tunisia-itt/2008,0.0
+103,Tour du Maroc 2008  Stage 1,2008-05-30,RR,Casablanca,Khouribga,10,1,race/tour-du-maroc/2008/stage-1a,118.0
+104,Tour du Maroc 2008  Stage 1,2008-05-30,RR,Khouribga,Beni Mellal,10,2,race/tour-du-maroc/2008/stage-1b,80.0
+105,Tour du Maroc 2008  Stage 2,2008-05-31,RR,Beni Mellal,Khénifra,10,3,race/tour-du-maroc/2008/stage-2,123.0
+106,Tour du Maroc 2008  Stage 3,2008-06-01,RR,Khénifra,Fès,10,4,race/tour-du-maroc/2008/stage-3,162.0
+107,Tour du Maroc 2008  Stage 4,2008-06-02,RR,Fès,Taza,10,5,race/tour-du-maroc/2008/stage-4,118.0
+108,Tour du Maroc 2008  Stage 5,2008-06-03,RR,Guercif,Oujda,10,6,race/tour-du-maroc/2008/stage-5,158.0
+109,Tour du Maroc 2008  Stage 6,2008-06-04,RR,Oujda,Berkane,10,7,race/tour-du-maroc/2008/stage-6a,54.0
+110,Tour du Maroc 2008  Stage 6,2008-06-04,RR,Berkane,Nador,10,8,race/tour-du-maroc/2008/stage-6b,78.0
+111,Tour du Maroc 2008  Stage 7,2008-06-05,RR,Nador,Al Hoceima,10,9,race/tour-du-maroc/2008/stage-7,145.0
+112,Tour du Maroc 2008  Stage 8,2008-06-06,RR,Chaouen,Tanger,10,10,race/tour-du-maroc/2008/stage-8,120.0
+113,Tour du Maroc 2008  Stage 9,2008-06-07,RR,Larache,Kenitra,10,11,race/tour-du-maroc/2008/stage-9,140.0
+114,Tour du Maroc 2008  Stage 10,2008-06-08,RR,Rabat,Casablanca,10,12,race/tour-du-maroc/2008/stage-10,100.0
+115,National Championships Algeria - ITT 2008,2008-06-23,RR,Start,Finish,11,0,race/nc-algeria-itt/2008,0.0
+116,National Championships Algeria - Road Race 2008,2008-06-25,RR,Start,Finish,12,0,race/nc-algeria/2008,0.0
+117,National Championships Tunisia - Road Race 2008,2008-06-29,RR,Start,Finish,13,0,race/nc-tunisia/2008,0.0
+118,National Championships Zimbabwe - Road Race 2008,2008-06-29,RR,Start,Finish,14,0,race/nc-zimbabwe/2008,0.0
+119,Tour of Thailand 2008  Stage 1,2008-09-01,RR,Chiang Rai,Chiang Rai,15,1,race/tour-of-thailand/2008/stage-1,80.0
+120,Tour of Thailand 2008  Stage 2,2008-09-02,RR,Doi Luang,Chiang Rai,15,2,race/tour-of-thailand/2008/stage-2,174.1
+121,Tour of Thailand 2008  Stage 3,2008-09-03,RR,Chiang Rai,Terng,15,3,race/tour-of-thailand/2008/stage-3,200.0
+122,Tour of Thailand 2008  Stage 4,2008-09-04,RR,Pha Yao,Pha Yao,15,4,race/tour-of-thailand/2008/stage-4,181.0
+123,Tour of Thailand 2008  Stage 5,2008-09-05,RR,Pha Yao,Lampang,15,5,race/tour-of-thailand/2008/stage-5,160.0
+124,Tour of Thailand 2008  Stage 6,2008-09-06,RR,Lampang,Lampang,15,6,race/tour-of-thailand/2008/stage-6,148.0
+125,Grand Prix Chantal Biya 2008  Prologue,2008-10-02,Prologue,Yaoundé,Yaoundé,16,1,race/grand-prix-chantal-biya/2008/prologue,0.0
+126,Grand Prix Chantal Biya 2008  Stage 1,2008-10-03,RR,Yaoundé,Ebolowa,16,2,race/grand-prix-chantal-biya/2008/stage-1,141.5
+127,Grand Prix Chantal Biya 2008  Stage 2,2008-10-04,RR,Ngolbang,Meyomessala,16,3,race/grand-prix-chantal-biya/2008/stage-2,131.0
+128,Grand Prix Chantal Biya 2008  Stage 3,2008-10-05,RR,Sangmelima,Yaoundé,16,4,race/grand-prix-chantal-biya/2008/stage-3,169.0
+129,Tour du Sénégal 2008  Stage 1,2008-10-09,RR,Ziguinchor,Ziguinchor,17,1,race/tour-du-senegal/2008/stage-1,135.0
+130,Tour du Sénégal 2008  Stage 2,2008-10-11,RR,Dakar,Mbour,17,2,race/tour-du-senegal/2008/stage-2,48.0
+131,Tour du Sénégal 2008  Stage 3,2008-10-12,RR,Mbour,Kaolack,17,3,race/tour-du-senegal/2008/stage-3,108.0
+132,Tour du Sénégal 2008  Stage 4,2008-10-13,RR,Kaolack,Thiès,17,4,race/tour-du-senegal/2008/stage-4,166.4
+133,Tour du Sénégal 2008  Stage 5,2008-10-14,RR,Thiès,Saint-Louis,17,5,race/tour-du-senegal/2008/stage-5,186.5
+134,Tour du Sénégal 2008  Stage 6,2008-10-15,RR,Saint-Louis,Saint-Louis,17,6,race/tour-du-senegal/2008/stage-6,139.9
+135,Tour du Sénégal 2008  Stage 7,2008-10-16,RR,Saint-Louis,Thiès,17,7,race/tour-du-senegal/2008/stage-7,190.0
+136,Tour du Sénégal 2008  Stage 8,2008-10-17,RR,Somone,Sali,17,8,race/tour-du-senegal/2008/stage-8,127.5
+137,Tour du Sénégal 2008  Stage 9,2008-10-18,RR,Dakar,Dakar,17,9,race/tour-du-senegal/2008/stage-9,81.0
+138,Pick n Pay Amashovashova National Classic 2008,2008-10-19,RR,Start,Finish,18,0,race/pick-n-pay-amashovashova-national-classic/2008,106.0
+139,National Championships Namibia - ITT 2008,2008-10-26,RR,Start,Finish,19,0,race/nc-namibia-itt/2008,0.0
+140,African Continental Championships - ITT 2008,2008-11-07,RR,Start,Finish,20,0,race/african-continental-championships-itt/2008,22.0
+141,African Cycling Championships - Road Race 2008,2008-11-09,RR,Casablanca,Casablanca,21,0,race/african-championships/2008,143.0
+142,Jelajah Malaysia 2008  Stage 1,2008-01-07,RR,Putrajaya,Port Dickson,0,1,race/jelajah-malaysia/2008/stage-1,176.5
+143,Jelajah Malaysia 2008  Stage 2,2008-01-08,RR,Seremban,Melaka,0,2,race/jelajah-malaysia/2008/stage-2,136.2
+144,Jelajah Malaysia 2008  Stage 3,2008-01-09,RR,Bandar Hilir,Batu Pahat,0,3,race/jelajah-malaysia/2008/stage-3,163.8
+145,Jelajah Malaysia 2008  Stage 4,2008-01-10,RR,Batu Pahat,Muar,0,4,race/jelajah-malaysia/2008/stage-4,178.8
+146,Jelajah Malaysia 2008  Stage 5,2008-01-11,RR,Gemas,Karak,0,5,race/jelajah-malaysia/2008/stage-5,133.7
+147,Jelajah Malaysia 2008  Stage 6,2008-01-12,RR,Kuala Kubu Bahru,Genting,0,6,race/jelajah-malaysia/2008/stage-6,122.2
+148,Jelajah Malaysia 2008  Stage 7,2008-01-13,RR,Dataran Merdeka,Dataran Merdeka,0,7,race/jelajah-malaysia/2008/stage-7,58.0
+149,Mohammad Bin Rashid International Cycling Cup 2008,2008-01-26,RR,Start,Finish,1,0,race/mohammad-bin-rashid-international-cycling-cup/2008,123.0
+150,Umm Al Quwain International Race 2008  Stage 1,2008-02-21,RR,Palm Beach,Palm Beach,2,1,race/umm-al-quwain-international-race/2008/stage-1,110.0
+151,Umm Al Quwain International Race 2008  Stage 2,2008-02-22,RR,Palm Beach,Palm Beach,2,2,race/umm-al-quwain-international-race/2008/stage-2,120.0
+152,Umm Al Quwain International Race 2008  Stage 3,2008-02-23,RR,Emirates Road,Palm Beach,2,3,race/umm-al-quwain-international-race/2008/stage-3,175.0
+153,Umm Al Quwain International Race 2008  Stage 4,2008-02-24,RR,Umm Al Quwain,Umm Al Quwain,2,4,race/umm-al-quwain-international-race/2008/stage-4,90.0
+154,Taftan Tour 2008  Prologue,2008-03-02,Prologue,Zahedan,Zahedan,3,1,race/taftan-tour/2008/prologue,6.0
+155,Taftan Tour 2008  Stage 1,2008-03-03,RR,Zabol,Tasuki,3,2,race/taftan-tour/2008/stage-1,105.0
+156,Taftan Tour 2008  Stage 2,2008-03-04,RR,Zahedan,Khash,3,3,race/taftan-tour/2008/stage-2,180.0
+157,Taftan Tour 2008  Stage 3,2008-03-05,RR,Khash,Iranshahr,3,4,race/taftan-tour/2008/stage-3,160.0
+158,Taftan Tour 2008  Stage 4,2008-03-06,RR,Iranshahr,Bandan,3,5,race/taftan-tour/2008/stage-4a,0.0
+159,Taftan Tour 2008  Stage 4,2008-03-06,RR,Bandan,Rasj,3,6,race/taftan-tour/2008/stage-4b,0.0
+160,Taftan Tour 2008  Stage 5,2008-03-07,RR,Chabahar,Chabahar,3,7,race/taftan-tour/2008/stage-5,70.0
+161,Tour de Taiwan 2008  Stage 1,2008-03-09,RR,Kaohsiung,Kaohsiung,4,1,race/tour-de-taiwan/2008/stage-1,88.0
+162,Tour de Taiwan 2008  Stage 2,2008-03-10,RR,Pingtung,Pingtung,4,2,race/tour-de-taiwan/2008/stage-2,111.2
+163,Tour de Taiwan 2008  Stage 3,2008-03-11,RR,Baguashan,Baguashan,4,3,race/tour-de-taiwan/2008/stage-3,133.9
+164,Tour de Taiwan 2008  Stage 4,2008-03-12,RR,Taichung,Taichung,4,4,race/tour-de-taiwan/2008/stage-4,88.0
+165,Tour de Taiwan 2008  Stage 5,2008-03-13,RR,Hsinchu,Hsinchu,4,5,race/tour-de-taiwan/2008/stage-5,148.3
+166,Tour de Taiwan 2008  Stage 6,2008-03-14,RR,Taipei,Taipei,4,6,race/tour-de-taiwan/2008/stage-6,127.7
+167,Tour de Taiwan 2008  Stage 7,2008-03-15,RR,Taipei,Taipei,4,7,race/tour-de-taiwan/2008/stage-7,58.0
+168,Tour de Taiwan 2008  Stage 8,2008-03-16,RR,Taipei,Taipei,4,8,race/tour-de-taiwan/2008/stage-8,60.0
+169,Tour of East Java 2008  Stage 1,2008-04-02,RR,Jombang,Jombang,5,1,race/tour-of-east-java/2008/stage-1,108.0
+170,Tour of East Java 2008  Stage 2,2008-04-03,RR,Blitar,Blitar,5,2,race/tour-of-east-java/2008/stage-2,138.0
+171,Tour of East Java 2008  Stage 3,2008-04-04,RR,Batu,Batu,5,3,race/tour-of-east-java/2008/stage-3,126.0
+172,Tour of East Java 2008  Stage 4,2008-04-05,RR,Batu,Tosari,5,4,race/tour-of-east-java/2008/stage-4,113.1
+173,Tour of East Java 2008  Stage 5,2008-04-06,RR,Surabaya,Surabaya,5,5,race/tour-of-east-java/2008/stage-5,52.5
+174,Asian Cycling Championships - Road Race 2008,2008-04-17,RR,Start,Finish,6,0,race/asian-championships/2008,0.0
+175,Presidential Tour of Iran 2008  Stage 1,2008-05-09,RR,Tehran,Tehran,7,1,race/presidential-cycling-tour-of-iran/2008/stage-1,48.0
+176,Presidential Tour of Iran 2008  Stage 2,2008-05-10,RR,Ghom,Tehran,7,2,race/presidential-cycling-tour-of-iran/2008/stage-2,125.5
+177,Presidential Tour of Iran 2008  Stage 3,2008-05-11,RR,Tehran,Ghazvin,7,3,race/presidential-cycling-tour-of-iran/2008/stage-3,148.0
+178,Presidential Tour of Iran 2008  Stage 4,2008-05-12,RR,Tehran,Tehran,7,4,race/presidential-cycling-tour-of-iran/2008/stage-4,93.0
+179,Presidential Tour of Iran 2008  Stage 5,2008-05-13,RR,Tehran,Kandouvan,7,5,race/presidential-cycling-tour-of-iran/2008/stage-5,112.0
+180,Tour de Kumano 2008  Stage 1,2008-05-09,RR,Akagigawa Seiryu,Akagigawa Seiryu,8,1,race/tour-de-kumano/2008/stage-1,105.1
+181,Tour de Kumano 2008  Stage 2,2008-05-10,RR,Kumano Sangaku,Kumano Sangaku,8,2,race/tour-de-kumano/2008/stage-2,112.1
+182,Tour de Kumano 2008  Stage 3,2008-05-11,RR,Taiji Hanto,Taiji Hanto,8,3,race/tour-de-kumano/2008/stage-3,105.6
+183,Tour of Japan 2008  Stage 1,2008-05-18,RR,Senbokou,Senbokou,9,1,race/tour-of-japan/2008/stage-1,140.8
+184,Tour of Japan 2008  Stage 2,2008-05-19,RR,Dalbutsude,Nunome Dam,9,2,race/tour-of-japan/2008/stage-2,146.2
+185,Tour of Japan 2008  Stage 3,2008-05-20,RR,Mino Washi Paper Museum,Mino Washi Paper Museum,9,3,race/tour-of-japan/2008/stage-3,164.7
+186,Tour of Japan 2008  Stage 4,2008-05-21,RR,Shimohisakata,Shimohisakata,9,4,race/tour-of-japan/2008/stage-4,155.3
+187,Tour of Japan 2008  Stage 5 (ITT),2008-05-22,ITT,Subashiri,Mount Fuji,9,5,race/tour-of-japan/2008/stage-5,11.4
+188,Tour of Japan 2008  Stage 6,2008-05-23,RR,Shuzeni,Shuzeni,9,6,race/tour-of-japan/2008/stage-6,112.5
+189,Tour of Japan 2008  Stage 7,2008-05-24,RR,Hibiya City,Hibiya City,9,7,race/tour-of-japan/2008/stage-7,148.9
+190,Azerbaïjan Tour 2008  Prologue,2008-05-21,Prologue,Tabriz,Tabriz,10,1,race/international-azerbaijan-tour/2008/prologue,3.0
+191,Azerbaïjan Tour 2008  Stage 1,2008-05-22,RR,Tabriz,Meshkin Shahr,10,2,race/international-azerbaijan-tour/2008/stage-1,180.0
+192,Azerbaïjan Tour 2008  Stage 2 (ITT),2008-05-23,ITT,Ardabil,Sarein,10,3,race/international-azerbaijan-tour/2008/stage-2,24.0
+193,Azerbaïjan Tour 2008  Stage 3,2008-05-24,RR,Sarab,Tabriz,10,4,race/international-azerbaijan-tour/2008/stage-3,120.0
+194,Azerbaïjan Tour 2008  Stage 4,2008-05-25,RR,Tabriz,Bonab,10,5,race/international-azerbaijan-tour/2008/stage-4,110.0
+195,Azerbaïjan Tour 2008  Stage 5,2008-05-26,RR,Malekan,Urmia,10,6,race/international-azerbaijan-tour/2008/stage-5,180.0
+196,Azerbaïjan Tour 2008  Stage 6,2008-05-27,RR,Urmia,Shabestar,10,7,race/international-azerbaijan-tour/2008/stage-6,180.0
+197,Azerbaïjan Tour 2008  Stage 7,2008-05-28,RR,Shabestar,Jolfa,10,8,race/international-azerbaijan-tour/2008/stage-7,140.0
+198,Azerbaïjan Tour 2008  Stage 8,2008-05-29,RR,Jolfa,Tabriz,10,9,race/international-azerbaijan-tour/2008/stage-8,130.0
+199,National Championships Japan - Road Race 2008,2008-06-01,RR,Start,Finish,11,0,race/nc-japan/2008,0.0
+200,National Championships Japan - ITT 2008,2008-06-10,RR,Start,Finish,12,0,race/nc-japan-itt/2008,0.0
+201,National Championships Iran - ITT 2008,2008-06-14,RR,Start,Finish,13,0,race/nc-iran-itt/2008,0.0
+202,National Championships Iran - Road Race 2008,2008-06-15,RR,Start,Finish,14,0,race/nc-iran/2008,0.0
+203,National Championships Mongolia - ITT 2008,2008-06-21,RR,Start,Finish,15,0,race/nc-mongolia-itt/2008,0.0
+204,Tour de Korea-Japan 2008  Prologue,2008-06-21,Prologue,Yamaga,Yamaga,16,1,race/tour-de-korea/2008/prologue,1.8
+205,Tour de Korea-Japan 2008  Stage 1,2008-06-22,RR,Yamaga,Yamaga,16,2,race/tour-de-korea/2008/stage-1b,178.0
+206,Tour de Korea-Japan 2008  Stage 1,2008-06-25,RR,Busan,Busan,16,3,race/tour-de-korea/2008/stage-1a,148.8
+207,Tour de Korea-Japan 2008  Stage 2,2008-06-26,RR,Changwon,Changwon,16,4,race/tour-de-korea/2008/stage-2,140.0
+208,Tour de Korea-Japan 2008  Stage 3,2008-06-27,RR,Yeosoo,Gangjin,16,5,race/tour-de-korea/2008/stage-3,126.8
+209,Tour de Korea-Japan 2008  Stage 4,2008-06-28,RR,Gangjin,Geochang,16,6,race/tour-de-korea/2008/stage-4,217.69
+210,Tour de Korea-Japan 2008  Stage 5,2008-06-29,RR,Geochang,Gumi,16,7,race/tour-de-korea/2008/stage-5,146.7
+211,Tour de Korea-Japan 2008  Stage 6,2008-06-30,RR,Gumi,Danyang,16,8,race/tour-de-korea/2008/stage-6,185.7
+212,Tour de Korea-Japan 2008  Stage 7,2008-07-02,RR,Danyang,Yangyang,16,9,race/tour-de-korea/2008/stage-7,191.8
+213,Tour de Korea-Japan 2008  Stage 8,2008-07-03,RR,Yangyang,Chuncheon,16,10,race/tour-de-korea/2008/stage-8,147.55
+214,Tour de Korea-Japan 2008  Stage 9,2008-07-04,RR,Seoul,Seoul,16,11,race/tour-de-korea/2008/stage-9,21.0
+215,National Championships Israel - ITT 2008,2008-06-26,RR,Start,Finish,17,0,race/nc-israel-itt/2008,0.0
+216,National Championships Kazakhstan - ITT 2008,2008-06-26,RR,Start,Finish,18,0,race/nc-kazakhstan-itt/2008,0.0
+217,National Championships Israel - Road Race 2008,2008-06-28,RR,Start,Finish,19,0,race/nc-israel/2008,0.0
+218,Jelajah Negeri Sembilan 2008  Stage 1,2008-07-23,RR,Seremban,Rembau,20,1,race/jelajah-negeri-sembilan/2008/stage-1,156.3
+219,Jelajah Negeri Sembilan 2008  Stage 2,2008-07-24,RR,Nilai,Tampin,20,2,race/jelajah-negeri-sembilan/2008/stage-2,198.3
+220,Jelajah Negeri Sembilan 2008  Stage 3,2008-07-25,RR,Bandar Baru Nilai,Bandar Baru Nilai,20,3,race/jelajah-negeri-sembilan/2008/stage-3,66.0
+221,Tour de Hokkaido 2008  Stage 1,2008-09-11,RR,Obihiro,Shibecha,21,1,race/tour-de-hokkaido/2008/stage-1,210.7
+222,Tour de Hokkaido 2008  Stage 2,2008-09-12,RR,Kushiro,Ikeda,21,2,race/tour-de-hokkaido/2008/stage-2,149.5
+223,Tour de Hokkaido 2008  Stage 3 (ITT),2008-09-13,ITT,Obihiro,Obihiro,21,3,race/tour-de-hokkaido/2008/stage-3,1.6
+224,Tour de Hokkaido 2008  Stage 4,2008-09-14,RR,Obihiro,Shimukappu,21,4,race/tour-de-hokkaido/2008/stage-4,110.4
+225,Tour de Hokkaido 2008  Stage 5,2008-09-15,RR,Shimukappu,Ebetsu,21,5,race/tour-de-hokkaido/2008/stage-5,177.4
+226,Tour de Hokkaido 2008  Stage 6,2008-09-16,RR,Sapporo,Sapporo,21,6,race/tour-de-hokkaido/2008/stage-6,60.5
+227,Kerman Tour 2008  Prologue,2008-10-12,Prologue,Kerman,Kerman,22,1,race/kerman-tour/2008/prologue,3.0
+228,Kerman Tour 2008  Stage 1,2008-10-13,RR,Rafsanjan,Kerman,22,2,race/kerman-tour/2008/stage-1,103.0
+229,Kerman Tour 2008  Stage 2 (TTT),2008-10-14,TTT,Kerman,Kerman,22,3,race/kerman-tour/2008/stage-2,10.0
+230,Kerman Tour 2008  Stage 3,2008-10-15,RR,Kerman,Kerman,22,4,race/kerman-tour/2008/stage-3,84.0
+231,Kerman Tour 2008  Stage 4,2008-10-16,RR,Kerman,Kerman,22,5,race/kerman-tour/2008/stage-4,60.0
+232,Tour de Okinawa 2008  Stage 3,2008-11-09,RR,Start,Finish,23,1,race/tour-de-okinawa/2008/stage-3,0.0
+233,International Grand Prix Al-Khor 2008,2008-12-13,RR,Start,Finish,24,0,race/international-grand-prix-al-khor/2008,100.0
+234,International Grand Prix Losail 2008,2008-12-14,RR,Start,Finish,25,0,race/international-grand-prix-losail/2008,95.0
+235,International Grand Prix Messaeed 2008,2008-12-15,RR,Start,Finish,26,0,race/international-grand-prix-messaeed/2008,75.0
+236,International Grand Prix Doha 2008,2008-12-16,RR,Start,Finish,27,0,race/doha-international-gp/2008,85.0
+237,Golden Jersey 2008  Stage 1 (TTT),2008-12-18,TTT,Losail,Losail,28,1,race/golden-jersey/2008/stage-1,0.0
+238,Golden Jersey 2008  Stage 2,2008-12-19,RR,Losail,Losail,28,2,race/golden-jersey/2008/stage-2,0.0
+239,Golden Jersey 2008  Stage 3,2008-12-20,RR,Losail,Losail,28,3,race/golden-jersey/2008/stage-3,0.0
+240,GP Costa Degli Etruschi 2008,2008-02-09,RR,Start,Finish,0,0,race/gp-costa-degli-etruschi/2008,192.0
+241,Trofeo Mallorca 2008,2008-02-10,RR,Palma,Palma,1,0,race/16th-challenge-volta-a-mallorca/2008,100.0
+242,Trofeo Cala: Cala Millor - Son Servera 2008,2008-02-11,RR,Start,Finish,2,0,race/trofeo-cala-millor/2008,162.7
+243,Trofeo Pollença 2008,2008-02-12,RR,Pollença,Port d\'Alcúdia,3,0,race/trofeo-andratx-mirador-d-es-colomer/2008,168.4
+244,Trofeo Sóller 2008,2008-02-13,RR,Inca,Inca,4,0,race/challenge-illes-balears-trofeo-soller/2008,162.4
+245,Coppa San Geo 2008,2008-02-23,RR,Start,Finish,5,0,race/coppa-san-geo/2008,150.0
+246,Vuelta ciclista a la region de Murcia 2008  Stage 1,2008-03-04,RR,San Pedro del Pinatar,Lorca,6,1,race/vuelta-ciclista-a-la-region-de-murcia/2008/stage-1,197.0
+247,Vuelta ciclista a la region de Murcia 2008  Stage 2,2008-03-05,RR,Calasparra,Totana,6,2,race/vuelta-ciclista-a-la-region-de-murcia/2008/stage-2,153.0
+248,Vuelta ciclista a la region de Murcia 2008  Stage 3,2008-03-06,RR,Puerto Lumbreras,San Pedro del Pinatar,6,3,race/vuelta-ciclista-a-la-region-de-murcia/2008/stage-3,146.0
+249,Vuelta ciclista a la region de Murcia 2008  Stage 4 (ITT),2008-03-07,ITT,Alhama de Murcia,Aledo,6,4,race/vuelta-ciclista-a-la-region-de-murcia/2008/stage-4,23.0
+250,Vuelta ciclista a la region de Murcia 2008  Stage 5,2008-03-08,RR,Urbanización Veneziola (San Javier),Murci,6,5,race/vuelta-ciclista-a-la-region-de-murcia/2008/stage-5,135.0
+251,Driedaagse van West-Vlaanderen 2008  Stage 1,2008-03-07,RR,Kortrijk,Bellegem,7,1,race/3daagse-van-west-vlaanderen/2008/stage-1,176.0
+252,Driedaagse van West-Vlaanderen 2008  Stage 2,2008-03-08,RR,Torhout,Handzame,7,2,race/3daagse-van-west-vlaanderen/2008/stage-2,181.0
+253,Driedaagse van West-Vlaanderen 2008  Stage 3,2008-03-09,RR,Ardennen,Ichtegem,7,3,race/3daagse-van-west-vlaanderen/2008/stage-3,186.0
+254,Trofeo Franco Balestra - Memorial Sabbadini 2008,2008-03-09,RR,Start,Finish,8,0,race/trofeo-franco-balestra-memorial-metelli/2008,171.0
+255,Paris-Troyes 2008,2008-03-16,RR,Start,Finish,9,0,race/paris-troyes/2008,169.0
+256,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2008,2008-03-23,RR,Start,Finish,10,0,race/la-roue-tourangelle/2008,184.0
+257,GP Palio del Recioto 2008,2008-03-25,RR,Start,Finish,11,0,race/gp-palio-del-recioto/2008,0.0
+258,Critérium International 2008  Stage 1,2008-03-29,RR,Start,Finish,12,1,race/criterium-international/2008/stage-1,193.0
+259,Critérium International 2008  Stage 2,2008-03-30,RR,Start,Finish,12,2,race/criterium-international/2008/stage-2,99.0
+260,Critérium International 2008  Stage 3 (ITT),2008-03-30,ITT,Start,Finish,12,3,race/criterium-international/2008/stage-3,8.0
+261,Driedaagse De Panne-Koksijde 2008  Stage 1,2008-04-01,RR,Start,Finish,13,1,race/driedaagse-vd-panne/2008/stage-1,192.0
+262,Driedaagse De Panne-Koksijde 2008  Stage 2,2008-04-02,RR,Start,Finish,13,2,race/driedaagse-vd-panne/2008/stage-2,228.0
+263,Driedaagse De Panne-Koksijde 2008  Stage 3,2008-04-03,RR,Start,Finish,13,3,race/driedaagse-vd-panne/2008/stage-3,119.0
+264,Driedaagse De Panne-Koksijde 2008  Stage 4 (ITT),2008-04-03,ITT,Start,Finish,13,4,race/driedaagse-vd-panne/2008/stage-4,14.0
+265,Driedaagse De Panne-Koksijde 2008  Stage 5 (ITT),2008-04-03,ITT,Start,Finish,13,5,race/driedaagse-vd-panne/2008/stage-5,14.0
+266,Boucle de l'Artois - Trophée Arras Leader 2008  Stage 1,2008-04-04,RR,Arras,Maroeuil,14,1,race/boucle-de-l-artois/2008/stage-1,168.1
+267,Boucle de l'Artois - Trophée Arras Leader 2008  Stage 2,2008-04-05,RR,Sainte Catherine,Saint Pol,14,2,race/boucle-de-l-artois/2008/stage-2,76.0
+268,Boucle de l'Artois - Trophée Arras Leader 2008  Stage 3,2008-04-05,RR,Auxi le château,Frévent,14,3,race/boucle-de-l-artois/2008/stage-3,84.8
+269,Trofeo Banca Popolare di Vicenza 2008,2008-04-06,RR,Start,Finish,15,0,race/trofeo-piva/2008,175.0
+270,Circuit Cycliste Sarthe - Pays de la Loire 2008  Stage 1,2008-04-08,RR,Start,Finish,16,1,race/circuit-sarthe/2008/stage-1,182.0
+271,Circuit Cycliste Sarthe - Pays de la Loire 2008  Stage 2,2008-04-09,RR,Start,Finish,16,2,race/circuit-sarthe/2008/stage-2,100.0
+272,Circuit Cycliste Sarthe - Pays de la Loire 2008  Stage 3 (ITT),2008-04-09,ITT,Start,Finish,16,3,race/circuit-sarthe/2008/stage-3,9.0
+273,Circuit Cycliste Sarthe - Pays de la Loire 2008  Stage 4,2008-04-10,RR,Start,Finish,16,4,race/circuit-sarthe/2008/stage-4,187.0
+274,Circuit Cycliste Sarthe - Pays de la Loire 2008  Stage 5,2008-04-11,RR,Start,Finish,16,5,race/circuit-sarthe/2008/stage-5,189.0
+275,National Championships Venezuela - Road Race 2008,2008-04-13,RR,Start,Finish,17,0,race/nc-venezuela/2008,0.0
+276,Presidential Cycling Tour of Turkey 2008  Stage 1,2008-04-14,RR,Start,Finish,18,1,race/tour-of-turkey/2008/stage-1,133.0
+277,Presidential Cycling Tour of Turkey 2008  Stage 2,2008-04-15,RR,Start,Finish,18,2,race/tour-of-turkey/2008/stage-2,166.0
+278,Presidential Cycling Tour of Turkey 2008  Stage 3,2008-04-16,RR,Start,Finish,18,3,race/tour-of-turkey/2008/stage-3,169.0
+279,Presidential Cycling Tour of Turkey 2008  Stage 4,2008-04-17,RR,Start,Finish,18,4,race/tour-of-turkey/2008/stage-4,178.0
+280,Presidential Cycling Tour of Turkey 2008  Stage 5,2008-04-18,RR,Start,Finish,18,5,race/tour-of-turkey/2008/stage-5,100.0
+281,Presidential Cycling Tour of Turkey 2008  Stage 6,2008-04-19,RR,Start,Finish,18,6,race/tour-of-turkey/2008/stage-6,116.0
+282,Presidential Cycling Tour of Turkey 2008  Stage 7,2008-04-20,RR,Start,Finish,18,7,race/tour-of-turkey/2008/stage-7,137.0
+283,Scheldeprijs 2008,2008-04-16,RR,Antwerpen,Schoten,19,0,race/scheldeprijs/2008,207.0
+284,Tour du Loir-et-Cher 'E. Provost' 2008  Stage 1,2008-04-16,RR,Start,Finish,20,1,race/tour-du-loir-et-cher-e.-provost-/2008/stage-1,145.0
+285,Tour du Loir-et-Cher 'E. Provost' 2008  Stage 3,2008-04-18,RR,Start,Finish,20,2,race/tour-du-loir-et-cher-e.-provost-/2008/stage-3,176.0
+286,Tour du Loir-et-Cher 'E. Provost' 2008  Stage 4,2008-04-19,RR,Start,Finish,20,3,race/tour-du-loir-et-cher-e.-provost-/2008/stage-4,192.0
+287,Tour du Loir-et-Cher 'E. Provost' 2008  Stage 5,2008-04-20,RR,Start,Finish,20,4,race/tour-du-loir-et-cher-e.-provost-/2008/stage-5,98.0
+288,Grand Prix of Sochi 2008  Stage 1,2008-04-19,RR,Kudepsta,Krasnaya Polyana,21,1,race/grand-prix-of-sochi/2008/stage-1,165.0
+289,Grand Prix of Sochi 2008  Stage 2,2008-04-20,RR,Sochi,Sochi (Akhun),21,2,race/grand-prix-of-sochi/2008/stage-2,149.0
+290,Grand Prix of Sochi 2008  Stage 3,2008-04-21,RR,Dagomys,Krasnodar,21,3,race/grand-prix-of-sochi/2008/stage-3,128.0
+291,Grand Prix of Sochi 2008  Stage 4 (ITT),2008-04-22,ITT,Krasnodar,Krasnodar,21,4,race/grand-prix-of-sochi/2008/stage-4,11.4
+292,Grand Prix of Sochi 2008  Stage 5,2008-04-23,RR,Dagomys,Dagomys,21,5,race/grand-prix-of-sochi/2008/stage-5,109.0
+293,Beograd - Banja Luka I 2008,2008-04-20,RR,Beograd,Banja Luka,22,0,race/banja-luka-belgrade-i/2008,131.5
+294,Beograd - Banja Luka II 2008,2008-04-21,RR,Beograd,Banja Luka,23,0,race/beograd-banja-luka-ii/2008,125.5
+295,Giro del Trentino 2008  Stage 1 (ITT),2008-04-22,ITT,Start,Finish,24,1,race/tour-of-the-alps/2008/stage-1,10.0
+296,Giro del Trentino 2008  Stage 2,2008-04-23,RR,Start,Finish,24,2,race/tour-of-the-alps/2008/stage-2,178.0
+297,Giro del Trentino 2008  Stage 3,2008-04-24,RR,Start,Finish,24,3,race/tour-of-the-alps/2008/stage-3,0.0
+298,Giro del Trentino 2008  Stage 4,2008-04-25,RR,Start,Finish,24,4,race/tour-of-the-alps/2008/stage-4,179.0
+299,Gran Premio della Liberazione 2008,2008-04-25,RR,Start,Finish,25,0,race/gran-premio-della-liberazione/2008,132.0
+300,Giro delle Regioni 2008  Stage 1,2008-04-26,RR,Artena,Artena,26,1,race/giro-delle-regioni/2008/stage-1,135.0
+301,Giro delle Regioni 2008  Stage 2,2008-04-27,RR,Cassino,Ferentino,26,2,race/giro-delle-regioni/2008/stage-2,153.5
+302,Giro delle Regioni 2008  Stage 3,2008-04-28,RR,San Giovanni Teatino,Chieti,26,3,race/giro-delle-regioni/2008/stage-3,147.4
+303,Giro delle Regioni 2008  Stage 4,2008-04-29,RR,San Elpidio a Mare,Cingoli,26,4,race/giro-delle-regioni/2008/stage-4,153.2
+304,Giro delle Regioni 2008  Stage 5,2008-04-30,RR,Spoleto,Foligno,26,5,race/giro-delle-regioni/2008/stage-5,147.8
+305,Giro delle Regioni 2008  Stage 6,2008-05-01,RR,San Giovanni Valdarno,San Bartolo a Cintoia,26,6,race/giro-delle-regioni/2008/stage-6,140.0
+306,Ronde van Noord-Holland 2008,2008-04-27,RR,Start,Finish,27,0,race/ronde-van-noord-holland/2008,211.0
+307,East Midlands International Cicle Classic 2008,2008-04-27,RR,Start,Finish,28,0,race/east-midlands-international-cicle-classic/2008,157.8
+308,Paris - Mantes-en-Yvelines 2008,2008-04-27,RR,Start,Finish,29,0,race/paris-mantes-en-yvelines/2008,167.2
+309,Flèche du Sud 2008  Stage 1 (ITT),2008-04-30,ITT,Petange,Petange,30,1,race/fleche-du-sud/2008/stage-1,6.0
+310,Flèche du Sud 2008  Stage 2,2008-05-01,RR,Start,Finish,30,2,race/fleche-du-sud/2008/stage-2,165.0
+311,Flèche du Sud 2008  Stage 3,2008-05-02,RR,Start,Finish,30,3,race/fleche-du-sud/2008/stage-3,142.0
+312,Flèche du Sud 2008  Stage 4,2008-05-04,RR,Start,Finish,30,4,race/fleche-du-sud/2008/stage-4,165.0
+313,Rund um den Henninger-Turm 2008,2008-05-01,RR,Frankfurt,Frankfurt,31,0,race/Eschborn-Frankfurt/2008,179.0
+314,GP Copenhagen - Odsherred Classic 2008,2008-05-01,RR,Start,Finish,32,0,race/gp-bikebuster/2008,206.0
+315,Memoriał Andrzeja Trochanowskiego 2008,2008-05-01,RR,Start,Finish,33,0,race/memorial-andrzeja-trochanowskiego/2008,166.0
+316,Rund um den Henninger Turm U23 2008,2008-05-01,RR,Start,Finish,34,0,race/eschborn-frankfurt-u23/2008,143.1
+317,Volta Ciclista da Ascension 2008  Stage 1,2008-05-01,RR,Santiago de Compostela,Santiago de Compostela,35,1,race/volta-ciclista-da-ascension/2008/stage-1,169.6
+318,Volta Ciclista da Ascension 2008  Stage 2,2008-05-02,RR,Santiago de Compostela,Santiago de Compostela,35,2,race/volta-ciclista-da-ascension/2008/stage-2,180.4
+319,Volta Ciclista da Ascension 2008  Stage 3,2008-05-03,RR,Santiago de Compostela,Santiago de Compostela,35,3,race/volta-ciclista-da-ascension/2008/stage-3,158.3
+320,Grand Prix of Moscow 2008,2008-05-02,RR,Start,Finish,36,0,race/grand-prix-of-moscow/2008,153.0
+321,Grand Prix Bourgas 2008,2008-05-03,RR,Start,Finish,37,0,race/grand-prix-bourgas/2008,170.0
+322,Majowy Wyscig Klasyczny - Lublin 2008,2008-05-03,RR,Start,Finish,38,0,race/majowy-wyscig-klasyczny-lublin/2008,144.0
+323,Memorial of Oleg Dyachenko 2008,2008-05-03,RR,Start,Finish,39,0,race/memorial-of-oleg-dyachenko/2008,149.6
+324,Giro Di Toscana 2008,2008-05-04,RR,Start,Finish,40,0,race/giro-di-toscana/2008,0.0
+325,Berner Rundfahrt 2008,2008-05-04,RR,Start,Finish,41,0,race/berner-rundfahrt-tour-de-berne/2008,169.75
+326,Circuito del Porto - Trofeo Arvedi 2008,2008-05-04,RR,Start,Finish,42,0,race/circuito-del-porto-trofeo-arvedi/2008,175.0
+327,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2008  Stage 1,2008-05-06,RR,Start,Finish,43,1,race/4-jours-de-dunkerque/2008/stage-1,179.0
+328,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2008  Stage 2,2008-05-07,RR,Start,Finish,43,2,race/4-jours-de-dunkerque/2008/stage-2,192.0
+329,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2008  Stage 3,2008-05-08,RR,Start,Finish,43,3,race/4-jours-de-dunkerque/2008/stage-3,193.0
+330,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2008  Stage 4,2008-05-09,RR,Start,Finish,43,4,race/4-jours-de-dunkerque/2008/stage-4,193.0
+331,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2008  Stage 5,2008-05-10,RR,Start,Finish,43,5,race/4-jours-de-dunkerque/2008/stage-5,179.0
+332,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2008  Stage 6,2008-05-11,RR,Start,Finish,43,6,race/4-jours-de-dunkerque/2008/stage-6,129.0
+333,Five Rings of Moscow 2008  Stage 1 (ITT),2008-05-07,ITT,Moscow,Moscow,44,1,race/five-rings-of-moscow/2008/stage-1a,3.0
+334,Five Rings of Moscow 2008  Stage 1,2008-05-07,RR,Moscow,Moscow,44,2,race/five-rings-of-moscow/2008/stage-1b,123.0
+335,Five Rings of Moscow 2008  Stage 2,2008-05-08,RR,Moscow,Moscow,44,3,race/five-rings-of-moscow/2008/stage-2,153.0
+336,Five Rings of Moscow 2008  Stage 3,2008-05-09,RR,Moscow,Moscow,44,4,race/five-rings-of-moscow/2008/stage-3,129.6
+337,Five Rings of Moscow 2008  Stage 4,2008-05-10,RR,Moscow,Moscow,44,5,race/five-rings-of-moscow/2008/stage-4,100.0
+338,Five Rings of Moscow 2008  Stage 5,2008-05-11,RR,Moscow,Moscow,44,6,race/five-rings-of-moscow/2008/stage-5,149.6
+339,Giro della Regione Friuli Venezia Giulia 2008  Stage 1,2008-05-07,RR,Ormelle,Vittorio Veneto,45,1,race/giro-della-regione-friuli-venezia-giulia/2008/stage-1,153.8
+340,Giro della Regione Friuli Venezia Giulia 2008  Stage 2,2008-05-08,RR,Pordenone,Casarsa della Delizia,45,2,race/giro-della-regione-friuli-venezia-giulia/2008/stage-2,158.0
+341,Giro della Regione Friuli Venezia Giulia 2008  Stage 3,2008-05-09,RR,Trieste,Gradisca d'Isonzo,45,3,race/giro-della-regione-friuli-venezia-giulia/2008/stage-3,139.3
+342,Giro della Regione Friuli Venezia Giulia 2008  Stage 4,2008-05-10,RR,Pozzuolo del Friuli,Monte Matajur,45,4,race/giro-della-regione-friuli-venezia-giulia/2008/stage-4,155.1
+343,Giro della Regione Friuli Venezia Giulia 2008  Stage 5,2008-05-11,RR,Alesso,Pontebba,45,5,race/giro-della-regione-friuli-venezia-giulia/2008/stage-5,148.9
+344,Szlakiem Grodów Piastowskich 2008  Stage 1,2008-05-08,RR,Legnica,Swidnica,46,1,race/szlakiem-grodow-piastowskich/2008/stage-1,185.6
+345,Szlakiem Grodów Piastowskich 2008  Stage 2,2008-05-09,RR,Glogow,Lubin,46,2,race/szlakiem-grodow-piastowskich/2008/stage-2,160.1
+346,Szlakiem Grodów Piastowskich 2008  Stage 3,2008-05-10,RR,Zlotoryja,Jawor,46,3,race/szlakiem-grodow-piastowskich/2008/stage-3,183.8
+347,Szlakiem Grodów Piastowskich 2008  Stage 4 (ITT),2008-05-11,ITT,Rudna,Rudna,46,4,race/szlakiem-grodow-piastowskich/2008/stage-4,25.8
+348,Szlakiem Grodów Piastowskich 2008  Stage 5,2008-05-11,RR,Polkowice,Polkowice,46,5,race/szlakiem-grodow-piastowskich/2008/stage-5,103.6
+349,International Halkidiki Cycle Race 2008  Stage 1,2008-05-08,RR,Moudania,Polygyros,47,1,race/international-halkidiki-cycle-race/2008/stage-1,149.6
+350,International Halkidiki Cycle Race 2008  Stage 2,2008-05-09,RR,Kallikratia,Ouranoupoli,47,2,race/international-halkidiki-cycle-race/2008/stage-2,143.7
+351,International Halkidiki Cycle Race 2008  Stage 3,2008-05-10,RR,Ouranoupoli,Marmaras,47,3,race/international-halkidiki-cycle-race/2008/stage-3,155.1
+352,International Halkidiki Cycle Race 2008  Stage 4,2008-05-11,RR,Porto Karras,Marmaras,47,4,race/international-halkidiki-cycle-race/2008/stage-4,160.2
+353,Scandinavian Race Uppsala 2008,2008-05-10,RR,Start,Finish,48,0,race/scandinavian-race-uppsala/2008,201.0
+354,Circuit De Wallonie 2008,2008-05-11,RR,Start,Finish,49,0,race/circuit-de-wallonie/2008,0.0
+355,GP Industrie del Marmo 2008,2008-05-11,RR,Start,Finish,50,0,race/gp-industrie-del-marmo/2008,0.0
+356,Mayor Cup 2008,2008-05-13,RR,Start,Finish,51,0,race/mayor-cup/2008,153.0
+357,Classic Beograd - Cacak 2008,2008-05-17,RR,Start,Finish,52,0,race/classic-beograd-cacak/2008,0.0
+358,Olympia's Tour 2008  Prologue,2008-05-17,Prologue,Start,Finish,53,1,race/olympias-tour/2008/prologue,5.0
+359,Olympia's Tour 2008  Stage 1,2008-05-18,RR,Start,Finish,53,2,race/olympias-tour/2008/stage-1,142.0
+360,Olympia's Tour 2008  Stage 2,2008-05-19,RR,Start,Finish,53,3,race/olympias-tour/2008/stage-2,176.0
+361,Olympia's Tour 2008  Stage 3,2008-05-20,RR,Start,Finish,53,4,race/olympias-tour/2008/stage-3,197.0
+362,Olympia's Tour 2008  Stage 4,2008-05-21,RR,Start,Finish,53,5,race/olympias-tour/2008/stage-4,159.0
+363,Olympia's Tour 2008  Stage 5,2008-05-22,RR,Start,Finish,53,6,race/olympias-tour/2008/stage-5,227.0
+364,Olympia's Tour 2008  Stage 6,2008-05-23,RR,Start,Finish,53,7,race/olympias-tour/2008/stage-6,131.0
+365,Olympia's Tour 2008  Stage 7 (ITT),2008-05-23,ITT,Start,Finish,53,8,race/olympias-tour/2008/stage-7,18.0
+366,Olympia's Tour 2008  Stage 8,2008-05-24,RR,Start,Finish,53,9,race/olympias-tour/2008/stage-8,195.0
+367,Olympia's Tour 2008  Stage 9,2008-05-25,RR,Start,Finish,53,10,race/olympias-tour/2008/stage-9,193.0
+368,Coppa Caivano 2008,2008-05-18,RR,Start,Finish,54,0,race/coppa-caivano/2008,148.2
+369,Grand Prix Jasna Gora-Stochowa 2008,2008-05-18,RR,Start,Finish,55,0,race/grand-prix-jasna-gora-stochowa/2008,166.0
+370,Raiffeisen Grand Prix Judendorf/Straßengel 2008,2008-05-18,RR,Start,Finish,56,0,race/int-raiffeisen-gp-judendorf-strassengel/2008,175.0
+371, Ronde de l\'Isard 2008  Stage 1,2008-05-22,RR,Start,Finish,57,1,race/ronde-de-l-isard/2008/stage-1,161.0
+372, Ronde de l\'Isard 2008  Stage 2,2008-05-23,RR,Start,Finish,57,2,race/ronde-de-l-isard/2008/stage-2,173.0
+373, Ronde de l\'Isard 2008  Stage 3,2008-05-24,RR,Start,Finish,57,3,race/ronde-de-l-isard/2008/stage-3,158.0
+374, Ronde de l\'Isard 2008  Stage 4,2008-05-25,RR,Start,Finish,57,4,race/ronde-de-l-isard/2008/stage-4,133.0
+375,GP Hydraulika Mikolasek 2008,2008-05-23,RR,Start,Finish,58,0,race/gp-hydraulika-mikolasek/2008,188.7
+376,GP Kooperativa 2008,2008-05-24,RR,Start,Finish,59,0,race/gp-kooperativa/2008,161.7
+377,SEB Tartu Grand Prix 2008,2008-05-25,RR,Start,Finish,60,0,race/eb-tartu-grand-prix/2008,187.5
+378,GP Palma / Velka cena Palma 2008,2008-05-25,RR,Start,Finish,61,0,race/gp-boka/2008,157.8
+379,Grand Prix Criquielion 2008,2008-05-25,RR,Start,Finish,62,0,race/grand-prix-criquielion/2008,0.0
+380,Velika Nagrada Ptuja 2008,2008-05-25,RR,Start,Finish,63,0,race/velika-nagrada-ptuja/2008,0.0
+381,Bayern-Rundfahrt 2008  Stage 1,2008-05-28,RR,Start,Finish,64,1,race/bayern-rundfarht/2008/stage-1,175.0
+382,Bayern-Rundfahrt 2008  Stage 2,2008-05-29,RR,Start,Finish,64,2,race/bayern-rundfarht/2008/stage-2,220.0
+383,Bayern-Rundfahrt 2008  Stage 3,2008-05-30,RR,Start,Finish,64,3,race/bayern-rundfarht/2008/stage-3,190.0
+384,Bayern-Rundfahrt 2008  Stage 4 (ITT),2008-05-31,ITT,Start,Finish,64,4,race/bayern-rundfarht/2008/stage-4,26.0
+385,Bayern-Rundfahrt 2008  Stage 5,2008-06-01,RR,Start,Finish,64,5,race/bayern-rundfarht/2008/stage-5,161.0
+386,Tour Des Pays De Savoie 2008  Stage 1,2008-05-30,RR,Start,Finish,65,1,race/tour-des-pays-de-savoie/2008/stage-1,0.0
+387,Tour Des Pays De Savoie 2008  Stage 2,2008-05-31,RR,Start,Finish,65,2,race/tour-des-pays-de-savoie/2008/stage-2,0.0
+388,Tour Des Pays De Savoie 2008  Stage 3,2008-06-01,RR,Start,Finish,65,3,race/tour-des-pays-de-savoie/2008/stage-3,0.0
+389,GP Kranj 2008,2008-05-31,RR,Start,Finish,66,0,race/vn-kranja-memorijal-filipa-majcna/2008,161.6
+390,Grand Prix de Plumelec-Morbihan 2008,2008-05-31,RR,Plumelec,Plumelec,67,0,race/gp-de-plumelec/2008,0.0
+391,Boucles de l'Aulne - Châteaulin 2008,2008-06-01,RR,Châteaulin,Châteaulin,68,0,race/boucles-de-l-aulne/2008,0.0
+392,Coppa della Pace - Trofeo F.lli Anelli 2008,2008-06-01,RR,Start,Finish,69,0,race/coppa-della-pace-trofeo-flli-anelli/2008,0.0
+393,Paris-Roubaix Espoirs 2008,2008-06-01,RR,Start,Finish,70,0,race/paris-roubaix-espoirs/2008,180.0
+394,Riga GP 2008,2008-06-01,RR,Start,Finish,71,0,race/jurmala-gp/2008,169.2
+395,Trofeo Alcide Degasperi 2008,2008-06-02,RR,Start,Finish,72,0,race/trofeo-alcide-degasperi/2008,168.0
+396,Volta Ciclista Internacional a Lleida 2008  Stage 1,2008-06-02,RR,Start,Finish,73,1,race/volta-ciclista-internacional-a-lleida/2008/stage-1,116.0
+397,Volta Ciclista Internacional a Lleida 2008  Stage 2,2008-06-03,RR,Start,Finish,73,2,race/volta-ciclista-internacional-a-lleida/2008/stage-2,114.0
+398,Volta Ciclista Internacional a Lleida 2008  Stage 3,2008-06-04,RR,Start,Finish,73,3,race/volta-ciclista-internacional-a-lleida/2008/stage-3,125.0
+399,Volta Ciclista Internacional a Lleida 2008  Stage 4,2008-06-05,RR,Start,Finish,73,4,race/volta-ciclista-internacional-a-lleida/2008/stage-4,147.0
+400,Volta Ciclista Internacional a Lleida 2008  Stage 5 (ITT),2008-06-06,ITT,Start,Finish,73,5,race/volta-ciclista-internacional-a-lleida/2008/stage-5,20.0
+401,Volta Ciclista Internacional a Lleida 2008  Stage 6,2008-06-06,RR,Start,Finish,73,6,race/volta-ciclista-internacional-a-lleida/2008/stage-6,60.0
+402,Volta Ciclista Internacional a Lleida 2008  Stage 7,2008-06-07,RR,Start,Finish,73,7,race/volta-ciclista-internacional-a-lleida/2008/stage-7,141.0
+403,Baltyk - Karkonosze Tour 2008  Stage 1,2008-06-03,RR,Trzebiatów,Choszczno,74,1,race/baltyk-karkonosze-tour/2008/stage-1,217.4
+404,Baltyk - Karkonosze Tour 2008  Stage 2,2008-06-04,RR,Choszczno,Walcz,74,2,race/baltyk-karkonosze-tour/2008/stage-2,168.4
+405,Baltyk - Karkonosze Tour 2008  Stage 3,2008-06-05,RR,Walcz,Wolsztyn,74,3,race/baltyk-karkonosze-tour/2008/stage-3,174.4
+406,Baltyk - Karkonosze Tour 2008  Stage 4,2008-06-06,RR,Siedlec,Bolków,74,4,race/baltyk-karkonosze-tour/2008/stage-4,198.8
+407,Baltyk - Karkonosze Tour 2008  Stage 5 (ITT),2008-06-07,ITT,Kowary,Przełęcz Okraj,74,5,race/baltyk-karkonosze-tour/2008/stage-5,11.6
+408,Baltyk - Karkonosze Tour 2008  Stage 6,2008-06-07,RR,Bolków,Sulików,74,6,race/baltyk-karkonosze-tour/2008/stage-6,162.0
+409,Baltyk - Karkonosze Tour 2008  Stage 7,2008-06-08,RR,Lwówek Śląski,Lwówek Śląski,74,7,race/baltyk-karkonosze-tour/2008/stage-7,146.4
+410,Skoda-Tour de Luxembourg 2008  Prologue,2008-06-04,Prologue,Start,Finish,75,1,race/tour-de-luxembourg/2008/prologue,0.0
+411,Skoda-Tour de Luxembourg 2008  Stage 2,2008-06-05,RR,Start,Finish,75,2,race/tour-de-luxembourg/2008/stage-2,177.0
+412,Skoda-Tour de Luxembourg 2008  Stage 3,2008-06-06,RR,Start,Finish,75,3,race/tour-de-luxembourg/2008/stage-3,0.0
+413,Skoda-Tour de Luxembourg 2008  Stage 4,2008-06-07,RR,Start,Finish,75,4,race/tour-de-luxembourg/2008/stage-4,0.0
+414,Skoda-Tour de Luxembourg 2008  Stage 5,2008-06-08,RR,Start,Finish,75,5,race/tour-de-luxembourg/2008/stage-5,0.0
+415, Memorial Philippe Van Coningsloo 2008,2008-06-08,RR,Start,Finish,76,0,race/memorial-philippe-van-coningsloo/2008,0.0
+416,Coppa Colli Briantei Internazionale 2008,2008-06-08,RR,Start,Finish,77,0,race/coppa-colli-briantei-internazionale/2008,0.0
+417,GP Industria e Commercio - Tr. Città di San Vendemiano 2008,2008-06-08,RR,San Vendemiano,San Vendemiano,78,0,race/gp-industria-e-commercio2/2008,168.9
+418,Tour de Slovénie 2008  Stage 1,2008-06-11,RR,Ljubljana,Postojna,79,1,race/tour-of-slovenia/2008/stage-1,161.0
+419,Tour de Slovénie 2008  Stage 2,2008-06-12,RR,Piran,Koper,79,2,race/tour-of-slovenia/2008/stage-2,179.0
+420,Tour de Slovénie 2008  Stage 3,2008-06-13,RR,Škofja Loka,Krvavec,79,3,race/tour-of-slovenia/2008/stage-3,153.0
+421,Tour de Slovénie 2008  Stage 4,2008-06-14,RR,Celje,Novo mesto,79,4,race/tour-of-slovenia/2008/stage-4,157.0
+422,Ronde de l'Oise 2008  Stage 1,2008-06-12,RR,Maiglenay,Le Plessis Belleville,80,1,race/ronde-de-l-oise/2008/stage-1,128.0
+423,Ronde de l'Oise 2008  Stage 2,2008-06-13,RR,Robécourt,Thourcotte,80,2,race/ronde-de-l-oise/2008/stage-2,175.0
+424,Ronde de l'Oise 2008  Stage 3,2008-06-14,RR,Saint-Just-en-Chaussée,Clermon,80,3,race/ronde-de-l-oise/2008/stage-3,98.0
+425,Ronde de l'Oise 2008  Stage 4,2008-06-14,RR,Montataire,Verneuil-en-Halatte,80,4,race/ronde-de-l-oise/2008/stage-4,106.0
+426,Ronde de l'Oise 2008  Stage 5,2008-06-15,RR,Creil,Liancourt,80,5,race/ronde-de-l-oise/2008/stage-5,182.0
+427,Tour de Serbie 2008  Stage 1,2008-06-16,RR,Beograd,Loznica,81,1,race/tour-de-serbie/2008/stage-1,133.5
+428,Tour de Serbie 2008  Stage 2,2008-06-17,RR,Banja Koviljaca,Pale,81,2,race/tour-de-serbie/2008/stage-2,165.0
+429,Tour de Serbie 2008  Stage 3,2008-06-18,RR,Pale,Zlatibor,81,3,race/tour-de-serbie/2008/stage-3,175.0
+430,Tour de Serbie 2008  Stage 4,2008-06-19,RR,Zlatibor,Kopaonik,81,4,race/tour-de-serbie/2008/stage-4,183.0
+431,Tour de Serbie 2008  Stage 5,2008-06-20,RR,Kuršumlija,Vranje,81,5,race/tour-de-serbie/2008/stage-5,153.0
+432,Tour de Serbie 2008  Stage 6,2008-06-21,RR,Vranje,Soko banja,81,6,race/tour-de-serbie/2008/stage-6,173.5
+433,Tour de Serbie 2008  Stage 7,2008-06-22,RR,Soko banja,Kragujevac,81,7,race/tour-de-serbie/2008/stage-7,141.0
+434,Ster Elektrotoer 2008  Prologue,2008-06-17,Prologue,Start,Finish,82,1,race/ster-elektro-tour/2008/prologue,6.0
+435,Ster Elektrotoer 2008  Stage 2,2008-06-18,RR,Start,Finish,82,2,race/ster-elektro-tour/2008/stage-2,177.0
+436,Ster Elektrotoer 2008  Stage 3,2008-06-19,RR,Start,Finish,82,3,race/ster-elektro-tour/2008/stage-3,192.0
+437,Ster Elektrotoer 2008  Stage 4,2008-06-20,RR,Start,Finish,82,4,race/ster-elektro-tour/2008/stage-4,170.0
+438,Ster Elektrotoer 2008  Stage 5,2008-06-21,RR,Start,Finish,82,5,race/ster-elektro-tour/2008/stage-5,150.0
+439,Route du Sud - la Depêche du Midi 2008  Stage 1,2008-06-19,RR,Start,Finish,83,1,race/la-route-d-occitanie/2008/stage-1,0.0
+440,Route du Sud - la Depêche du Midi 2008  Stage 2 (ITT),2008-06-20,ITT,Start,Finish,83,2,race/la-route-d-occitanie/2008/stage-2,17.0
+441,Route du Sud - la Depêche du Midi 2008  Stage 3,2008-06-21,RR,Start,Finish,83,3,race/la-route-d-occitanie/2008/stage-3,180.0
+442,Route du Sud - la Depêche du Midi 2008  Stage 4,2008-06-22,RR,Start,Finish,83,4,race/la-route-d-occitanie/2008/stage-4,207.0
+443,National TT Championships Romania 2008,2008-06-20,RR,Start,Finish,84,0,race/nc-romania-itt/2008,0.0
+444,National Championships Mongolia - Road Race 2008,2008-06-22,RR,Start,Finish,85,0,race/nc-mongolia/2008,0.0
+445,National Championships Romania - Road Race 2008,2008-06-22,RR,Start,Finish,86,0,race/nc-romania/2008,0.0
+446,Grand Prix of Wales 2008,2008-06-22,RR,Start,Finish,87,0,race/grand-prix-of-wales/2008,0.0
+447,Flèche Ardennaise 2008,2008-06-22,RR,Start,Finish,88,0,race/fleche-ardennaise/2008,0.0
+448,National Championships Slovenia - ITT 2008,2008-06-25,RR,Start,Finish,89,0,race/nc-slovenia-itt/2008,0.0
+449,National Championships Sweden Itt 2008,2008-06-25,RR,Start,Finish,90,0,race/nc-sweden-itt/2008,0.0
+450,National Championships Albania - Road Race 2008,2008-06-26,RR,Start,Finish,91,0,race/nc-albania/2008,0.0
+451,National Championships Belarus - ITT 2008,2008-06-26,RR,Start,Finish,92,0,race/nc-belarus-itt/2008,0.0
+452,National Championships Czech Republic - ITT 2008,2008-06-26,RR,Start,Finish,93,0,race/nc-czech-republic-itt/2008,0.0
+453,National Championships Hungary - ITT 2008,2008-06-26,RR,Start,Finish,94,0,race/nc-hungary-itt/2008,0.0
+454,National Championships Luxembourg - ITT 2008,2008-06-26,RR,Start,Finish,95,0,race/nc-luxembourg-itt/2008,0.0
+455,National Championships Poland I.t.t. 2008,2008-06-26,RR,Start,Finish,96,0,race/nc-poland-itt/2008,0.0
+456,National Championships Slovakia - ITT 2008,2008-06-26,RR,Start,Finish,97,0,race/nc-slovakia2/2008,0.0
+457,National Championships Turkey - Road Race 2008,2008-06-26,RR,Start,Finish,98,0,race/nc-turkey/2008,137.0
+458,National Championships Ukraine - ITT 2008,2008-06-26,RR,Start,Finish,99,0,race/nc-ukraine-itt/2008,0.0
+459,National Championships Bulgaria - ITT 2008,2008-06-27,RR,Start,Finish,100,0,race/nc-bulgaria-itt/2008,0.0
+460,National Championships Croatia - ITT 2008,2008-06-27,RR,Start,Finish,101,0,race/nc-croatia-itt/2008,20.14
+461,National Championships Croatia U23 - ITT 2008,2008-06-27,RR,Start,Finish,102,0,race/nc-croatia-u23-itt/2008,20.14
+462,National Championships Estonia - ITT 2008,2008-06-27,RR,Start,Finish,103,0,race/nc-estonia-itt/2008,0.0
+463,National Championships Finland - ITT 2008,2008-06-27,RR,Start,Finish,104,0,race/nc-finland-itt/2008,0.0
+464,National Championships Greece - ITT 2008,2008-06-27,RR,Start,Finish,105,0,race/nc-greece-itt/2008,0.0
+465,National Championships Ireland - ITT 2008,2008-06-27,RR,Start,Finish,106,0,race/nc-ireland-itt/2008,0.0
+466,National Championships Latvia - ITT 2008,2008-06-27,RR,Start,Finish,107,0,race/nc-latvia-itt/2008,0.0
+467,National Championships Lithuania - ITT 2008,2008-06-27,RR,Start,Finish,108,0,race/nc-lithuania-itt/2008,0.0
+468,National Championships Moldova - ITT 2008,2008-06-27,RR,Start,Finish,109,0,race/nc-moldova-itt/2008,0.0
+469,National Championships Russia - ITT 2008,2008-06-27,RR,Start,Finish,110,0,race/nc-russia-itt/2008,0.0
+470,National Championships Serbia - ITT 2008,2008-06-27,RR,Start,Finish,111,0,race/nc-serbia-itt/2008,0.0
+471,National Championships Lithuania - Road Race 2008,2008-06-28,RR,Start,Finish,112,0,race/nc-lithuania/2008,0.0
+472,National Championships Moldavie - Road Race 2008,2008-06-28,RR,Start,Finish,113,0,race/nc-moldova/2008,0.0
+473,National TT Championships Portugal 2008,2008-06-28,RR,Start,Finish,114,0,race/nc-portugal/2008,0.0
+474,National Championship Austria - Road Race 2008,2008-06-29,RR,Start,Finish,115,0,race/nc-austria/2008,0.0
+475,National Championships Belarus - Road Race 2008,2008-06-29,RR,Start,Finish,116,0,race/nc-belarus/2008,0.0
+476,National Championships Bulgaria - Road Race 2008,2008-06-29,RR,Start,Finish,117,0,race/nc-bulgaria/2008,0.0
+477,National Championships Croatia - Road Race 2008,2008-06-29,RR,Start,Finish,118,0,race/nc-croatia/2008,132.0
+478,National Championships Czech Republic - Road Race 2008,2008-06-29,RR,Start,Finish,119,0,race/nc-czech-republic/2008,0.0
+479,National Championships Finland - Road Race 2008,2008-06-29,RR,Start,Finish,120,0,race/nc-finland/2008,183.0
+480,National Championships Greece - Road Race 2008,2008-06-29,RR,Start,Finish,121,0,race/nc-greece/2008,0.0
+481,National Championships Hungary - Road Race 2008,2008-06-29,RR,Start,Finish,122,0,race/nc-hungary/2008,0.0
+482,National Championships Latvia - Road Race 2008,2008-06-29,RR,Start,Finish,123,0,race/nc-latvia/2008,0.0
+483,National Championships Russia - Road Race 2008,2008-06-29,RR,Start,Finish,124,0,race/nc-russia/2008,0.0
+484,National Championships Serbia - Road Race 2008,2008-06-29,RR,Start,Finish,125,0,race/nc-serbia/2008,0.0
+485,National Championships Sweden - Road Race 2008,2008-06-29,RR,Start,Finish,126,0,race/nc-sweden/2008,0.0
+486,National Championships Ukraine - Road Race 2008,2008-06-29,RR,Start,Finish,127,0,race/nc-ukraine/2008,0.0
+487,European Championships U23 - ITT 2008,2008-07-01,RR,Start,Finish,128,0,race/european-championships-itt-u23/2008,23.5
+488,Trofeo Citta' di Brescia Mem. Fiori e Volpi 2008,2008-07-01,RR,Start,Finish,129,0,race/trofeo-citta-di-brescia/2008,139.5
+489,Course de Solidarnosc et des Champions Olympiques 2008  Stage 1,2008-07-02,RR,Lódz,Pabianice,130,1,race/course-cycliste-de-solidarnosc/2008/stage-1,121.1
+490,Course de Solidarnosc et des Champions Olympiques 2008  Stage 2,2008-07-02,RR,Radomsko,Belchatów,130,2,race/course-cycliste-de-solidarnosc/2008/stage-2,100.1
+491,Course de Solidarnosc et des Champions Olympiques 2008  Stage 3,2008-07-03,RR,Bialobrzegi,Radom,130,3,race/course-cycliste-de-solidarnosc/2008/stage-3,162.9
+492,Course de Solidarnosc et des Champions Olympiques 2008  Stage 4 (ITT),2008-07-04,ITT,Ozarów,Ozarów,130,4,race/course-cycliste-de-solidarnosc/2008/stage-4,22.1
+493,Course de Solidarnosc et des Champions Olympiques 2008  Stage 5,2008-07-04,RR,Tarnobrzeg,Kielce,130,5,race/course-cycliste-de-solidarnosc/2008/stage-5,140.8
+494,Course de Solidarnosc et des Champions Olympiques 2008  Stage 6,2008-07-05,RR,Krosno,Nowy Sacz,130,6,race/course-cycliste-de-solidarnosc/2008/stage-6,224.0
+495,Course de Solidarnosc et des Champions Olympiques 2008  Stage 7,2008-07-06,RR,Wadowice,Jastrzębie Zdrój,130,7,race/course-cycliste-de-solidarnosc/2008/stage-7,164.0
+496,National Championships Morocco - Road Race 2008,2008-07-05,RR,Start,Finish,131,0,race/nc-morocco/2008,0.0
+497,Tour du Jura 2008,2008-07-05,RR,Start,Finish,132,0,race/tour-du-jura/2008,0.0
+498,Tour du Doubs - Conseil General 2008,2008-07-06,RR,Start,Finish,133,0,race/tour-du-doubs/2008,0.0
+499, Giro Valli Aretine - GP Città di Arezzo 2008,2008-07-06,RR,Start,Finish,134,0,race/giro-valli-aretine/2008,154.7
+500,De Drie Zustersteden - Willebroek 2008,2008-07-06,RR,Start,Finish,135,0,race/de-drie-zustersteden-willebroek/2008,183.8
+501,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2008  Stage 1,2008-07-09,RR,Start,Finish,136,1,race/gp-int-torres-vedras/2008/stage-1,155.0
+502,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2008  Stage 2,2008-07-10,RR,Start,Finish,136,2,race/gp-int-torres-vedras/2008/stage-2,172.0
+503,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2008  Stage 3,2008-07-11,RR,Start,Finish,136,3,race/gp-int-torres-vedras/2008/stage-3,158.0
+504,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2008  Stage 4,2008-07-12,RR,Start,Finish,136,4,race/gp-int-torres-vedras/2008/stage-4,153.0
+505,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2008  Stage 5,2008-07-13,RR,Start,Finish,136,5,race/gp-int-torres-vedras/2008/stage-5,0.0
+506,GP Cycliste de Gemenc 2008  Prologue,2008-07-10,Prologue,Szekszárd,Szekszárd,137,1,race/gp-cycliste-de-gemenc/2008/prologue,2.0
+507,GP Cycliste de Gemenc 2008  Stage 1,2008-07-11,RR,Kaposvár,Szekszárd,137,2,race/gp-cycliste-de-gemenc/2008/stage-1,171.0
+508,GP Cycliste de Gemenc 2008  Stage 2,2008-07-12,RR,Szekszárd,Szekszárd,137,3,race/gp-cycliste-de-gemenc/2008/stage-2,163.0
+509,Cronoscalata Gardone V.T. - Prati di Caregno 2008,2008-07-12,RR,Start,Finish,138,0,race/cronoscalata-gardone-vt-prati-di-caregno/2008,9.4
+510,Giro del Medio Brenta 2008,2008-07-13,RR,Start,Finish,139,0,race/giro-del-medio-brenta/2008,0.0
+511,Pomorski Klasyk 2008,2008-07-13,RR,Start,Finish,140,0,race/pomorski-klasyk/2008,298.0
+512,Way to Pekin 2008  Prologue,2008-07-14,Prologue,Chita,Chita,141,1,race/way-to-pekin/2008/prologue,3.0
+513,Way to Pekin 2008  Stage 1,2008-07-15,RR,Chita,Chita,141,2,race/way-to-pekin/2008/stage-1,117.0
+514,Way to Pekin 2008  Stage 2,2008-07-16,RR,Chita,Chita,141,3,race/way-to-pekin/2008/stage-2,158.0
+515,Way to Pekin 2008  Stage 3 (ITT),2008-07-17,ITT,Chita,Kharabovsk,141,4,race/way-to-pekin/2008/stage-3,26.0
+516,Way to Pekin 2008  Stage 4,2008-07-18,RR,Chita,Aginskoe,141,5,race/way-to-pekin/2008/stage-4,158.0
+517,Way to Pekin 2008  Stage 5,2008-07-20,RR,Aginskoe,Aginskoe,141,6,race/way-to-pekin/2008/stage-5,150.0
+518,Way to Pekin 2008  Stage 6,2008-07-21,RR,Aginskoe,Aginskoe,141,7,race/way-to-pekin/2008/stage-6,145.0
+519,Way to Pekin 2008  Stage 7,2008-07-22,RR,Aginskoe,Chita,141,8,race/way-to-pekin/2008/stage-7,150.0
+520,Plovdiv Cup 2008,2008-07-19,RR,Start,Finish,142,0,race/plovdiv-cup/2008,166.0
+521,Giro del Casentino 2008,2008-07-20,RR,Start,Finish,143,0,race/giro-del-casentino/2008,155.5
+522,Tour de Wallonie 2008  Stage 1,2008-07-26,RR,Start,Finish,144,1,race/tour-de-wallonie/2008/stage-1,145.0
+523,Tour de Wallonie 2008  Stage 2,2008-07-27,RR,Start,Finish,144,2,race/tour-de-wallonie/2008/stage-2,183.0
+524,Tour de Wallonie 2008  Stage 3,2008-07-28,RR,Start,Finish,144,3,race/tour-de-wallonie/2008/stage-3,203.0
+525,Tour de Wallonie 2008  Stage 4,2008-07-29,RR,Start,Finish,144,4,race/tour-de-wallonie/2008/stage-4,202.0
+526,Tour de Wallonie 2008  Stage 5,2008-07-30,RR,Start,Finish,144,5,race/tour-de-wallonie/2008/stage-5,175.0
+527,Grand Prix Bradlo 2008,2008-07-26,RR,Start,Finish,145,0,race/grand-prix-bradlo/2008,0.0
+528,Kreiz Breizh Elites 2008  Stage 1,2008-07-26,RR,Callac,Plouray,146,1,race/kreiz-breizh-elites/2008/stage-1,161.9
+529,Kreiz Breizh Elites 2008  Stage 2,2008-07-27,RR,Cleden-Poher,Carhaix,146,2,race/kreiz-breizh-elites/2008/stage-2,96.3
+530,Kreiz Breizh Elites 2008  Stage 3,2008-07-27,RR,Rostrenen,Ploërdut,146,3,race/kreiz-breizh-elites/2008/stage-3,94.7
+531,Kreiz Breizh Elites 2008  Stage 4,2008-07-28,RR,Chateauneu-du-Faou,Rostrenen,146,4,race/kreiz-breizh-elites/2008/stage-4,159.6
+532,Gran Premio Inda - Trofeo Aras Frattini 2008,2008-07-27,RR,Start,Finish,147,0,race/gran-premio-inda-trofeo-aras-frattini/2008,168.0
+533,Grand Prix de la ville de Pérenchies 2008,2008-07-27,RR,Start,Finish,148,0,race/grand-prix-de-la-ville-de-perenchies/2008,160.0
+534,Dookola Mazowsza 2008  Stage 1,2008-07-29,RR,Biala Podlaska,Siedlce,149,1,race/dookola-mazowsza/2008/stage-1,179.1
+535,Dookola Mazowsza 2008  Stage 2,2008-07-30,RR,Sokołów Podlaski,Rembertów,149,2,race/dookola-mazowsza/2008/stage-2,168.3
+536,Dookola Mazowsza 2008  Stage 3,2008-07-31,RR,Maków Mazowiecki,Płock,149,3,race/dookola-mazowsza/2008/stage-3,186.3
+537,Dookola Mazowsza 2008  Stage 4,2008-08-01,RR,Piaseczno,Grodzisk Mazowiecki,149,4,race/dookola-mazowsza/2008/stage-4,132.6
+538,Dookola Mazowsza 2008  Stage 5 (TTT),2008-08-02,TTT,Szydłowiec,Szydłowiec,149,5,race/dookola-mazowsza/2008/stage-5,19.2
+539,Dookola Mazowsza 2008  Stage 6,2008-08-03,RR,Zwolen,Kozienice,149,6,race/dookola-mazowsza/2008/stage-6,118.2
+540,GP P-Nivo 2008,2008-08-02,RR,Start,Finish,150,0,race/gp-p-nivo/2008,176.1
+541,Sparkassen Giro 2008,2008-08-03,RR,Bochum,Bochum,151,0,race/sparkassen-giro-bochum/2008,175.0
+542,Gp Folignano - Trofeo Avis 2008,2008-08-05,RR,Start,Finish,152,0,race/gp-folignano---trofeo-avis/2008,160.0
+543,Paris - Corrèze 2008  Stage 1,2008-08-06,RR,Start,Finish,153,1,race/paris-correze/2008/stage-1,196.0
+544,Paris - Corrèze 2008  Stage 2,2008-08-07,RR,Start,Finish,153,2,race/paris-correze/2008/stage-2,162.0
+545,Tour of Malopolska 2008  Stage 1,2008-08-07,RR,Gdow,Kalwaria Zebrzydowska,154,1,race/tour-of-malopolska/2008/stage-1,149.0
+546,Tour of Malopolska 2008  Stage 2,2008-08-08,RR,Spytkowice,Jordanow,154,2,race/tour-of-malopolska/2008/stage-2,179.0
+547,Tour of Malopolska 2008  Stage 3,2008-08-09,RR,Swiatniki Gorne,Gorlice,154,3,race/tour-of-malopolska/2008/stage-3,141.0
+548,Tour of Malopolska 2008  Stage 4 (ITT),2008-08-09,ITT,Stroze,Stroze,154,4,race/tour-of-malopolska/2008/stage-4,18.8
+549,Tour of Szeklerland  2008  Prologue,2008-08-07,Prologue,Miercurea-Ciuc,Miercurea-Ciuc,155,1,race/tour-of-szeklerland/2008/prologue,5.7
+550,Tour of Szeklerland  2008  Stage 1,2008-08-08,RR,Miercurea-Ciuc,Miercurea-Ciuc,155,2,race/tour-of-szeklerland/2008/stage-1,164.0
+551,Tour of Szeklerland  2008  Stage 2,2008-08-09,RR,Miercurea-Ciuc,Miercurea-Ciuc,155,3,race/tour-of-szeklerland/2008/stage-2,198.0
+552,Tour of Szeklerland  2008  Stage 3,2008-08-10,RR,Miercurea-Ciuc,Miercurea-Ciuc,155,4,race/tour-of-szeklerland/2008/stage-3,96.9
+553,Trofeo Internazionale Bastianelli 2008,2008-08-10,RR,Start,Finish,156,0,race/trofeo-internazionale-bastianelli/2008,148.0
+554,GP Citta' di Felino 2008,2008-08-11,RR,Start,Finish,157,0,race/48e-gp-citta-di-felino/2008,160.0
+555,Gp Di Poggiana 2008,2008-08-14,RR,Start,Finish,158,0,race/gp-di-poggiana/2008,0.0
+556,Puchar Ministra Obrony Narodowej 2008,2008-08-14,RR,Start,Finish,159,0,race/puchar-ministra-obrony-narodowej/2008,160.0
+557,GP Capodarco 2008,2008-08-16,RR,Start,Finish,160,0,race/gp-capodarco/2008,180.0
+558,Memorial Henryka Lasaka 2008,2008-08-16,RR,Start,Finish,161,0,race/memorial-henryka-lasaka/2008,164.9
+559,Gara Ciclistica Montappone - Tr. Marini Silvano Cappelli Sp. 2008,2008-08-17,RR,Start,Finish,162,0,race/gara-ciclistica-montappone-tr-marini-silvano-ca/2008,156.0
+560,Puchar Uzdrowisk Karpackich 2008,2008-08-17,RR,Start,Finish,163,0,race/puchar-uzdrowisk-karpackich/2008,0.0
+561,2 Giorni Marchigiana - GP Ind.Com.Art di Castelfidardo 2008,2008-08-18,RR,Start,Finish,164,0,race/2-giorni-marchigiana-gp-ind.com.art-di-castelfidar/2008,167.0
+562,2 Giorni Marchigiana - Trofeo Citta de Castelfidardo 2008,2008-08-19,RR,Start,Finish,165,0,race/2-giorni-marchigiana-trofeo-citta-de-castelfidardo/2008,166.9
+563,Grand Prix des Marbriers 2008,2008-08-19,RR,Start,Finish,166,0,race/grand-prix-des-marbriers/2008,153.0
+564,GP Tell 2008  Prologue,2008-08-20,Prologue,Luzern,Luzern,167,1,race/gp-tell/2008/prologue,0.0
+565,GP Tell 2008  Stage 2,2008-08-21,RR,Brunnen,Brunnen,167,2,race/gp-tell/2008/stage-2,154.0
+566,GP Tell 2008  Stage 3,2008-08-22,RR,Start,Finish,167,3,race/gp-tell/2008/stage-3,0.0
+567,GP Tell 2008  Stage 4,2008-08-23,RR,Safenwil,Safenwil,167,4,race/gp-tell/2008/stage-4,0.0
+568,GP Tell 2008  Stage 5,2008-08-24,RR,Start,Finish,167,5,race/gp-tell/2008/stage-5,0.0
+569,Szlakiem Walk Majora Hubala 2008  Stage 1,2008-08-22,RR,Szydlowiec,Szydlowiec,168,1,race/szlakiem-walk-majora-hubala/2008/stage-1,147.6
+570,Szlakiem Walk Majora Hubala 2008  Stage 2,2008-08-23,RR,Pinczow,Kazimierza Wielka,168,2,race/szlakiem-walk-majora-hubala/2008/stage-2,132.0
+571,Szlakiem Walk Majora Hubala 2008  Stage 3,2008-08-23,RR,Jedrzejow,Jedrzejow,168,3,race/szlakiem-walk-majora-hubala/2008/stage-3,66.0
+572,Szlakiem Walk Majora Hubala 2008  Stage 4,2008-08-24,RR,Konskie,Konskie,168,4,race/szlakiem-walk-majora-hubala/2008/stage-4,180.0
+573,Tour of Ireland 2008  Stage 1,2008-08-27,RR,Dublin,Waterford,169,1,race/tour-of-ireland/2008/stage-1,192.0
+574,Tour of Ireland 2008  Stage 2,2008-08-28,RR,Thurles, Loughrea,169,2,race/tour-of-ireland/2008/stage-2,158.0
+575,Tour of Ireland 2008  Stage 3,2008-08-29,RR,Ballinrobe,Galway,169,3,race/tour-of-ireland/2008/stage-3,201.0
+576,Tour of Ireland 2008  Stage 4,2008-08-30,RR,Limerick,Dingle,169,4,race/tour-of-ireland/2008/stage-4,186.0
+577,Tour of Ireland 2008  Stage 5,2008-08-31,RR,Killarney,Cork,169,5,race/tour-of-ireland/2008/stage-5,144.0
+578,National Championships Iceland - Road Race 2008,2008-08-30,RR,Start,Finish,170,0,race/national-championships-iceland---road-race/2008,96.0
+579,Ronde van Midden-Nederland 2008,2008-08-31,RR,Start,Finish,171,0,race/ronde-van-midden-nederland/2008,0.0
+580,Okolo Slovenska 2008  Stage 1,2008-09-03,RR,Zvolen,Zvolen,172,1,race/okolo-slovenska/2008/stage-1,140.5
+581,Okolo Slovenska 2008  Stage 2,2008-09-04,RR,Zvolen,Dohnany,172,2,race/okolo-slovenska/2008/stage-2,148.8
+582,Okolo Slovenska 2008  Stage 3,2008-09-05,RR,Dohnany,Bánovce nad Bebravou,172,3,race/okolo-slovenska/2008/stage-3,195.5
+583,Okolo Slovenska 2008  Stage 4 (ITT),2008-09-06,ITT,Bánovce nad Bebravou,Jankov vŕšok,172,4,race/okolo-slovenska/2008/stage-4a,15.8
+584,Okolo Slovenska 2008  Stage 4,2008-09-06,RR,Bánovce nad Bebravou,Žilina,172,5,race/okolo-slovenska/2008/stage-4b,109.2
+585,Okolo Slovenska 2008  Stage 5,2008-09-07,RR,Žilina,Žilina,172,6,race/okolo-slovenska/2008/stage-5,102.2
+586,Tour de l'Avenir 2008  Prologue,2008-09-05,Prologue,Chalette-sur-Loing,Chalette-sur-Loing,173,1,race/tour-de-l-avenir/2008/prologue,7.5
+587,Tour de l'Avenir 2008  Stage 2,2008-09-06,RR,Start,Finish,173,2,race/tour-de-l-avenir/2008/stage-2,0.0
+588,Tour de l'Avenir 2008  Stage 3,2008-09-07,RR,Vézelay, Commentry,173,3,race/tour-de-l-avenir/2008/stage-3,195.5
+589,Tour de l'Avenir 2008  Stage 4,2008-09-08,RR,Néris-les-Bains,Saint-Symphorien-sur-Coise,173,4,race/tour-de-l-avenir/2008/stage-4,207.0
+590,Tour de l'Avenir 2008  Stage 5,2008-09-09,RR,Saint-Symphorien-sur-Coise,Saint-Flour,173,5,race/tour-de-l-avenir/2008/stage-5,181.5
+591,Tour de l'Avenir 2008  Stage 6,2008-09-10,RR,Saint-Flour,Carmaux,173,6,race/tour-de-l-avenir/2008/stage-6,212.5
+592,Tour de l'Avenir 2008  Stage 7 (ITT),2008-09-11,ITT,Blaye-les-Mines,Blaye-les-Mines,173,7,race/tour-de-l-avenir/2008/stage-7,21.0
+593,Tour de l'Avenir 2008  Stage 8,2008-09-12,RR,Saint-Juéry,Revel (Saint-Ferréol),173,8,race/tour-de-l-avenir/2008/stage-8,135.5
+594,Tour de l'Avenir 2008  Stage 9,2008-09-13,RR,Revel,Guzet,173,9,race/tour-de-l-avenir/2008/stage-9,150.5
+595,Tour de l'Avenir 2008  Stage 10,2008-09-14,RR,Seix,Mirepoix,173,10,race/tour-de-l-avenir/2008/stage-10,144.5
+596,Memorial Davide Fardelli 2008,2008-09-07,RR,Start,Finish,174,0,race/memorial-davide-fardelli/2008,0.0
+597,Trofeo Salvatore Morucci 2008,2008-09-07,RR,Start,Finish,175,0,race/trofeo-salvatore-morucci/2008,133.5
+598,Tour of Bulgaria 2008  Stage 1,2008-09-08,RR,Troyan,Gabrovo,176,1,race/tour-of-bulgaria/2008/stage-1,112.0
+599,Tour of Bulgaria 2008  Stage 2,2008-09-09,RR,Gabrovo,Razgrad,176,2,race/tour-of-bulgaria/2008/stage-2,154.0
+600,Tour of Bulgaria 2008  Stage 3,2008-09-10,RR,Razgrad,Varna,176,3,race/tour-of-bulgaria/2008/stage-3,132.0
+601,Tour of Bulgaria 2008  Stage 4,2008-09-11,RR,Varna,Bourgas,176,4,race/tour-of-bulgaria/2008/stage-4,133.0
+602,Tour of Bulgaria 2008  Stage 5,2008-09-12,RR,Aitos,Kazanlak,176,5,race/tour-of-bulgaria/2008/stage-5,176.0
+603,Tour of Bulgaria 2008  Stage 6,2008-09-13,RR,Kazanlak,Stara Zagora,176,6,race/tour-of-bulgaria/2008/stage-6b,95.0
+604,Tour of Bulgaria 2008  Stage 6,2008-09-13,RR,Stara Zagora,Svilengrad,176,7,race/tour-of-bulgaria/2008/stage-6a,111.0
+605,Tour of Bulgaria 2008  Stage 7,2008-09-14,RR,Svilengrad,Plovdiv,176,8,race/tour-of-bulgaria/2008/stage-7,141.0
+606,Chrono Champenois Masculin 2008,2008-09-14,RR,Start,Finish,177,0,race/chrono-champenois-masculin/2008,33.4
+607,GP Briek Schotte 2008,2008-09-16,RR,Desselgem,Desselgem,178,0,race/gp-briek-schotte/2008,0.0
+608,23rd Grand Prix de la Somme « Conseil Général 80 » 2008,2008-09-19,RR,Start,Finish,179,0,race/gp-de-la-somme/2008,197.0
+609,National Championships Austria - ITT 2008,2008-09-19,RR,Start,Finish,180,0,race/nc-austria-itt/2008,28.4
+610,Memorial Viviana Manservisi 2008,2008-09-20,RR,Start,Finish,181,0,race/memorial-viviana-manservisi/2008,184.0
+611,Lombardia Tour 2008,2008-09-20,RR,Start,Finish,182,0,race/lombardia-tour/2008,163.5
+612,Praha - Karlovy Vary - Praha 2008,2008-09-20,RR,Start,Finish,183,0,race/praha-karlovy-vary-praha/2008,0.0
+613,Giro del Canavese 2008,2008-09-21,RR,Start,Finish,184,0,race/giro-del-canavese/2008,178.8
+614,Trofeo G. Bianchin 2008,2008-09-21,RR,Start,Finish,185,0,race/40th-trofeo-g.-bianchin/2008,171.8
+615,Piccolo Giro di Lombardia 2008,2008-10-04,RR,Start,Finish,186,0,race/piccolo-giro-di-lombardia/2008,174.0
+616,Tour de Vendée 2008,2008-10-05,RR,Lucon,La Roche Sur Yon,187,0,race/tour-de-vendee/2008,206.0
+617,Paris-Tours Espoirs 2008,2008-10-12,RR,Start,Finish,188,0,race/paris-tours-u23/2008,0.0
+618,Nationale Sluitingprijs Putte - Kapellen 2008,2008-10-14,RR,Putte,Kapellen,189,0,race/nationale-sluitingsprijs-putte-kapellen/2008,177.0
+619,Chrono Des Nations 2008,2008-10-19,RR,Start,Finish,190,0,race/chrono-des-nations/2008,48.5
+620,National Championships Eritrea - Road Race 2008,2008-11-02,RR,Start,Finish,191,0,race/nc-eritrea/2008,0.0
+621,National Championships New Zealand - ITT 2008,2008-01-11,RR,Start,Finish,0,0,race/nc-new-zealand-itt/2008,40.0
+622,National Championships New Zealand - Road Race 2008,2008-01-13,RR,Start,Finish,1,0,race/nc-new-zealand/2008,0.0
+623,Tour of Wellington 2008  Stage 1,2008-01-30,RR,Hutt City,Hutt City,2,1,race/tour-of-wellington/2008/stage-1,45.0
+624,Tour of Wellington 2008  Stage 2,2008-01-31,RR,Feathersib,Te Waharau,2,2,race/tour-of-wellington/2008/stage-2,133.0
+625,Tour of Wellington 2008  Stage 3,2008-02-01,RR,Masterton,Admiral Hill,2,3,race/tour-of-wellington/2008/stage-3,185.0
+626,Tour of Wellington 2008  Stage 4,2008-02-02,RR,Gladstone,Gladstone,2,4,race/tour-of-wellington/2008/stage-4,132.0
+627,Tour of Wellington 2008  Stage 5,2008-02-02,RR,Masterton,Masterton,2,5,race/tour-of-wellington/2008/stage-5,0.0
+628,Tour of Wellington 2008  Stage 6 (ITT),2008-02-03,ITT,Wellington,Wellington,2,6,race/tour-of-wellington/2008/stage-6,12.0
+629,Tour of Wellington 2008  Stage 7,2008-02-03,RR,Wellington,Wellington,2,7,race/tour-of-wellington/2008/stage-7,0.0
+630,Copa America de Ciclismo 2008,2008-01-06,RR,São Paulo,São Paulo,0,0,race/copa-amarica-de-ciclismo/2008,38.4
+631,Tour de San Luis 2008  Prologue,2008-01-22,Prologue,San Luis,San Luis,1,1,race/tour-de-san-luis/2008/prologue,3.5
+632,Tour de San Luis 2008  Stage 1,2008-01-23,RR,San Luis,Villa Mercedes,1,2,race/tour-de-san-luis/2008/stage-1,168.4
+633,Tour de San Luis 2008  Stage 2,2008-01-24,RR,La Toma,Merlo,1,3,race/tour-de-san-luis/2008/stage-2,168.7
+634,Tour de San Luis 2008  Stage 3 (ITT),2008-01-25,ITT,San Luis,San Luis,1,4,race/tour-de-san-luis/2008/stage-3,19.8
+635,Tour de San Luis 2008  Stage 4,2008-01-26,RR,San Luis,Mirador El Potrero,1,5,race/tour-de-san-luis/2008/stage-4,157.1
+636,Tour de San Luis 2008  Stage 5,2008-01-27,RR,San Luis,San Luis,1,6,race/tour-de-san-luis/2008/stage-5,144.5
+637,Vuelta Ciclista a Cuba 2008  Stage 1,2008-02-05,RR,Baracoa,Guantanamo,2,1,race/vuelta-a-cuba/2008/stage-1,153.0
+638,Vuelta Ciclista a Cuba 2008  Stage 2,2008-02-06,RR,Guantanamo,Santiago de Cuba,2,2,race/vuelta-a-cuba/2008/stage-2,111.0
+639,Vuelta Ciclista a Cuba 2008  Stage 3,2008-02-07,RR,Santiago de Cuba,Manzanillo,2,3,race/vuelta-a-cuba/2008/stage-3,196.0
+640,Vuelta Ciclista a Cuba 2008  Stage 4,2008-02-08,RR,Bayamo,Holguin,2,4,race/vuelta-a-cuba/2008/stage-4,109.0
+641,Vuelta Ciclista a Cuba 2008  Stage 5,2008-02-09,RR,Las Tunas,Camaguey,2,5,race/vuelta-a-cuba/2008/stage-5,126.0
+642,Vuelta Ciclista a Cuba 2008  Stage 6,2008-02-10,RR,Camaguey,Ciego de Avila,2,6,race/vuelta-a-cuba/2008/stage-6,113.0
+643,Vuelta Ciclista a Cuba 2008  Stage 7 (ITT),2008-02-11,ITT,Moron,Ciego de Avila,2,7,race/vuelta-a-cuba/2008/stage-7a,35.0
+644,Vuelta Ciclista a Cuba 2008  Stage 7,2008-02-11,RR,Ciego de Avila,Sancti Spiritus,2,8,race/vuelta-a-cuba/2008/stage-7b,95.0
+645,Vuelta Ciclista a Cuba 2008  Stage 8,2008-02-12,RR,Sancti Spiritus,Topes de Collantes,2,9,race/vuelta-a-cuba/2008/stage-8,137.0
+646,Vuelta Ciclista a Cuba 2008  Stage 9,2008-02-13,RR,Cienfuegos,Cienfuegos,2,10,race/vuelta-a-cuba/2008/stage-9a,60.0
+647,Vuelta Ciclista a Cuba 2008  Stage 9,2008-02-13,RR,Cienfuegos,Santa Clara,2,11,race/vuelta-a-cuba/2008/stage-9b,65.0
+648,Vuelta Ciclista a Cuba 2008  Stage 10,2008-02-14,RR,Santa Clara,Cardenas,2,12,race/vuelta-a-cuba/2008/stage-10,185.0
+649,Vuelta Ciclista a Cuba 2008  Stage 11,2008-02-15,RR,Matanzas,San Antonio de los Baños,2,13,race/vuelta-a-cuba/2008/stage-11,120.0
+650,Vuelta Ciclista a Cuba 2008  Stage 12,2008-02-16,RR,Artemisa,Pinar del Rio,2,14,race/vuelta-a-cuba/2008/stage-12,164.0
+651,Vuelta Ciclista a Cuba 2008  Stage 13,2008-02-17,RR,San Cristobal,Havana,2,15,race/vuelta-a-cuba/2008/stage-13,113.0
+652,Tour of Belize 2008  Stage 1,2008-02-13,RR,Belize City,Orange Walk,3,1,race/tour-of-belize/2008/stage-1,198.0
+653,Tour of Belize 2008  Stage 2,2008-02-14,RR,Orange Walk,Belize City,3,2,race/tour-of-belize/2008/stage-2,105.0
+654,Tour of Belize 2008  Stage 3 (TTT),2008-02-14,TTT,Hattieville,Hattieville,3,3,race/tour-of-belize/2008/stage-3,40.0
+655,Tour of Belize 2008  Stage 4,2008-02-15,RR,Belize City,Benque Viejo,3,4,race/tour-of-belize/2008/stage-4,130.0
+656,Tour of Belize 2008  Stage 5,2008-02-16,RR,Benque Viejo,Dangriga,3,5,race/tour-of-belize/2008/stage-5,182.0
+657,Tour of Belize 2008  Stage 6,2008-02-17,RR,San Ignacio,Belize City,3,6,race/tour-of-belize/2008/stage-6,145.0
+658,Vuelta Independencia Nacional 2008  Stage 1,2008-02-23,RR,Santo Domingo,La Romana,4,1,race/vuelta-independencia-nacional/2008/stage-1,104.4
+659,Vuelta Independencia Nacional 2008  Stage 2,2008-02-24,RR,San Pedro de Macoris,Santo Domingo,4,2,race/vuelta-independencia-nacional/2008/stage-2,130.5
+660,Vuelta Independencia Nacional 2008  Stage 3,2008-02-25,RR,San Cristobal,Barahona,4,3,race/vuelta-independencia-nacional/2008/stage-3,164.0
+661,Vuelta Independencia Nacional 2008  Stage 4,2008-02-26,RR,Barahona,Baní,4,4,race/vuelta-independencia-nacional/2008/stage-4,127.0
+662,Vuelta Independencia Nacional 2008  Stage 5,2008-02-27,RR,Santo Domingo,Bonao,4,5,race/vuelta-independencia-nacional/2008/stage-5b,80.0
+663,Vuelta Independencia Nacional 2008  Stage 5,2008-02-27,RR,Bonao,San Francisco de Macoris,4,6,race/vuelta-independencia-nacional/2008/stage-5a,90.0
+664,Vuelta Independencia Nacional 2008  Stage 6,2008-02-28,RR,Moca,Mao Valverde,4,7,race/vuelta-independencia-nacional/2008/stage-6,132.0
+665,Vuelta Independencia Nacional 2008  Stage 7,2008-02-29,RR,Santiago de Los Caballeros,Jarabacoa,4,8,race/vuelta-independencia-nacional/2008/stage-7,133.7
+666,Vuelta Independencia Nacional 2008  Stage 8,2008-03-01,RR,La Vega,Santo Domingo,4,9,race/vuelta-independencia-nacional/2008/stage-8a,115.0
+667,Vuelta Independencia Nacional 2008  Stage 8 (ITT),2008-03-01,ITT,Santo Domingo,Santo Domingo,4,10,race/vuelta-independencia-nacional/2008/stage-8b,10.4
+668,Vuelta Independencia Nacional 2008  Stage 9,2008-03-02,RR,Santo Domingo,Santo Domingo,4,11,race/vuelta-independencia-nacional/2008/stage-9,120.0
+669,National Championships Mexico - ITT 2008,2008-03-02,RR,Start,Finish,5,0,race/nc-mexico-itt/2008,0.0
+670,National Championships Mexico Road Race 2008,2008-03-04,RR,Start,Finish,6,0,race/nc-mexico/2008,0.0
+671,National Championships Chile - ITT 2008,2008-03-21,RR,Start,Finish,7,0,race/nc-chile-itt/2008,40.0
+672,National Championships Chile - Road Race 2008,2008-03-23,RR,Start,Finish,8,0,race/nc-chile/2008,160.0
+673,National Championships Argentina - ITT 2008,2008-04-04,RR,Start,Finish,9,0,race/nc-argentina-itt/2008,0.0
+674,National Championships Argentina - Road Race 2008,2008-04-06,RR,Start,Finish,10,0,race/nc-argentina/2008,188.0
+675,National Championships Cuba - ITT 2008,2008-04-12,RR,Start,Finish,11,0,race/nc-cuba-itt/2008,0.0
+676,National Championships Cuba - Road Race 2008,2008-04-12,RR,Start,Finish,12,0,race/nc-cuba/2008,0.0
+677,National Championships Venezuela Itt 2008,2008-04-12,RR,Start,Finish,13,0,race/nc-venezuela-itt/2008,0.0
+678,Clasico Aniversario de la Federacion Venezolana de Ciclismo 2008,2008-05-03,RR,Start,Finish,14,0,race/clasico-aniversario-de-la-federacion-venezolana-de/2008,78.0
+679,Copa Federacion Venezolana de Ciclismo Corre por la Vida 2008,2008-05-04,RR,Start,Finish,15,0,race/venezolana-de-ciclismo-corre-por-la-vida/2008,104.0
+680,Pan-American Championships - ITT 2008,2008-05-09,RR,Start,Finish,16,0,race/panamerican-champ-itt/2008,39.5
+681,Vuelta a Colombia 2008  Prologue,2008-05-10,Prologue,Barrancabermeja,Barrancabermeja,17,1,race/vuelta-pilsen-a-colombia/2008/prologue,8.4
+682,Vuelta a Colombia 2008  Stage 1,2008-05-11,RR,Barrancabermeja,Bucaramanga,17,2,race/vuelta-pilsen-a-colombia/2008/stage-1,146.9
+683,Vuelta a Colombia 2008  Stage 2,2008-05-12,RR,Piedecuesta,El Socorro,17,3,race/vuelta-pilsen-a-colombia/2008/stage-2,136.4
+684,Vuelta a Colombia 2008  Stage 3,2008-05-13,RR,El Socorro,Tunja,17,4,race/vuelta-pilsen-a-colombia/2008/stage-3,169.5
+685,Vuelta a Colombia 2008  Stage 4,2008-05-14,RR,Tunja,La Vega,17,5,race/vuelta-pilsen-a-colombia/2008/stage-4,192.0
+686,Vuelta a Colombia 2008  Stage 5,2008-05-15,RR,San Francisco,La Dorada,17,6,race/vuelta-pilsen-a-colombia/2008/stage-5,135.0
+687,Vuelta a Colombia 2008  Stage 6,2008-05-16,RR,Doradal,Santuario,17,7,race/vuelta-pilsen-a-colombia/2008/stage-6,115.3
+688,Vuelta a Colombia 2008  Stage 7,2008-05-17,RR,Rio Negro,La Unión,17,8,race/vuelta-pilsen-a-colombia/2008/stage-7,163.6
+689,Vuelta a Colombia 2008  Stage 8 (ITT),2008-05-18,ITT,Medellin,Santa Elena,17,9,race/vuelta-pilsen-a-colombia/2008/stage-8,31.0
+690,Vuelta a Colombia 2008  Stage 9,2008-05-20,RR,Caldas,Manizales,17,10,race/vuelta-pilsen-a-colombia/2008/stage-9,173.0
+691,Vuelta a Colombia 2008  Stage 10,2008-05-21,RR,Manizales,Mariquita,17,11,race/vuelta-pilsen-a-colombia/2008/stage-10,125.1
+692,Vuelta a Colombia 2008  Stage 11,2008-05-22,RR,Mariquita,La Linea,17,12,race/vuelta-pilsen-a-colombia/2008/stage-11,176.8
+693,Vuelta a Colombia 2008  Stage 12,2008-05-23,RR,Quimbaya,Pereira,17,13,race/vuelta-pilsen-a-colombia/2008/stage-12,158.2
+694,Vuelta a Colombia 2008  Stage 13,2008-05-24,RR,Cartago,Cali,17,14,race/vuelta-pilsen-a-colombia/2008/stage-13,190.4
+695,Vuelta a Colombia 2008  Stage 14,2008-05-25,RR,Cali,Cali,17,15,race/vuelta-pilsen-a-colombia/2008/stage-14,96.0
+696,National Championships Ecuador - Road Race 2008,2008-05-11,RR,Start,Finish,18,0,race/nc-ecuador/2008,0.0
+697,Pan-American Championships - Road Race 2008,2008-05-11,RR,Start,Finish,19,0,race/panamerican-championships/2008,0.0
+698,Doble Sucre Potosi G.P. Cemento Fancesa 2008  Stage 1,2008-05-14,RR,Sucre,Potosi,20,1,race/doble-sucre-potosi-gp-cemento-fancesa/2008/stage-1,157.0
+699,Doble Sucre Potosi G.P. Cemento Fancesa 2008  Stage 2,2008-05-15,RR,Potosi,Potosi,20,2,race/doble-sucre-potosi-gp-cemento-fancesa/2008/stage-2,134.0
+700,Doble Sucre Potosi G.P. Cemento Fancesa 2008  Stage 3,2008-05-16,RR,Potosi,Sucre,20,3,race/doble-sucre-potosi-gp-cemento-fancesa/2008/stage-3,158.0
+701,Doble Sucre Potosi G.P. Cemento Fancesa 2008  Stage 4,2008-05-17,RR,Sucre,Sucre,20,4,race/doble-sucre-potosi-gp-cemento-fancesa/2008/stage-4,128.0
+702,Doble Sucre Potosi G.P. Cemento Fancesa 2008  Stage 5 (ITT),2008-05-18,ITT,Sucre,Sucre,20,5,race/doble-sucre-potosi-gp-cemento-fancesa/2008/stage-5,35.0
+703,Tour de Leelanau 2008,2008-05-25,RR,Start,Finish,21,0,race/tour-de-leelanau/2008,177.4
+704,Commerce Bank Lehigh Valley Classic 2008,2008-06-03,RR,Start,Finish,22,0,race/commerce-bank-lehigh-valley-classic/2008,136.7
+705,Commerce Bank Reading Classic 2008,2008-06-05,RR,Start,Finish,23,0,race/commerce-bank-reading-classic/2008,119.1
+706,Coupe des Nations Ville Saguenay 2008  Stage 1,2008-06-05,RR,Chicoutimi,La Baie,24,1,race/coupe-des-nations-ville-saguenay/2008/stage-1,150.9
+707,Coupe des Nations Ville Saguenay 2008  Stage 2,2008-06-06,RR,Jonquiere,Jonquiere,24,2,race/coupe-des-nations-ville-saguenay/2008/stage-2,159.9
+708,Coupe des Nations Ville Saguenay 2008  Stage 3,2008-06-07,RR,Jonquiere,Jonquiere,24,3,race/coupe-des-nations-ville-saguenay/2008/stage-3,103.2
+709,Coupe des Nations Ville Saguenay 2008  Stage 4 (ITT),2008-06-07,ITT,Jonquiere,Jonquiere,24,4,race/coupe-des-nations-ville-saguenay/2008/stage-4,8.6
+710,Coupe des Nations Ville Saguenay 2008  Stage 5,2008-06-08,RR,Chicoutimi,Chicoutimi,24,5,race/coupe-des-nations-ville-saguenay/2008/stage-5,117.6
+711,Tour de Beauce 2008  Stage 1,2008-06-10,RR,Lac-Etchemin,Lac-Etchemin,25,1,race/tour-de-beauce/2008/stage-1,0.0
+712,Tour de Beauce 2008  Stage 2,2008-06-11,RR,Vallée-Jonction,Vallée-Jonction,25,2,race/tour-de-beauce/2008/stage-2,166.0
+713,Tour de Beauce 2008  Stage 3,2008-06-12,RR,St-Georges,Mont Mégantic,25,3,race/tour-de-beauce/2008/stage-3,153.0
+714,Tour de Beauce 2008  Stage 4 (ITT),2008-06-13,ITT,St-Georges,St-Georges,25,4,race/tour-de-beauce/2008/stage-4a,20.0
+715,Tour de Beauce 2008  Stage 4,2008-06-13,RR,St-Georges,St-Georges,25,5,race/tour-de-beauce/2008/stage-4b,60.0
+716,Tour de Beauce 2008  Stage 5,2008-06-14,RR,St-Georges,St-Georges,25,6,race/tour-de-beauce/2008/stage-5,144.0
+717,Tour de Beauce 2008  Stage 6,2008-06-15,RR,Quebec,Quebec,25,7,race/tour-de-beauce/2008/stage-6,125.0
+718,National Championships Brazil - Road Race 2008,2008-06-14,RR,Start,Finish,26,0,race/nc-brazil/2008,0.0
+719,National Championships Brazil - ITT 2008,2008-06-15,RR,Start,Finish,27,0,race/nc-brazil-itt/2008,0.0
+720,Tour of Pennsylvania 2008  Stage 1 (ITT),2008-06-24,ITT,Philadelphia,Philadelphia,28,1,race/tour-of-pennsylvania/2008/stage-1a,3.5
+721,Tour of Pennsylvania 2008  Stage 1,2008-06-24,RR,Philadelphia,Philadelphia,28,2,race/tour-of-pennsylvania/2008/stage-1b,50.0
+722,Tour of Pennsylvania 2008  Stage 2,2008-06-25,RR,Downington,Carlisle,28,3,race/tour-of-pennsylvania/2008/stage-2,146.0
+723,Tour of Pennsylvania 2008  Stage 3,2008-06-26,RR,Camp Hill,Bedford,28,4,race/tour-of-pennsylvania/2008/stage-3,167.69
+724,Tour of Pennsylvania 2008  Stage 4,2008-06-27,RR,Bedford,Latrobe,28,5,race/tour-of-pennsylvania/2008/stage-4,95.76
+725,Tour of Pennsylvania 2008  Stage 5,2008-06-28,RR,Ligonier,Pittsburgh,28,6,race/tour-of-pennsylvania/2008/stage-5,146.0
+726,Tour of Pennsylvania 2008  Stage 6,2008-06-29,RR,Pittsburgh,Pittsburgh,28,7,race/tour-of-pennsylvania/2008/stage-6,80.5
+727,National Championships Costa Rica - Road Race 2008,2008-06-28,RR,Start,Finish,29,0,race/nc-costa-rica/2008,0.0
+728,National TT Championships Canada 2008,2008-07-04,RR,Start,Finish,30,0,race/nc-canada-itt/2008,0.0
+729,Tour Cycliste International de Martinique 2008  Stage 1,2008-07-05,RR,Riviere-Salee,Schoelcher,31,1,race/tour-cycliste-international-de-martinique/2008/stage-1,122.6
+730,Tour Cycliste International de Martinique 2008  Stage 2,2008-07-06,RR,Schoelcher,Fort-de-France,31,2,race/tour-cycliste-international-de-martinique/2008/stage-2,91.0
+731,Tour Cycliste International de Martinique 2008  Stage 2,2008-07-06,RR,Schoelcher,Fort-de-France,31,3,race/tour-cycliste-international-de-martinique/2008/stage-2,91.0
+732,Tour Cycliste International de Martinique 2008  Stage 3,2008-07-07,RR,Fort-de-France,Robert,31,4,race/tour-cycliste-international-de-martinique/2008/stage-3,136.0
+733,Tour Cycliste International de Martinique 2008  Stage 4,2008-07-08,RR,Robert,Macouba,31,5,race/tour-cycliste-international-de-martinique/2008/stage-4,98.2
+734,Tour Cycliste International de Martinique 2008  Stage 5,2008-07-09,RR,Macouba,Trinite,31,6,race/tour-cycliste-international-de-martinique/2008/stage-5,127.7
+735,Tour Cycliste International de Martinique 2008  Stage 6,2008-07-10,RR,Trinite,Sainte-Marie,31,7,race/tour-cycliste-international-de-martinique/2008/stage-6,110.5
+736,Tour Cycliste International de Martinique 2008  Stage 7,2008-07-11,RR,Sainte-Marie,Saint-Esprit,31,8,race/tour-cycliste-international-de-martinique/2008/stage-7,107.0
+737,Tour Cycliste International de Martinique 2008  Stage 8 (ITT),2008-07-12,RR,Saint-Esprit,Riviere-Pilote,31,9,race/tour-cycliste-international-de-martinique/2008/stage-8,15.0
+738,Tour Cycliste International de Martinique 2008  Stage 8 (ITT),2008-07-12,RR,Saint-Esprit,Riviere-Pilote,31,10,race/tour-cycliste-international-de-martinique/2008/stage-8,15.0
+739,Tour Cycliste International de Martinique 2008  Stage 9,2008-07-13,RR,Riviere-Pilote,Lamentin,31,11,race/tour-cycliste-international-de-martinique/2008/stage-9,116.5
+740,National Championships Canada - Road Race 2008,2008-07-06,RR,Start,Finish,32,0,race/nc-canada/2008,0.0
+741,Prova Ciclistica 9 de Julho 2008,2008-07-09,RR,Start,Finish,33,0,race/prova-ciclistica-9-de-julho/2008,86.0
+742,Clasico Ciudad de Caracas 2008,2008-07-20,RR,Start,Finish,34,0,race/clasico-ciudad-de-caracas/2008,0.0
+743,Rochester Omnium 2008  Stage 1 (ITT),2008-08-08,ITT,Rochester,Rochester,35,1,race/rochester-omnium/2008/stage-1,6.4
+744,Rochester Omnium 2008  Stage 2,2008-08-09,RR,Rochester,Rochester,35,2,race/rochester-omnium/2008/stage-2,90.0
+745,Rochester Omnium 2008  Stage 3,2008-08-10,RR,Honeoye,Rochester,35,3,race/rochester-omnium/2008/stage-3,161.8
+746,Vuelta Ciclista a Venezuela 2008  Stage 1,2008-08-25,RR,Maracaibo,Maracaibo,36,1,race/vuelta-ciclista-a-venezuela/2008/stage-1,80.0
+747,Vuelta Ciclista a Venezuela 2008  Stage 2,2008-08-26,RR,Cabimas,Valera,36,2,race/vuelta-ciclista-a-venezuela/2008/stage-2,188.6
+748,Vuelta Ciclista a Venezuela 2008  Stage 3,2008-08-27,RR,Caja Seca,Mérida,36,3,race/vuelta-ciclista-a-venezuela/2008/stage-3,183.2
+749,Vuelta Ciclista a Venezuela 2008  Stage 4,2008-08-28,RR,Mucuchies,Guanare,36,4,race/vuelta-ciclista-a-venezuela/2008/stage-4,172.6
+750,Vuelta Ciclista a Venezuela 2008  Stage 5,2008-08-29,RR,Ospino,San Vicente,36,5,race/vuelta-ciclista-a-venezuela/2008/stage-5,217.6
+751,Vuelta Ciclista a Venezuela 2008  Stage 6,2008-08-30,RR,Valencia,Valencia,36,6,race/vuelta-ciclista-a-venezuela/2008/stage-6,80.0
+752,Vuelta Ciclista a Venezuela 2008  Stage 7,2008-08-31,RR,Puerto Cabello,San Juan de los Morros,36,7,race/vuelta-ciclista-a-venezuela/2008/stage-7,139.6
+753,Vuelta Ciclista a Venezuela 2008  Stage 8,2008-09-01,RR,Ortiz,Valle de la Pascua,36,8,race/vuelta-ciclista-a-venezuela/2008/stage-8,161.4
+754,Vuelta Ciclista a Venezuela 2008  Stage 9 (ITT),2008-09-02,ITT,Chaguaramas,Chaguaramas,36,9,race/vuelta-ciclista-a-venezuela/2008/stage-9,30.1
+755,Vuelta Ciclista a Venezuela 2008  Stage 10,2008-09-03,RR,Valle de la Pascua,Pariaguan,36,10,race/vuelta-ciclista-a-venezuela/2008/stage-10,159.1
+756,Vuelta Ciclista a Venezuela 2008  Stage 11,2008-09-04,RR,Cantaura,Cantaura,36,11,race/vuelta-ciclista-a-venezuela/2008/stage-11,80.0
+757,Vuelta Ciclista a Venezuela 2008  Stage 12,2008-09-05,RR,Cantaura,Barcelona,36,12,race/vuelta-ciclista-a-venezuela/2008/stage-12,147.3
+758,Vuelta Ciclista a Venezuela 2008  Stage 13,2008-09-06,RR,Piritu,Higuerote,36,13,race/vuelta-ciclista-a-venezuela/2008/stage-13,231.8
+759,Vuelta Ciclista a Venezuela 2008  Stage 14,2008-09-07,RR,Caracas,Caracas,36,14,race/vuelta-ciclista-a-venezuela/2008/stage-14,80.0
+760,National Championships United States - ITT 2008,2008-08-30,RR,Start,Finish,37,0,race/nc-usa-itt/2008,0.0
+761,National Championships United States - Road Race 2008,2008-08-31,RR,Greenville,Greenville,38,0,race/nc-united-states/2008,177.0
+762,Univest Grand Prix 2008,2008-09-06,RR,Start,Finish,39,0,race/univest-gp/2008,159.9
+763,Tour of Missouri 2008  Stage 1,2008-09-08,RR,St. Joseph,Kansas City,40,1,race/tour-of-missouri/2008/stage-1,150.0
+764,Tour of Missouri 2008  Stage 2,2008-09-09,RR,Clinton, Springfield,40,2,race/tour-of-missouri/2008/stage-2,202.7
+765,Tour of Missouri 2008  Stage 3 (ITT),2008-09-10,ITT,Start,Finish,40,3,race/tour-of-missouri/2008/stage-3,29.0
+766,Tour of Missouri 2008  Stage 4,2008-09-11,RR,Lebanon, Rolla,40,4,race/tour-of-missouri/2008/stage-4,155.0
+767,Tour of Missouri 2008  Stage 5,2008-09-12,RR,St. James,Jefferson City,40,5,race/tour-of-missouri/2008/stage-5,176.0
+768,Tour of Missouri 2008  Stage 6,2008-09-13,RR,Hermann,St. Charles,40,6,race/tour-of-missouri/2008/stage-6,155.0
+769,Tour of Missouri 2008  Stage 7,2008-09-14,RR,Start,Finish,40,7,race/tour-of-missouri/2008/stage-7,130.0
+770,Vuelta Mexico 2008  Stage 1,2008-09-13,RR,Aguascalientes,San Luis 0Potosi,41,1,race/vuelta-mexico-telmex/2008/stage-1,193.7
+771,Vuelta Mexico 2008  Stage 2,2008-09-14,RR,San Luis Potosi,León,41,2,race/vuelta-mexico-telmex/2008/stage-2,197.2
+772,Vuelta Mexico 2008  Stage 3,2008-09-15,RR,León,Guadalajara,41,3,race/vuelta-mexico-telmex/2008/stage-3,228.6
+773,Vuelta Mexico 2008  Stage 4,2008-09-16,RR,Guadalajara,Guadalajara,41,4,race/vuelta-mexico-telmex/2008/stage-4,79.2
+774,Vuelta Mexico 2008  Stage 5,2008-09-17,RR,Zamora,Morelia,41,5,race/vuelta-mexico-telmex/2008/stage-5,146.3
+775,Vuelta Mexico 2008  Stage 6,2008-09-18,RR,Morelia,Zitacuaro,41,6,race/vuelta-mexico-telmex/2008/stage-6,150.0
+776,Vuelta Mexico 2008  Stage 7,2008-09-19,RR,Zitacuaro,Toluca,41,7,race/vuelta-mexico-telmex/2008/stage-7,91.2
+777,Vuelta Mexico 2008  Stage 8,2008-09-20,RR,Toluca,Toluca,41,8,race/vuelta-mexico-telmex/2008/stage-8,52.9
+778,Clásico Ciclístico Internacional Banfoandes 2008  Stage 1,2008-10-05,RR,Punto Fijo,Coro,42,1,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-1,149.7
+779,Clásico Ciclístico Internacional Banfoandes 2008  Stage 2,2008-10-06,RR,Puerto Cumarebo,Dabajuro,42,2,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-2,163.0
+780,Clásico Ciclístico Internacional Banfoandes 2008  Stage 3,2008-10-07,RR,Cabimas,Valera,42,3,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-3,181.7
+781,Clásico Ciclístico Internacional Banfoandes 2008  Stage 4,2008-10-08,RR,Sabana de Mendoza,El Vigía,42,4,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-4,153.7
+782,Clásico Ciclístico Internacional Banfoandes 2008  Stage 5,2008-10-09,RR,La Tendida,Cordero,42,5,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-5,155.0
+783,Clásico Ciclístico Internacional Banfoandes 2008  Stage 6,2008-10-11,RR,Lobatera,San Cristóbal,42,6,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-6,136.5
+784,Clásico Ciclístico Internacional Banfoandes 2008  Stage 7 (ITT),2008-10-12,ITT,San Cristóbal,San Cristóbal,42,7,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-7,34.6
+785,Clásico Ciclístico Internacional Banfoandes 2008  Stage 8,2008-10-13,RR,San Cristóbal,Santa Ana,42,8,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-8,101.7
+786,Clásico Ciclístico Internacional Banfoandes 2008  Stage 9,2008-10-14,RR,Rubio,Rubio,42,9,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-9,111.0
+787,Clásico Ciclístico Internacional Banfoandes 2008  Stage 10,2008-10-15,RR,Colón,San Cristóbal,42,10,race/cl-sico-cicl-stico-internacional-banfoandes/2008/stage-11,114.9
+788,Vuelta a Chihuahua Internacional 2008  Stage 1,2008-10-06,RR,Chihuahua,Camargo,43,1,race/vuelta-a-chihuahua-internacional/2008/stage-1,148.8
+789,Vuelta a Chihuahua Internacional 2008  Stage 2,2008-10-07,RR,Parral,Guachochi,43,2,race/vuelta-a-chihuahua-internacional/2008/stage-2,188.7
+790,Vuelta a Chihuahua Internacional 2008  Stage 3,2008-10-08,RR,Guachochi,Creel,43,3,race/vuelta-a-chihuahua-internacional/2008/stage-3,155.9
+791,Vuelta a Chihuahua Internacional 2008  Stage 4 (ITT),2008-10-09,ITT,Pitorreal,Divisaderro,43,4,race/vuelta-a-chihuahua-internacional/2008/stage-4,18.9
+792,Vuelta a Chihuahua Internacional 2008  Stage 5,2008-10-10,RR,Creel,Cuauhtemoc,43,5,race/vuelta-a-chihuahua-internacional/2008/stage-5,152.8
+793,Vuelta a Chihuahua Internacional 2008  Stage 6,2008-10-11,RR,Cuauhtemoc,Chihuahua,43,6,race/vuelta-a-chihuahua-internacional/2008/stage-6,127.4
+794,Vuelta a Chihuahua Internacional 2008  Stage 7,2008-10-12,RR,Chihuahua,Chihuahua,43,7,race/vuelta-a-chihuahua-internacional/2008/stage-7,84.0

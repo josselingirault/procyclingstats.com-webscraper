@@ -1,153 +1,299 @@
-,Category,Date,Finish,Length,Number_stages,Race_ID,Race_Name,Stage#,Stage_Name,Stage_Type,Start,url
-0,1.WT.A,,,,1.0,,Milano-Sanremo 2009 ,,,,,
-1,1.WT.B,,,,1.0,,Amstel Gold Race 2009 ,,,,,
-2,1.WT.B,,,,1.0,,La Flèche Wallonne 2009 ,,,,,
-3,2.WT,,,,6.0,,Tour de Romandie 2009 ,,,,,
-4,2.WT,,,,8.0,,Critérium Du Dauphiné Libéré 2009 ,,,,,
-5,2.WT,,,,9.0,,Tour de Suisse 2009 ,,,,,
-6,-,,,,1.0,,National Championships Switzerland Itt 2009 ,,,,,
-7,1.WT.B,,,,1.0,,Clasica Ciclista San Sebastian 2009 ,,,,,
-8,1.WT.B,,,,7.0,,Tour de Pologne 2009 ,,,,,
-9,1.WT.A,,,,1.0,,Giro di Lombardia 2009 ,,,,,
-10,F-WC.TT,,,,1.0,,World Championships WE - ITT 2009 ,,,,,
-11,-,,,,1.0,,World Championships - ITT 2009 ,,,,,
-12,Worlds.RR,,,,1.0,,World Championships - Road Race 2009 ,,,,,
-13,Nationals.C3,,,,1.0,,National Championships Namibia - Road Race 2009 ,,,,,
-14,Nationals.C3,,,,1.0,,National Championships South Africa - Road Race 2009 ,,,,,
-15,Nationals.C3,,,,1.0,,National Championships Morocco - Road Race 2009 ,,,,,
-16,Nationals.C3,,,,1.0,,National Championships Tunisia - Road Race 2009 ,,,,,
-17,Nationals.C3.TT,,,,1.0,,National Championships Algeria - ITT 2009 ,,,,,
-18,Nationals.C3,,,,1.0,,National Championships Zimbabwe - Road Race 2009 ,,,,,
-19,2.2/U23,,,,10.0,,Tour du Faso 2009 ,,,,,
-20,Nationals.C3.TT,,,,1.0,,National Championships Namibia - ITT 2009 ,,,,,
-21,UCI.Cont.Ch.TT,,,,1.0,,African Continental Championships - ITT 2009 ,,,,,
-22,UCI.Cont.Ch,,,,1.0,,African Cycling Championships - Road Race 2009 ,,,,,
-23,2.2/U23,,,,8.0,,Tour of Rwanda 2009 ,,,,,
-24,2.2/U23,,,,5.0,,Tour of Singkarak 2009 ,,,,,
-25,2.2/U23,,,,4.0,,Tour De Kumano 2009 ,,,,,
-26,Nationals.C3.TT,,,,1.0,,National Championships Japan - ITT 2009 ,,,,,
-27,Nationals.C3.TT,,,,1.0,,National Championships Israel - ITT 2009 ,,,,,
-28,Nationals.C3.TT,,,,1.0,,National Championships Iran - ITT 2009 ,,,,,
-29,Nationals.C3,,,,1.0,,National Championships Iran - Road Race 2009 ,,,,,
-30,Nationals.C3.TT,,,,1.0,,National Championships Kazakhstan - ITT 2009 ,,,,,
-31,Nationals.C3,,,,1.0,,National Championships Israel - Road Race 2009 ,,,,,
-32,Nationals.C3,,,,1.0,,National Championships Malasia - Road Race 2009 ,,,,,
-33,Nationals.C3,,,,1.0,,National Championships Japan - Road Race 2009 ,,,,,
-34,Nationals.C3.TT,,,,1.0,,National Championships Mongolia - ITT 2009 ,,,,,
-35,1.HC,,,,1.0,,Omloop Het Nieuwsblad 2009 ,,,,,
-36,1.1,,,,1.0,,Kuurne-Bruxelles-Kuurne 2009 ,,,,,
-37,2.1,,,,5.0,,Vuelta ciclista a la region de Murcia 2009 ,,,,,
-38,2.1,,,,3.0,,Driedaagse van West-Vlaanderen 2009 ,,,,,
-39,1.2,,,,1.0,,Paris-Troyes 2009 ,,,,,
-40,2.HC,,,,3.0,,Critérium International 2009 ,,,,,
-41,2.HC,,,,4.0,,Driedaagse De Panne-Koksijde 2009 ,,,,,
-42,1.1,,,,1.0,,Hel van het Mergelland 2009 ,,,,,
-43,2.1,,,,5.0,,Circuit Cycliste Sarthe - Pays de la Loire 2009 ,,,,,
-44,2.1,,,,8.0,,Presidential Cycling Tour of Turkey 2009 ,,,,,
-45,1.2,,,,1.0,,GP Palio del Recioto 2009 ,,,,,
-46,2.2/U23,,,,6.0,,Tour du Loir-et-Cher 'E. Provost' 2009 ,,,,,
-47,1.HC,,,,1.0,,Scheldeprijs 2009 ,,,,,
-48,2.1,,,,4.0,,Giro del Trentino 2009 ,,,,,
-49,1.2,,,,1.0,,Ronde van Noord-Holland 2009 ,,,,,
-50,2.1,,,,6.0,,Vuelta Asturias Julio Alvarez Mendo 2009 ,,,,,
-51,1.HC,,,,1.0,,Eschborn-Frankfurt City Loop 2009 ,,,,,
-52,1.1,,,,1.0,,Giro Di Toscana 2009 ,,,,,
-53,Nationals.C3,,,,1.0,,National Championships Venezuela - Road Race 2009 ,,,,,
-54,1.2,,,,1.0,,Memorial Oleg Dyachenko 2009 ,,,,,
-55,2.HC,,,,6.0,,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2009 ,,,,,
-56,2.2/U23,,,,6.0,,Five Rings of Moscow 2009 ,,,,,
-57,1.2,,,,1.0,,Circuit De Wallonie 2009 ,,,,,
-58,1.2,,,,1.0,,Omloop der Kempen 2009 ,,,,,
-59,2.2/U23,,,,4.0,, Ronde de l\'Isard 2009 ,,,,,
-60,1.2,,,,1.0,,Grand Prix Criquielion 2009 ,,,,,
-61,2.HC,,,,5.0,,Bayern-Rundfahrt 2009 ,,,,,
-62,1.2,,,,1.0,,Gp Kooperativa 2009 ,,,,,
-63,1.1,,,,1.0,,Boucles de l'Aulne - Châteaulin 2009 ,,,,,
-64,1.2,,,,1.0,,Paris-Roubaix Espoirs 2009 ,,,,,
-65,1.2,,,,1.0,,Rogaland Gp 2009 ,,,,,
-66,1.2,,,,1.0,,GP Industria e Commercio - Tr. Città di San Vendemiano 2009 ,,,,,
-67,1.2,,,,1.0,,Trofeo Alcide Degasperi 2009 ,,,,,
-68,2.HC,,,,5.0,,Skoda-Tour de Luxembourg 2009 ,,,,,
-69,F-2.1,,,,5.0,,Iurreta-emakumeen Bira 2009 ,,,,,
-70,2.2/U23,,,,9.0,,Giro Ciclistico d'Italia 2009 ,,,,,
-71,2.1,,,,5.0,,Ster Elektrotoer 2009 ,,,,,
-72,2.1,,,,4.0,,Route du Sud - la Depêche du Midi 2009 ,,,,,
-73,2.2/U23,,,,3.0,,Tour Des Pays De Savoie 2009 ,,,,,
-74,1.2,,,,1.0,,Flèche Ardennaise 2009 ,,,,,
-75,Nationals.C3.TT,,,,1.0,,National Championships Lithuania - ITT 2009 ,,,,,
-76,Nationals.C3.TT,,,,1.0,,National Championships Turkey - ITT 2009 ,,,,,
-77,Nationals.C3.TT,,,,1.0,,National Championships Czech Republic - ITT 2009 ,,,,,
-78,Nationals.C3.TT,,,,1.0,,National Championships Hungary - ITT 2009 ,,,,,
-79,Nationals.C3.TT,,,,1.0,,National Championships Latvia - ITT 2009 ,,,,,
-80,Nationals.C3,,,,1.0,,National Championships Lithuania - Road Race 2009 ,,,,,
-81,Nationals.C3,,,,1.0,,National Championships Luxembourg - ITT 2009 ,,,,,
-82,Nationals.C3.TT,,,,1.0,,National Championships Serbia - ITT 2009 ,,,,,
-83,Nationals.C3.TT,,,,1.0,,National Championships Slovakia - ITT 2009 ,,,,,
-84,Nationals.C3.TT,,,,1.0,,National Championships Slovenia - ITT 2009 ,,,,,
-85,Nationals.C3.TT,,,,1.0,,National Championships Sweden Itt 2009 ,,,,,
-86,Nationals.C3.TT,,,,1.0,,National Championships Ukraine - ITT 2009 ,,,,,
-87,Nationals.C3,,,,1.0,,National TT Championships Portugal 2009 ,,,,,
-88,Nationals.C3.TT,,,,1.0,,National TT Championships Romania 2009 ,,,,,
-89,Nationals.C3,,,,1.0,,National Championships Belarus - ITT 2009 ,,,,,
-90,Nationals.C3.TT,,,,1.0,,National Championships Estonia - ITT 2009 ,,,,,
-91,Nationals.C3.TT,,,,1.0,,National Championships Finland - ITT 2009 ,,,,,
-92,Nationals.C3.TT,,,,1.0,,National Championships Greece - ITT 2009 ,,,,,
-93,Nationals.C3.TT,,,,1.0,,National Championships Russia - ITT 2009 ,,,,,
-94,Nationals.C3.TT,,,,1.0,,National Championships Spain - ITT 2009 ,,,,,
-95,Nationals.C3,,,,1.0,,National Championships Turkey - Road Race 2009 ,,,,,
-96,Nationals.C3.TT,,,,1.0,,National Championships Bulgaria - ITT 2009 ,,,,,
-97,Nationals.C3,,,,1.0,,National Championships Greece - Road Race 2009 ,,,,,
-98,Nationals.C3.TT,,,,1.0,,National Championships Moldova - ITT 2009 ,,,,,
-99,Nationals.C3,,,,1.0,,National Championships Serbia - Road Race 2009 ,,,,,
-100,F-WC.Leader,,,,1.0,,National Championships Netherlands U23 - Road Race 2009 ,,,,,
-101,Nationals.C3,,,,1.0,,National Championship Austria - Road Race 2009 ,,,,,
-102,Nationals.C3,,,,1.0,,National Championships Albania - Road Race 2009 ,,,,,
-103,Nationals.C3,,,,1.0,,National Championships Belarus - Road Race 2009 ,,,,,
-104,Nationals.C3,,,,1.0,,National Championships Bulgaria - Road Race 2009 ,,,,,
-105,Nationals.C3,,,,1.0,,National Championships Czech Republic - Road Race 2009 ,,,,,
-106,Nationals.C3,,,,1.0,,National Championships Finland - Road Race 2009 ,,,,,
-107,Nationals.C3,,,,1.0,,National Championships Hungary - Road Race 2009 ,,,,,
-108,Nationals.C3,,,,1.0,,National Championships Latvia - Road Race 2009 ,,,,,
-109,Nationals.C3,,,,1.0,,National Championships Moldavie - Road Race 2009 ,,,,,
-110,Nationals.C3,,,,1.0,,National Championships Romania - Road Race 2009 ,,,,,
-111,Nationals.C2,,,,1.0,,National Championships Russia - Road Race 2009 ,,,,,
-112,Nationals.C3,,,,1.0,,National Championships Sweden - Road Race 2009 ,,,,,
-113,Nationals.C3,,,,1.0,,National Championships Ukraine - Road Race 2009 ,,,,,
-114,Nationals.C3,,,,1.0,,National Championships Mongolia - Road Race 2009 ,,,,,
-115,2.2/U23,,,,5.0,,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2009 ,,,,,
-116,2.HC,,,,5.0,,Tour de Wallonie 2009 ,,,,,
-117,1.1,,,,1.0,,Sparkassen Giro 2009 ,,,,,
-118,2.1,,,,2.0,,Paris - Corrèze 2009 ,,,,,
-119,2.2/U23,,,,4.0,,Mi-août Bretonne 2009 ,,,,,
-120,1.2,,,,1.0,,Gp Di Poggiana 2009 ,,,,,
-121,1.2,,,,1.0,,Grand Prix Des Marbriers 2009 ,,,,,
-122,Nationals.C3,,,,1.0,,National Championships Iceland - Road Race 2009 ,,,,,
-123,1.1,,,,1.0,,Schaal Sels 2009 ,,,,,
-124,1.2,,,,1.0,,Ronde van Midden-Nederland 2009 ,,,,,
-125,Nationals.C3.TT,,,,1.0,,National Championships Ireland - ITT 2009 ,,,,,
-126,E-2.Ncup,,,,9.0,,Tour de l'Avenir 2009 ,,,,,
-127,1.2,,,,1.0,,Memorial Davide Fardelli - Cronometro Individuale 2009 ,,,,,
-128,Nationals.C3.TT,,,,1.0,,National Championships Austria - ITT 2009 ,,,,,
-129,1.2,,,,1.0,,Duo Normand 2009 ,,,,,
-130,1.1,,,,1.0,,Tour de Vendée 2009 ,,,,,
-131,1.HC,,,,1.0,,Paris - Tours 2009 ,,,,,
-132,1.HC,,,,1.0,,Paris-tours 2009 ,,,,,
-133,1.1,,,,1.0,,Nationale Sluitingprijs Putte - Kapellen 2009 ,,,,,
-134,1.1,,,,1.0,,Chrono Des Nations Les Herbiers Vendée 2009 ,,,,,
-135,Nationals.C3.TT,,,,1.0,,National Championships New Zealand - ITT 2009 ,,,,,
-136,Nationals.C3.TT,,,,1.0,,National TT Championships New Zealand 2009 ,,,,,
-137,Nationals.C3,,,,1.0,,National Championships New Zealand - Road Race 2009 ,,,,,
-138,E-CC,,,,1.0,,Oceania Cycling Championships - Road Race 2009 ,,,,,
-139,Nationals.C3.TT,,,,1.0,,National Championships Argentina - ITT 2009 ,,,,,
-140,Nationals.C3,,,,1.0,,National Championships Argentina - Road Race 2009 ,,,,,
-141,Nationals.C3.TT,,,,1.0,,National Championships Venezuela Itt 2009 ,,,,,
-142,Nationals.C3,,,,1.0,,National Championships Costa Rica - Road Race 2009 ,,,,,
-143,Nationals.C3.TT,,,,1.0,,National Championships Brazil - ITT 2009 ,,,,,
-144,Nationals.C3.TT,,,,1.0,,National TT Championships Canada 2009 ,,,,,
-145,Nationals.C3,,,,1.0,,National Championships Brazil - Road Race 2009 ,,,,,
-146,Nationals.C3,,,,1.0,,National Championships Canada - Road Race 2009 ,,,,,
-147,Nationals.C3,,,,1.0,,National Championships Mexico Road Race 2009 ,,,,,
-148,Nationals.C3.TT,,,,1.0,,National Championships United States - ITT 2009 ,,,,,
-149,Nationals.C3.TT,,,,1.0,,National Championships Mexico - ITT 2009 ,,,,,
-150,Nationals.C3,,,,1.0,,National Championships United States - Road Race 2009 ,,,,,
-151,Nationals.C3.TT,,,,1.0,,National Championships Ecuador - ITT 2009 ,,,,,
+,Stage_Name,Date,Stage_Type,Start,Finish,Race_ID,Stage#,url,Length
+0,Milano-Sanremo 2009,2009-03-21,RR,Milano,Sanremo,0,0,race/milano-sanremo/2009,298.0
+1,Amstel Gold Race 2009,2009-04-19,RR,Maastricht,Valkenburg,1,0,race/amstel-gold-race/2009,258.6
+2,La Flèche Wallonne 2009,2009-04-22,RR,Charleroi,Huy,2,0,race/la-fleche-wallone/2009,195.5
+3,Tour de Romandie 2009  Prologue,2009-04-28,Prologue,Lausanne,Lausanne,3,1,race/tour-de-romandie/2009/prologue,3.1
+4,Tour de Romandie 2009  Stage 2,2009-04-29,RR,Montreux,Fribourg,3,2,race/tour-de-romandie/2009/stage-2,176.2
+5,Tour de Romandie 2009  Stage 3,2009-04-30,RR,La Chaux-de-Fonds,La Chaux-de-Fonds,3,3,race/tour-de-romandie/2009/stage-3,161.5
+6,Tour de Romandie 2009  Stage 4 (TTT),2009-05-01,TTT,Yverdon-les-Bains,Yverdon-les-Bains,3,4,race/tour-de-romandie/2009/stage-4,14.8
+7,Tour de Romandie 2009  Stage 5,2009-05-02,RR,Estavayer-le-lac,Sainte-Croix,3,5,race/tour-de-romandie/2009/stage-5,157.5
+8,Tour de Romandie 2009  Stage 6,2009-05-03,RR,Aubonne,Genève,3,6,race/tour-de-romandie/2009/stage-6,150.5
+9,Critérium Du Dauphiné Libéré 2009  Stage 1 (ITT),2009-06-07,ITT,Nancy,Nancy,4,1,race/dauphine/2009/stage-1,12.1
+10,Critérium Du Dauphiné Libéré 2009  Stage 2,2009-06-08,RR,Nancy,Dijon,4,2,race/dauphine/2009/stage-2,228.0
+11,Critérium Du Dauphiné Libéré 2009  Stage 3,2009-06-09,RR,Tournus,Saint-Étienne,4,3,race/dauphine/2009/stage-3,182.0
+12,Critérium Du Dauphiné Libéré 2009  Stage 4 (ITT),2009-06-10,ITT,Bourg-les-Valence,Valence,4,4,race/dauphine/2009/stage-4,42.4
+13,Critérium Du Dauphiné Libéré 2009  Stage 5,2009-06-11,RR,Valence,Mont Ventoux,4,5,race/dauphine/2009/stage-5,154.0
+14,Critérium Du Dauphiné Libéré 2009  Stage 6,2009-06-12,RR,Gap,Briançon,4,6,race/dauphine/2009/stage-6,106.0
+15,Critérium Du Dauphiné Libéré 2009  Stage 7,2009-06-13,RR,Briançon,Saint-François-Longchamp,4,7,race/dauphine/2009/stage-7,157.0
+16,Critérium Du Dauphiné Libéré 2009  Stage 8,2009-06-14,RR,Faverges,Grenoble,4,8,race/dauphine/2009/stage-8,146.0
+17,Tour de Suisse 2009  Prologue,2009-06-13,Prologue,Mauren (LI),Ruggell (LI),5,1,race/tour-de-suisse/2009/prologue,7.8
+18,Tour de Suisse 2009  Stage 2,2009-06-14,RR,Davos,Davos,5,2,race/tour-de-suisse/2009/stage-2,150.0
+19,Tour de Suisse 2009  Stage 3,2009-06-15,RR,Davos,Lumino,5,3,race/tour-de-suisse/2009/stage-3,195.0
+20,Tour de Suisse 2009  Stage 4,2009-06-16,RR,Biasca,Stäfa,5,4,race/tour-de-suisse/2009/stage-4,197.0
+21,Tour de Suisse 2009  Stage 5,2009-06-17,RR,Stäfa,Serfaus (A),5,5,race/tour-de-suisse/2009/stage-5,202.0
+22,Tour de Suisse 2009  Stage 6,2009-06-18,RR,Oberriet,SG 	Bad Zurzach,5,6,race/tour-de-suisse/2009/stage-6,178.0
+23,Tour de Suisse 2009  Stage 7,2009-06-19,RR,Bad Zurzach,Vallorbe Juraparc,5,7,race/tour-de-suisse/2009/stage-7,204.0
+24,Tour de Suisse 2009  Stage 8,2009-06-20,RR,Le Sentier,Crans-Montana,5,8,race/tour-de-suisse/2009/stage-8,182.0
+25,Tour de Suisse 2009  Stage 9 (ITT),2009-06-21,ITT,Bern,Bern,5,9,race/tour-de-suisse/2009/stage-9,39.0
+26,National Championships Switserland Itt 2009,2009-06-24,RR,Nyon,Nyon,6,0,race/nc-switzerland-itt/2009,0.0
+27,Clasica Ciclista San Sebastian 2009,2009-08-01,RR,Start,Finish,7,0,race/san-sebastian/2009,237.0
+28,Tour de Pologne 2009  Stage 1,2009-08-02,RR,Start,Finish,8,1,race/tour-de-pologne/2009/stage-1,0.0
+29,Tour de Pologne 2009  Stage 2,2009-08-03,RR,Serock,Bialystok,8,2,race/tour-de-pologne/2009/stage-2,219.1
+30,Tour de Pologne 2009  Stage 3,2009-08-04,RR,Bielsk Podlaski,Lublin,8,3,race/tour-de-pologne/2009/stage-3,225.1
+31,Tour de Pologne 2009  Stage 4,2009-08-05,RR,Naczów,Rzeszów,8,4,race/tour-de-pologne/2009/stage-4,239.7
+32,Tour de Pologne 2009  Stage 5,2009-08-06,RR,Strzyów,Krynica-Zdrój,8,5,race/tour-de-pologne/2009/stage-5,171.5
+33,Tour de Pologne 2009  Stage 6,2009-08-07,RR,Start,Finish,8,6,race/tour-de-pologne/2009/stage-6,0.0
+34,Tour de Pologne 2009  Stage 7,2009-08-08,RR,Start,Finish,8,7,race/tour-de-pologne/2009/stage-7,0.0
+35,Giro di Lombardia 2009,2009-10-17,RR,Varese,Como,9,0,race/il-lombardia/2009,242.0
+36,World Championships WE - ITT 2009,2009-09-23,RR,Mendrisio,Mendrisio,0,0,race/world-championship-itt-we/2009,26.8
+37,World Championships - ITT 2009,2009-09-24,RR,Start,Finish,1,0,race/world-championship-itt/2009,0.0
+38,World Championships - Road Race 2009,2009-09-27,RR,Start,Finish,2,0,race/world-championship/2009,262.2
+39,National Championships Namibia - Road Race 2009,2009-02-22,RR,Start,Finish,0,0,race/nc-namibia/2009,0.0
+40,National Championships South Africa - Road Race 2009,2009-03-10,RR,Start,Finish,1,0,race/nc-south-africa/2009,0.0
+41,National Championships Morocco - Road Race 2009,2009-05-31,RR,Start,Finish,2,0,race/nc-morocco/2009,0.0
+42,National Championships Tunisia - Road Race 2009,2009-06-07,RR,Start,Finish,3,0,race/nc-tunisia/2009,0.0
+43,National Championships Algeria - ITT 2009,2009-06-17,RR,Start,Finish,4,0,race/nc-algeria-itt/2009,0.0
+44,National Championships Zimbabwe - Road Race 2009,2009-06-27,RR,Start,Finish,5,0,race/nc-zimbabwe/2009,0.0
+45,Tour du Faso 2009  Stage 1,2009-10-23,RR,Kokologo,Boromo,6,1,race/tour-du-faso/2009/stage-1,136.0
+46,Tour du Faso 2009  Stage 2,2009-10-24,RR,Pa,Gaoua,6,2,race/tour-du-faso/2009/stage-2,159.0
+47,Tour du Faso 2009  Stage 3,2009-10-25,RR,Orodara,Bobo,6,3,race/tour-du-faso/2009/stage-3,126.5
+48,Tour du Faso 2009  Stage 4,2009-10-26,RR,Bobo,Banfora,6,4,race/tour-du-faso/2009/stage-4,83.5
+49,Tour du Faso 2009  Stage 5,2009-10-27,RR,Bobo,Dedougou,6,5,race/tour-du-faso/2009/stage-5,170.0
+50,Tour du Faso 2009  Stage 6,2009-10-28,RR,Bobo,Houndé,6,6,race/tour-du-faso/2009/stage-6,92.5
+51,Tour du Faso 2009  Stage 7,2009-10-29,RR,Koudougou,Ziniaré,6,7,race/tour-du-faso/2009/stage-7,128.0
+52,Tour du Faso 2009  Stage 8,2009-10-30,RR,Koulbila,Tenkodogo,6,8,race/tour-du-faso/2009/stage-8,149.0
+53,Tour du Faso 2009  Stage 9,2009-10-31,RR,Tenkodogo,Fada,6,9,race/tour-du-faso/2009/stage-9,124.0
+54,Tour du Faso 2009  Stage 10,2009-11-01,RR,Boussé,Ouagadougou,6,10,race/tour-du-faso/2009/stage-10,107.6
+55,National Championships Namibia - ITT 2009,2009-10-25,RR,Start,Finish,7,0,race/nc-namibia-itt/2009,0.0
+56,African Continental Championships - ITT 2009,2009-11-06,RR,Start,Finish,8,0,race/african-continental-championships-itt/2009,0.0
+57,African Cycling Championships - Road Race 2009,2009-11-08,RR,Start,Finish,9,0,race/african-championships/2009,0.0
+58,Tour of Rwanda 2009  Stage 1,2009-11-16,RR,Kigali,Gisenyi,10,1,race/tour-of-rwanda/2009/stage-1,148.9
+59,Tour of Rwanda 2009  Stage 2,2009-11-17,RR,Gisenyi,Kigali,10,2,race/tour-of-rwanda/2009/stage-2,163.5
+60,Tour of Rwanda 2009  Stage 3,2009-11-18,RR,Kigali,Kibuye,10,3,race/tour-of-rwanda/2009/stage-3,124.2
+61,Tour of Rwanda 2009  Stage 4,2009-11-19,RR,Kibuye,Butare,10,4,race/tour-of-rwanda/2009/stage-4,156.8
+62,Tour of Rwanda 2009  Stage 5,2009-11-20,RR,Butare,Kigali,10,5,race/tour-of-rwanda/2009/stage-5,134.5
+63,Tour of Rwanda 2009  Stage 6 (ITT),2009-11-22,ITT,Kichukiru,Kichukiru,10,6,race/tour-of-rwanda/2009/stage-6,33.8
+64,Tour of Rwanda 2009  Stage 7,2009-11-23,RR,Kigali,Nyagatare,10,7,race/tour-of-rwanda/2009/stage-7,151.3
+65,Tour of Rwanda 2009  Stage 8,2009-11-24,RR,Nyagatare,Kigali,10,8,race/tour-of-rwanda/2009/stage-8,156.0
+66,Tour of Singkarak 2009  Stage 1,2009-04-30,RR,Start,Finish,0,1,race/tour-of-singkarak/2009/stage-1,0.0
+67,Tour of Singkarak 2009  Stage 2,2009-05-01,RR,Padang,Bukit Tinggi,0,2,race/tour-of-singkarak/2009/stage-2,88.2
+68,Tour of Singkarak 2009  Stage 3,2009-05-02,RR,Bukit Tinggi,Sawahlunto,0,3,race/tour-of-singkarak/2009/stage-3,84.6
+69,Tour of Singkarak 2009  Stage 4,2009-05-02,RR,Sawahlunto,Lake Singkarak,0,4,race/tour-of-singkarak/2009/stage-4,91.0
+70,Tour of Singkarak 2009  Stage 5,2009-05-03,RR,Lake Singkarak,Lake Singkarak,0,5,race/tour-of-singkarak/2009/stage-5,188.8
+71,Tour De Kumano 2009  Prologue,2009-05-28,Prologue,Start,Finish,1,1,race/tour-de-kumano/2009/prologue,0.0
+72,Tour De Kumano 2009  Stage 2,2009-05-29,RR,Start,Finish,1,2,race/tour-de-kumano/2009/stage-2,0.0
+73,Tour De Kumano 2009  Stage 3,2009-05-30,RR,Start,Finish,1,3,race/tour-de-kumano/2009/stage-3,0.0
+74,Tour De Kumano 2009  Stage 4,2009-05-31,RR,Taiji,Taiji,1,4,race/tour-de-kumano/2009/stage-4,0.0
+75,National Championships Japan - ITT 2009,2009-06-14,RR,Start,Finish,2,0,race/nc-japan-itt/2009,30.0
+76,National Championships Israel - ITT 2009,2009-06-19,RR,Start,Finish,3,0,race/nc-israel-itt/2009,0.0
+77,National Championships Iran - ITT 2009,2009-06-20,RR,Ramsar,Ramsar,4,0,race/nc-iran-itt/2009,0.0
+78,National Championships Iran - Road Race 2009,2009-06-21,RR,Start,Finish,5,0,race/nc-iran/2009,0.0
+79,National Championships Kazakhstan - ITT 2009,2009-06-26,RR,Start,Finish,6,0,race/nc-kazakhstan-itt/2009,0.0
+80,National Championships Israel - Road Race 2009,2009-06-27,RR,Start,Finish,7,0,race/nc-israel/2009,0.0
+81,National Championships Malasia - Road Race 2009,2009-06-27,RR,Start,Finish,8,0,race/nc-malaysia/2009,0.0
+82,National Championships Japan - Road Race 2009,2009-06-28,RR,Start,Finish,9,0,race/nc-japan/2009,0.0
+83,National Championships Mongolia - ITT 2009,2009-07-01,RR,Start,Finish,10,0,race/nc-mongolia-itt/2009,0.0
+84,Omloop Het Nieuwsblad 2009,2009-02-28,RR,Gent,Gent,0,0,race/omloop-het-nieuwsblad/2009,204.0
+85,Kuurne-Bruxelles-Kuurne 2009,2009-03-01,RR,Kuurne,Kuurne,1,0,race/kuurne-brussel-kuurne/2009,193.0
+86,Vuelta ciclista a la region de Murcia 2009  Stage 1,2009-03-04,RR,San Pedro del Pinatar,Lorca,2,1,race/vuelta-ciclista-a-la-region-de-murcia/2009/stage-1,192.3
+87,Vuelta ciclista a la region de Murcia 2009  Stage 2,2009-03-05,RR,Las Torres de Cotillas,Caravaca,2,2,race/vuelta-ciclista-a-la-region-de-murcia/2009/stage-2,75.0
+88,Vuelta ciclista a la region de Murcia 2009  Stage 3 (ITT),2009-03-06,ITT,Start,Finish,2,3,race/vuelta-ciclista-a-la-region-de-murcia/2009/stage-3,0.0
+89,Vuelta ciclista a la region de Murcia 2009  Stage 4,2009-03-07,RR,Alhama de Murcia,Alhama,2,4,race/vuelta-ciclista-a-la-region-de-murcia/2009/stage-4,156.1
+90,Vuelta ciclista a la region de Murcia 2009  Stage 5,2009-03-08,RR,San Javier,Murcia,2,5,race/vuelta-ciclista-a-la-region-de-murcia/2009/stage-5,142.5
+91,Driedaagse van West-Vlaanderen 2009  Stage 1,2009-03-06,RR,Kortrijk,Bellegem,3,1,race/3daagse-van-west-vlaanderen/2009/stage-1,176.4
+92,Driedaagse van West-Vlaanderen 2009  Stage 2,2009-03-07,RR,Torhout,Handzame,3,2,race/3daagse-van-west-vlaanderen/2009/stage-2,184.4
+93,Driedaagse van West-Vlaanderen 2009  Stage 3,2009-03-08,RR,Ichtegem,Ichtegem,3,3,race/3daagse-van-west-vlaanderen/2009/stage-3,185.7
+94,Paris-Troyes 2009,2009-03-15,RR,Paris,Troyes,4,0,race/paris-troyes/2009,172.0
+95,Critérium International 2009  Stage 1,2009-03-28,RR,Monthois,Charleville,5,1,race/criterium-international/2009/stage-1,190.0
+96,Critérium International 2009  Stage 2,2009-03-29,RR,Les Vieilles Forges (Les Mazures),Monthermé,5,2,race/criterium-international/2009/stage-2,98.5
+97,Critérium International 2009  Stage 3 (ITT),2009-03-29,ITT,Start,Finish,5,3,race/criterium-international/2009/stage-3,8.2
+98,Driedaagse De Panne-Koksijde 2009  Stage 1,2009-03-31,RR,Middelkerke,Zottegem,6,1,race/driedaagse-vd-panne/2009/stage-1,199.0
+99,Driedaagse De Panne-Koksijde 2009  Stage 2,2009-04-01,RR,Zottegem,Oostduinkerke,6,2,race/driedaagse-vd-panne/2009/stage-2,219.0
+100,Driedaagse De Panne-Koksijde 2009  Stage 3,2009-04-02,RR,De Panne,De Panne,6,3,race/driedaagse-vd-panne/2009/stage-3,112.0
+101,Driedaagse De Panne-Koksijde 2009  Stage 4 (ITT),2009-04-02,ITT,De Panne,De Panne,6,4,race/driedaagse-vd-panne/2009/stage-4,15.3
+102,Hel van het Mergelland 2009,2009-04-04,RR,Start,Finish,7,0,race/hel-vh-mergelland/2009,190.5
+103,Circuit Cycliste Sarthe - Pays de la Loire 2009  Stage 1,2009-04-07,RR,Noirmoutier-en-l’Ile,Ancenis,8,1,race/circuit-sarthe/2009/stage-1,191.9
+104,Circuit Cycliste Sarthe - Pays de la Loire 2009  Stage 2,2009-04-08,RR,Ancenis,Angers,8,2,race/circuit-sarthe/2009/stage-2,93.8
+105,Circuit Cycliste Sarthe - Pays de la Loire 2009  Stage 3 (ITT),2009-04-08,ITT,Angers,Angers,8,3,race/circuit-sarthe/2009/stage-3,6.1
+106,Circuit Cycliste Sarthe - Pays de la Loire 2009  Stage 4,2009-04-09,RR,Angers,Pré-en-Pail,8,4,race/circuit-sarthe/2009/stage-4,180.8
+107,Circuit Cycliste Sarthe - Pays de la Loire 2009  Stage 5,2009-04-10,RR,Pré-en-Pail,Le Mans,8,5,race/circuit-sarthe/2009/stage-5,195.2
+108,Presidential Cycling Tour of Turkey 2009  Stage 1,2009-04-12,RR,Istanbul,Istanbul,9,1,race/tour-of-turkey/2009/stage-1,142.0
+109,Presidential Cycling Tour of Turkey 2009  Stage 2,2009-04-13,RR,Izmir,Kusadasi,9,2,race/tour-of-turkey/2009/stage-2,132.5
+110,Presidential Cycling Tour of Turkey 2009  Stage 3,2009-04-14,RR,Kusadasi,Bodrum,9,3,race/tour-of-turkey/2009/stage-3,166.1
+111,Presidential Cycling Tour of Turkey 2009  Stage 4,2009-04-15,RR,Bodrum,Marmaris,9,4,race/tour-of-turkey/2009/stage-4,166.9
+112,Presidential Cycling Tour of Turkey 2009  Stage 5,2009-04-16,RR,Marmaris,Fethiye,9,5,race/tour-of-turkey/2009/stage-5,130.0
+113,Presidential Cycling Tour of Turkey 2009  Stage 6,2009-04-17,RR,Fethiye,Finike,9,6,race/tour-of-turkey/2009/stage-6,194.0
+114,Presidential Cycling Tour of Turkey 2009  Stage 7,2009-04-18,RR,Finike,Antalya,9,7,race/tour-of-turkey/2009/stage-7,114.5
+115,Presidential Cycling Tour of Turkey 2009  Stage 8,2009-04-19,RR,Antalya,Alanya,9,8,race/tour-of-turkey/2009/stage-8,166.0
+116,GP Palio del Recioto 2009,2009-04-14,RR,Start,Finish,10,0,race/gp-palio-del-recioto/2009,0.0
+117,Tour du Loir-et-Cher 'E. Provost' 2009  Prologue,2009-04-14,Prologue,Blois,Blois,11,1,race/tour-du-loir-et-cher-e.-provost-/2009/prologue,3.0
+118,Tour du Loir-et-Cher 'E. Provost' 2009  Stage 2,2009-04-15,RR,BLOIS,BLOIS,11,2,race/tour-du-loir-et-cher-e.-provost-/2009/stage-2,161.0
+119,Tour du Loir-et-Cher 'E. Provost' 2009  Stage 3,2009-04-16,RR,VILLEBAROU,VILLEBAROU,11,3,race/tour-du-loir-et-cher-e.-provost-/2009/stage-3,167.7
+120,Tour du Loir-et-Cher 'E. Provost' 2009  Stage 4,2009-04-17,RR,CHÂTEAU RENAULT,VENDOME,11,4,race/tour-du-loir-et-cher-e.-provost-/2009/stage-4,171.5
+121,Tour du Loir-et-Cher 'E. Provost' 2009  Stage 5,2009-04-18,RR,BILLY,SALBRIS,11,5,race/tour-du-loir-et-cher-e.-provost-/2009/stage-5,192.0
+122,Tour du Loir-et-Cher 'E. Provost' 2009  Stage 6,2009-04-19,RR,BLOIS VILLE,BLOIS VILLE,11,6,race/tour-du-loir-et-cher-e.-provost-/2009/stage-6,97.5
+123,Scheldeprijs 2009,2009-04-15,RR,Antwerpen,Schoten,12,0,race/scheldeprijs/2009,205.0
+124,Giro del Trentino 2009  Stage 1 (ITT),2009-04-22,ITT,Torbole sul Garda,Arco,13,1,race/tour-of-the-alps/2009/stage-1,17.5
+125,Giro del Trentino 2009  Stage 2,2009-04-23,RR,Riva del Garda,Alpe di Pampeago,13,2,race/tour-of-the-alps/2009/stage-2,141.0
+126,Giro del Trentino 2009  Stage 3,2009-04-24,RR,Tesero,Innervikkgraten,13,3,race/tour-of-the-alps/2009/stage-3,165.5
+127,Giro del Trentino 2009  Stage 4,2009-04-25,RR,Sillian,Pejo Fonti,13,4,race/tour-of-the-alps/2009/stage-4,214.2
+128,Ronde van Noord-Holland 2009,2009-04-26,RR,Zaandam,Zaandam,14,0,race/ronde-van-noord-holland/2009,215.7
+129,Vuelta Asturias Julio Alvarez Mendo 2009  Stage 1,2009-04-28,RR,Oviedo,Llanes,15,1,race/vuelta-asturias/2009/stage-1,156.7
+130,Vuelta Asturias Julio Alvarez Mendo 2009  Stage 2,2009-04-29,RR,Llanas,Gijon,15,2,race/vuelta-asturias/2009/stage-2,182.0
+131,Vuelta Asturias Julio Alvarez Mendo 2009  Stage 3,2009-04-30,RR,Gijón e,Avilés,15,3,race/vuelta-asturias/2009/stage-3,88.7
+132,Vuelta Asturias Julio Alvarez Mendo 2009  Stage 4 (ITT),2009-04-30,ITT,Castrillon,Castrillon,15,4,race/vuelta-asturias/2009/stage-4,14.2
+133,Vuelta Asturias Julio Alvarez Mendo 2009  Stage 5,2009-05-01,RR,Cafés Toscaf,Alto del A,15,5,race/vuelta-asturias/2009/stage-5,180.0
+134,Vuelta Asturias Julio Alvarez Mendo 2009  Stage 6,2009-05-02,RR,Start,Finish,15,6,race/vuelta-asturias/2009/stage-6,0.0
+135,Eschborn-Frankfurt City Loop 2009,2009-05-01,RR,Frankfurt,Frankfurt,16,0,race/Eschborn-Frankfurt/2009,190.8
+136,Giro Di Toscana 2009,2009-05-03,RR,Start,Finish,17,0,race/giro-di-toscana/2009,193.4
+137,National Championships Venezuela - Road Race 2009,2009-05-03,RR,Start,Finish,18,0,race/nc-venezuela/2009,0.0
+138,Memorial Oleg Dyachenko 2009,2009-05-03,RR,Start,Finish,19,0,race/memorial-of-oleg-dyachenko/2009,120.0
+139,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2009  Stage 1,2009-05-05,RR,Dunkerque,Dunkerque,20,1,race/4-jours-de-dunkerque/2009/stage-1,186.9
+140,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2009  Stage 2,2009-05-06,RR,COUDEKERQUE BRANCHE,ARQUES,20,2,race/4-jours-de-dunkerque/2009/stage-2,178.9
+141,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2009  Stage 3,2009-05-07,RR,Calaisis,Beth,20,3,race/4-jours-de-dunkerque/2009/stage-3,228.1
+142,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2009  Stage 4 (ITT),2009-05-08,ITT,Start,Finish,20,4,race/4-jours-de-dunkerque/2009/stage-4,0.0
+143,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2009  Stage 5,2009-05-09,RR,HAZEBROUCK,BOESCHEPE,20,5,race/4-jours-de-dunkerque/2009/stage-5,195.4
+144,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2009  Stage 6,2009-05-10,RR,Start,Finish,20,6,race/4-jours-de-dunkerque/2009/stage-6,0.0
+145,Five Rings of Moscow 2009  Prologue,2009-05-06,Prologue,Start,Finish,21,1,race/five-rings-of-moscow/2009/prologue,0.0
+146,Five Rings of Moscow 2009  Stage 2,2009-05-06,RR,Start,Finish,21,2,race/five-rings-of-moscow/2009/stage-2,124.0
+147,Five Rings of Moscow 2009  Stage 3,2009-05-07,RR,Moscow,Moscow,21,3,race/five-rings-of-moscow/2009/stage-3,0.0
+148,Five Rings of Moscow 2009  Stage 4,2009-05-08,RR,Moscow,Moscow,21,4,race/five-rings-of-moscow/2009/stage-4,0.0
+149,Five Rings of Moscow 2009  Stage 5,2009-05-09,RR,Moscow,Moscow,21,5,race/five-rings-of-moscow/2009/stage-5,0.0
+150,Five Rings of Moscow 2009  Stage 6,2009-05-10,RR,Moscow,Moscow,21,6,race/five-rings-of-moscow/2009/stage-6,0.0
+151,Circuit De Wallonie 2009,2009-05-10,RR,Start,Finish,22,0,race/circuit-de-wallonie/2009,0.0
+152,Omloop der Kempen 2009,2009-05-10,RR,Start,Finish,23,0,race/omloop-der-kempen/2009,200.0
+153, Ronde de l\'Isard 2009  Stage 2 (ITT),2009-05-21,ITT,Start,Finish,24,1,race/ronde-de-l-isard/2009/stage-2,7.8
+154, Ronde de l\'Isard 2009  Stage 3,2009-05-22,RR,Saint Girons,Les Monts d'Olmes,24,2,race/ronde-de-l-isard/2009/stage-3,158.0
+155, Ronde de l\'Isard 2009  Stage 4,2009-05-23,RR,Lavelanet,Plateau de Beille,24,3,race/ronde-de-l-isard/2009/stage-4,143.3
+156, Ronde de l\'Isard 2009  Stage 5,2009-05-24,RR,Start,Finish,24,4,race/ronde-de-l-isard/2009/stage-5,0.0
+157,Grand Prix Criquielion 2009,2009-05-25,RR,Start,Finish,25,0,race/grand-prix-criquielion/2009,0.0
+158,Bayern-Rundfahrt 2009  Stage 1,2009-05-27,RR,Kelheim,Mohldorf,26,1,race/bayern-rundfarht/2009/stage-1,196.3
+159,Bayern-Rundfahrt 2009  Stage 2,2009-05-28,RR,Mohldorf,Ruhpolding,26,2,race/bayern-rundfarht/2009/stage-2,173.6
+160,Bayern-Rundfahrt 2009  Stage 3,2009-05-29,RR,Bad Aibling,Schrobenhausen,26,3,race/bayern-rundfarht/2009/stage-3,178.2
+161,Bayern-Rundfahrt 2009  Stage 4 (ITT),2009-05-30,ITT,Friedberg,Friedberg,26,4,race/bayern-rundfarht/2009/stage-4,26.0
+162,Bayern-Rundfahrt 2009  Stage 5,2009-05-31,RR,Friedberg,Gunzenhausen,26,5,race/bayern-rundfarht/2009/stage-5,166.4
+163,Gp Kooperativa 2009,2009-05-30,RR,Start,Finish,27,0,race/gp-kooperativa/2009,0.0
+164,Boucles de l'Aulne - Châteaulin 2009,2009-05-31,RR,Start,Finish,28,0,race/boucles-de-l-aulne/2009,0.0
+165,Paris-Roubaix Espoirs 2009,2009-05-31,RR,Start,Finish,29,0,race/paris-roubaix-espoirs/2009,0.0
+166,Rogaland Gp 2009,2009-06-01,RR,Sandnes,Stavanger,30,0,race/tour-des-fjords/2009,0.0
+167,GP Industria e Commercio - Tr. Città di San Vendemiano 2009,2009-06-02,RR,Trento,Trento,31,0,race/gp-industria-e-commercio2/2009,168.1
+168,Trofeo Alcide Degasperi 2009,2009-06-02,RR,Start,Finish,32,0,race/trofeo-alcide-degasperi/2009,168.0
+169,Skoda-Tour de Luxembourg 2009  Prologue,2009-06-03,Prologue,Start,Finish,33,1,race/tour-de-luxembourg/2009/prologue,2.7
+170,Skoda-Tour de Luxembourg 2009  Stage 2,2009-06-04,RR,Luxembourg,Mondorf,33,2,race/tour-de-luxembourg/2009/stage-2,157.4
+171,Skoda-Tour de Luxembourg 2009  Stage 3,2009-06-05,RR,Schifflange,Differdange,33,3,race/tour-de-luxembourg/2009/stage-3,187.9
+172,Skoda-Tour de Luxembourg 2009  Stage 4,2009-06-06,RR,Wiltz,Diekirch,33,4,race/tour-de-luxembourg/2009/stage-4,185.3
+173,Skoda-Tour de Luxembourg 2009  Stage 5,2009-06-07,RR,Mersch,Luxembourg,33,5,race/tour-de-luxembourg/2009/stage-5,148.2
+174,Iurreta-emakumeen Bira 2009  Stage 1,2009-06-11,RR,IURRETA,IURRETA,34,1,race/iurreta-emakumeen-bira/2009/stage-1,75.9
+175,Iurreta-emakumeen Bira 2009  Stage 2,2009-06-12,RR,AMURRIO,AMURRIO,34,2,race/iurreta-emakumeen-bira/2009/stage-2,92.0
+176,Iurreta-emakumeen Bira 2009  Stage 3 (ITT),2009-06-13,ITT,Iurreta,Goiuria,34,3,race/iurreta-emakumeen-bira/2009/stage-3,2.2
+177,Iurreta-emakumeen Bira 2009  Stage 4,2009-06-13,RR,ELGOIBAR,ELGOIBAR,34,4,race/iurreta-emakumeen-bira/2009/stage-4,79.0
+178,Iurreta-emakumeen Bira 2009  Stage 5,2009-06-14,RR,Orduña,Orduña,34,5,race/iurreta-emakumeen-bira/2009/stage-5,122.7
+179,Giro Ciclistico d'Italia 2009  Stage 1,2009-06-12,RR,Firenze,Moden,35,1,race/giro-ciclistico-d-italia/2009/stage-1,174.0
+180,Giro Ciclistico d'Italia 2009  Stage 2,2009-06-13,RR,Modena,Lonato del Garda,35,2,race/giro-ciclistico-d-italia/2009/stage-2,161.2
+181,Giro Ciclistico d'Italia 2009  Stage 3,2009-06-14,RR,Lonato del Garda,Asiago,35,3,race/giro-ciclistico-d-italia/2009/stage-3,166.6
+182,Giro Ciclistico d'Italia 2009  Stage 4 (ITT),2009-06-15,ITT,Pozzoleone,Pozzoleone,35,4,race/giro-ciclistico-d-italia/2009/stage-4,22.5
+183,Giro Ciclistico d'Italia 2009  Stage 5,2009-06-16,RR,Paderno del Grappa,Feltre,35,5,race/giro-ciclistico-d-italia/2009/stage-5,155.5
+184,Giro Ciclistico d'Italia 2009  Stage 6,2009-06-18,RR,Ferrara,Cesenatico,35,6,race/giro-ciclistico-d-italia/2009/stage-6,146.0
+185,Giro Ciclistico d'Italia 2009  Stage 7,2009-06-19,RR,Cesenatico,Cippo Carpegna,35,7,race/giro-ciclistico-d-italia/2009/stage-7,160.1
+186,Giro Ciclistico d'Italia 2009  Stage 8,2009-06-20,RR,Pennabilli,Bucine,35,8,race/giro-ciclistico-d-italia/2009/stage-8,168.3
+187,Giro Ciclistico d'Italia 2009  Stage 9,2009-06-21,RR,Cavriglia,Gaiole in Chianti,35,9,race/giro-ciclistico-d-italia/2009/stage-9,159.0
+188,Ster Elektrotoer 2009  Prologue,2009-06-17,Prologue,Gemert,Gemert,36,1,race/ster-elektro-tour/2009/prologue,6.9
+189,Ster Elektrotoer 2009  Stage 1,2009-06-18,RR,Eindhoven,Sittard/Geleen,36,2,race/ster-elektro-tour/2009/stage-1,175.0
+190,Ster Elektrotoer 2009  Stage 2,2009-06-19,RR,Nuth (Schimmert),Nuth (Schimmert),36,3,race/ster-elektro-tour/2009/stage-2,179.0
+191,Ster Elektrotoer 2009  Stage 3,2009-06-20,RR,Verviers,La Gileppe (Jalhay),36,4,race/ster-elektro-tour/2009/stage-3,189.0
+192,Ster Elektrotoer 2009  Stage 4,2009-06-21,RR,Beek,Helmond,36,5,race/ster-elektro-tour/2009/stage-4,179.0
+193,Route du Sud - la Depêche du Midi 2009  Stage 1,2009-06-18,RR,Pau,Pau,37,1,race/la-route-d-occitanie/2009/stage-1,141.5
+194,Route du Sud - la Depêche du Midi 2009  Stage 2,2009-06-19,RR,Pau,Pierrefitte Nestalas,37,2,race/la-route-d-occitanie/2009/stage-2,143.8
+195,Route du Sud - la Depêche du Midi 2009  Stage 3,2009-06-20,RR,Izaourt,Bagnères-de-Luchon,37,3,race/la-route-d-occitanie/2009/stage-3,182.5
+196,Route du Sud - la Depêche du Midi 2009  Stage 4,2009-06-21,RR,Start,Finish,37,4,race/la-route-d-occitanie/2009/stage-4,0.0
+197,Tour Des Pays De Savoie 2009  Stage 1,2009-06-19,RR,Chambéry,Saint-Jean de Maurienne,38,1,race/tour-des-pays-de-savoie/2009/stage-1,95.0
+198,Tour Des Pays De Savoie 2009  Stage 2,2009-06-20,RR,Scionzier,Saint-François Longchamp,38,2,race/tour-des-pays-de-savoie/2009/stage-2,129.0
+199,Tour Des Pays De Savoie 2009  Stage 3,2009-06-21,RR,Saint-Jean de Maurienne,La Toussuire,38,3,race/tour-des-pays-de-savoie/2009/stage-3,129.0
+200,Flèche Ardennaise 2009,2009-06-21,RR,Start,Finish,39,0,race/fleche-ardennaise/2009,0.0
+201,National Championships Lithuania - ITT 2009,2009-06-24,RR,Start,Finish,40,0,race/nc-lithuania-itt/2009,0.0
+202,National Championships Turkey - ITT 2009,2009-06-24,RR,Start,Finish,41,0,race/nc-turkey-itt/2009,0.0
+203,National Championships Czech Republic - ITT 2009,2009-06-25,RR,Start,Finish,42,0,race/nc-czech-republic-itt/2009,0.0
+204,National Championships Hungary - ITT 2009,2009-06-25,RR,Start,Finish,43,0,race/nc-hungary-itt/2009,0.0
+205,National Championships Latvia - ITT 2009,2009-06-25,RR,Start,Finish,44,0,race/nc-latvia-itt/2009,0.0
+206,National Championships Lithuania - Road Race 2009,2009-06-25,RR,Start,Finish,45,0,race/nc-lithuania/2009,0.0
+207,National Championships Luxembourg - ITT 2009,2009-06-25,RR,Start,Finish,46,0,race/nc-luxembourg-itt/2009,0.0
+208,National Championships Serbia - ITT 2009,2009-06-25,RR,Start,Finish,47,0,race/nc-serbia-itt/2009,0.0
+209,National Championships Slovakia - ITT 2009,2009-06-25,RR,Start,Finish,48,0,race/nc-slovakia2/2009,0.0
+210,National Championships Slovenia - ITT 2009,2009-06-25,RR,Start,Finish,49,0,race/nc-slovenia-itt/2009,0.0
+211,National Championships Sweden Itt 2009,2009-06-25,RR,Start,Finish,50,0,race/nc-sweden-itt/2009,0.0
+212,National Championships Ukraine - ITT 2009,2009-06-25,RR,Start,Finish,51,0,race/nc-ukraine-itt/2009,0.0
+213,National TT Championships Portugal 2009,2009-06-25,RR,Start,Finish,52,0,race/nc-portugal/2009,0.0
+214,National TT Championships Romania 2009,2009-06-25,RR,Start,Finish,53,0,race/nc-romania-itt/2009,0.0
+215,National Championships Belarus - ITT 2009,2009-06-26,RR,Start,Finish,54,0,race/nc-belarus-itt/2009,0.0
+216,National Championships Estonia - ITT 2009,2009-06-26,RR,Start,Finish,55,0,race/nc-estonia-itt/2009,0.0
+217,National Championships Finland - ITT 2009,2009-06-26,RR,Start,Finish,56,0,race/nc-finland-itt/2009,0.0
+218,National Championships Greece - ITT 2009,2009-06-26,RR,Start,Finish,57,0,race/nc-greece-itt/2009,0.0
+219,National Championships Russia - ITT 2009,2009-06-26,RR,Start,Finish,58,0,race/nc-russia-itt/2009,0.0
+220,National Championships Spain - ITT 2009,2009-06-26,RR,Torrelavega,Altamira,59,0,race/nc-spain-itt/2009,47.8
+221,National Championships Turkey - Road Race 2009,2009-06-26,RR,Start,Finish,60,0,race/nc-turkey/2009,123.0
+222,National Championships Bulgaria - ITT 2009,2009-06-27,RR,Start,Finish,61,0,race/nc-bulgaria-itt/2009,0.0
+223,National Championships Greece - Road Race 2009,2009-06-27,RR,Start,Finish,62,0,race/nc-greece/2009,0.0
+224,National Championships Moldova - ITT 2009,2009-06-27,RR,Start,Finish,63,0,race/nc-moldova-itt/2009,0.0
+225,National Championships Serbia - Road Race 2009,2009-06-27,RR,Start,Finish,64,0,race/nc-serbia/2009,0.0
+226,National Championships Netherlands U23 - Road Race 2009,2009-06-27,RR,Heerlen,Landgraaf,65,0,race/nc-netherlands-u23/2009,164.0
+227,National Championship Austria - Road Race 2009,2009-06-28,RR,Start,Finish,66,0,race/nc-austria/2009,0.0
+228,National Championships Albania - Road Race 2009,2009-06-28,RR,Start,Finish,67,0,race/nc-albania/2009,0.0
+229,National Championships Belarus - Road Race 2009,2009-06-28,RR,Start,Finish,68,0,race/nc-belarus/2009,0.0
+230,National Championships Bulgaria - Road Race 2009,2009-06-28,RR,Start,Finish,69,0,race/nc-bulgaria/2009,0.0
+231,National Championships Czech Republic - Road Race 2009,2009-06-28,RR,Start,Finish,70,0,race/nc-czech-republic/2009,0.0
+232,National Championships Finland - Road Race 2009,2009-06-28,RR,Start,Finish,71,0,race/nc-finland/2009,196.0
+233,National Championships Hungary - Road Race 2009,2009-06-28,RR,Start,Finish,72,0,race/nc-hungary/2009,0.0
+234,National Championships Latvia - Road Race 2009,2009-06-28,RR,Start,Finish,73,0,race/nc-latvia/2009,0.0
+235,National Championships Moldavie - Road Race 2009,2009-06-28,RR,Start,Finish,74,0,race/nc-moldova/2009,0.0
+236,National Championships Romania - Road Race 2009,2009-06-28,RR,Start,Finish,75,0,race/nc-romania/2009,0.0
+237,National Championships Russia - Road Race 2009,2009-06-28,RR,Start,Finish,76,0,race/nc-russia/2009,0.0
+238,National Championships Sweden - Road Race 2009,2009-06-28,RR,Start,Finish,77,0,race/nc-sweden/2009,0.0
+239,National Championships Ukraine - Road Race 2009,2009-06-28,RR,Start,Finish,78,0,race/nc-ukraine/2009,0.0
+240,National Championships Mongolia - Road Race 2009,2009-07-02,RR,Start,Finish,79,0,race/nc-mongolia/2009,0.0
+241,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2009  Prologue,2009-07-08,Prologue,Start,Finish,80,1,race/gp-int-torres-vedras/2009/prologue,9.0
+242,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2009  Stage 2,2009-07-09,RR,Silveira,Benavente,80,2,race/gp-int-torres-vedras/2009/stage-2,176.3
+243,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2009  Stage 3,2009-07-10,RR,SOBRAL DE MONTE AGRAÇO,CARVOEIRA,80,3,race/gp-int-torres-vedras/2009/stage-3,151.6
+244,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2009  Stage 4,2009-07-11,RR,MANIQUE DO INTENDENTE,VIMEIRO,80,4,race/gp-int-torres-vedras/2009/stage-4,181.4
+245,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2009  Stage 5,2009-07-12,RR,Start,Finish,80,5,race/gp-int-torres-vedras/2009/stage-5,102.4
+246,Tour de Wallonie 2009  Stage 1,2009-07-25,RR,Waremme,Beaufays,81,1,race/tour-de-wallonie/2009/stage-1,177.0
+247,Tour de Wallonie 2009  Stage 2,2009-07-26,RR,Limbourg,Arlon,81,2,race/tour-de-wallonie/2009/stage-2,210.5
+248,Tour de Wallonie 2009  Stage 3,2009-07-27,RR,Ciney,Thuin,81,3,race/tour-de-wallonie/2009/stage-3,206.0
+249,Tour de Wallonie 2009  Stage 4,2009-07-28,RR,Start,Finish,81,4,race/tour-de-wallonie/2009/stage-4,0.0
+250,Tour de Wallonie 2009  Stage 5,2009-07-29,RR,Start,Finish,81,5,race/tour-de-wallonie/2009/stage-5,0.0
+251,Sparkassen Giro 2009,2009-08-02,RR,Start,Finish,82,0,race/sparkassen-giro-bochum/2009,0.0
+252,Paris - Corrèze 2009  Stage 1,2009-08-05,RR,St Amand-Montrond,Besse,83,1,race/paris-correze/2009/stage-1,194.2
+253,Paris - Corrèze 2009  Stage 2,2009-08-06,RR,Start,Finish,83,2,race/paris-correze/2009/stage-2,0.0
+254,Mi-août Bretonne 2009  Stage 1,2009-08-12,RR,Plouha,Pontrieux,84,1,race/mi-aout-bretonne/2009/stage-1,167.4
+255,Mi-août Bretonne 2009  Stage 2,2009-08-13,RR,Cléden-Poher, Poullaouen,84,2,race/mi-aout-bretonne/2009/stage-2,175.0
+256,Mi-août Bretonne 2009  Stage 3,2009-08-14,RR,Pont-Scorff, Cléguer,84,3,race/mi-aout-bretonne/2009/stage-3,172.0
+257,Mi-août Bretonne 2009  Stage 4,2009-08-15,RR,Guerlesquin,Guerlesquin,84,4,race/mi-aout-bretonne/2009/stage-4,0.0
+258,Gp Di Poggiana 2009,2009-08-14,RR,Start,Finish,85,0,race/gp-di-poggiana/2009,0.0
+259,Grand Prix Des Marbriers 2009,2009-08-25,RR,Bellignies,Bellignies,86,0,race/grand-prix-des-marbriers/2009,0.0
+260,National Championships Iceland - Road Race 2009,2009-08-30,RR,Start,Finish,87,0,race/national-championships-iceland---road-race/2009,99.0
+261,Schaal Sels 2009,2009-08-30,RR,Merksem,Merksem,88,0,race/81st-schaal-schels/2009,203.8
+262,Ronde van Midden-Nederland 2009,2009-08-30,RR,Start,Finish,89,0,race/ronde-van-midden-nederland/2009,0.0
+263,National Championships Ireland - ITT 2009,2009-09-05,RR,Start,Finish,90,0,race/nc-ireland-itt/2009,0.0
+264,Tour de l'Avenir 2009  Stage 1,2009-09-05,RR,Dreux,Dreux,91,1,race/tour-de-l-avenir/2009/stage-1,130.0
+265,Tour de l'Avenir 2009  Stage 2,2009-09-06,RR,Dreux, Tourville-la-Campagne,91,2,race/tour-de-l-avenir/2009/stage-2,138.0
+266,Tour de l'Avenir 2009  Stage 3,2009-09-07,RR,Le Thuit-Signol,Compiègne,91,3,race/tour-de-l-avenir/2009/stage-3,189.0
+267,Tour de l'Avenir 2009  Stage 4,2009-09-08,RR,Margny-lès-Compiègne,Sedan,91,4,race/tour-de-l-avenir/2009/stage-4,197.0
+268,Tour de l'Avenir 2009  Stage 5,2009-09-09,RR,Sedan,Guénange,91,5,race/tour-de-l-avenir/2009/stage-5,166.5
+269,Tour de l'Avenir 2009  Stage 6,2009-09-10,RR,Château,Salins,91,6,race/tour-de-l-avenir/2009/stage-6,146.0
+270,Tour de l'Avenir 2009  Stage 7,2009-09-11,RR,Gérardmer,Ornans,91,7,race/tour-de-l-avenir/2009/stage-7,182.5
+271,Tour de l'Avenir 2009  Stage 8 (ITT),2009-09-12,ITT,Ornans,Ornans,91,8,race/tour-de-l-avenir/2009/stage-8,27.0
+272,Tour de l'Avenir 2009  Stage 9,2009-09-13,RR,Besancon,Besancon,91,9,race/tour-de-l-avenir/2009/stage-9,116.5
+273,Memorial Davide Fardelli - Cronometro Individuale 2009,2009-09-06,RR,Rogno,Rogno,92,0,race/memorial-davide-fardelli-cronometro-individuale/2009,0.0
+274,National Championships Austria - ITT 2009,2009-09-19,RR,Start,Finish,93,0,race/nc-austria-itt/2009,0.0
+275,Duo Normand 2009,2009-09-20,RR,Start,Finish,94,0,race/duo-normand/2009,55.3
+276,Tour de Vendée 2009,2009-10-04,RR,Lucon,LA ROCHE SUR YON,95,0,race/tour-de-vendee/2009,206.0
+277,Paris - Tours 2009,2009-10-11,RR,Start,Finish,96,0,race/paris-tours/2009,252.0
+278,Paris-tours 2009,2009-10-11,RR,Bonneval,Tours,97,0,race/paris-tours-u23/2009,0.0
+279,Nationale Sluitingprijs Putte - Kapellen 2009,2009-10-13,RR,Putte,Kapellen,98,0,race/nationale-sluitingsprijs-putte-kapellen/2009,177.0
+280,Chrono Des Nations Les Herbiers Vendée 2009,2009-10-18,RR,Start,Finish,99,0,race/chrono-des-nations/2009,48.5
+281,National Championships New Zealand - ITT 2009,2009-01-09,RR,Awamutu,Awamutu,0,0,race/nc-new-zealand-itt/2009,40.0
+282,National TT Championships New Zealand 2009,2009-01-09,RR,Awamutu,Awamutu,1,0,race/nc-new-zealand-itt-u23/2009,40.0
+283,National Championships New Zealand - Road Race 2009,2009-01-11,RR,Start,Finish,2,0,race/nc-new-zealand/2009,0.0
+284,Oceania Cycling Championships - Road Race 2009,2009-11-15,RR,Start,Finish,3,0,race/oceania-cycling-championships-u23/2009,113.0
+285,National Championships Argentina - ITT 2009,2009-03-20,RR,Start,Finish,0,0,race/nc-argentina-itt/2009,0.0
+286,National Championships Argentina - Road Race 2009,2009-03-22,RR,Start,Finish,1,0,race/nc-argentina/2009,170.0
+287,National Championships Venezuela Itt 2009,2009-05-02,RR,Start,Finish,2,0,race/nc-venezuela-itt/2009,27.0
+288,National Championships Costa Rica Road Race 2009,2009-06-21,RR,Start,Finish,3,0,race/nc-costa-rica/2009,0.0
+289,National Championships Brazil - ITT 2009,2009-06-26,RR,Start,Finish,4,0,race/nc-brazil-itt/2009,0.0
+290,National TT Championships Canada 2009,2009-06-26,RR,Start,Finish,5,0,race/nc-canada-itt/2009,0.0
+291,National Championships Brazil - Road Race 2009,2009-06-28,RR,Start,Finish,6,0,race/nc-brazil/2009,0.0
+292,National Championships Canada - Road Race 2009,2009-06-28,RR,Start,Finish,7,0,race/nc-canada/2009,0.0
+293,National Championships Mexico Road Race 2009,2009-07-31,RR,Start,Finish,8,0,race/nc-mexico/2009,0.0
+294,National Championships United States - ITT 2009,2009-07-31,RR,Start,Finish,9,0,race/nc-usa-itt/2009,0.0
+295,National Championships Mexico - ITT 2009,2009-08-01,RR,Start,Finish,10,0,race/nc-mexico-itt/2009,0.0
+296,National Championships United States - Road Race 2009,2009-08-30,RR,Greenville,Greenville,11,0,race/nc-united-states/2009,176.0
+297,National Championships Ecuador - ITT 2009,2009-10-03,RR,Start,Finish,12,0,race/nc-ecuador-itt/2009,0.0

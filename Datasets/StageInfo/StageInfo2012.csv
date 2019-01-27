@@ -1,518 +1,1289 @@
-,Category,Date,Finish,Length,Number_stages,Race_ID,Race_Name,Stage#,Stage_Name,Stage_Type,Start,url
-0,2.WT,,,,6.0,,Santos Tour Down Under 2012 ,,,,,
-1,2.WT,,,,8.0,,Paris - Nice 2012 ,,,,,
-2,2.WT,,,,7.0,,Tirreno-Adriatico 2012 ,,,,,
-3,1.WT.A,,,,1.0,,Milano-Sanremo 2012 ,,,,,
-4,2.WT,,,,7.0,,Volta Ciclista a Catalunya 2012 ,,,,,
-5,1.WT.B,,,,1.0,,E3 Prijs Vlaanderen 2012 ,,,,,
-6,1.WT.B,,,,1.0,,Gent - Wevelgem 2012 ,,,,,
-7,1.WT.A,,,,1.0,,Ronde van Vlaanderen / Tour des Flandres 2012 ,,,,,
-8,2.WT,,,,6.0,,Vuelta Ciclista al Pais Vasco 2012 ,,,,,
-9,1.WT.A,,,,1.0,,Paris - Roubaix 2012 ,,,,,
-10,1.WT.B,,,,1.0,,Amstel Gold Race 2012 ,,,,,
-11,1.WT.B,,,,1.0,,La Flèche Wallonne 2012 ,,,,,
-12,1.WT.A,,,,1.0,,Liège - Bastogne - Liège 2012 ,,,,,
-13,2.WT,,,,6.0,,Tour de Romandie 2012 ,,,,,
-14,GT.B,,,,21.0,,Giro d'Italia 2012 ,,,,,
-15,2.WT,,,,8.0,,Critérium du Dauphiné 2012 ,,,,,
-16,2.WT,,,,9.0,,Tour de Suisse 2012 ,,,,,
-17,GT.A,,,,21.0,,Tour de France 2012 ,,,,,
-18,1.WT.B,,,,7.0,,Tour de Pologne 2012 ,,,,,
-19,2.WT,,,,7.0,,Eneco Tour 2012 ,,,,,
-20,1.WT.B,,,,1.0,,Clasica Ciclista San Sebastian 2012 ,,,,,
-21,GT.B,,,,21.0,,Vuelta a España 2012 ,,,,,
-22,1.WT.B,,,,1.0,,Vattenfall Cyclassics 2012 ,,,,,
-23,1.WT.B,,,,1.0,,GP Ouest France - Plouay 2012 ,,,,,
-24,1.WT.B,,,,1.0,,Grand Prix Cycliste de Quebec 2012 ,,,,,
-25,1.WT.B,,,,1.0,,Grand Prix Cycliste de Montréal 2012 ,,,,,
-26,1.WT.A,,,,1.0,,Il Lombardia 2012 ,,,,,
-27,2.WT,,,,5.0,,Tour of Beijing 2012 ,,,,,
-28,Worlds.TTT,,,,1.0,,UCI TTT World Championships Men 2012 ,,,,,
-29,-,,,,1.0,,UCI TTT World Championships Women 2012 ,,,,,
-30,J-WC.TT,,,,1.0,,World Championships MJ - ITT 2012 ,,,,,
-31,UCI.WO.u23.TT,,,,1.0,,World Championships U23 - ITT 2012 ,,,,,
-32,-,,,,1.0,,World Championships Road Race Junior Women 2012 ,,,,,
-33,F-WC.TT,,,,1.0,,World Championships WE - ITT 2012 ,,,,,
-34,-,,,,1.0,,World Championships - ITT 2012 ,,,,,
-35,-,,,,1.0,,World Championships Road Race Junior Women 2012 ,,,,,
-36,Nationals.C1,,,,1.0,,World Championships U23 - Road Race 2012 ,,,,,
-37,Worlds.RR,,,,1.0,,World Championships - Road Race 2012 ,,,,,
-38,J-WC,,,,1.0,,World Championships MJ - Road Race 2012 ,,,,,
-39,Nationals.C3.TT,,,,1.0,,National Championships South-Africa - ITT 2012 ,,,,,
-40,Nationals.C3,,,,1.0,,National Championships South Africa - Road Race 2012 ,,,,,
-41,2.2/U23,,,,8.0,,Tour du Cameroun 2012 ,,,,,
-42,2.2/U23,,,,5.0,,Tour d\'Algérie 2012 ,,,,,
-43,1.2,,,,1.0,,Circuit d\'Alger 2012 ,,,,,
-44,2.2/U23,,,,10.0,,Tour du Maroc 2012 ,,,,,
-45,Nationals.C3,,,,1.0,,National Championships Namibia - Road Race 2012 ,,,,,
-46,Nationals.C3.TT,,,,1.0,,National Championships Namibia - ITT 2012 ,,,,,
-47,1.2,,,,1.0,,Les Challenges Phosphatiers-Challenge Khouribga 2012 ,,,,,
-48,1.2,,,,1.0,,Les Challenges Phosphatiers-Challenge Youssoufia 2012 ,,,,,
-49,1.2,,,,1.0,,Les Challenges Phosphatiers-Challenge Ben Guerir 2012 ,,,,,
-50,2.1,,,,6.0,,La Tropicale Amissa Bongo 2012 ,,,,,
-51,1.2,,,,1.0,,Challenge Du Prince - Trophée Princier 2012 ,,,,,
-52,1.2,,,,1.0,,Challenge du Prince - Trophée de l\'Anniversaire 2012 ,,,,,
-53,1.2,,,,1.0,,Challenge Du Prince - Trophée de la Maison Royale 2012 ,,,,,
-54,2.2/U23,,,,5.0,,Tour of Eritrea 2012 ,,,,,
-55,Nationals.C3.TT,,,,1.0,,National Championships Tunisia - ITT 2012 ,,,,,
-56,2.2/U23,,,,3.0,,Kwita Izina Cycling Tour 2012 ,,,,,
-57,Nationals.C3,,,,1.0,,National Championships Burkina Faso - Road Race 2012 ,,,,,
-58,Nationals.C3.TT,,,,1.0,,National Championships Algeria - ITT 2012 ,,,,,
-59,Nationals.C3,,,,1.0,,National Championships Algeria - Road Race 2012 ,,,,,
-60,Nationals.C3.TT,,,,1.0,,National Championships Eritrea - ITT 2012 ,,,,,
-61,Nationals.C2.TT,,,,1.0,,National Championships Morocco - ITT 2012 ,,,,,
-62,Nationals.C3,,,,1.0,,National Championships Eritrea - Road Race 2012 ,,,,,
-63,Nationals.C3,,,,1.0,,National Championships Morocco - Road Race 2012 ,,,,,
-64,Nationals.C3,,,,1.0,,National Championships Tunisia - Road Race 2012 ,,,,,
-65,Nationals.C3,,,,1.0,,National Championships Uganda - Road Race 2012 ,,,,,
-66,2.2/U23,,,,4.0,,Grand Prix Chantal Biya 2012 ,,,,,
-67,2.2/U23,,,,10.0,,Tour du Faso 2012 ,,,,,
-68,Nationals.C3,,,,1.0,,National Championships Rwanda - Road Race 2012 ,,,,,
-69,-,,,,1.0,,African Continental Championships TTT 2012 ,,,,,
-70,UCI.Cont.Ch.TT,,,,1.0,,African Continental Championships - ITT 2012 ,,,,,
-71,UCI.Cont.Ch,,,,1.0,,African Continental Championships - Road Race 2012 ,,,,,
-72,2.2/U23,,,,9.0,,Tour of Rwanda 2012 ,,,,,
-73,2.HC,,,,10.0,,Tour de Langkawi 2012 ,,,,,
-74,2.1,,,,7.0,,Tour de Taiwan 2012 ,,,,,
-75,2.2/U23,,,,6.0,,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012 ,,,,,
-76,2.2/U23,,,,4.0,,Le Tour de Filipinas 2012 ,,,,,
-77,2.2/U23,,,,8.0,,Tour de Korea 2012 ,,,,,
-78,2.2/U23,,,,5.0,,Tour of Borneo 2012 ,,,,,
-79,Nationals.C3,,,,1.0,,National Championships Japan - Road Race 2012 ,,,,,
-80,2.2/U23,,,,6.0,,Jelajah Malaysia 2012 ,,,,,
-81,2.2/U23,,,,6.0,,International Azerbaïjan Tour 2012 ,,,,,
-82,2.2/U23,,,,6.0,,Tour of Japan 2012 ,,,,,
-83,2.2/U23,,,,4.0,,Tour de Kumano 2012 ,,,,,
-84,2.2/U23,,,,7.0,,Tour of Singkarak 2012 ,,,,,
-85,Nationals.C3.TT,,,,1.0,,National Championships Japan - ITT 2012 ,,,,,
-86,1.2,,,,1.0,,Polygon Tour de Jakarta 2012 ,,,,,
-87,Nationals.C3.TT,,,,1.0,,National Championships Israel - ITT 2012 ,,,,,
-88,Nationals.C3.TT,,,,1.0,,National Championships Kazakhstan - ITT 2012 ,,,,,
-89,Nationals.C3.TT,,,,1.0,,National Championships Uzbekistan - ITT 2012 ,,,,,
-90,Nationals.C3,,,,1.0,,National Championships Israel - Road Race 2012 ,,,,,
-91,Nationals.C3.TT,,,,1.0,,National Championships Kyrgyzstan - ITT 2012 ,,,,,
-92,Nationals.C3.TT,,,,1.0,,National Championships Malaysia - ITT 2012 ,,,,,
-93,-,,,,1.0,,National Championships Singapore - ITT 2012 ,,,,,
-94,Nationals.C3,,,,1.0,,National Championships Hong Kong - Road Race 2012 ,,,,,
-95,Nationals.C3,,,,1.0,,National Championships Kazakhstan - Road Race 2012 ,,,,,
-96,Nationals.C3,,,,1.0,,National Championships Kyrgyzstan - Road Race 2012 ,,,,,
-97,Nationals.C3,,,,1.0,,National Championships Malaysia - Road Race 2012 ,,,,,
-98,Nationals.C3,,,,1.0,,National Championships Singapore - Road Race 2012 ,,,,,
-99,Nationals.C3,,,,1.0,,National Championships South Korea - Road Race 2012 ,,,,,
-100,Nationals.C3,,,,1.0,,National Championships Uzbekistan - Road Race 2012 ,,,,,
-101,2.HC,,,,13.0,,Tour of Qinghai Lake 2012 ,,,,,
-102,2.2/U23,,,,4.0,,Tour of East Java 2012 ,,,,,
-103,2.1,,,,6.0,,Tour of China I 2012 ,,,,,
-104,2.2/U23,,,,3.0,,Tour de Hokkaido 2012 ,,,,,
-105,2.1,,,,6.0,,Tour of China II 2012 ,,,,,
-106,2.2/U23,,,,5.0,,Butra Heidelberg Cement Tour dé Brunei 2012 ,,,,,
-107,Nationals.C3.TT,,,,1.0,,National Championships India - ITT 2012 ,,,,,
-108,Nationals.C3,,,,1.0,,National Championships India - Road Race 2012 ,,,,,
-109,2.HC,,,,9.0,,Tour of Hainan 2012 ,,,,,
-110,1.HC,,,,1.0,,Japan Cup Cycle Road Race 2012 ,,,,,
-111,2.1,,,,8.0,,Tour of Taihu Lake 2012 ,,,,,
-112,2.2/U23,,,,3.0,,Tour of Fuzhou 2012 ,,,,,
-113,1.2,,,,1.0,,Tour de Okinawa 2012 ,,,,,
-114,2.2/U23,,,,3.0,,Banyuwangi Tour de Ijen 2012 ,,,,,
-115,2.2/U23,,,,5.0,,ADC Tour of Vietnam 2012 ,,,,,
-116,1.1,,,,1.0,,Grand Prix Cycliste La Marseillaise 2012 ,,,,,
-117,2.1,,,,6.0,,Etoile de Bessèges 2012 ,,,,,
-118,1.1,,,,1.0,,GP Costa Degli Etruschi 2012 ,,,,,
-119,1.1,,,,1.0,,Trofeo Palma de Mallorca 2012 ,,,,,
-120,1.1,,,,1.0,,Trofeo Migjorn 2012 ,,,,,
-121,1.1,,,,1.0,,Trofeo Deià 2012 ,,,,,
-122,2.1,,,,4.0,,Tour Méditerranéen Cycliste Professionnel 2012 ,,,,,
-123,2.1,,,,2.0,, Giro della Provincia di reggio Calabria 2012 ,,,,,
-124,2.1,,,,5.0,,Volta ao Algarve 2012 ,,,,,
-125,2.1,,,,2.0,,Tour Cycliste International du Haut Var 2012 ,,,,,
-126,1.1,,,,1.0,,Trofeo Laigueglia 2012 ,,,,,
-127,1.HC,,,,1.0,,Omloop Het Nieuwsblad 2012 ,,,,,
-128,1.1,,,,1.0,,Gp Citté di Lugano 2012 ,,,,,
-129,1.2,,,,1.0,,Beverbeek Classic 2012 ,,,,,
-130,1.2,,,,1.0,,Ster van Zwolle 2012 ,,,,,
-131,1.1,,,,1.0,,Kuurne-Bruxelles-Kuurne 2012 ,,,,,
-132,1.1,,,,1.0,,Les Boucles du Sud Ardèche - Souvenir F. Delpech 2012 ,,,,,
-133,1.1,,,,1.0,,Gp Samyn 2012 ,,,,,
-134,2.1,,,,3.0,,Driedaagse van West-Vlaanderen 2012 ,,,,,
-135,2.1,,,,2.0,,Vuelta ciclista a la region de Murcia 2012 ,,,,,
-136,1.1,,,,1.0,,Montepaschi Strade Bianche - Eroica Toscana 2012 ,,,,,
-137,1.2,,,,1.0,,Grand Prix De La Ville De Lillers Souvenir Bruno C 2012 ,,,,,
-138,1.2,,,,1.0,,Trofeo Zssdi - Unione dei Circoli sportivi 2012 ,,,,,
-139,1.1,,,,1.0,,Dwars door Drenthe 2012 ,,,,,
-140,1.1,,,,1.0,,Albert Achterhes Pet Ronde van Drenthe 2012 ,,,,,
-141,1.2,,,,1.0,,Dorpenomloop Rucphen 2012 ,,,,,
-142,1.2,,,,1.0,,Omloop van het Waasland 2012 ,,,,,
-143,1.2,,,,1.0,,Paris-Troyes 2012 ,,,,,
-144,1.2,,,,1.0,,Porec Trophy - Trofej Porec 2012 ,,,,,
-145,1.2,,,,1.0,,Trofeo Franco Balestra Memorial Metelli 2012 ,,,,,
-146,1.1,,,,1.0,,Nokere-Koerse 2012 ,,,,,
-147,2.2/U23,,,,4.0,,Istarsko proljece - Istrian Spring Trophy 2012 ,,,,,
-148,1.1,,,,1.0,,Handzame Classic 2012 ,,,,,
-149,1.1,,,,1.0,,Classic Loire Atlantique 2012 ,,,,,
-150,1.1,,,,1.0,,Cholet - Pays De Loire 2012 ,,,,,
-151,1.2,,,,1.0,,Gran Premio San Giuseppe 2012 ,,,,,
-152,1.2,,,,1.0,,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2012 ,,,,,
-153,2.2/U23,,,,8.0,,Tour de Normandie 2012 ,,,,,
-154,2.1,,,,6.0,,Settimana Internazionale Coppi e Bartali 2012 ,,,,,
-155,1.1,,,,1.0,,Dwars Door Vlaanderen 2012 ,,,,,
-156,2.2/U23,,,,4.0,,Volta ao Alentejo/Crédito Agrícola Costa Azul 2012 ,,,,,
-157,2.HC,,,,3.0,,Critérium International 2012 ,,,,,
-158,2.HC,,,,4.0,,Driedaagse De Panne-Koksijde 2012 ,,,,,
-159,1.1,,,,1.0,,Route Adélie de Vitré 2012 ,,,,,
-160,2.2/U23,,,,4.0,,Le Triptyque des Monts et Châteaux 2012 ,,,,,
-161,1.HC,,,,1.0,,Gran Premio Miguel Indurain 2012 ,,,,,
-162,1.1,,,,1.0,,Volta Limburg Classic 2012 ,,,,,
-163,1.1,,,,1.0,,Flèche d'Emeraude - Saint Malo 2012 ,,,,,
-164,1.2,,,,1.0,,Grand Prix de la Ville de Nogent-sur-Oise 2012 ,,,,,
-165,1.2,,,,1.0,,Trofeo Piva Banca Popolare di Vicenza 2012 ,,,,,
-166,2.1,,,,5.0,,Circuit cycliste Sarthe - Pays de la Loire 2012 ,,,,,
-167,1.HC,,,,1.0,,Scheldeprijs 2012 ,,,,,
-168,2.2/U23,,,,5.0,,Grand Prix of Sochi 2012 ,,,,,
-169,1.1,,,,1.0,,Grand Prix Pino Cerami 2012 ,,,,,
-170,2.2/U23,,,,4.0,,Circuit des Ardennes International 2012 ,,,,,
-171,1.1,,,,1.0,,Klasika Primavera de Amorebieta 2012 ,,,,,
-172,1.1,,,,1.0,,Rund um Köln 2012 ,,,,,
-173,1.2,,,,1.0,,Dwars door het Hageland 2012 ,,,,,
-174,1.2,,,,1.0,,Giro del Belvedere 2012 ,,,,,
-175,1.1,,,,1.0,,Paris-Camembert 2012 ,,,,,
-176,1.2,,,,1.0,,GP Palio del Recioto 2012 ,,,,,
-177,1.HC,,,,1.0,,De Brabantse Pijl - La Flèche Brabançonne 2012 ,,,,,
-178,2.2/U23,,,,5.0,,Tour du Loir-et-Cher 'E. Provost' 2012 ,,,,,
-179,1.1,,,,1.0,,GP de Denain Porte du Hainaut 2012 ,,,,,
-180,2.1,,,,3.0,,Vuelta a Castilla y Leon 2012 ,,,,,
-181,1.1,,,,1.0,,Tour du Finistère 2012 ,,,,,
-182,E-1.Ncup,,,,1.0,,Liège - Bastogne - Liège 2012 ,,,,,
-183,1.2,,,,1.0,,Trofeo Edil C 2012 ,,,,,
-184,1.1,,,,1.0,,Giro dell'Appennino 2012 ,,,,,
-185,1.1,,,,1.0,,Tro-Bro Léon 2012 ,,,,,
-186,1.2,,,,1.0,,Grand Prix of Donetsk 2012 ,,,,,
-187,1.2,,,,1.0,,Zellik - Galmaarden 2012 ,,,,,
-188,2.HC,,,,4.0,,Giro del Trentino 2012 ,,,,,
-189,2.2/U23,,,,5.0,,Grand Prix of Adygeya 2012 ,,,,,
-190,1.2,,,,1.0,,Arno Wallaard Memorial 2012 ,,,,,
-191,1.2,,,,1.0,,Banja Luka - Belgrade I 2012 ,,,,,
-192,2.HC,,,,8.0,,Presidential Cycling Tour of Turkey 2012 ,,,,,
-193,1.1,,,,1.0,,Vuelta Ciclista a La Rioja 2012 ,,,,,
-194,1.2,,,,1.0,,Banja Luka-Belgrade II 2012 ,,,,,
-195,1.2,,,,1.0,,Ronde van Noord-Holland 2012 ,,,,,
-196,1.2,,,,1.0,,Val d\'Ille U Classic 35 - Souvenir Julien 2012 ,,,,,
-197,1.2,,,,1.0,,Gran Premio della Liberazione 2012 ,,,,,
-198,2.2/U23,,,,7.0,,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012 ,,,,,
-199,2.1,,,,4.0,,Vuelta Asturias Julio Alvarez Mendo 2012 ,,,,,
-200,1.1,,,,1.0,,GP Industria & Artigianato 2012 ,,,,,
-201,1.1,,,,1.0,,Giro della Toscana 2012 ,,,,,
-202,1.2,,,,1.0,,GP Industrie del Marmo 2012 ,,,,,
-203,1.2,,,,1.0,,Himmerland Rundt 2012 ,,,,,
-204,1.2,,,,1.0,,Paris - Mantes-en-Yvelines 2012 ,,,,,
-205,1.2,,,,1.0,,Rutland - Melton International CiCLE Classic 2012 ,,,,,
-206,1.HC,,,,1.0,,Rund um den Finanzplatz Eschborn-Frankfurt 2012 ,,,,,
-207,1.2,,,,1.0,,Grote Prijs 1 Mei - Ereprijs Victor de Bruyne 2012 ,,,,,
-208,1.2,,,,1.0,,Mayor Cup 2012 ,,,,,
-209,1.2,,,,1.0,,Memorial Andrzeja Trochanowskiego 2012 ,,,,,
-210,1.2,,,,1.0,,Rund um den Finanzplatz Eschborn-Frankfurt 2012 ,,,,,
-211,1.2,,,,1.0,,Trofeo Papà Cervi Coppa 1° Maggio 2012 ,,,,,
-212,2.2/U23,,,,5.0,,Giro della Regione Friuli Venezia Giulia 2012 ,,,,,
-213,1.2,,,,1.0,,Memorial of Oleg Dyachenko 2012 ,,,,,
-214,2.2/U23,,,,4.0,,Carpathia Couriers Paths 2012 ,,,,,
-215,1.2,,,,1.0,,Grand Prix of Moscow 2012 ,,,,,
-216,2.HC,,,,5.0,,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012 ,,,,,
-217,2.1,,,,4.0,,Szlakiem Grodòw Piastowskich 2012 ,,,,,
-218,1.2,,,,1.0,,Grand Prix Dobrich I 2012 ,,,,,
-219,1.2,,,,2.0,,Ronde van Overijssel 2012 ,,,,,
-220,2.1,,,,2.0,,Vuelta a la Comunidad de Madrid 2012 ,,,,,
-221,2.2/U23,,,,5.0,,Five Rings of Moscow 2012 ,,,,,
-222,1.2,,,,1.0,,Circuit de Wallonie 2012 ,,,,,
-223,1.2,,,,1.0,,Circuito del Porto - Trofeo Arvedi 2012 ,,,,,
-224,1.2,,,,1.0,,Grand Prix Dobrich II 2012 ,,,,,
-225,1.2,,,,1.0,,Omloop der Kempen 2012 ,,,,,
-226,2.2/U23,,,,5.0,,Heydar Aliyev Anniversary Tour 2012 ,,,,,
-227,2.2/U23,,,,4.0,,Rhône-Alpes Isère Tour 2012 ,,,,,
-228,2.2/U23,,,,3.0,,Tour of Malopolska 2012 ,,,,,
-229,2.1,,,,3.0,,Tour de Picardie 2012 ,,,,,
-230,1.2,,,,1.0,,Scandinavian Race in Uppsala 1909-2012 2012 ,,,,,
-231,1.1,,,,1.0,,Rogaland GP 2012 ,,,,,
-232,2.2/U23,,,,7.0,,Royal Smilde Olympia’s Tour 2012 ,,,,,
-233,Nationals.C3.TT,,,,1.0,,National Championships Austria - ITT 2012 ,,,,,
-234,2.1,,,,5.0,,Circuit de Lorraine Professionnel 2012 ,,,,,
-235,2.1,,,,5.0,,Glava Tour of Norway 2012 ,,,,,
-236,2.2/U23,,,,5.0,,Flèche du Sud 2012 ,,,,,
-237,2.2/U23,,,,5.0,,International Tour of Hellas 2012 ,,,,,
-238,1.2,,,,1.0,,Ronde van Limburg 2012 ,,,,,
-239,2.2/U23,,,,5.0,,Tour de Berlin 2012 ,,,,,
-240,1.2,,,,1.0,,Riga Grand Prix 2012 ,,,,,
-241,1.1,,,,1.0,,Sparkassen Neuseenclassics - Rund um die Braunkohle 2012 ,,,,,
-242,2.2/U23,,,,8.0,,An Post Ras 2012 ,,,,,
-243,1.2,,,,1.0,,Grand Prix Criquielion 2012 ,,,,,
-244,2.HC,,,,5.0,,Bayern-Rundfahrt 2012 ,,,,,
-245,2.HC,,,,5.0,,Tour of Belgium 2012 ,,,,,
-246,2.2/U23,,,,4.0,,Tour of Trakya 2012 ,,,,,
-247,1.1,,,,1.0,,Tallinn-Tartu Grand Prix 2012 ,,,,,
-248,1.1,,,,1.0,,Grand Prix de Plumelec-Morbihan 2012 ,,,,,
-249,1.1,,,,1.0,,SEB Tartu Grand Prix 2012 ,,,,,
-250,2.2/U23,,,,3.0,,Tour de Gironde 2012 ,,,,,
-251,1.1,,,,1.0,,Boucles de l'Aulne - Châteaulin 2012 ,,,,,
-252,1.2,,,,1.0,,GP Industria e Commercio - Tr. Città di San Vendemiano 2012 ,,,,,
-253,1.2,,,,1.0,,Paris-Roubaix Espoirs 2012 ,,,,,
-254,1.2,,,,1.0,,Race Horizon Park 2012 ,,,,,
-255,2.HC,,,,5.0,,Skoda-Tour de Luxembourg 2012 ,,,,,
-256,1.1,,,,1.0,,Trofeo Melinda - Val di Non 2012 ,,,,,
-257,2.2/U23,,,,9.0,,Romanian Cycling Tour 2012 ,,,,,
-258,1.2,,,,1.0,,Trofeo Alcide Degasperi 2012 ,,,,,
-259,1.2,,,,1.0,,Coppa della Pace - Trofeo F.lli Anelli 2012 ,,,,,
-260,1.2,,,,1.0,,Grand Prix Südkärnten 2012 ,,,,,
-261,1.2,,,,1.0,,Memorial Philippe Van Coningsloo 2012 ,,,,,
-262,1.2,,,,1.0,,Riga Grand Prix 2012 ,,,,,
-263,2.2/U23,,,,5.0,,Okolo Slovenska 2012 ,,,,,
-264,1.1,,,,1.0,,GP du Canton d'Argovie / GP Gippingen 2012 ,,,,,
-265,2.2/U23,,,,4.0,,Ronde de l'Oise 2012 ,,,,,
-266,Nationals.C3.TT,,,,1.0,,National Championships Slovenia - ITT 2012 ,,,,,
-267,2.2/U23,,,,10.0,,Giro Ciclistico d'Italia 2012 ,,,,,
-268,1.1,,,,1.0,,Ronde van Zeeland Seaports 2012 ,,,,,
-269,2.2/U23,,,,7.0,,Internationale Thüringen-Rundfahrt U23 2012 ,,,,,
-270,1.1,,,,1.0,,Garmin ProRace 2012 ,,,,,
-271,Nationals.C3.TT,,,,1.0,,National Championships Macedonia - ITT 2012 ,,,,,
-272,2.1,,,,4.0,,Route du Sud - la Depêche du Midi 2012 ,,,,,
-273,2.1,,,,4.0,,Ster ZLM Toer GP Jan van Heeswijk 2012 ,,,,,
-274,2.1,,,,4.0,,Tour De Slovénie 2012 ,,,,,
-275,2.2/U23,,,,4.0,,Boucles de la Mayenne 2012 ,,,,,
-276,Nationals.C3.TT,,,,1.0,,National Championships Finland - ITT 2012 ,,,,,
-277,Nationals.C3,,,,1.0,,National Championships Finland - Road Race 2012 ,,,,,
-278,1.2,,,,1.0,,Flèche Ardennaise 2012 ,,,,,
-279,1.1,,,,1.0,,Halle-Ingooigem 2012 ,,,,,
-280,Nationals.C3.TT,,,,1.0,,National Championships Estonia - ITT 2012 ,,,,,
-281,Nationals.C3.TT,,,,1.0,,National Championships Netherlands - ITT 2012 ,,,,,
-282,Nationals.C3.TT,,,,1.0,,National Championships Switzerland - ITT 2012 ,,,,,
-283,Nationals.C3.TT,,,,1.0,,National Championships Czech Republic - ITT 2012 ,,,,,
-284,Nationals.C3.TT,,,,1.0,,National Championships Denmark - ITT 2012 ,,,,,
-285,Nationals.C1.TT,,,,1.0,,National Championships France - ITT 2012 ,,,,,
-286,Nationals.C3.TT,,,,1.0,,National Championships Hungary - ITT 2012 ,,,,,
-287,Nationals.C3.TT,,,,1.0,,National Championships Ireland - ITT 2012 ,,,,,
-288,Nationals.C3.TT,,,,1.0,,National Championships Latvia - ITT 2012 ,,,,,
-289,Nationals.C3.TT,,,,1.0,,National Championships Luxembourg - ITT 2012 ,,,,,
-290,Nationals.C3.TT,,,,1.0,,National Championships Norway - ITT 2012 ,,,,,
-291,Nationals.C2.TT,,,,1.0,,National Championships Poland - ITT 2012 ,,,,,
-292,Nationals.C3.TT,,,,1.0,,National Championships Slovakia - ITT 2012 ,,,,,
-293,-,,,,1.0,,National Championships Luxembourg 2012 ,,,,,
-294,Nationals.C3,,,,1.0,,National Championships Estonia - Road Race 2012 ,,,,,
-295,Nationals.C3.TT,,,,1.0,,National Championships Azerbaijan - ITT 2012 ,,,,,
-296,Nationals.C3.TT,,,,1.0,,National Championships Belarus - ITT 2012 ,,,,,
-297,Nationals.C3.TT,,,,1.0,,National Championships Croatia - ITT 2012 ,,,,,
-298,Nationals.C3.TT,,,,1.0,,National Championships Georgia - ITT 2012 ,,,,,
-299,Nationals.C1.TT,,,,1.0,,National Championships Germany - ITT 2012 ,,,,,
-300,Nationals.C3.TT,,,,1.0,,National Championships Greece - ITT 2012 ,,,,,
-301,Nationals.C3.TT,,,,1.0,,National Championships Lithuania - ITT 2012 ,,,,,
-302,Nationals.C3.TT,,,,1.0,,National Championships Romania - ITT 2012 ,,,,,
-303,Nationals.C3.TT,,,,1.0,,National Championships Russia - ITT 2012 ,,,,,
-304,Nationals.C3.TT,,,,1.0,,National Championships Spain - ITT 2012 ,,,,,
-305,Nationals.C3.TT,,,,1.0,,National Championships Turkey - ITT 2012 ,,,,,
-306,Nationals.C3.TT,,,,1.0,,National Championships Ukraine - ITT 2012 ,,,,,
-307,Nationals.C3.TT,,,,1.0,,National TT Championships Portugal 2012 ,,,,,
-308,Nationals.C3,,,,1.0,,National Championships Italy - Road Race 2012 ,,,,,
-309,Nationals.C3,,,,1.0,,National Championships Latvia - Road Race 2012 ,,,,,
-310,Nationals.C3.TT,,,,1.0,,National Championships Moldova - ITT 2012 ,,,,,
-311,Nationals.C3.TT,,,,1.0,,National Championships Serbia - ITT 2012 ,,,,,
-312,Nationals.C3,,,,1.0,,National Championships Turkey - Road Race 2012 ,,,,,
-313,Nationals.C3,,,,1.0,,National Championships Austria - Road Race 2012 ,,,,,
-314,Nationals.C3,,,,1.0,,National Championships Azerbaijan - Road Race 2012 ,,,,,
-315,F-NC.2,,,,1.0,,National Championships Belarus - Road Race 2012 ,,,,,
-316,Nationals.C3,,,,1.0,,National Championships Belgium - Road Race 2012 ,,,,,
-317,Nationals.C3,,,,1.0,,National Championships Croatia - Road Race 2012 ,,,,,
-318,Nationals.C3,,,,1.0,,National Championships Czech Republic - Road Race 2012 ,,,,,
-319,-,,,,1.0,,National Championships Denmark - Road Race 2012 ,,,,,
-320,Nationals.C3,,,,1.0,,National Championships France - Road Race 2012 ,,,,,
-321,Nationals.C3,,,,1.0,,National Championships Georgia - Road Race 2012 ,,,,,
-322,Nationals.C1,,,,1.0,,National Championships Germany - Road Race 2012 ,,,,,
-323,Nationals.C3,,,,1.0,,National Championships Great Britain - Road Race 2012 ,,,,,
-324,Nationals.C3,,,,1.0,,National Championships Greece - Road Race 2012 ,,,,,
-325,Nationals.C3,,,,1.0,,National Championships Hungary - Road Race 2012 ,,,,,
-326,Nationals.C3,,,,1.0,,National Championships Ireland - Road Race 2012 ,,,,,
-327,Nationals.C3.TT,,,,1.0,,National Championships Italy - ITT 2012 ,,,,,
-328,Nationals.C3,,,,1.0,,National Championships Lithuania - Road Race 2012 ,,,,,
-329,Nationals.C3,,,,1.0,,National Championships Luxembourg - Road Race 2012 ,,,,,
-330,Nationals.C3,,,,1.0,,National Championships Macedonia - Road Race 2012 ,,,,,
-331,Nationals.C3,,,,1.0,,National Championships Moldova - Road Race 2012 ,,,,,
-332,Nationals.C3,,,,1.0,,National Championships Netherlands - Road Race 2012 ,,,,,
-333,Nationals.C3,,,,1.0,,National Championships Norway - Road Race 2012 ,,,,,
-334,Nationals.C2,,,,1.0,,National Championships Poland - Road Race 2012 ,,,,,
-335,Nationals.C3,,,,1.0,,National Championships Romania - Road Race 2012 ,,,,,
-336,Nationals.C2,,,,1.0,,National Championships Russia - Road Race 2012 ,,,,,
-337,Nationals.C3,,,,1.0,,National Championships Serbia - Road Race 2012 ,,,,,
-338,Nationals.C3,,,,1.0,,National Championships Slovakia - Road Race 2012 ,,,,,
-339,Nationals.C3,,,,1.0,,National Championships Slovenia - Road Race 2012 ,,,,,
-340,Nationals.C3,,,,1.0,,National Championships Spain - Road Race 2012 ,,,,,
-341,Nationals.C3,,,,1.0,,National Championships Sweden - Road Race 2012 ,,,,,
-342,Nationals.C3,,,,1.0,,National Championships Switzerland - Road Race 2012 ,,,,,
-343,Nationals.C3,,,,1.0,,National Championships Ukraine - Road Race 2012 ,,,,,
-344,Nationals.C3.TT,,,,1.0,,National Championships Sweden - ITT 2012 ,,,,,
-345,1.2,,,,1.0,,Internationale Wielertrofee Jong Maar Moedig I.W.T 2012 ,,,,,
-346,2.2/U23,,,,4.0,,Czech Cycling Tour 2012 ,,,,,
-347,1.2,,,,1.0,,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2012 ,,,,,
-348,2.HC,,,,8.0,,Int. Osterreich-Rundfahrt-Tour of Austria 2012 ,,,,,
-349,Nationals.C3,,,,1.0,,National Championships Bulgaria - Road Race 2012 ,,,,,
-350,Nationals.C3,,,,1.0,,National Championships Albania - Road Race 2012 ,,,,,
-351,2.1,,,,6.0,,Course Cycliste de Solidarnosc et des Champions Olympiques 2012 ,,,,,
-352,2.2/U23,,,,5.0,,Sibiu Cycling Tour 2012 ,,,,,
-353,1.2,,,,1.0,,Giro del Medio Brenta 2012 ,,,,,
-354,1.2,,,,1.0,,GP de Pont a Marcq - La Ronde Pévèloise 2012 ,,,,,
-355,1.2,,,,1.0,,GP van de stad Geel 2012 ,,,,,
-356,2.2/U23,,,,4.0,,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2012 ,,,,,
-357,1.1,,,,1.0,,GP Nobili Rubinetterie Coppa Citta di Stresa 2012 ,,,,,
-358,2.2/U23,,,,7.0,,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012 ,,,,,
-359,2.HC,,,,5.0,,Tour de Wallonie 2012 ,,,,,
-360,1.2,,,,1.0,,Central European Tour Miskolc GP 2012 ,,,,,
-361,1.2,,,,1.0,,Central European Tour Budapest GP 2012 ,,,,,
-362,1.2,,,,1.0,,Grand Prix de la ville de Pérenchies 2012 ,,,,,
-363,2.2/U23,,,,6.0,,Tour Alsace 2012 ,,,,,
-364,1.1,,,,1.0,,Prueba Villafranca-Ordiziako Klasika 2012 ,,,,,
-365,2.2/U23,,,,4.0,,Dookola Mazowsza 2012 ,,,,,
-366,2.2/U23,,,,4.0,,Kreiz Breizh Elites 2012 ,,,,,
-367,1.1,,,,1.0,,La Poly Normande 2012 ,,,,,
-368,1.1,,,,1.0,,Trofeo Matteotti 2012 ,,,,,
-369,1.1,,,,1.0,,Circuito De Getxo \'Memorial Ricardo Otxoa\' 2012 ,,,,,
-370,2.HC,,,,5.0,,Vuelta a Burgos 2012 ,,,,,
-371,2.1,,,,2.0,,Paris - Corrèze 2012 ,,,,,
-372,1.2,,,,1.0,,Antwerpse Havenpijl 2012 ,,,,,
-373,1.2,,,,1.0,,Trofeo Internazionale Bastianelli 2012 ,,,,,
-374,2.1,,,,6.0,,Tour de l'Ain - La route du progrès 2012 ,,,,,
-375,2.2/U23,,,,5.0,,Vuelta Ciclista a León 2012 ,,,,,
-376,2.2/U23,,,,4.0,,La Mi-Août en Bretagne 2012 ,,,,,
-377,2.2/U23,,,,5.0,,Tour of Szeklerland 2012 ,,,,,
-378,1.1,,,,1.0,,G.P. Camaiore 2012 ,,,,,
-379,1.2,,,,1.0,,Memorial Henryka Lasaka 2012 ,,,,,
-380,Nationals.C3,,,,1.0,,National Championships Iceland - Road Race 2012 ,,,,,
-381,1.2,,,,1.0,,Gran Premio Sportivi di Poggiana-Trofeo Bonin Costruzioni 2012 ,,,,,
-382,1.2,,,,1.0,,Puchar Uzdrowisk Karpackich 2012 ,,,,,
-383,2.HC,,,,4.0,,Tour du Limousin 2012 ,,,,,
-384,2.1,,,,11.0,,Volta a Portugal em Bicicleta 2012 ,,,,,
-385,1.1,,,,1.0,,GP Banca di Legnano - Coppa Bernocchi 2012 ,,,,,
-386,1.2,,,,1.0,,GP Capodarco - Comunità di Capodarco 2012 ,,,,,
-387,1.1,,,,1.0,,Coppa Agostoni - Giro della Brianza 2012 ,,,,,
-388,1.1,,,,1.0,,Dutch Food Valley Classic 2012 ,,,,,
-389,1.HC,,,,1.0,,Tre Valli Varesine 2012 ,,,,,
-390,Nationals.C3,,,,1.0,,National Championships Bosnia and Herzegovina - Road Race 2012 ,,,,,
-391,1.2,,,,1.0,,Grand Prix Kralovehradeckeho kraje 2012 ,,,,,
-392,1.2,,,,1.0,,Puchar Ministra Obrony Narodowej 2012 ,,,,,
-393,1.1,,,,1.0,,Chateauroux Classic de l'Indre Trophee Fenioux 2012 ,,,,,
-394,1.1,,,,1.0,,GP Stad Zottegem 2012 ,,,,,
-395,2.1,,,,5.0,,Tour du Poitou Charentes 2012 ,,,,,
-396,2.2/U23,,,,5.0,,Baltic Chain Tour 2012 ,,,,,
-397,1.2,,,,1.0,,Grand Prix des Marbriers 2012 ,,,,,
-398,2.HC,,,,6.0,,Post Danmark Rundt 2012 ,,,,,
-399,1.1,,,,1.0,,52nd Druivenkoers - Overijse 2012 ,,,,,
-400,1.1,,,,1.0,,GP Industria Commercio Artigianato Carnaghese 2012 ,,,,,
-401,1.1,,,,1.0,,83th Giro Del Veneto - Coppa Placci 2012 ,,,,,
-402,1.1,,,,1.0,,Schaal Sels 2012 ,,,,,
-403,1.2,,,,1.0,,Ljubljana - Zagreb 2012 ,,,,,
-404,1.2,,,,1.0,,Ronde van Midden-Nederland 2012 ,,,,,
-405,2.1,,,,1.0,,World Ports Classic 2012 ,,,,,
-406,1.1,,,,1.0,,Grote Prijs Jef Scherens - Rondom Leuven 2012 ,,,,,
-407,Nationals.C3.TT,,,,1.0,,National Championships Great Britain - ITT 2012 ,,,,,
-408,1.1,,,,1.0,,Tour du Doubs - Conseil General 2012 ,,,,,
-409,1.2,,,,1.0,,Kernen Omloop Echt-Susteren 2012 ,,,,,
-410,1.2,,,,1.0,,Memorial Davide Fardelli - Cronometro Individuale 2012 ,,,,,
-411,2.1,,,,6.0,,Giro di Padania 2012 ,,,,,
-412,1.1,,,,1.0,,Memorial Rik Van Steenbergen 2012 ,,,,,
-413,2.2/U23,,,,4.0,,Okolo Jižních Čech 2012 ,,,,,
-414,1.HC,,,,1.0,,Paris-Bruxelles 2012 ,,,,,
-415,1.HC,,,,1.0,,GP de Fourmies - La Voix du Nord 2012 ,,,,,
-416,2.1,,,,8.0,,Tour of Britain 2012 ,,,,,
-417,1.2,,,,1.0,,Chrono Champenois Masculin International 2012 ,,,,,
-418,2.2/U23,,,,8.0,,Tour of Bulgaria 2012 ,,,,,
-419,1.1,,,,1.0,,Grand Prix de Wallonie 2012 ,,,,,
-420,1.1,,,,1.0,,Grand Prix de la Somme « Conseil Général 80 » 2012 ,,,,,
-421,1.1,,,,1.0,,Kampioenschap van Vlaanderen 2012 ,,,,,
-422,1.1,,,,1.0,,GP Impanis - Van Petegem 2012 ,,,,,
-423,1.1,,,,1.0,,Memorial Marco Pantani - Trofeo Sidermac 2012 ,,,,,
-424,1.1,,,,1.0,,GP Industria & Commercio di Prato 2012 ,,,,,
-425,1.1,,,,1.0,,Grand Prix d'Isbergues - Pas de Calais 2012 ,,,,,
-426,1.2,,,,1.0,,Tour Bohemia 2012 ,,,,,
-427,1.2,,,,1.0,,Trofeo G. Bianchin 2012 ,,,,,
-428,1.1,,,,1.0,,Omloop van het Houtland 2012 ,,,,,
-429,1.2,,,,1.0,,Tour of Vojvodina I 2012 ,,,,,
-430,1.2,,,,1.0,, Tour of Vojvodina II 2012 ,,,,,
-431,1.2,,,,1.0,,De Kustpijl 2012 ,,,,,
-432,1.2,,,,1.0,,9th Gooikse Pijl 2012 ,,,,,
-433,1.2,,,,1.0,,Ruota d'Oro - GP Festa del Perdono 2012 ,,,,,
-434,1.HC,,,,1.0,,Milano-Torino 2012 ,,,,,
-435,1.HC,,,,1.0,,Gran Piemonte 2012 ,,,,,
-436,2.1,,,,4.0,,Eurométropole Tour 2012 ,,,,,
-437,1.1,,,,1.0,,Duo Normand 2012 ,,,,,
-438,1.1,,,,1.0,,Binche-Tournai-Binche/ Mémorial Frank Vandenbroucke 2012 ,,,,,
-439,1.1,,,,1.0,,Sparkassen Münsterland Giro 2012 ,,,,,
-440,1.1,,,,1.0,,Gran Premio Città di Peccioli - Coppa Sabatini 2012 ,,,,,
-441,1.1,,,,1.0,,Paris-Bourges 2012 ,,,,,
-442,1.HC,,,,1.0,,Giro dell'Emilia 2012 ,,,,,
-443,1.2,,,,1.0,,Piccolo Giro di Lombardia 2012 ,,,,,
-444,1.HC,,,,1.0,,Paris - Tours 2012 ,,,,,
-445,1.1,,,,1.0,,Gran Premio Bruno Beghelli 2012 ,,,,,
-446,1.2,,,,1.0,,Paris-Tours Espoirs 2012 ,,,,,
-447,1.1,,,,1.0,,Nationale Sluitingprijs Putte - Kapellen 2012 ,,,,,
-448,1.HC,,,,1.0,,Tour de Vendée 2012 ,,,,,
-449,1.1,,,,1.0,,Chrono des Nations 2012 ,,,,,
-450,Nationals.C3.TT,,,,1.0,,National Championships New Zealand - ITT 2012 ,,,,,
-451,Nationals.C3,,,,1.0,,National Championships Australia - Road Race 2012 ,,,,,
-452,Nationals.C3,,,,1.0,,National Championships New Zealand - Road Race 2012 ,,,,,
-453,Nationals.C3.TT,,,,1.0,,National Championships Australia - ITT 2012 ,,,,,
-454,2.2/U23,,,,5.0,,New Zealand Cycle Classic 2012 ,,,,,
-455,UCI.Cont.Ch.TT,,,,1.0,,Oceania Cycling Championships - ITT 2012 ,,,,,
-456,None,,,,1.0,,Oceania Cycling Championships - Road Race 2012 ,,,,,
-457,2.2/U23,,,,11.0,,Vuelta Ciclista De Chile 2012 ,,,,,
-458,1.2,,,,1.0,,Copa América De Ciclismo 2012 ,,,,,
-459,2.2/U23,,,,10.0,,Vuelta al Tachira en Bicicleta 2012 ,,,,,
-460,2.1,,,,7.0,,Tour de San Luis 2012 ,,,,,
-461,2.2/U23,,,,11.0,,Vuelta Independencia Nacional 2012 ,,,,,
-462,2.2/U23,,,,7.0,,Rutas de América 2012 ,,,,,
-463,None,,,,1.0,,Pan American Championships - ITT 2012 ,,,,,
-464,1.HC,,,,1.0,,Pan American Championships - Road Race 2012 ,,,,,
-465,2.2/U23,,,,8.0,,Vuelta Mexico Telmex 2012 ,,,,,
-466,2.2/U23,,,,10.0,,Vuelta Ciclista al Uruguay 2012 ,,,,,
-467,Nationals.C3.TT,,,,1.0,,National Championships Argentina - ITT 2012 ,,,,,
-468,Nationals.C3,,,,1.0,,National Championships Argentina - Road Race 2012 ,,,,,
-469,1.2,,,,1.0,,Tour of the Battenkill 2012 ,,,,,
-470,2.2/U23,,,,5.0,,Tour of the Gila 2012 ,,,,,
-471,2.HC,,,,8.0,,Amgen Tour of California 2012 ,,,,,
-472,2.2/U23,,,,8.0,,Vuelta a Guatemala 2012 ,,,,,
-473,Nationals.C3.TT,,,,1.0,,National Championships Mexico - ITT 2012 ,,,,,
-474,Nationals.C3.TT,,,,1.0,,National Championships United States - ITT 2012 ,,,,,
-475,Nationals.C3,,,,1.0,,National Championships Mexico - Road Race 2012 ,,,,,
-476,Nationals.C3,,,,1.0,,National Championships United States - Road Race 2012 ,,,,,
-477,1.HC,,,,1.0,,TD Bank International Cycling Championship 2012 ,,,,,
-478,Nationals.C3.TT,,,,1.0,,National Championships Suriname - ITT 2012 ,,,,,
-479,2.2/U23,,,,12.0,,Vuelta Pilsen a Colombia 2012 ,,,,,
-480,Nationals.C3.TT,,,,1.0,,National Championships Canada - ITT 2012 ,,,,,
-481,Nationals.C3.TT,,,,1.0,,National Championships Panama - ITT 2012 ,,,,,
-482,Nationals.C3.TT,,,,1.0,,National Championships Aruba - ITT 2012 ,,,,,
-483,Nationals.C3.TT,,,,1.0,,National Championships Brazil - ITT 2012 ,,,,,
-484,Nationals.C3,,,,1.0,,National Championships Canada - Road Race 2012 ,,,,,
-485,Nationals.C3.TT,,,,1.0,,National Championships Costa Rica - ITT 2012 ,,,,,
-486,Nationals.C3.TT,,,,1.0,,National Championships Curaçao - ITT 2012 ,,,,,
-487,Nationals.C3.TT,,,,1.0,,National Championships Saint Kitts and Nevis - ITT 2012 ,,,,,
-488,Nationals.C2.TT,,,,1.0,,National Championships Venezuela - ITT 2012 ,,,,,
-489,-,,,,1.0,,National Championships United States U23 - Road Race 2012 ,,,,,
-490,Nationals.C3,,,,1.0,,National Championships Aruba - Road Race 2012 ,,,,,
-491,Nationals.C3,,,,1.0,,National Championships Brazil - Road Race 2012 ,,,,,
-492,Nationals.C3,,,,1.0,,National Championships Costa Rica - Road Race 2012 ,,,,,
-493,F-WC.Leader,,,,1.0,,National Championships Cuba - Road Race 2012 ,,,,,
-494,Nationals.C3,,,,1.0,,National Championships Curaçao - Road Race 2012 ,,,,,
-495,Nationals.C3,,,,1.0,,National Championships Dominican Republic - Road Race 2012 ,,,,,
-496,Nationals.C3.TT,,,,1.0,,National Championships El Salvador - ITT 2012 ,,,,,
-497,Nationals.C3,,,,1.0,,National Championships Panama - Road Race 2012 ,,,,,
-498,Nationals.C3,,,,1.0,,National Championships Saint Kitts and Nevis - Road Race 2012 ,,,,,
-499,Nationals.C3,,,,1.0,,National Championships Saint Lucia - Road Race 2012 ,,,,,
-500,Nationals.C3,,,,1.0,,National Championships Suriname - Road Race 2012 ,,,,,
-501,Nationals.C2,,,,1.0,,National Championships Venezuela - Road Race 2012 ,,,,,
-502,-,,,,1.0,,National Championships Puerto Rico - ITT 2012 ,,,,,
-503,2.2/U23,,,,10.0,,Vuelta Ciclista a Venezuela 2012 ,,,,,
-504,2.1,,,,3.0,,Tour of Elk Grove 2012 ,,,,,
-505,2.2/U23,,,,11.0,,Tour Cycliste International de la Guadeloupe 2012 ,,,,,
-506,2.1,,,,6.0,,Tour of Utah 2012 ,,,,,
-507,2.HC,,,,7.0,,USA Pro Cycling Challenge 2012 ,,,,,
-508,2.2/U23,,,,5.0,,Tour do Rio 2012 ,,,,,
-509,1.2,,,,1.0,,Thompson Bucks County Classic 2012 ,,,,,
-510,1.2,,,,1.0,,Tobago Cycling Classic 2012 ,,,,,
-511,2.2/U23,,,,8.0,,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012 ,,,,,
-512,2.2/U23,,,,12.0,,Vuelta a Bolivia 2012 ,,,,,
-513,Nationals.C3,,,,1.0,,National Championships Colombia - ITT 2012 ,,,,,
-514,Nationals.C3,,,,1.0,,National Championships Colombia - Road Race 2012 ,,,,,
-515,2.2/U23,,,,8.0,,Vuelta Mundo Maya 2012 ,,,,,
-516,2.2/U23,,,,12.0,,Vuelta Internacional a Costa Rica 2012 ,,,,,
+,Stage_Name,Date,Stage_Type,Start,Finish,Race_ID,Stage#,url,Length
+0,Santos Tour Down Under 2012  Stage 1,2012-01-17,RR,Prospect,Clare,0,1,race/tour-down-under/2012/stage-1,149.0
+1,Santos Tour Down Under 2012  Stage 2,2012-01-18,RR,Lobethal,Stirling,0,2,race/tour-down-under/2012/stage-2,148.0
+2,Santos Tour Down Under 2012  Stage 3,2012-01-19,RR,Unley,Victor Harbor,0,3,race/tour-down-under/2012/stage-3,134.5
+3,Santos Tour Down Under 2012  Stage 4,2012-01-20,RR,Norwood,Tanunda,0,4,race/tour-down-under/2012/stage-4,130.0
+4,Santos Tour Down Under 2012  Stage 5,2012-01-21,RR,McLaren,Old Willunga Hill,0,5,race/tour-down-under/2012/stage-5,151.5
+5,Santos Tour Down Under 2012  Stage 6,2012-01-22,RR,Adelaide,Adelaide,0,6,race/tour-down-under/2012/stage-6,90.0
+6,Paris - Nice 2012  Prologue,2012-03-04,Prologue,Dampierre-en-Yvelines,Saint-Rémy-lès-Chevreuse,1,1,race/paris-nice/2012/prologue,9.4
+7,Paris - Nice 2012  Stage 2,2012-03-05,RR,Mantes-la-Jolie,Orléans,1,2,race/paris-nice/2012/stage-2,185.0
+8,Paris - Nice 2012  Stage 3,2012-03-06,RR,Vierzon,Lac de Vassivière,1,3,race/paris-nice/2012/stage-3,194.0
+9,Paris - Nice 2012  Stage 4,2012-03-07,RR,Brive la Gaillarde,Rodez,1,4,race/paris-nice/2012/stage-4,183.0
+10,Paris - Nice 2012  Stage 5,2012-03-08,RR,Onet-le-Chateau,Mende,1,5,race/paris-nice/2012/stage-5,178.0
+11,Paris - Nice 2012  Stage 6,2012-03-09,RR,Suze-la-Rousse,Sisteron,1,6,race/paris-nice/2012/stage-6,176.5
+12,Paris - Nice 2012  Stage 7,2012-03-10,RR,Sisteron,Nice,1,7,race/paris-nice/2012/stage-7,220.0
+13,Paris - Nice 2012  Stage 8 (ITT),2012-03-11,ITT,Nice,Col d\'Eze,1,8,race/paris-nice/2012/stage-8,9.6
+14,Tirreno-Adriatico 2012  Stage 1 (TTT),2012-03-07,TTT,San Vincenzo,Donoratico,2,1,race/tirreno-adriatico/2012/stage-1,16.9
+15,Tirreno-Adriatico 2012  Stage 2,2012-03-08,RR,San Vincenzo,Arezzo,2,2,race/tirreno-adriatico/2012/stage-2,230.0
+16,Tirreno-Adriatico 2012  Stage 3,2012-03-09,RR,Indicatore,Terni,2,3,race/tirreno-adriatico/2012/stage-3,178.0
+17,Tirreno-Adriatico 2012  Stage 4,2012-03-10,RR,Amelia,Chieti,2,4,race/tirreno-adriatico/2012/stage-4,252.0
+18,Tirreno-Adriatico 2012  Stage 5,2012-03-11,RR,Martinsicuro,Prati Di Tivo,2,5,race/tirreno-adriatico/2012/stage-5,196.0
+19,Tirreno-Adriatico 2012  Stage 6,2012-03-12,RR,Offida,Offida,2,6,race/tirreno-adriatico/2012/stage-6,181.0
+20,Tirreno-Adriatico 2012  Stage 7 (ITT),2012-03-13,ITT,San Benedetto Del Tronto,San Benedetto Del Tronto,2,7,race/tirreno-adriatico/2012/stage-7,9.3
+21,Milano-Sanremo 2012,2012-03-17,RR,Milano,Sanremo,3,0,race/milano-sanremo/2012,298.0
+22,Volta Ciclista a Catalunya 2012  Stage 1,2012-03-19,RR,Calella,Calella,4,1,race/volta-a-catalunya/2012/stage-1,138.9
+23,Volta Ciclista a Catalunya 2012  Stage 2,2012-03-20,RR,Girona,Girona,4,2,race/volta-a-catalunya/2012/stage-2,161.0
+24,Volta Ciclista a Catalunya 2012  Stage 3,2012-03-21,RR,La Vall d\'en Bas,Port Ainé,4,3,race/volta-a-catalunya/2012/stage-3,155.0
+25,Volta Ciclista a Catalunya 2012  Stage 4,2012-03-22,RR,Tremp,Ascó,4,4,race/volta-a-catalunya/2012/stage-4,199.0
+26,Volta Ciclista a Catalunya 2012  Stage 5,2012-03-23,RR,Ascó,Manresa,4,5,race/volta-a-catalunya/2012/stage-5,207.1
+27,Volta Ciclista a Catalunya 2012  Stage 6,2012-03-24,RR,Sant Fruitós de Bages,Badalona,4,6,race/volta-a-catalunya/2012/stage-6,169.4
+28,Volta Ciclista a Catalunya 2012  Stage 7,2012-03-25,RR,Badalona,Barcelona,4,7,race/volta-a-catalunya/2012/stage-7,119.8
+29,E3 Prijs Vlaanderen 2012,2012-03-23,RR,Harelbeke,Harelbeke,5,0,race/e3-harelbeke/2012,203.0
+30,Gent - Wevelgem 2012,2012-03-25,RR,Deinze,Gent,6,0,race/gent-wevelgem/2012,235.0
+31,Ronde van Vlaanderen / Tour des Flandres 2012,2012-04-01,RR,Brugge,Oudenaarde,7,0,race/ronde-van-vlaanderen/2012,256.0
+32,Vuelta Ciclista al Pais Vasco 2012  Stage 1,2012-04-02,RR,Güeñes,Güeñes,8,1,race/itzulia-basque-country/2012/stage-1,154.0
+33,Vuelta Ciclista al Pais Vasco 2012  Stage 2,2012-04-03,RR,Güeñes,Vitoria,8,2,race/itzulia-basque-country/2012/stage-2,165.7
+34,Vuelta Ciclista al Pais Vasco 2012  Stage 3,2012-04-04,RR,Vitoria,Arrate,8,3,race/itzulia-basque-country/2012/stage-3,152.0
+35,Vuelta Ciclista al Pais Vasco 2012  Stage 4,2012-04-05,RR,Éibar,Col d\'Ibardin,8,4,race/itzulia-basque-country/2012/stage-4,151.0
+36,Vuelta Ciclista al Pais Vasco 2012  Stage 5,2012-04-06,RR,Vera de Bidasoa,Oñate,8,5,race/itzulia-basque-country/2012/stage-5,183.0
+37,Vuelta Ciclista al Pais Vasco 2012  Stage 6 (ITT),2012-04-07,ITT,Oñate,Oñate,8,6,race/itzulia-basque-country/2012/stage-6,18.9
+38,Paris - Roubaix 2012,2012-04-08,RR,Start,Finish,9,0,race/paris-roubaix/2012,257.5
+39,Amstel Gold Race 2012,2012-04-15,RR,Maastricht,Valkenburg,10,0,race/amstel-gold-race/2012,256.5
+40,La Flèche Wallonne 2012,2012-04-18,RR,Charleroi,Huy,11,0,race/la-fleche-wallone/2012,194.0
+41,Liège - Bastogne - Liège 2012,2012-04-22,RR,Start,Finish,12,0,race/liege-bastogne-liege/2012,0.0
+42,Tour de Romandie 2012  Prologue,2012-04-24,Prologue,Lausanne,Lausanne,13,1,race/tour-de-romandie/2012/prologue,3.34
+43,Tour de Romandie 2012  Stage 1,2012-04-25,RR,Morges,La Chaux-de-Fonds,13,2,race/tour-de-romandie/2012/stage-1,184.5
+44,Tour de Romandie 2012  Stage 2,2012-04-26,RR,Montbéliard,Moutier,13,3,race/tour-de-romandie/2012/stage-2,149.1
+45,Tour de Romandie 2012  Stage 3,2012-04-27,RR,La Neuveville,Charmey,13,4,race/tour-de-romandie/2012/stage-3,157.6
+46,Tour de Romandie 2012  Stage 4,2012-04-28,RR,Bulle,Sion,13,5,race/tour-de-romandie/2012/stage-4,184.0
+47,Tour de Romandie 2012  Stage 5 (ITT),2012-04-29,ITT,Crans-Montana,Crans-Montana,13,6,race/tour-de-romandie/2012/stage-5,16.5
+48,Giro d'Italia 2012  Prologue,2012-05-05,Prologue,Herning,Herning,14,1,race/giro-d-italia/2012/prologue,8.7
+49,Giro d'Italia 2012  Stage 1,2012-05-06,RR,Herning,Herning,14,2,race/giro-d-italia/2012/stage-1,206.0
+50,Giro d'Italia 2012  Stage 2,2012-05-07,RR,Horsens,Horsens,14,3,race/giro-d-italia/2012/stage-2,190.0
+51,Giro d'Italia 2012  Stage 3 (TTT),2012-05-09,TTT,Verona,Verona,14,4,race/giro-d-italia/2012/stage-3,33.2
+52,Giro d'Italia 2012  Stage 4,2012-05-10,RR,Modena,Fano,14,5,race/giro-d-italia/2012/stage-4,209.0
+53,Giro d'Italia 2012  Stage 5,2012-05-11,RR,Urbino,Porto Sant\'Elpidio,14,6,race/giro-d-italia/2012/stage-5,210.0
+54,Giro d'Italia 2012  Stage 6,2012-05-12,RR,Recanati,Rocca di Cambio,14,7,race/giro-d-italia/2012/stage-6,205.0
+55,Giro d'Italia 2012  Stage 7,2012-05-13,RR,Sulmona,Lago Laceno,14,8,race/giro-d-italia/2012/stage-7,229.0
+56,Giro d'Italia 2012  Stage 8,2012-05-14,RR,San Giorgio nel Sannio,Frosinone,14,9,race/giro-d-italia/2012/stage-8,166.0
+57,Giro d'Italia 2012  Stage 9,2012-05-15,RR,Civitavecchia,Assisi,14,10,race/giro-d-italia/2012/stage-9,186.0
+58,Giro d'Italia 2012  Stage 10,2012-05-16,RR,Assisi,Montecatini Terme,14,11,race/giro-d-italia/2012/stage-10,255.0
+59,Giro d'Italia 2012  Stage 11,2012-05-17,RR,Seravezza,Sestri Levante,14,12,race/giro-d-italia/2012/stage-11,155.0
+60,Giro d'Italia 2012  Stage 12,2012-05-18,RR,Savona,Cervere,14,13,race/giro-d-italia/2012/stage-12,121.0
+61,Giro d'Italia 2012  Stage 13,2012-05-19,RR,Cherasco,Breuil-Cervinia,14,14,race/giro-d-italia/2012/stage-13,206.0
+62,Giro d'Italia 2012  Stage 14,2012-05-20,RR,Busto Arsizio,Piani dei Resinelli,14,15,race/giro-d-italia/2012/stage-14,169.0
+63,Giro d'Italia 2012  Stage 15,2012-05-22,RR,Limone del Garda,Falzes,14,16,race/giro-d-italia/2012/stage-15,173.0
+64,Giro d'Italia 2012  Stage 16,2012-05-23,RR,Falzes,Cortina d\'Ampezzo,14,17,race/giro-d-italia/2012/stage-16,186.0
+65,Giro d'Italia 2012  Stage 17,2012-05-24,RR,San Vito Cadore,Vedelago,14,18,race/giro-d-italia/2012/stage-17,149.0
+66,Giro d'Italia 2012  Stage 18,2012-05-25,RR,Treviso,Alpe di Pamepago,14,19,race/giro-d-italia/2012/stage-18,198.0
+67,Giro d'Italia 2012  Stage 19,2012-05-26,RR,Val di Sole,Passo dello Stelvio,14,20,race/giro-d-italia/2012/stage-19,219.0
+68,Giro d'Italia 2012  Stage 20 (ITT),2012-05-27,ITT,Milano,Milano,14,21,race/giro-d-italia/2012/stage-20,28.2
+69,Critérium du Dauphiné 2012  Prologue,2012-06-03,Prologue,Grenoble,Grenoble,15,1,race/dauphine/2012/prologue,5.7
+70,Critérium du Dauphiné 2012  Stage 1,2012-06-04,RR,Seyssins,Saint-Vallier,15,2,race/dauphine/2012/stage-1,187.0
+71,Critérium du Dauphiné 2012  Stage 2,2012-06-05,RR,Lamastre,Saint-Félicien,15,3,race/dauphine/2012/stage-2,160.0
+72,Critérium du Dauphiné 2012  Stage 3,2012-06-06,RR,Givors,La Clayette,15,4,race/dauphine/2012/stage-3,167.0
+73,Critérium du Dauphiné 2012  Stage 4 (ITT),2012-06-07,ITT,Villié-Morgon,Bourg-en-Bresse,15,5,race/dauphine/2012/stage-4,53.5
+74,Critérium du Dauphiné 2012  Stage 5,2012-06-08,RR,Saint-Trivier-sur-Moignans,Rumilly,15,6,race/dauphine/2012/stage-5,186.5
+75,Critérium du Dauphiné 2012  Stage 6,2012-06-09,RR,Saint-Alban-Leysse,Morzine,15,7,race/dauphine/2012/stage-6,167.5
+76,Critérium du Dauphiné 2012  Stage 7,2012-06-10,RR,Morzine,Châtel,15,8,race/dauphine/2012/stage-7,124.5
+77,Tour de Suisse 2012  Prologue,2012-06-09,Prologue,Lugano,Lugano,16,1,race/tour-de-suisse/2012/prologue,7.3
+78,Tour de Suisse 2012  Stage 1,2012-06-10,RR,Verbania,Verbier,16,2,race/tour-de-suisse/2012/stage-1,218.3
+79,Tour de Suisse 2012  Stage 2,2012-06-11,RR,Martigny,Aarberg,16,3,race/tour-de-suisse/2012/stage-2,194.7
+80,Tour de Suisse 2012  Stage 3,2012-06-12,RR,Aarberg,Trimbach,16,4,race/tour-de-suisse/2012/stage-3,188.8
+81,Tour de Suisse 2012  Stage 4,2012-06-13,RR,Olten,Gansingen,16,5,race/tour-de-suisse/2012/stage-4,192.7
+82,Tour de Suisse 2012  Stage 5,2012-06-14,RR,Wittnau,Bischofszell,16,6,race/tour-de-suisse/2012/stage-5,198.5
+83,Tour de Suisse 2012  Stage 6 (ITT),2012-06-15,ITT,Gossau,Gossau,16,7,race/tour-de-suisse/2012/stage-6,34.3
+84,Tour de Suisse 2012  Stage 7,2012-06-16,RR,Bischofszell,Arosa,16,8,race/tour-de-suisse/2012/stage-7,148.2
+85,Tour de Suisse 2012  Stage 8,2012-06-17,RR,Näfels-Lintharena,Sörenberg,16,9,race/tour-de-suisse/2012/stage-8,215.8
+86,Tour de France 2012  Prologue,2012-06-30,Prologue,Liège,Liège,17,1,race/tour-de-france/2012/prologue,6.4
+87,Tour de France 2012  Stage 1,2012-07-01,RR,Liege,Seraing,17,2,race/tour-de-france/2012/stage-1,198.0
+88,Tour de France 2012  Stage 2,2012-07-02,RR,Vis,Tournai,17,3,race/tour-de-france/2012/stage-2,207.5
+89,Tour de France 2012  Stage 3,2012-07-03,RR,Orchies,Boulogne-sur-mer,17,4,race/tour-de-france/2012/stage-3,197.0
+90,Tour de France 2012  Stage 4,2012-07-04,RR,Abbeville,Rouen,17,5,race/tour-de-france/2012/stage-4,214.5
+91,Tour de France 2012  Stage 5,2012-07-05,RR,Rouen,Saint-quentin,17,6,race/tour-de-france/2012/stage-5,196.5
+92,Tour de France 2012  Stage 6,2012-07-06,RR,Epernay,Metz,17,7,race/tour-de-france/2012/stage-6,205.0
+93,Tour de France 2012  Stage 7,2012-07-07,RR,Tomblaine,La Planche Des Belles Filles,17,8,race/tour-de-france/2012/stage-7,199.0
+94,Tour de France 2012  Stage 8,2012-07-08,RR,Belfort,Porrentruy,17,9,race/tour-de-france/2012/stage-8,157.5
+95,Tour de France 2012  Stage 9 (ITT),2012-07-09,ITT,Arc-et-senans,Besancon,17,10,race/tour-de-france/2012/stage-9,41.5
+96,Tour de France 2012  Stage 10,2012-07-11,RR,Macon,Bellegarde-sur-valserine,17,11,race/tour-de-france/2012/stage-10,194.5
+97,Tour de France 2012  Stage 11,2012-07-12,RR,Albertville,La Toussuire,17,12,race/tour-de-france/2012/stage-11,148.0
+98,Tour de France 2012  Stage 12,2012-07-13,RR,Saint-Jean-de-Maurienne,Annonay Davézieux,17,13,race/tour-de-france/2012/stage-12,226.0
+99,Tour de France 2012  Stage 13,2012-07-14,RR,Saint-paul-trois-châteaux,Cap d\'Agde,17,14,race/tour-de-france/2012/stage-13,217.0
+100,Tour de France 2012  Stage 14,2012-07-15,RR,Limoux,Foix,17,15,race/tour-de-france/2012/stage-14,191.0
+101,Tour de France 2012  Stage 15,2012-07-16,RR,Samatan,Pau,17,16,race/tour-de-france/2012/stage-15,158.5
+102,Tour de France 2012  Stage 16,2012-07-18,RR,Pau,Bagnères-de-luchon,17,17,race/tour-de-france/2012/stage-16,197.0
+103,Tour de France 2012  Stage 17,2012-07-19,RR,Bagnères-de-Luchon,Peyragudes,17,18,race/tour-de-france/2012/stage-17,143.5
+104,Tour de France 2012  Stage 18,2012-07-20,RR,Blagnac,Brive-la-gaillarde,17,19,race/tour-de-france/2012/stage-18,222.5
+105,Tour de France 2012  Stage 19 (ITT),2012-07-21,ITT,Bonneval,Chartres,17,20,race/tour-de-france/2012/stage-19,53.5
+106,Tour de France 2012  Stage 20,2012-07-22,RR,Rambouillet,Paris,17,21,race/tour-de-france/2012/stage-20,120.0
+107,Tour de Pologne 2012  Stage 1,2012-07-10,RR,Karpacz,Jelenia Góra,18,1,race/tour-de-pologne/2012/stage-1,179.5
+108,Tour de Pologne 2012  Stage 2,2012-07-11,RR,Wabrzych,Opole,18,2,race/tour-de-pologne/2012/stage-2,239.4
+109,Tour de Pologne 2012  Stage 3,2012-07-12,RR,Kdzierzyn,Cieszyn,18,3,race/tour-de-pologne/2012/stage-3,201.7
+110,Tour de Pologne 2012  Stage 4,2012-07-13,RR,Bdzin,Katowice,18,4,race/tour-de-pologne/2012/stage-4,124.7
+111,Tour de Pologne 2012  Stage 5,2012-07-14,RR,Rabka,Zakopane,18,5,race/tour-de-pologne/2012/stage-5,163.1
+112,Tour de Pologne 2012  Stage 6,2012-07-15,RR,Bukovina Terma,Bukowina Tatrzaska,18,6,race/tour-de-pologne/2012/stage-6,191.8
+113,Tour de Pologne 2012  Stage 7,2012-07-16,RR,Kraków,Kraków,18,7,race/tour-de-pologne/2012/stage-7,131.4
+114,Eneco Tour 2012  Stage 1,2012-08-06,RR,Waalwijk,Middelburg,19,1,race/binckbank-tour/2012/stage-1,203.9
+115,Eneco Tour 2012  Stage 2 (TTT),2012-08-07,TTT,Sittard,Sittard,19,2,race/binckbank-tour/2012/stage-2,18.9
+116,Eneco Tour 2012  Stage 3,2012-08-08,RR,Reimst,Genk,19,3,race/binckbank-tour/2012/stage-3,188.0
+117,Eneco Tour 2012  Stage 4,2012-08-09,RR,Heers,Bergen op Zoom,19,4,race/binckbank-tour/2012/stage-4,213.3
+118,Eneco Tour 2012  Stage 5,2012-08-10,RR,Hoogerheide,Aalter (B),19,5,race/binckbank-tour/2012/stage-5,184.6
+119,Eneco Tour 2012  Stage 6 (ITT),2012-08-11,ITT,Ardooie,Ardooie,19,6,race/binckbank-tour/2012/stage-6,17.4
+120,Eneco Tour 2012  Stage 7,2012-08-12,RR,Maldegem,Geraardsbergen,19,7,race/binckbank-tour/2012/stage-7,214.5
+121,Clasica Ciclista San Sebastian 2012,2012-08-14,RR,San Sebastian,San Sebastian,20,0,race/san-sebastian/2012,234.0
+122,Vuelta a España 2012  Stage 1 (TTT),2012-08-18,TTT,Pamplona,Pamplona,21,1,race/vuelta-a-espana/2012/stage-1,16.2
+123,Vuelta a España 2012  Stage 2,2012-08-19,RR,Pamplona,Viana,21,2,race/vuelta-a-espana/2012/stage-2,180.0
+124,Vuelta a España 2012  Stage 3,2012-08-20,RR,Faustino V,Eibar (arrate),21,3,race/vuelta-a-espana/2012/stage-3,153.0
+125,Vuelta a España 2012  Stage 4,2012-08-21,RR,Barakaldo,Estación De Valdezcaray,21,4,race/vuelta-a-espana/2012/stage-4,155.4
+126,Vuelta a España 2012  Stage 5,2012-08-22,RR,Logroño,Logroño,21,5,race/vuelta-a-espana/2012/stage-5,172.0
+127,Vuelta a España 2012  Stage 6,2012-08-23,RR,Tarazona,Jaca,21,6,race/vuelta-a-espana/2012/stage-6,174.8
+128,Vuelta a España 2012  Stage 7,2012-08-24,RR,Huesca,Alcañiz. Motorland Aragón,21,7,race/vuelta-a-espana/2012/stage-7,160.0
+129,Vuelta a España 2012  Stage 8,2012-08-25,RR,Lleida,Andorra. Collada De La Gallina,21,8,race/vuelta-a-espana/2012/stage-8,175.0
+130,Vuelta a España 2012  Stage 9,2012-08-26,RR,Andorra,Barcelona,21,9,race/vuelta-a-espana/2012/stage-9,194.0
+131,Vuelta a España 2012  Stage 10,2012-08-28,RR,Ponteareas,Sanxenxo,21,10,race/vuelta-a-espana/2012/stage-10,166.4
+132,Vuelta a España 2012  Stage 11 (ITT),2012-08-29,ITT,Cambados,Pontevedra,21,11,race/vuelta-a-espana/2012/stage-11,39.4
+133,Vuelta a España 2012  Stage 12,2012-08-30,RR,Vilagarcía De Arousa,Dumbría. Mirador De Ézaro,21,12,race/vuelta-a-espana/2012/stage-12,184.6
+134,Vuelta a España 2012  Stage 13,2012-08-31,RR,Santiago De Compostela,Ferrol,21,13,race/vuelta-a-espana/2012/stage-13,172.7
+135,Vuelta a España 2012  Stage 14,2012-09-01,RR,Palas De Rei,Puerto De Ancares,21,14,race/vuelta-a-espana/2012/stage-14,152.0
+136,Vuelta a España 2012  Stage 15,2012-09-02,RR,La Robla,Lagos De Covadonga,21,15,race/vuelta-a-espana/2012/stage-15,186.7
+137,Vuelta a España 2012  Stage 16,2012-09-03,RR,Gijón,Valgrande-pajares. Cuitu Negru,21,16,race/vuelta-a-espana/2012/stage-16,185.0
+138,Vuelta a España 2012  Stage 17,2012-09-05,RR,Santander,Fuente Dé,21,17,race/vuelta-a-espana/2012/stage-17,177.0
+139,Vuelta a España 2012  Stage 18,2012-09-06,RR,Aguilar De Campoo,Valladolid,21,18,race/vuelta-a-espana/2012/stage-18,186.4
+140,Vuelta a España 2012  Stage 19,2012-09-07,RR,Peñafiel,La Lastrilla,21,19,race/vuelta-a-espana/2012/stage-19,178.4
+141,Vuelta a España 2012  Stage 20,2012-09-08,RR,La Faisanera Golf. Segovia 21,Bola Del Mundo,21,20,race/vuelta-a-espana/2012/stage-20,169.5
+142,Vuelta a España 2012  Stage 21,2012-09-09,RR,Cercedilla,Madrid,21,21,race/vuelta-a-espana/2012/stage-21,111.9
+143,Vattenfall Cyclassics 2012,2012-08-19,RR,Hamburg,Hamburg,22,0,race/cyclassics-hamburg/2012,245.9
+144,GP Ouest France - Plouay 2012,2012-08-26,RR,Plouay,Plouay,23,0,race/bretagne-classic/2012,248.3
+145,Grand Prix Cycliste de Quebec 2012,2012-09-07,RR,Quebec,Quebec,24,0,race/gp-quebec/2012,201.6
+146,Grand Prix Cycliste de Montréal 2012,2012-09-09,RR,Montréal,Montréal,25,0,race/gp-montreal/2012,0.0
+147,Il Lombardia 2012,2012-09-29,RR,Bergamo,Lecco,26,0,race/il-lombardia/2012,251.0
+148,Tour of Beijing 2012  Stage 1,2012-10-09,RR,Tian An Men Square,Bird’s Nest Olympic Stadium,27,1,race/tour-of-beijing/2012/stage-1,117.0
+149,Tour of Beijing 2012  Stage 2,2012-10-10,RR,Bird’s Nest,Men Tou Gou,27,2,race/tour-of-beijing/2012/stage-2,126.0
+150,Tour of Beijing 2012  Stage 3,2012-10-11,RR,Men Tou Gou,Badaling Great Wall,27,3,race/tour-of-beijing/2012/stage-3,162.5
+151,Tour of Beijing 2012  Stage 4,2012-10-12,RR,Yanqing,Chang Ping,27,4,race/tour-of-beijing/2012/stage-4,165.5
+152,Tour of Beijing 2012  Stage 5,2012-10-13,RR,Chang Ping,Ping Gu,27,5,race/tour-of-beijing/2012/stage-5,182.5
+153,UCI TTT World Championships Men 2012,2012-09-16,RR,Sittard/Geleen,Valkenburg,0,0,race/world-championship-ttt/2012,53.2
+154,UCI TTT World Championships Women 2012,2012-09-16,RR,Sittard/Geleen,Valkenburg,1,0,race/uci-ttt-world-championships-women/2012,34.2
+155,World Championships MJ - ITT 2012,2012-09-17,RR,Landgraaf,Valkenburg,2,0,race/uci-world-championships-itt-mj/2012,26.6
+156,World Championships U23 - ITT 2012,2012-09-17,RR,Landgraaf,Valkenburg,3,0,race/world-championships-itt-u23/2012,36.0
+157,World Championships Road Race Junior Women 2012,2012-09-21,RR,Valkenburg,Valkenburg,4,0,race/world-championships-junior-women/2012,65.0
+158,World Championships WE - ITT 2012,2012-09-18,RR,Eijsden,Valkenburg,5,0,race/world-championship-itt-we/2012,24.3
+159,World Championships - ITT 2012,2012-09-19,RR,Heerlen,Valkenburg,6,0,race/world-championship-itt/2012,45.7
+160,World Championships Road Race Junior Women 2012,2012-09-21,RR,Valkenburg,Valkenburg,4,0,race/world-championships-junior-women/2012,65.0
+161,World Championships U23 - Road Race 2012,2012-09-22,RR,Valkenburg,Valkenburg,8,0,race/world-championships-u23/2012,177.0
+162,World Championships - Road Race 2012,2012-09-23,RR,Maastricht,Valkenburg,9,0,race/world-championship/2012,267.4
+163,World Championships MJ - Road Race 2012,2012-09-23,RR,Valkenburg,Valkenburg,10,0,race/uci-world-championships-mj/2012,128.8
+164,National Championships South-Africa - ITT 2012,2012-03-01,RR,Nelspruit,Nelspruit,0,0,race/nc-south-africa-itt/2012,0.0
+165,National Championships South Africa - Road Race 2012,2012-03-04,RR,Nelspruit,Nelspruit,1,0,race/nc-south-africa/2012,0.0
+166,Tour du Cameroun 2012  Stage 1,2012-03-08,RR,Figuil, Garoua,2,1,race/tour-du-cameroun/2012/stage-1,105.0
+167,Tour du Cameroun 2012  Stage 2,2012-03-09,RR,Ngaouyanga, Ngaoundere,2,2,race/tour-du-cameroun/2012/stage-2,0.0
+168,Tour du Cameroun 2012  Stage 3,2012-03-10,RR,Bafoussam,Bafoussam,2,3,race/tour-du-cameroun/2012/stage-3,0.0
+169,Tour du Cameroun 2012  Stage 4,2012-03-12,RR,Bafang, Mbanga,2,4,race/tour-du-cameroun/2012/stage-4,0.0
+170,Tour du Cameroun 2012  Stage 5,2012-03-13,RR,Limbé, Kumba,2,5,race/tour-du-cameroun/2012/stage-5,0.0
+171,Tour du Cameroun 2012  Stage 6,2012-03-14,RR,Kumba, Douala,2,6,race/tour-du-cameroun/2012/stage-6,0.0
+172,Tour du Cameroun 2012  Stage 7,2012-03-15,RR,Douala,Kribi,2,7,race/tour-du-cameroun/2012/stage-7,0.0
+173,Tour du Cameroun 2012  Stage 8,2012-03-17,RR,Pouma, Yaoundé,2,8,race/tour-du-cameroun/2012/stage-8,0.0
+174,Tour d\'Algérie 2012  Stage 1,2012-03-10,RR,Algiers,Ain Defla,3,1,race/tour-d-algerie/2012/stage-1,140.0
+175,Tour d\'Algérie 2012  Stage 2,2012-03-11,RR,Chlef, Mostaganem,3,2,race/tour-d-algerie/2012/stage-2,137.0
+176,Tour d\'Algérie 2012  Stage 3,2012-03-12,RR,Oran, Sidi Bel Abbes,3,3,race/tour-d-algerie/2012/stage-3,170.0
+177,Tour d\'Algérie 2012  Stage 4,2012-03-13,RR,Oran,Oran,3,4,race/tour-d-algerie/2012/stage-4,138.0
+178,Tour d\'Algérie 2012  Stage 5,2012-03-13,RR,Oran,Oran,3,5,race/tour-d-algerie/2012/stage-5,127.0
+179,Circuit d\'Alger 2012,2012-03-16,RR,Alger,Alger,4,0,race/circuit-d-alger/2012,0.0
+180,Tour du Maroc 2012  Stage 1,2012-03-23,RR,Tanger, Tetouan,5,1,race/tour-du-maroc/2012/stage-1,130.0
+181,Tour du Maroc 2012  Stage 2,2012-03-24,RR,Start,Finish,5,2,race/tour-du-maroc/2012/stage-2,0.0
+182,Tour du Maroc 2012  Stage 3,2012-03-25,RR,Fes, Khenifra,5,3,race/tour-du-maroc/2012/stage-3,152.0
+183,Tour du Maroc 2012  Stage 4,2012-03-26,RR,Khenifra, Midelt,5,4,race/tour-du-maroc/2012/stage-4,144.0
+184,Tour du Maroc 2012  Stage 5,2012-03-27,RR,Midelt, Er Rachidia,5,5,race/tour-du-maroc/2012/stage-5,126.0
+185,Tour du Maroc 2012  Stage 6,2012-03-28,RR,Er Rachidia, Tinghir,5,6,race/tour-du-maroc/2012/stage-6,137.0
+186,Tour du Maroc 2012  Stage 7,2012-03-29,RR,Tinghir, Ouarzazate,5,7,race/tour-du-maroc/2012/stage-7,170.0
+187,Tour du Maroc 2012  Stage 8,2012-03-30,RR,Ouarzazate, Marrakech,5,8,race/tour-du-maroc/2012/stage-8,190.0
+188,Tour du Maroc 2012  Stage 9,2012-03-31,RR,Marrakech, El Jadida,5,9,race/tour-du-maroc/2012/stage-9,179.0
+189,Tour du Maroc 2012  Stage 10,2012-04-01,RR, El Jadida, Casablanca,5,10,race/tour-du-maroc/2012/stage-10,120.0
+190,National Championships Namibia - Road Race 2012,2012-03-31,RR,Windhoek,Windhoek,6,0,race/nc-namibia/2012,0.0
+191,National Championships Namibia - ITT 2012,2012-04-01,RR,Windhoek,Windhoek,7,0,race/nc-namibia-itt/2012,0.0
+192,Les Challenges Phosphatiers-Challenge Khouribga 2012,2012-04-03,RR,Start,Finish,8,0,race/les-challenges-phosphatiers-challenge-khouribga/2012,0.0
+193,Les Challenges Phosphatiers-Challenge Youssoufia 2012,2012-04-04,RR,Start,Finish,9,0,race/challenge-youssoufia/2012,0.0
+194,Les Challenges Phosphatiers-Challenge Ben Guerir 2012,2012-04-05,RR,Fkih Ben Salah,Ben Guerir,10,0,race/challenge-ben-guerir/2012,0.0
+195,La Tropicale Amissa Bongo 2012  Stage 1,2012-04-24,RR,Fougamou,Lambarene,11,1,race/la-tropicale-amissa-bongo/2012/stage-1,92.0
+196,La Tropicale Amissa Bongo 2012  Stage 2,2012-04-25,RR,Lambarene, Ndjole,11,2,race/la-tropicale-amissa-bongo/2012/stage-2,130.0
+197,La Tropicale Amissa Bongo 2012  Stage 3,2012-04-26,RR,Franceville,,11,3,race/la-tropicale-amissa-bongo/2012/stage-3,88.0
+198,La Tropicale Amissa Bongo 2012  Stage 4,2012-04-27,RR,Mounana, Bongoville,11,4,race/la-tropicale-amissa-bongo/2012/stage-4,120.0
+199,La Tropicale Amissa Bongo 2012  Stage 5,2012-04-28,RR, Léconi, Franceville,11,5,race/la-tropicale-amissa-bongo/2012/stage-5,100.0
+200,La Tropicale Amissa Bongo 2012  Stage 6,2012-04-29,RR,Owendo, Libreville,11,6,race/la-tropicale-amissa-bongo/2012/stage-6,50.0
+201,Challenge Du Prince - Trophée Princier 2012,2012-05-07,RR,Rabat,Meknes,12,0,race/challenge-du-prince-trophee-princier/2012,0.0
+202,Challenge du Prince - Trophée de l\'Anniversaire 2012,2012-05-08,RR,Start,Finish,13,0,race/challenge-du-prince-trophee-de-l-anniversaire/2012,139.0
+203,Challenge Du Prince - Trophée de la Maison Royale 2012,2012-05-09,RR,Start,Finish,14,0,race/challenge-du-prince/2012,179.0
+204,Tour of Eritrea 2012  Stage 1,2012-05-30,RR,Mendefera,Dek\'emhare,15,1,race/tour-eritrea/2012/stage-1,89.0
+205,Tour of Eritrea 2012  Stage 2,2012-05-31,RR,Massawa,Asmara,15,2,race/tour-eritrea/2012/stage-2,115.0
+206,Tour of Eritrea 2012  Stage 3,2012-06-01,RR,Asmara,Keren,15,3,race/tour-eritrea/2012/stage-3,94.0
+207,Tour of Eritrea 2012  Stage 4,2012-06-02,RR,Keren,Asmara,15,4,race/tour-eritrea/2012/stage-4,94.0
+208,Tour of Eritrea 2012  Stage 5,2012-06-03,RR,Asmara,Asmara,15,5,race/tour-eritrea/2012/stage-5,146.5
+209,National Championships Tunisia - ITT 2012,2012-06-03,RR,El Mourouj,El Mourouj,16,0,race/nc-tunisia-itt/2012,0.0
+210,Kwita Izina Cycling Tour 2012  Stage 1,2012-06-09,RR,Kigali, Kinigi,17,1,race/kwita-izina-cycling-tour/2012/stage-1,100.0
+211,Kwita Izina Cycling Tour 2012  Stage 2,2012-06-09,RR,Ruhengeri, Rubavu,17,2,race/kwita-izina-cycling-tour/2012/stage-2,63.0
+212,Kwita Izina Cycling Tour 2012  Stage 3,2012-06-10,RR,Rubavu,Kigali,17,3,race/kwita-izina-cycling-tour/2012/stage-3,158.0
+213,National Championships Burkina Faso - Road Race 2012,2012-06-10,RR,Ouagadougou,Ouagadougou,18,0,race/nc-burkina-faso/2012,0.0
+214,National Championships Algeria - ITT 2012,2012-06-20,RR,Souk Ahras,Souk Ahras,19,0,race/nc-algeria-itt/2012,0.0
+215,National Championships Algeria - Road Race 2012,2012-06-22,RR,Souk Ahras,Souk Ahras,20,0,race/nc-algeria/2012,0.0
+216,National Championships Eritrea - ITT 2012,2012-06-23,RR,Start,Finish,21,0,race/nc-eritrea-itt/2012,0.0
+217,National Championships Morocco - ITT 2012,2012-06-23,RR,Ifrane,Ifrane,22,0,race/nc-morocco-itt/2012,0.0
+218,National Championships Eritrea - Road Race 2012,2012-06-24,RR,Start,Finish,23,0,race/nc-eritrea/2012,0.0
+219,National Championships Morocco - Road Race 2012,2012-06-24,RR,Ifrane,Ifrane,24,0,race/nc-morocco/2012,0.0
+220,National Championships Tunisia - Road Race 2012,2012-06-24,RR,Gammarth,Gammarth,25,0,race/nc-tunisia/2012,0.0
+221,National Championships Uganda - Road Race 2012,2012-07-15,RR,Start,Finish,26,0,race/nc-uganda/2012,130.0
+222,Grand Prix Chantal Biya 2012  Stage 1,2012-10-04,RR,Yaounde,Bafia,27,1,race/grand-prix-chantal-biya/2012/stage-1,122.7
+223,Grand Prix Chantal Biya 2012  Stage 2,2012-10-05,RR,Yaounde,Ebolowa,27,2,race/grand-prix-chantal-biya/2012/stage-2,155.3
+224,Grand Prix Chantal Biya 2012  Stage 3,2012-10-06,RR,Kyo-si, Ebolowa,27,3,race/grand-prix-chantal-biya/2012/stage-3,128.0
+225,Grand Prix Chantal Biya 2012  Stage 4,2012-10-07,RR,Ebolowa,Yaounde,27,4,race/grand-prix-chantal-biya/2012/stage-4,155.3
+226,Tour du Faso 2012  Stage 1,2012-10-19,RR,Ouagadougou,Ouahigouya,28,1,race/tour-du-faso/2012/stage-1,165.9
+227,Tour du Faso 2012  Stage 2,2012-10-20,RR,Yako,Ziniaré,28,2,race/tour-du-faso/2012/stage-2,142.1
+228,Tour du Faso 2012  Stage 3,2012-10-21,RR,Kokologho,Boromo,28,3,race/tour-du-faso/2012/stage-3,128.9
+229,Tour du Faso 2012  Stage 4,2012-10-22,RR,Boromo,Bobo-Dioulasso,28,4,race/tour-du-faso/2012/stage-4,178.0
+230,Tour du Faso 2012  Stage 5,2012-10-23,RR,Bobo,Banfora,28,5,race/tour-du-faso/2012/stage-5,84.6
+231,Tour du Faso 2012  Stage 6,2012-10-24,RR,Bobo Dioulasso,Dedougou,28,6,race/tour-du-faso/2012/stage-6,170.0
+232,Tour du Faso 2012  Stage 7,2012-10-25,RR,Bobo,Orodara,28,7,race/tour-du-faso/2012/stage-7,74.5
+233,Tour du Faso 2012  Stage 8,2012-10-26,RR,Bobo Dioulasso, Pâ ,28,8,race/tour-du-faso/2012/stage-8,124.8
+234,Tour du Faso 2012  Stage 9,2012-10-27,RR,Boromo,Koudougou,28,9,race/tour-du-faso/2012/stage-9,153.0
+235,Tour du Faso 2012  Stage 10,2012-10-28,RR,Kombissiri,Ouagadougou,28,10,race/tour-du-faso/2012/stage-10,106.8
+236,National Championships Rwanda - Road Race 2012,2012-10-21,RR,Kigali,Kigali,29,0,race/nc-rwanda/2012,146.0
+237,African Continental Championships TTT 2012,2012-11-07,RR,Ouagadougou,Ouagadougou,30,0,race/african-cycling-championships-ttt/2012,42.4
+238,African Continental Championships - ITT 2012,2012-11-09,RR,Ouagadougou,Ouagadougou,31,0,race/african-continental-championships-itt/2012,31.8
+239,African Continental Championships - Road Race 2012,2012-11-11,RR,Ouagadougou,Ouagadougou,32,0,race/african-championships/2012,170.0
+240,Tour of Rwanda 2012  Prologue,2012-11-18,Prologue,Kigali,Kigali,33,1,race/tour-of-rwanda/2012/prologue,3.5
+241,Tour of Rwanda 2012  Stage 1,2012-11-19,RR,Kigali,Nyagatare,33,2,race/tour-of-rwanda/2012/stage-1,159.7
+242,Tour of Rwanda 2012  Stage 2 (ITT),2012-11-20,ITT,Kigali,Muhanga,33,3,race/tour-of-rwanda/2012/stage-2,44.1
+243,Tour of Rwanda 2012  Stage 3,2012-11-20,RR,Muhanga,Huye,33,4,race/tour-of-rwanda/2012/stage-3,76.9
+244,Tour of Rwanda 2012  Stage 4,2012-11-21,RR,Huye,Karongi,33,5,race/tour-of-rwanda/2012/stage-4,152.9
+245,Tour of Rwanda 2012  Stage 5,2012-11-22,RR,Muhanga,Musanze,33,6,race/tour-of-rwanda/2012/stage-5,126.5
+246,Tour of Rwanda 2012  Stage 6,2012-11-23,RR,Musanze,Rubavu,33,7,race/tour-of-rwanda/2012/stage-6,60.5
+247,Tour of Rwanda 2012  Stage 7,2012-11-24,RR,Rubavu,Kigali,33,8,race/tour-of-rwanda/2012/stage-7,156.4
+248,Tour of Rwanda 2012  Stage 8,2012-11-25,RR,Kigali,Kigali,33,9,race/tour-of-rwanda/2012/stage-8,124.3
+249,Tour de Langkawi 2012  Stage 1 (ITT),2012-02-24,ITT,Putrajaya,Putrajaya,0,1,race/tour-de-langkawi/2012/stage-1,20.3
+250,Tour de Langkawi 2012  Stage 2,2012-02-25,RR,Putrajaya,Melaka,0,2,race/tour-de-langkawi/2012/stage-2,151.0
+251,Tour de Langkawi 2012  Stage 3,2012-02-26,RR,Melaka,Parit Sulong,0,3,race/tour-de-langkawi/2012/stage-3,187.6
+252,Tour de Langkawi 2012  Stage 4,2012-02-27,RR,Batu Pahat,Muar,0,4,race/tour-de-langkawi/2012/stage-4,169.4
+253,Tour de Langkawi 2012  Stage 5,2012-02-28,RR,Ayer Keroh,"Pandan Indah, Ampang",0,5,race/tour-de-langkawi/2012/stage-5,187.2
+254,Tour de Langkawi 2012  Stage 6,2012-02-29,RR,"Proton, Shah Alam",,0,6,race/tour-de-langkawi/2012/stage-6,108.0
+255,Tour de Langkawi 2012  Stage 7,2012-03-01,RR,Bentong, Kuantan,0,7,race/tour-de-langkawi/2012/stage-7,205.8
+256,Tour de Langkawi 2012  Stage 8,2012-03-02,RR,Pekan, Cukai,0,8,race/tour-de-langkawi/2012/stage-8,100.8
+257,Tour de Langkawi 2012  Stage 9,2012-03-03,RR,Kemasik, Kuala Terengganu,0,9,race/tour-de-langkawi/2012/stage-9,165.7
+258,Tour de Langkawi 2012  Stage 10,2012-03-04,RR,Tasik Kenyir, Kuala Terengganu Loop,0,10,race/tour-de-langkawi/2012/stage-10,116.6
+259,Tour de Taiwan 2012  Stage 1,2012-03-10,RR,Taipei City,Taipei City,1,1,race/tour-de-taiwan/2012/stage-1,52.0
+260,Tour de Taiwan 2012  Stage 2,2012-03-11,RR,New Taipei City,New Taipei City,1,2,race/tour-de-taiwan/2012/stage-2,135.0
+261,Tour de Taiwan 2012  Stage 3,2012-03-12,RR,Taoyuan Country,Taoyuan Country,1,3,race/tour-de-taiwan/2012/stage-3,130.0
+262,Tour de Taiwan 2012  Stage 4,2012-03-13,RR,Taichung City, Taichung City,1,4,race/tour-de-taiwan/2012/stage-4,140.0
+263,Tour de Taiwan 2012  Stage 5,2012-03-14,RR,Baguashan,Baguashan,1,5,race/tour-de-taiwan/2012/stage-5,150.0
+264,Tour de Taiwan 2012  Stage 6,2012-03-15,RR,Tainan City,Guanziling,1,6,race/tour-de-taiwan/2012/stage-6,135.0
+265,Tour de Taiwan 2012  Stage 7,2012-03-16,RR,Kaohsiung City,Kaohsiung City,1,7,race/tour-de-taiwan/2012/stage-7,150.0
+266,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012  Prologue,2012-04-01,Prologue,Chiang Rai,Chiang Rai,2,1,race/tour-of-thailand/2012/prologue,2.86
+267,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012  Stage 1,2012-04-02,RR,Chiang Rai,Chiang Rai,2,2,race/tour-of-thailand/2012/stage-1,162.2
+268,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012  Stage 2,2012-04-03,RR,Chiang Rai, Mae Chan,2,3,race/tour-of-thailand/2012/stage-2,111.2
+269,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012  Stage 3,2012-04-04,RR,Chiang Rai,Chiang Rai,2,4,race/tour-of-thailand/2012/stage-3,146.1
+270,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012  Stage 4,2012-04-05,RR,Chiang Rai, Wat Rong Khun,2,5,race/tour-of-thailand/2012/stage-4,136.6
+271,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012  Stage 5,2012-04-06,RR,Chiang Rai, Chiang Khong,2,6,race/tour-of-thailand/2012/stage-5,130.0
+272,Le Tour de Filipinas 2012  Stage 1,2012-04-14,RR,Santa Ana,Tuguegarao,3,1,race/le-tour-de-filipinas/2012/stage-1,155.8
+273,Le Tour de Filipinas 2012  Stage 2,2012-04-15,RR,Tuguegarao,Cauayan,3,2,race/le-tour-de-filipinas/2012/stage-2,103.3
+274,Le Tour de Filipinas 2012  Stage 3,2012-04-16,RR,Cauayan,Bayombong,3,3,race/le-tour-de-filipinas/2012/stage-3,102.5
+275,Le Tour de Filipinas 2012  Stage 4,2012-04-17,RR,Bayombong,Baguio,3,4,race/le-tour-de-filipinas/2012/stage-4,133.8
+276,Tour de Korea 2012  Stage 1,2012-04-22,RR,Incheon, Seoul,4,1,race/tour-de-korea/2012/stage-1,52.0
+277,Tour de Korea 2012  Stage 2,2012-04-23,RR,Buyeo, Gwangju,4,2,race/tour-de-korea/2012/stage-2,197.7
+278,Tour de Korea 2012  Stage 3,2012-04-24,RR,Gwangju, Yeosu,4,3,race/tour-de-korea/2012/stage-3,135.6
+279,Tour de Korea 2012  Stage 4,2012-04-25,RR,Yeosu, Geochang,4,4,race/tour-de-korea/2012/stage-4,176.2
+280,Tour de Korea 2012  Stage 5,2012-04-26,RR,Geochang, Kumi,4,5,race/tour-de-korea/2012/stage-5,146.8
+281,Tour de Korea 2012  Stage 6,2012-04-27,RR,Kumi, Yeongju,4,6,race/tour-de-korea/2012/stage-6,164.0
+282,Tour de Korea 2012  Stage 7,2012-04-28,RR,Yeongju, Chungju,4,7,race/tour-de-korea/2012/stage-7,138.0
+283,Tour de Korea 2012  Stage 8 (ITT),2012-04-29,ITT,Yeoju, Hanam,4,8,race/tour-de-korea/2012/stage-8,45.8
+284,Tour of Borneo 2012  Stage 1,2012-04-27,RR,Semporna, Tawau,5,1,race/tour-of-borneo/2012/stage-1,102.8
+285,Tour of Borneo 2012  Stage 2,2012-04-28,RR,Tawau, Lahad Datu,5,2,race/tour-of-borneo/2012/stage-2,146.6
+286,Tour of Borneo 2012  Stage 3,2012-04-29,RR,Lahad Datu,,5,3,race/tour-of-borneo/2012/stage-3,181.8
+287,Tour of Borneo 2012  Stage 4,2012-04-30,RR,Sepilok, Kundasang,5,4,race/tour-of-borneo/2012/stage-4,214.8
+288,Tour of Borneo 2012  Stage 5,2012-05-01,RR,Kundasang, Kota Kinabalu,5,5,race/tour-of-borneo/2012/stage-5,112.4
+289,National Championships Japan - Road Race 2012,2012-04-29,RR,Hachimantai,Hachimantai,6,0,race/nc-japan/2012,0.0
+290,Jelajah Malaysia 2012  Stage 1,2012-05-08,RR,Kuala Lumpur, Kampar,7,1,race/jelajah-malaysia/2012/stage-1,161.5
+291,Jelajah Malaysia 2012  Stage 2,2012-05-09,RR,Kampar, Kulim,7,2,race/jelajah-malaysia/2012/stage-2,201.8
+292,Jelajah Malaysia 2012  Stage 3,2012-05-10,RR,Kulim, Chuping,7,3,race/jelajah-malaysia/2012/stage-3,168.8
+293,Jelajah Malaysia 2012  Stage 4,2012-05-11,RR,Kangar, Sungai Petan,7,4,race/jelajah-malaysia/2012/stage-4,98.5
+294,Jelajah Malaysia 2012  Stage 5,2012-05-12,RR,Sungai Petani, Ipoh,7,5,race/jelajah-malaysia/2012/stage-5,193.4
+295,Jelajah Malaysia 2012  Stage 6,2012-05-13,RR,Ipoh, Kuala Lumpur,7,6,race/jelajah-malaysia/2012/stage-6,199.5
+296,International Azerbaïjan Tour 2012  Stage 1,2012-05-11,RR,Tabriz, Urmia,8,1,race/international-azerbaijan-tour/2012/stage-1,141.0
+297,International Azerbaïjan Tour 2012  Stage 2,2012-05-12,RR,Urmia,,8,2,race/international-azerbaijan-tour/2012/stage-2,174.0
+298,International Azerbaïjan Tour 2012  Stage 3,2012-05-13,RR,Tabriz, Mianeh,8,3,race/international-azerbaijan-tour/2012/stage-3,155.0
+299,International Azerbaïjan Tour 2012  Stage 4,2012-05-14,RR,Qarah Chaman, Ardabil,8,4,race/international-azerbaijan-tour/2012/stage-4,194.0
+300,International Azerbaïjan Tour 2012  Stage 5,2012-05-15,RR,Sarein, Tabriz,8,5,race/international-azerbaijan-tour/2012/stage-5,188.0
+301,International Azerbaïjan Tour 2012  Stage 6,2012-05-16,RR,Tabriz,Tabriz,8,6,race/international-azerbaijan-tour/2012/stage-6,80.0
+302,Tour of Japan 2012  Prologue,2012-05-20,Prologue,Sakai,Sakai,9,1,race/tour-of-japan/2012/prologue,2.65
+303,Tour of Japan 2012  Stage 2,2012-05-22,RR,Mino,Mino,9,2,race/tour-of-japan/2012/stage-2,155.5
+304,Tour of Japan 2012  Stage 3,2012-05-23,RR,Minami-Shinshu,Minami-Shinshu,9,3,race/tour-of-japan/2012/stage-3,158.0
+305,Tour of Japan 2012  Stage 4,2012-05-25,RR,Mount Fuji,Mount Fuji,9,4,race/tour-of-japan/2012/stage-4,11.4
+306,Tour of Japan 2012  Stage 5,2012-05-27,RR,Izu,Izu,9,5,race/tour-of-japan/2012/stage-5,146.4
+307,Tour of Japan 2012  Stage 6,2012-05-27,RR,Tokyo,Tokyo,9,6,race/tour-of-japan/2012/stage-6,112.7
+308,Tour de Kumano 2012  Prologue,2012-05-31,Prologue,Shingu,Shingu,10,1,race/tour-de-kumano/2012/prologue,0.7
+309,Tour de Kumano 2012  Stage 1,2012-06-01,RR,Kumanogawa,Kumanogawa,10,2,race/tour-de-kumano/2012/stage-1,0.0
+310,Tour de Kumano 2012  Stage 2,2012-06-02,RR,Kumano,Kumano,10,3,race/tour-de-kumano/2012/stage-2,0.0
+311,Tour de Kumano 2012  Stage 3,2012-06-03,RR,Taiji,Taiji,10,4,race/tour-de-kumano/2012/stage-3,0.0
+312,Tour of Singkarak 2012  Stage 1,2012-06-04,RR,Sawahlunto,Sawahlunto,11,1,race/tour-of-singkarak/2012/stage-1,77.6
+313,Tour of Singkarak 2012  Stage 2,2012-06-05,RR,Muara Sijunjung, Padang,11,2,race/tour-of-singkarak/2012/stage-2,124.5
+314,Tour of Singkarak 2012  Stage 3,2012-06-06,RR,Payakumbuh, Istana Baso Pagaruyung,11,3,race/tour-of-singkarak/2012/stage-3,102.0
+315,Tour of Singkarak 2012  Stage 4,2012-06-07,RR,Padang Pariaman, Bukittinggi,11,4,race/tour-of-singkarak/2012/stage-4,157.7
+316,Tour of Singkarak 2012  Stage 5,2012-06-08,RR,Padang Panjang, Singkarak,11,5,race/tour-of-singkarak/2012/stage-5,149.0
+317,Tour of Singkarak 2012  Stage 6,2012-06-09,RR,Pariaman, Painan,11,6,race/tour-of-singkarak/2012/stage-6,143.9
+318,Tour of Singkarak 2012  Stage 7,2012-06-10,RR,Padang,Padang,11,7,race/tour-of-singkarak/2012/stage-7,99.3
+319,National Championships Japan - ITT 2012,2012-06-17,RR,Akita,Akita,12,0,race/nc-japan-itt/2012,0.0
+320,Polygon Tour de Jakarta 2012,2012-06-17,RR,Start,Finish,13,0,race/polygon-tour-de-jakarta/2012,147.0
+321,National Championships Israel - ITT 2012,2012-06-19,RR,Bashan,Bashan,14,0,race/nc-israel-itt/2012,0.0
+322,National Championships Kazakhstan - ITT 2012,2012-06-22,RR,Taldykorgan,Taldykorgan,15,0,race/nc-kazakhstan-itt/2012,0.0
+323,National Championships Uzbekistan - ITT 2012,2012-06-22,RR,Fergana,Fergana,16,0,race/nc-uzbekistan-itt/2012,0.0
+324,National Championships Israel - Road Race 2012,2012-06-23,RR,Haifa,Haifa,17,0,race/nc-israel/2012,0.0
+325,National Championships Kyrgyzstan - ITT 2012,2012-06-23,RR,Bishkek,Bishkek,18,0,race/national-tt-championships-kyrgyzstan/2012,0.0
+326,National Championships Malaysia - ITT 2012,2012-06-23,RR,Tok Bali,Tok Bali,19,0,race/nc-malaysia-itt/2012,0.0
+327,National Championships Singapore - ITT 2012,2012-06-23,RR,Changi,Changi,20,0,race/nc-singapore-itt2/2012,0.0
+328,National Championships Hong Kong - Road Race 2012,2012-06-24,RR,Hong Kong,Hong Kong,21,0,race/nc-hong-kong/2012,0.0
+329,National Championships Kazakhstan - Road Race 2012,2012-06-24,RR,Taldykorgan,Taldykorgan,22,0,race/nc-kazakhstan/2012,0.0
+330,National Championships Kyrgyzstan - Road Race 2012,2012-06-24,RR,Bishkek,Bishkek,23,0,race/nc-kyrgyzstan/2012,0.0
+331,National Championships Malaysia - Road Race 2012,2012-06-24,RR,Tok Bali,Tok Bali,24,0,race/nc-malaysia/2012,0.0
+332,National Championships Singapore - Road Race 2012,2012-06-24,RR,Changi,Changi,25,0,race/nc-singapore-itt/2012,0.0
+333,National Championships South Korea - Road Race 2012,2012-06-24,RR,Start,Finish,26,0,race/nc-south-korea/2012,0.0
+334,National Championships Uzbekistan - Road Race 2012,2012-06-24,RR,Fergana,Fergana,27,0,race/nc-uzbekistan/2012,0.0
+335,Tour of Qinghai Lake 2012  Stage 1,2012-06-29,RR,Xining Circuit Race,Xining Circuit Race,28,1,race/tour-of-qinghai-lake/2012/stage-1,96.8
+336,Tour of Qinghai Lake 2012  Stage 2,2012-06-30,RR,Duoba Base,Huzhu,28,2,race/tour-of-qinghai-lake/2012/stage-2,122.0
+337,Tour of Qinghai Lake 2012  Stage 3,2012-07-01,RR,Xining,Qinghai Lake,28,3,race/tour-of-qinghai-lake/2012/stage-3,147.0
+338,Tour of Qinghai Lake 2012  Stage 4,2012-07-02,RR,Qinghai Lake,Chaqia,28,4,race/tour-of-qinghai-lake/2012/stage-4,148.0
+339,Tour of Qinghai Lake 2012  Stage 5,2012-07-03,RR,Tianjun Xian,Xihaizhen,28,5,race/tour-of-qinghai-lake/2012/stage-5,205.0
+340,Tour of Qinghai Lake 2012  Stage 6,2012-07-04,RR,Xihaizhen,Mole,28,6,race/tour-of-qinghai-lake/2012/stage-6,123.0
+341,Tour of Qinghai Lake 2012  Stage 7,2012-07-05,RR,Qilian, Qilian,28,7,race/tour-of-qinghai-lake/2012/stage-7,104.0
+342,Tour of Qinghai Lake 2012  Stage 8,2012-07-07,RR,Qilian, Zhangye ,28,8,race/tour-of-qinghai-lake/2012/stage-8,201.0
+343,Tour of Qinghai Lake 2012  Stage 9,2012-07-08,RR,Zhangye, Zhangye ,28,9,race/tour-of-qinghai-lake/2012/stage-9,117.0
+344,Tour of Qinghai Lake 2012  Stage 10,2012-07-09,RR,Wuwei, Jingtai ,28,10,race/tour-of-qinghai-lake/2012/stage-10,191.0
+345,Tour of Qinghai Lake 2012  Stage 11,2012-07-10,RR,Zhongwei,Zhongwei,28,11,race/tour-of-qinghai-lake/2012/stage-11,107.0
+346,Tour of Qinghai Lake 2012  Stage 12,2012-07-11,RR,Zhongwei, Baiyin ,28,12,race/tour-of-qinghai-lake/2012/stage-12,220.0
+347,Tour of Qinghai Lake 2012  Stage 13,2012-07-12,RR,Lanzhou,Lanzhou,28,13,race/tour-of-qinghai-lake/2012/stage-13,78.0
+348,Tour of East Java 2012  Stage 1,2012-08-29,RR,Probolinggo,Malang,29,1,race/tour-of-east-java/2012/stage-1,84.4
+349,Tour of East Java 2012  Stage 2,2012-08-30,RR,Malang,Tulungagung,29,2,race/tour-of-east-java/2012/stage-2,125.6
+350,Tour of East Java 2012  Stage 3,2012-08-31,RR,Tulungagung,Mojosari,29,3,race/tour-of-east-java/2012/stage-3,135.0
+351,Tour of East Java 2012  Stage 4,2012-09-01,RR,Mojokerto,Gresik,29,4,race/tour-of-east-java/2012/stage-4,131.4
+352,Tour of China I 2012  Stage 1 (TTT),2012-09-07,TTT,Xi’an,Xi’an,30,1,race/tour-of-china/2012/stage-1,19.8
+353,Tour of China I 2012  Stage 2,2012-09-08,RR,Xi’an,Xi’an,30,2,race/tour-of-china/2012/stage-2,100.0
+354,Tour of China I 2012  Stage 3,2012-09-09,RR,"Lantian, Xi’an",Shangluo,30,3,race/tour-of-china/2012/stage-3,125.6
+355,Tour of China I 2012  Stage 4,2012-09-11,RR,Shangluo,Xiangyang,30,4,race/tour-of-china/2012/stage-4,125.1
+356,Tour of China I 2012  Stage 5,2012-09-12,RR,Zaoyang,Zaoyang,30,5,race/tour-of-china/2012/stage-5,117.0
+357,Tour of China I 2012  Stage 6,2012-09-13,RR,Wuhan,Wuhan,30,6,race/tour-of-china/2012/stage-6,90.4
+358,Tour de Hokkaido 2012  Stage 1,2012-09-15,RR,Asahikawa,Toma,31,1,race/tour-de-hokkaido/2012/stage-1,156.6
+359,Tour de Hokkaido 2012  Stage 2,2012-09-16,RR,Toma,Biei,31,2,race/tour-de-hokkaido/2012/stage-2,156.5
+360,Tour de Hokkaido 2012  Stage 3,2012-09-17,RR,Biei,Sapporo,31,3,race/tour-de-hokkaido/2012/stage-3,196.2
+361,Tour of China II 2012  Prologue,2012-09-16,Prologue,Wuhan Jiangxia,Wuhan Jiangxia,32,1,race/tour-of-china-ii/2012/prologue,6.2
+362,Tour of China II 2012  Stage 1,2012-09-18,RR,Huainan,Huainan,32,2,race/tour-of-china-ii/2012/stage-1,121.6
+363,Tour of China II 2012  Stage 2,2012-09-20,RR,Jining,Jining,32,3,race/tour-of-china-ii/2012/stage-2,146.1
+364,Tour of China II 2012  Stage 3,2012-09-21,RR,Dezhou,Dezhou,32,4,race/tour-of-china-ii/2012/stage-3,112.0
+365,Tour of China II 2012  Stage 4 (ITT),2012-09-22,ITT,Tianjin,Tianjin,32,5,race/tour-of-china-ii/2012/stage-4,18.2
+366,Tour of China II 2012  Stage 5,2012-09-23,RR,Tianjin,Tianjin,32,6,race/tour-of-china-ii/2012/stage-5,106.0
+367,Butra Heidelberg Cement Tour dé Brunei 2012  Stage 1,2012-09-26,RR,Muara,Bandar Seri Begawan,33,1,race/butra-heidelberg-cement-tour-de-brunei/2012/stage-1,93.1
+368,Butra Heidelberg Cement Tour dé Brunei 2012  Stage 2,2012-09-27,RR,Bandar Seri Begawan,Tutong,33,2,race/butra-heidelberg-cement-tour-de-brunei/2012/stage-2,117.4
+369,Butra Heidelberg Cement Tour dé Brunei 2012  Stage 3,2012-09-28,RR,Tutong,Kuala Belait,33,3,race/butra-heidelberg-cement-tour-de-brunei/2012/stage-3,96.5
+370,Butra Heidelberg Cement Tour dé Brunei 2012  Stage 4,2012-09-29,RR,Kuala Belait,Bandar Seri Begawan,33,4,race/butra-heidelberg-cement-tour-de-brunei/2012/stage-4,185.3
+371,Butra Heidelberg Cement Tour dé Brunei 2012  Stage 5,2012-09-30,RR,Bandar Seri Begawan,Bandar Seri Begawan,33,5,race/butra-heidelberg-cement-tour-de-brunei/2012/stage-5,104.0
+372,National Championships India - ITT 2012,2012-10-17,RR,Start,Finish,34,0,race/nc-india-itt/2012,40.0
+373,National Championships India - Road Race 2012,2012-10-19,RR,Start,Finish,35,0,race/nc-india/2012,120.0
+374,Tour of Hainan 2012  Stage 1,2012-10-20,RR,Sanya,Xinglong,36,1,race/tour-of-hainan/2012/stage-1,112.7
+375,Tour of Hainan 2012  Stage 2,2012-10-21,RR,Wanning,Wenchang,36,2,race/tour-of-hainan/2012/stage-2,145.6
+376,Tour of Hainan 2012  Stage 3,2012-10-22,RR,Wenchang,Haikou,36,3,race/tour-of-hainan/2012/stage-3,194.0
+377,Tour of Hainan 2012  Stage 4,2012-10-23,RR,Haikou,Chengmai,36,4,race/tour-of-hainan/2012/stage-4,163.9
+378,Tour of Hainan 2012  Stage 5,2012-10-24,RR,Chengmai,Danzhou,36,5,race/tour-of-hainan/2012/stage-5,207.8
+379,Tour of Hainan 2012  Stage 6,2012-10-25,RR,Danzhou,Dongfang,36,6,race/tour-of-hainan/2012/stage-6,171.9
+380,Tour of Hainan 2012  Stage 7,2012-10-26,RR,Dongfang,Wuzhishan,36,7,race/tour-of-hainan/2012/stage-7,215.7
+381,Tour of Hainan 2012  Stage 8,2012-10-27,RR,Wuzhishan,Sanya,36,8,race/tour-of-hainan/2012/stage-8,141.6
+382,Tour of Hainan 2012  Stage 9,2012-10-28,RR,Haitang Bay,Haitang Bay,36,9,race/tour-of-hainan/2012/stage-9,103.2
+383,Japan Cup Cycle Road Race 2012,2012-10-21,RR,Utsunomiya,Utsunomiya,37,0,race/japan-cup/2012,151.3
+384,Tour of Taihu Lake 2012  Stage 1,2012-11-01,RR,Binhu,Binhu,38,1,race/tour-of-taihu-lake/2012/stage-1,142.0
+385,Tour of Taihu Lake 2012  Stage 2,2012-11-02,RR,Zhangjiagang Shuangshan,Zhangjiagang Shuangshan,38,2,race/tour-of-taihu-lake/2012/stage-2,129.0
+386,Tour of Taihu Lake 2012  Stage 3,2012-11-03,RR,Wujin,Wujin,38,3,race/tour-of-taihu-lake/2012/stage-3,114.8
+387,Tour of Taihu Lake 2012  Stage 4,2012-11-04,RR,Liyang,Liyang,38,4,race/tour-of-taihu-lake/2012/stage-4,155.2
+388,Tour of Taihu Lake 2012  Stage 5,2012-11-05,RR,Yixing, Yixing,38,5,race/tour-of-taihu-lake/2012/stage-5,110.6
+389,Tour of Taihu Lake 2012  Stage 6,2012-11-06,RR,Huzhou,Huzhou,38,6,race/tour-of-taihu-lake/2012/stage-6,106.0
+390,Tour of Taihu Lake 2012  Stage 7,2012-11-07,RR,Wujiang,Wujiang,38,7,race/tour-of-taihu-lake/2012/stage-7,114.1
+391,Tour of Taihu Lake 2012  Stage 8,2012-11-08,RR,Changshu,Changshu,38,8,race/tour-of-taihu-lake/2012/stage-8,136.0
+392,Tour of Fuzhou 2012  Stage 1,2012-11-18,RR,Fuzhou,Fuzhou,39,1,race/tour-of-fuzhou/2012/stage-1,119.7
+393,Tour of Fuzhou 2012  Stage 2,2012-11-19,RR,Fuzhou,Fuzhou,39,2,race/tour-of-fuzhou/2012/stage-2,95.1
+394,Tour of Fuzhou 2012  Stage 3,2012-11-20,RR,Yongtai,Yunding,39,3,race/tour-of-fuzhou/2012/stage-3,82.8
+395,Tour de Okinawa 2012,2012-11-25,RR,Nago,Nago,40,0,race/tour-de-okinawa/2012,210.0
+396,Banyuwangi Tour de Ijen 2012  Stage 1,2012-12-07,RR,Pesanggaran,Banyuwangi,41,1,race/banyuwangi-tour-de-ijen/2012/stage-1,111.7
+397,Banyuwangi Tour de Ijen 2012  Stage 2,2012-12-08,RR,Kalibaru,Kawah Ijen,41,2,race/banyuwangi-tour-de-ijen/2012/stage-2,147.0
+398,Banyuwangi Tour de Ijen 2012  Stage 3,2012-12-09,RR,Banyuwangi,Banyuwangi,41,3,race/banyuwangi-tour-de-ijen/2012/stage-3,110.0
+399,ADC Tour of Vietnam 2012  Stage 1,2012-12-17,RR,Ho Chi Minh City,Can Tho City,42,1,race/adc-tour-of-vietnam/2012/stage-1,160.0
+400,ADC Tour of Vietnam 2012  Stage 2,2012-12-18,RR,Can Tho,Can Tho,42,2,race/adc-tour-of-vietnam/2012/stage-2,124.0
+401,ADC Tour of Vietnam 2012  Stage 3,2012-12-19,RR,Can Tho,Can Tho,42,3,race/adc-tour-of-vietnam/2012/stage-3,180.0
+402,ADC Tour of Vietnam 2012  Stage 4,2012-12-20,RR,Long Xuyên,Can Tho,42,4,race/adc-tour-of-vietnam/2012/stage-4,180.0
+403,ADC Tour of Vietnam 2012  Stage 5,2012-12-21,RR,Can Tho,Ho Chi Minh City,42,5,race/adc-tour-of-vietnam/2012/stage-5,150.0
+404,Grand Prix Cycliste La Marseillaise 2012,2012-01-29,RR,Marseille,Marseille,0,0,race/gp-d-ouverture/2012,148.1
+405,Etoile de Bessèges 2012  Stage 1,2012-02-01,RR,Beaucaire,Bellegarde,1,1,race/etoile-de-besseges/2012/stage-1,148.0
+406,Etoile de Bessèges 2012  Stage 2,2012-02-02,RR,Lusson,Saint-Ambroix,1,2,race/etoile-de-besseges/2012/stage-2,58.8
+407,Etoile de Bessèges 2012  Stage 3,2012-02-03,RR,Bessèges,Bessèges,1,3,race/etoile-de-besseges/2012/stage-3,152.0
+408,Etoile de Bessèges 2012  Stage 4,2012-02-04,RR,Saint-Geniès-de-Comolas, Bagnols-sur-Cèze,1,4,race/etoile-de-besseges/2012/stage-4,66.0
+409,Etoile de Bessèges 2012  Stage 5,2012-02-05,RR,Alès,Alès,1,5,race/etoile-de-besseges/2012/stage-5a,75.0
+410,Etoile de Bessèges 2012  Stage 5 (ITT),2012-02-05,ITT,Alès,Alès,1,6,race/etoile-de-besseges/2012/stage-5b,9.7
+411,GP Costa Degli Etruschi 2012,2012-02-04,RR,San Vincenzo,Donoratico,2,0,race/gp-costa-degli-etruschi/2012,192.0
+412,Trofeo Palma de Mallorca 2012,2012-02-05,RR,Palma,Palma,3,0,race/16th-challenge-volta-a-mallorca/2012,116.0
+413,Trofeo Migjorn 2012,2012-02-06,RR,Llucmajor,Campos,4,0,race/trofeo-cala-millor/2012,171.7
+414,Trofeo Deià 2012,2012-02-07,RR,Dei,Dei,5,0,race/deia-trophy/2012,151.0
+415,Tour Méditerranéen Cycliste Professionnel 2012  Stage 1,2012-02-09,RR,Pertuis,Meyreuil,6,1,race/tour-mediterraneen/2012/stage-1,132.0
+416,Tour Méditerranéen Cycliste Professionnel 2012  Stage 2,2012-02-10,RR,Salon-de-Provence, Martigues,6,2,race/tour-mediterraneen/2012/stage-2,135.0
+417,Tour Méditerranéen Cycliste Professionnel 2012  Stage 3,2012-02-11,RR,La Seyne-sur-Mer, La Londe-les-Maures,6,3,race/tour-mediterraneen/2012/stage-3,99.0
+418,Tour Méditerranéen Cycliste Professionnel 2012  Stage 4,2012-02-12,RR,La Ciotat,Col de Gardes,6,4,race/tour-mediterraneen/2012/stage-4,77.0
+419, Giro della Provincia di reggio Calabria 2012  Stage 1,2012-02-11,RR,Melito Porto Salvo,Chiaravalle Centrale,7,1,race/giro-calabria/2012/stage-1,170.2
+420, Giro della Provincia di reggio Calabria 2012  Stage 2,2012-02-12,RR,Lamezia Terme,Reggio Calabria,7,2,race/giro-calabria/2012/stage-2,191.6
+421,Volta ao Algarve 2012  Stage 1,2012-02-15,RR,Dunas Douradas (Loul,Albufeira,8,1,race/volta-ao-algarve/2012/stage-1,151.0
+422,Volta ao Algarve 2012  Stage 2,2012-02-16,RR,Faro,Lagoa,8,2,race/volta-ao-algarve/2012/stage-2,187.5
+423,Volta ao Algarve 2012  Stage 3,2012-02-17,RR,Castro Marim,Alto do Malh?o (Loul,8,3,race/volta-ao-algarve/2012/stage-3,194.6
+424,Volta ao Algarve 2012  Stage 4,2012-02-18,RR,Vilamoura,Tavira,8,4,race/volta-ao-algarve/2012/stage-4,186.3
+425,Volta ao Algarve 2012  Stage 5 (ITT),2012-02-19,ITT,Lagoa,Portim,8,5,race/volta-ao-algarve/2012/stage-5,25.8
+426,Tour Cycliste International du Haut Var 2012  Stage 1,2012-02-18,RR,Draguignan,La Croix-valmer,9,1,race/tour-du-haut-var/2012/stage-1,189.2
+427,Tour Cycliste International du Haut Var 2012  Stage 2,2012-02-19,RR,Fréjus,Fayence,9,2,race/tour-du-haut-var/2012/stage-2,205.4
+428,Trofeo Laigueglia 2012,2012-02-18,RR,Laigueglia,Laigueglia,10,0,race/trofeo-laigueglia/2012,196.5
+429,Omloop Het Nieuwsblad 2012,2012-02-25,RR,Gent,Gent,11,0,race/omloop-het-nieuwsblad/2012,199.6
+430,Gp Citté di Lugano 2012,2012-02-25,RR,Lugano,Lugano,12,0,race/gp-lugano/2012,178.0
+431,Beverbeek Classic 2012,2012-02-25,RR,Hamont - Achel,Hamont - Achel,13,0,race/beverbeek-classic/2012,175.6
+432,Ster van Zwolle 2012,2012-02-25,RR,Start,Finish,14,0,race/ster-van-zwolle/2012,172.2
+433,Kuurne-Bruxelles-Kuurne 2012,2012-02-26,RR,Kuurne,Kuurne,15,0,race/kuurne-brussel-kuurne/2012,198.0
+434,Les Boucles du Sud Ardèche - Souvenir F. Delpech 2012,2012-02-26,RR,Bourg-Saint-Andéol,Ruoms,16,0,race/les-boucles-du-dus-ardeche/2012,199.7
+435,Gp Samyn 2012,2012-02-29,RR,Frameries,Dour,17,0,race/gp-samyn/2012,187.9
+436,Driedaagse van West-Vlaanderen 2012  Prologue,2012-03-02,Prologue,Middelkerke,Middelkerke,18,1,race/3daagse-van-west-vlaanderen/2012/prologue,7.0
+437,Driedaagse van West-Vlaanderen 2012  Stage 1,2012-03-03,RR,Brugge, Bellegem,18,2,race/3daagse-van-west-vlaanderen/2012/stage-1,181.5
+438,Driedaagse van West-Vlaanderen 2012  Stage 2,2012-03-04,RR,Nieuwpoort, Ichtegem,18,3,race/3daagse-van-west-vlaanderen/2012/stage-2,186.5
+439,Vuelta ciclista a la region de Murcia 2012  Stage 1,2012-03-02,RR,Archena,Sierra de Espuna,19,1,race/vuelta-ciclista-a-la-region-de-murcia/2012/stage-1,198.2
+440,Vuelta ciclista a la region de Murcia 2012  Stage 2 (ITT),2012-03-03,ITT,Murcia,Murcia,19,2,race/vuelta-ciclista-a-la-region-de-murcia/2012/stage-2,12.3
+441,Montepaschi Strade Bianche - Eroica Toscana 2012,2012-03-03,RR,Gaiole in Chianti,Siena,20,0,race/strade-bianchi/2012,190.0
+442,Grand Prix De La Ville De Lillers Souvenir Bruno C 2012,2012-03-04,RR,Lillers,Lillers,21,0,race/gp-de-la-ville-de-lillers/2012,171.0
+443,Trofeo Zssdi - Unione dei Circoli sportivi 2012,2012-03-04,RR,Longera,Longera,22,0,race/trofeo-zssdi/2012,143.0
+444,Dwars door Drenthe 2012,2012-03-09,RR,Emmen,Hoogeveen,23,0,race/dwars-door-drenthe/2012,204.8
+445,Albert Achterhes Pet Ronde van Drenthe 2012,2012-03-10,RR,Start,Finish,24,0,race/ronde-van-drenthe/2012,195.5
+446,Dorpenomloop Rucphen 2012,2012-03-11,RR,Rucphen,St.Willebrord,25,0,race/dorpenomloop-rucphen/2012,192.2
+447,Omloop van het Waasland 2012,2012-03-11,RR,Lokere,Steneke,26,0,race/omloop-van-het-waasland/2012,191.2
+448,Paris-Troyes 2012,2012-03-11,RR,Provins,Troyes,27,0,race/paris-troyes/2012,174.2
+449,Porec Trophy - Trofej Porec 2012,2012-03-11,RR,Porec,Zelena Laguna,28,0,race/porec-trophy-trofej-porec/2012,146.0
+450,Trofeo Franco Balestra Memorial Metelli 2012,2012-03-11,RR,San Pancrazio,San Pancrazio,29,0,race/trofeo-franco-balestra-memorial-metelli/2012,169.0
+451,Nokere-Koerse 2012,2012-03-14,RR,Ronse,Nokere,30,0,race/nokere-koers/2012,195.9
+452,Istarsko proljece - Istrian Spring Trophy 2012  Prologue,2012-03-15,Prologue,Umag,Umag,31,1,race/istarsko-proljece-istrian-spring-trophy/2012/prologue,2.0
+453,Istarsko proljece - Istrian Spring Trophy 2012  Stage 1,2012-03-16,RR,Porec, Labin,31,2,race/istarsko-proljece-istrian-spring-trophy/2012/stage-1,159.0
+454,Istarsko proljece - Istrian Spring Trophy 2012  Stage 2,2012-03-17,RR,Vrsar, Motovun,31,3,race/istarsko-proljece-istrian-spring-trophy/2012/stage-2,157.0
+455,Istarsko proljece - Istrian Spring Trophy 2012  Stage 3,2012-03-18,RR,Pazin, Umag,31,4,race/istarsko-proljece-istrian-spring-trophy/2012/stage-3,169.0
+456,Handzame Classic 2012,2012-03-16,RR,Kortemark,Handzame,32,0,race/handzame-classic/2012,0.0
+457,Classic Loire Atlantique 2012,2012-03-17,RR,La Haye-Fouassière,La Haye-Fouassière,33,0,race/classic-loire-atlantique/2012,184.8
+458,Cholet - Pays De Loire 2012,2012-03-18,RR,Start,Finish,34,0,race/cholet-pays-de-loire/2012,199.0
+459,Gran Premio San Giuseppe 2012,2012-03-18,RR,Montecassiano,Montecassiano,35,0,race/gran-premio-san-giuseppe/2012,167.0
+460,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2012,2012-03-18,RR,Vernou-sur-Brenne,Tours,36,0,race/la-roue-tourangelle/2012,192.0
+461,Tour de Normandie 2012  Prologue,2012-03-19,Prologue,Saint-Lô, Saint-Lô ,37,1,race/tour-de-normadie/2012/prologue,3.4
+462,Tour de Normandie 2012  Stage 2,2012-03-20,RR,Colombelles,Forges-les-Eaux,37,2,race/tour-de-normadie/2012/stage-2,202.4
+463,Tour de Normandie 2012  Stage 3,2012-03-21,RR,Forges-les-Eaux,Gaillon,37,3,race/tour-de-normadie/2012/stage-3,61.0
+464,Tour de Normandie 2012  Stage 4,2012-03-21,RR,Aubevoye,Elbeuf,37,4,race/tour-de-normadie/2012/stage-4,100.0
+465,Tour de Normandie 2012  Stage 5,2012-03-22,RR,Elbeuf,Flers,37,5,race/tour-de-normadie/2012/stage-5,190.0
+466,Tour de Normandie 2012  Stage 6,2012-03-23,RR,Domfront,Villers-Bocage,37,6,race/tour-de-normadie/2012/stage-6,156.0
+467,Tour de Normandie 2012  Stage 7,2012-03-24,RR,Brecey,Bagnoles-de-l\'Orne,37,7,race/tour-de-normadie/2012/stage-7,153.0
+468,Tour de Normandie 2012  Stage 8,2012-03-25,RR,Bagnoles-de-l\'Orne,Caen,37,8,race/tour-de-normadie/2012/stage-8,135.0
+469,Settimana Internazionale Coppi e Bartali 2012  Stage 1,2012-03-20,RR,Misano Adriatico,Riccione,38,1,race/settimana-internazionale-coppi-e-bartali/2012/stage-1,140.8
+470,Settimana Internazionale Coppi e Bartali 2012  Stage 2,2012-03-21,RR,Gatteo,Gatteo,38,2,race/settimana-internazionale-coppi-e-bartali/2012/stage-2a,95.5
+471,Settimana Internazionale Coppi e Bartali 2012  Stage 2 (TTT),2012-03-21,TTT,Gatteo,Gatteo,38,3,race/settimana-internazionale-coppi-e-bartali/2012/stage-2b,14.9
+472,Settimana Internazionale Coppi e Bartali 2012  Stage 3,2012-03-22,RR,Fiarono Modenese,Levizzano,38,4,race/settimana-internazionale-coppi-e-bartali/2012/stage-3,151.0
+473,Settimana Internazionale Coppi e Bartali 2012  Stage 4,2012-03-23,RR,Pavullo,Pavullo,38,5,race/settimana-internazionale-coppi-e-bartali/2012/stage-4,159.0
+474,Settimana Internazionale Coppi e Bartali 2012  Stage 5 (ITT),2012-03-24,ITT,Crevalcore,Crevalcore,38,6,race/settimana-internazionale-coppi-e-bartali/2012/stage-5,14.3
+475,Dwars Door Vlaanderen 2012,2012-03-21,RR,Roeselare,Waregem,39,0,race/dwars-door-vlaanderen/2012,199.5
+476,Volta ao Alentejo/Crédito Agrícola Costa Azul 2012  Stage 1,2012-03-22,RR,Castelo de Vide,Redondo,40,1,race/volta-ao-alentejo/2012/stage-1,165.8
+477,Volta ao Alentejo/Crédito Agrícola Costa Azul 2012  Stage 2,2012-03-23,RR,Portel, Santiago do Cacém,40,2,race/volta-ao-alentejo/2012/stage-2,191.3
+478,Volta ao Alentejo/Crédito Agrícola Costa Azul 2012  Stage 3,2012-03-24,RR,Odemira, Ourique,40,3,race/volta-ao-alentejo/2012/stage-3,168.6
+479,Volta ao Alentejo/Crédito Agrícola Costa Azul 2012  Stage 4,2012-03-25,RR,Mértola, Grândola,40,4,race/volta-ao-alentejo/2012/stage-4,141.0
+480,Critérium International 2012  Stage 1,2012-03-24,RR,Porto-Vecchio,Porto-Vecchio,41,1,race/criterium-international/2012/stage-1,89.5
+481,Critérium International 2012  Stage 2 (ITT),2012-03-25,ITT,Porto-Vecchio,Porto-Vecchio,41,2,race/criterium-international/2012/stage-2,6.5
+482,Critérium International 2012  Stage 3,2012-03-25,RR,Porto-Vecchio,Col de l\'Ospedale,41,3,race/criterium-international/2012/stage-3,179.0
+483,Driedaagse De Panne-Koksijde 2012  Stage 1,2012-03-27,RR,Middelkerke,Oudenaarde,42,1,race/driedaagse-vd-panne/2012/stage-1,201.6
+484,Driedaagse De Panne-Koksijde 2012  Stage 2,2012-03-28,RR,Zottegem,Koksijde (Oostduinkerke),42,2,race/driedaagse-vd-panne/2012/stage-2,216.1
+485,Driedaagse De Panne-Koksijde 2012  Stage 3,2012-03-29,RR,De Panne,De Panne,42,3,race/driedaagse-vd-panne/2012/stage-3a,113.1
+486,Driedaagse De Panne-Koksijde 2012  Stage 3 (ITT),2012-03-29,ITT,De Panne,De Panne,42,4,race/driedaagse-vd-panne/2012/stage-3b,14.7
+487,Route Adélie de Vitré 2012,2012-03-30,RR,Vitré,Vitré,43,0,race/route-adelie-de-vitre/2012,197.8
+488,Le Triptyque des Monts et Châteaux 2012  Stage 1,2012-03-30,RR,Estaimpuis, Quevaucamps,44,1,race/le-triptyque-des-monts-et-chateaux/2012/stage-1,170.0
+489,Le Triptyque des Monts et Châteaux 2012  Stage 2 (ITT),2012-03-31,ITT,Mont de l\'Enclus, Mont de l\'Enclus ,44,2,race/le-triptyque-des-monts-et-chateaux/2012/stage-2a,9.3
+490,Le Triptyque des Monts et Châteaux 2012  Stage 2,2012-03-31,RR,Mont de l\'Enclus, Vieux-Condé,44,3,race/le-triptyque-des-monts-et-chateaux/2012/stage-2b,125.0
+491,Le Triptyque des Monts et Châteaux 2012  Stage 5,2012-04-01,RR,Chateau de Beloeil, Tournai,44,4,race/le-triptyque-des-monts-et-chateaux/2012/stage-5,160.0
+492,Gran Premio Miguel Indurain 2012,2012-03-31,RR,Estella,Estella,45,0,race/gp-miguel-indurain/2012,179.3
+493,Volta Limburg Classic 2012,2012-03-31,RR,Start,Finish,46,0,race/hel-vh-mergelland/2012,190.5
+494,Flèche d'Emeraude - Saint Malo 2012,2012-04-01,RR,Start,Finish,47,0,race/fleche-d-emeraude-saint-malo/2012,181.0
+495,Grand Prix de la Ville de Nogent-sur-Oise 2012,2012-04-01,RR,Nogent-sur-Oise,Nogent-sur-Oise,48,0,race/gp-de-la-ville-de-nogent-sur-oise/2012,178.8
+496,Trofeo Piva Banca Popolare di Vicenza 2012,2012-04-01,RR,Col San Martino,Col San Martino,49,0,race/trofeo-piva/2012,0.0
+497,Circuit cycliste Sarthe - Pays de la Loire 2012  Stage 1,2012-04-03,RR,Saint-Gilles-Croix-de-Vie, Riaillé,50,1,race/circuit-sarthe/2012/stage-1,192.8
+498,Circuit cycliste Sarthe - Pays de la Loire 2012  Stage 2,2012-04-04,RR,Riaillé,Angers,50,2,race/circuit-sarthe/2012/stage-2,96.0
+499,Circuit cycliste Sarthe - Pays de la Loire 2012  Stage 3 (ITT),2012-04-04,ITT,Angers,Angers,50,3,race/circuit-sarthe/2012/stage-3,6.8
+500,Circuit cycliste Sarthe - Pays de la Loire 2012  Stage 4,2012-04-05,RR,Angers,Pré-en-Pail,50,4,race/circuit-sarthe/2012/stage-4,181.1
+501,Circuit cycliste Sarthe - Pays de la Loire 2012  Stage 5,2012-04-06,RR,Abbaye de l’Epau,Sablé-sur-Sarthe,50,5,race/circuit-sarthe/2012/stage-5,166.6
+502,Scheldeprijs 2012,2012-04-04,RR,Antwerpen,Schoten,51,0,race/scheldeprijs/2012,202.2
+503,Grand Prix of Sochi 2012  Stage 1,2012-04-04,RR,Krasnodar, Anapa,52,1,race/grand-prix-of-sochi/2012/stage-1,179.2
+504,Grand Prix of Sochi 2012  Stage 2,2012-04-05,RR,Anapa,Anapa,52,2,race/grand-prix-of-sochi/2012/stage-2,128.4
+505,Grand Prix of Sochi 2012  Stage 3,2012-04-06,RR,Novorossiysk, Nebug,52,3,race/grand-prix-of-sochi/2012/stage-3,154.0
+506,Grand Prix of Sochi 2012  Stage 4,2012-04-07,RR,Nebug,Nebug,52,4,race/grand-prix-of-sochi/2012/stage-4,238.0
+507,Grand Prix of Sochi 2012  Stage 5,2012-04-08,RR,Nebug, Krasnodar,52,5,race/grand-prix-of-sochi/2012/stage-5,163.0
+508,Grand Prix Pino Cerami 2012,2012-04-05,RR,Saint-Ghislain,Frameries,53,0,race/gp-cerami/2012,195.4
+509,Circuit des Ardennes International 2012  Stage 1,2012-04-06,RR,Boulzicourt, Signy l\'Abbaye ,54,1,race/circuit-des-ardennes-international/2012/stage-1,179.4
+510,Circuit des Ardennes International 2012  Stage 2,2012-04-07,RR,Renwez, Renwez ,54,2,race/circuit-des-ardennes-international/2012/stage-2,171.0
+511,Circuit des Ardennes International 2012  Stage 3 (TTT),2012-04-08,TTT,Sedan (Torcy), Charleville-Mézières,54,3,race/circuit-des-ardennes-international/2012/stage-3,26.0
+512,Circuit des Ardennes International 2012  Stage 4,2012-04-08,RR,Charleville-Mézières, Sedan ,54,4,race/circuit-des-ardennes-international/2012/stage-4,120.0
+513,Klasika Primavera de Amorebieta 2012,2012-04-08,RR,Start,Finish,55,0,race/klasika-primavera/2012,171.6
+514,Rund um Köln 2012,2012-04-09,RR,Hückeswagen,Köln,56,0,race/rund-um-koln/2012,196.7
+515,Dwars door het Hageland 2012,2012-04-09,RR,Aarschot,Aarschot,57,0,race/dwars-door-het-hageland/2012,174.2
+516,Giro del Belvedere 2012,2012-04-09,RR,Villa di Villa,Villa di Villa,58,0,race/circuito-belvedere/2012,154.0
+517,Paris-Camembert 2012,2012-04-10,RR,Magnanville,Vimoutiers,59,0,race/paris-camembert/2012,206.5
+518,GP Palio del Recioto 2012,2012-04-10,RR,Negrar,Negrar,60,0,race/gp-palio-del-recioto/2012,143.2
+519,De Brabantse Pijl - La Flèche Brabançonne 2012,2012-04-11,RR,Leuven,Overijse,61,0,race/brabantse-pijl/2012,194.5
+520,Tour du Loir-et-Cher 'E. Provost' 2012  Stage 1,2012-04-11,RR,Nouan-le-Fuzelier,Blois,62,1,race/tour-du-loir-et-cher-e.-provost-/2012/stage-1,185.0
+521,Tour du Loir-et-Cher 'E. Provost' 2012  Stage 2,2012-04-12,RR,Villebarou,Chailles,62,2,race/tour-du-loir-et-cher-e.-provost-/2012/stage-2,210.0
+522,Tour du Loir-et-Cher 'E. Provost' 2012  Stage 3,2012-04-13,RR,Château-Renault,Vend?me,62,3,race/tour-du-loir-et-cher-e.-provost-/2012/stage-3,201.5
+523,Tour du Loir-et-Cher 'E. Provost' 2012  Stage 4,2012-04-14,RR,Ange,Ange,62,4,race/tour-du-loir-et-cher-e.-provost-/2012/stage-4,191.0
+524,Tour du Loir-et-Cher 'E. Provost' 2012  Stage 5,2012-04-15,RR,Blois,Blois,62,5,race/tour-du-loir-et-cher-e.-provost-/2012/stage-5,97.0
+525,GP de Denain Porte du Hainaut 2012,2012-04-12,RR,Start,Finish,63,0,race/gp-de-denain/2012,199.0
+526,Vuelta a Castilla y Leon 2012  Stage 1,2012-04-13,RR,Salamanca,Salamanca,64,1,race/vuelta-a-castilla-y-leon/2012/stage-1,159.2
+527,Vuelta a Castilla y Leon 2012  Stage 2,2012-04-14,RR,Avila	,Avila	,64,2,race/vuelta-a-castilla-y-leon/2012/stage-2,158.7
+528,Vuelta a Castilla y Leon 2012  Stage 3,2012-04-15,RR,Segovia,Segovia,64,3,race/vuelta-a-castilla-y-leon/2012/stage-3,173.5
+529,Tour du Finistère 2012,2012-04-14,RR,Crozon,Quimper,65,0,race/tour-du-finistere/2012,186.1
+530,Liège - Bastogne - Liège 2012,2012-04-14,RR,Bastogne,Ans,66,0,race/liege-bastogne-liege-u23/2012,180.8
+531,Trofeo Edil C 2012,2012-04-14,RR,Collecchio,Collecchio,67,0,race/trofeo-edil-c-u23/2012,149.1
+532,Giro dell'Appennino 2012,2012-04-15,RR,Novi Ligure,Genova,68,0,race/giro-del-appennino/2012,194.5
+533,Tro-Bro Léon 2012,2012-04-15,RR,Lannilis,Lannilis,69,0,race/tro-bro-leon/2012,206.4
+534,Grand Prix of Donetsk 2012,2012-04-15,RR,Start,Finish,70,0,race/grand-prix-of-donetsk/2012,0.0
+535,Zellik - Galmaarden 2012,2012-04-15,RR,Zellik,Galmaarden,71,0,race/zellik-galmaarden/2012,173.9
+536,Giro del Trentino 2012  Stage 1 (TTT),2012-04-17,TTT,Riva del Garda,Arco,72,1,race/tour-of-the-alps/2012/stage-1,14.3
+537,Giro del Trentino 2012  Stage 2,2012-04-19,RR,Mori,Sant’Orsola Terme,72,2,race/tour-of-the-alps/2012/stage-2,152.0
+538,Giro del Trentino 2012  Stage 3,2012-04-20,RR,Cooperativa Piccoli Frutti Pergine,"Brenzone, Punta Veleno",72,3,race/tour-of-the-alps/2012/stage-3,167.8
+539,Giro del Trentino 2012  Stage 4,2012-04-21,RR,Castelletto di Brenzone,Passo Pordoi,72,4,race/tour-of-the-alps/2012/stage-4,177.5
+540,Grand Prix of Adygeya 2012  Stage 1 (ITT),2012-04-18,ITT,Kamennomostskiy,Pobeda,73,1,race/gp-of-adygeya/2012/stage-1,0.0
+541,Grand Prix of Adygeya 2012  Stage 2,2012-04-19,RR,Maykop,Maykop,73,2,race/gp-of-adygeya/2012/stage-2,0.0
+542,Grand Prix of Adygeya 2012  Stage 3,2012-04-20,RR,Maykop,Maykop,73,3,race/gp-of-adygeya/2012/stage-3,0.0
+543,Grand Prix of Adygeya 2012  Stage 4,2012-04-21,RR,Maykop, Guseripl,73,4,race/gp-of-adygeya/2012/stage-4,0.0
+544,Grand Prix of Adygeya 2012  Stage 5,2012-04-22,RR,Gaverdovskiy,Gaverdovskiy,73,5,race/gp-of-adygeya/2012/stage-5,0.0
+545,Arno Wallaard Memorial 2012,2012-04-21,RR,Meerkerk,Meerkerk,74,0,race/arno-wallaard-memorial/2012,200.0
+546,Banja Luka - Belgrade I 2012,2012-04-21,RR,Banja Luka,Brcko,75,0,race/banja-luka-belgrade-i/2012,0.0
+547,Presidential Cycling Tour of Turkey 2012  Stage 1,2012-04-22,RR,Alanya,Alanya,76,1,race/tour-of-turkey/2012/stage-1,135.2
+548,Presidential Cycling Tour of Turkey 2012  Stage 2,2012-04-23,RR,Alanya,Antalya,76,2,race/tour-of-turkey/2012/stage-2,153.3
+549,Presidential Cycling Tour of Turkey 2012  Stage 3,2012-04-24,RR,Antalya,Elmali,76,3,race/tour-of-turkey/2012/stage-3,151.8
+550,Presidential Cycling Tour of Turkey 2012  Stage 4,2012-04-25,RR,Fethiye,Marmaris,76,4,race/tour-of-turkey/2012/stage-4,131.7
+551,Presidential Cycling Tour of Turkey 2012  Stage 5,2012-04-26,RR,Marmaris,Turgutreis,76,5,race/tour-of-turkey/2012/stage-5,177.8
+552,Presidential Cycling Tour of Turkey 2012  Stage 6,2012-04-27,RR,Bodrum,Kusadasi,76,6,race/tour-of-turkey/2012/stage-6,179.0
+553,Presidential Cycling Tour of Turkey 2012  Stage 7,2012-04-28,RR,Kusadasi,Izmir,76,7,race/tour-of-turkey/2012/stage-7,123.8
+554,Presidential Cycling Tour of Turkey 2012  Stage 8,2012-04-29,RR,Istanbul,Istanbul,76,8,race/tour-of-turkey/2012/stage-8,120.4
+555,Vuelta Ciclista a La Rioja 2012,2012-04-22,RR,Logrono,Logrono,77,0,race/vuelta-ciclista-a-la-rioja/2012,190.9
+556,Banja Luka-Belgrade II 2012,2012-04-22,RR,Banja Luka,Belgrade,78,0,race/beograd-banja-luka-ii/2012,196.0
+557,Ronde van Noord-Holland 2012,2012-04-22,RR,Start,Finish,79,0,race/ronde-van-noord-holland/2012,0.0
+558,Val d\'Ille U Classic 35 - Souvenir Julien 2012,2012-04-22,RR,La Mézière,La Mézière,80,0,race/val-d-ille-u-classic-35/2012,0.0
+559,Gran Premio della Liberazione 2012,2012-04-25,RR,Roma,Roma,81,0,race/gran-premio-della-liberazione/2012,138.0
+560,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012  Stage 1,2012-04-25,RR,Vannes,Vannes,82,1,race/le-tour-de-bretagne/2012/stage-1,167.0
+561,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012  Stage 2,2012-04-26,RR,Vannes,Saint-Méen-le-Grand,82,2,race/le-tour-de-bretagne/2012/stage-2,0.0
+562,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012  Stage 3,2012-04-27,RR,Saint-Méen-le-Grand,Missillac,82,3,race/le-tour-de-bretagne/2012/stage-3,150.2
+563,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012  Stage 4,2012-04-28,RR,Missillac,Côte de Mur-de-Bretagne,82,4,race/le-tour-de-bretagne/2012/stage-4,154.8
+564,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012  Stage 5,2012-04-29,RR,Mûr-de-Bretagne,Douarnenez,82,5,race/le-tour-de-bretagne/2012/stage-5,164.2
+565,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012  Stage 6,2012-04-30,RR,Douarnenez,Lannion,82,6,race/le-tour-de-bretagne/2012/stage-6,144.9
+566,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012  Stage 7,2012-05-01,RR,Langonnet,Dinan,82,7,race/le-tour-de-bretagne/2012/stage-7,165.8
+567,Vuelta Asturias Julio Alvarez Mendo 2012  Stage 1,2012-04-27,RR,Oviedo,Gijon,83,1,race/vuelta-asturias/2012/stage-1,162.2
+568,Vuelta Asturias Julio Alvarez Mendo 2012  Stage 2,2012-04-28,RR,Teverga,Avilés,83,2,race/vuelta-asturias/2012/stage-2a,92.2
+569,Vuelta Asturias Julio Alvarez Mendo 2012  Stage 2 (ITT),2012-04-28,ITT,Piedras Blancas,Piedras Blancas,83,3,race/vuelta-asturias/2012/stage-2b,14.0
+570,Vuelta Asturias Julio Alvarez Mendo 2012  Stage 3,2012-04-29,RR,Lugones,Alto del Naranco,83,4,race/vuelta-asturias/2012/stage-3,167.9
+571,GP Industria & Artigianato 2012,2012-04-28,RR,Larciano,Larciano,84,0,race/gp-industria-artigianato/2012,200.0
+572,Giro della Toscana 2012,2012-04-29,RR,Montecatini Terme,Arezzo,85,0,race/giro-di-toscana/2012,199.0
+573,GP Industrie del Marmo 2012,2012-04-29,RR,Carrara,Carrara,86,0,race/gp-industrie-del-marmo/2012,0.0
+574,Himmerland Rundt 2012,2012-04-29,RR,Start,Finish,87,0,race/himmerland-rundt/2012,0.0
+575,Paris - Mantes-en-Yvelines 2012,2012-04-29,RR,Start,Finish,88,0,race/paris-mantes-en-yvelines/2012,170.0
+576,Rutland - Melton International CiCLE Classic 2012,2012-04-29,RR,Oakham,Melton Mowbray,89,0,race/east-midlands-international-cicle-classic/2012,0.0
+577,Rund um den Finanzplatz Eschborn-Frankfurt 2012,2012-05-01,RR,Frankfurt,Frankfurt,90,0,race/Eschborn-Frankfurt/2012,200.0
+578,Grote Prijs 1 Mei - Ereprijs Victor de Bruyne 2012,2012-05-01,RR,Start,Finish,91,0,race/grote-prijs-1-mei-ereprijs-victor-de-bruyne/2012,180.0
+579,Mayor Cup 2012,2012-05-01,RR,Start,Finish,92,0,race/mayor-cup/2012,0.0
+580,Memorial Andrzeja Trochanowskiego 2012,2012-05-01,RR,Baboszewo,Baboszewo,93,0,race/memorial-andrzeja-trochanowskiego/2012,166.0
+581,Rund um den Finanzplatz Eschborn-Frankfurt 2012,2012-05-01,RR,Frankfurt,Frankfurt,90,0,race/eschborn-frankfurt-u23/2012,140.9
+582,Trofeo Papà Cervi Coppa 1° Maggio 2012,2012-05-01,RR,Start,Finish,95,0,race/trofeo-papa-cervi-coppa-1-maggio/2012,0.0
+583,Giro della Regione Friuli Venezia Giulia 2012  Stage 1,2012-05-02,RR, Trieste, Gorizia,96,1,race/giro-della-regione-friuli-venezia-giulia/2012/stage-1,158.0
+584,Giro della Regione Friuli Venezia Giulia 2012  Stage 2,2012-05-03,RR,Azzano Decimo, Pordenone,96,2,race/giro-della-regione-friuli-venezia-giulia/2012/stage-2,164.0
+585,Giro della Regione Friuli Venezia Giulia 2012  Stage 3,2012-05-04,RR,Maniago, Passo Pramollo,96,3,race/giro-della-regione-friuli-venezia-giulia/2012/stage-3,149.0
+586,Giro della Regione Friuli Venezia Giulia 2012  Stage 4,2012-05-05,RR,Tolmezzo, Tarvisio,96,4,race/giro-della-regione-friuli-venezia-giulia/2012/stage-4,172.0
+587,Giro della Regione Friuli Venezia Giulia 2012  Stage 5,2012-05-06,RR,San Daniele del Friuli, Moruzzo,96,5,race/giro-della-regione-friuli-venezia-giulia/2012/stage-5,149.0
+588,Memorial of Oleg Dyachenko 2012,2012-05-02,RR,Start,Finish,97,0,race/memorial-of-oleg-dyachenko/2012,0.0
+589,Carpathia Couriers Paths 2012  Stage 1,2012-05-03,RR,Radów,Tuchów,98,1,race/carpathia-couriers-paths/2012/stage-1,124.0
+590,Carpathia Couriers Paths 2012  Stage 2,2012-05-04,RR,Zapora Niedzica,Jabonka,98,2,race/carpathia-couriers-paths/2012/stage-2,130.0
+591,Carpathia Couriers Paths 2012  Stage 3,2012-05-05,RR,Stara Bystrica,Stara Bystrica,98,3,race/carpathia-couriers-paths/2012/stage-3,147.0
+592,Carpathia Couriers Paths 2012  Stage 4,2012-05-06,RR,Stara Bystrica,Lazy Pod Makytou,98,4,race/carpathia-couriers-paths/2012/stage-4,155.0
+593,Grand Prix of Moscow 2012,2012-05-03,RR,Moscow,Moscow,99,0,race/grand-prix-of-moscow/2012,150.0
+594,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012  Stage 1,2012-05-04,RR,Dunkerque,Coquelles,100,1,race/4-jours-de-dunkerque/2012/stage-1,167.7
+595,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012  Stage 2,2012-05-05,RR,Berck-sur-Mer,Montreuil-sur-Mer,100,2,race/4-jours-de-dunkerque/2012/stage-2,180.2
+596,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012  Stage 3,2012-05-06,RR,Poperinge,Reningelst,100,3,race/4-jours-de-dunkerque/2012/stage-3,178.3
+597,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012  Stage 4,2012-05-07,RR,Gravelines,Cassel,100,4,race/4-jours-de-dunkerque/2012/stage-4,183.4
+598,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012  Stage 5,2012-05-08,RR,Béthune,Dunkerque,100,5,race/4-jours-de-dunkerque/2012/stage-5,177.4
+599,Szlakiem Grodòw Piastowskich 2012  Stage 1,2012-05-04,RR,Jawor,Zlotoryja,101,1,race/szlakiem-grodow-piastowskich/2012/stage-1,161.0
+600,Szlakiem Grodòw Piastowskich 2012  Stage 2 (ITT),2012-05-05,ITT,Polkowice,Polkowice,101,2,race/szlakiem-grodow-piastowskich/2012/stage-2,30.2
+601,Szlakiem Grodòw Piastowskich 2012  Stage 3,2012-05-05,RR,Polkowice,Polkowice,101,3,race/szlakiem-grodow-piastowskich/2012/stage-3,77.7
+602,Szlakiem Grodòw Piastowskich 2012  Stage 4,2012-05-06,RR,Dzierzoniow, Swidnica,101,4,race/szlakiem-grodow-piastowskich/2012/stage-4,154.0
+603,Grand Prix Dobrich I 2012,2012-05-04,RR,Dobrich,Dobrich,102,0,race/grand-prix-dobrich-i/2012,0.0
+604,Ronde van Overijssel 2012  Prologue,2012-05-04,Prologue,Holten,Holten,103,1,race/ronde-van-overijssel/2012/prologue,2.8
+605,Ronde van Overijssel 2012  Stage 1,2012-05-05,RR,Rijssen,Rijssen,103,2,race/ronde-van-overijssel/2012/stage-1,202.0
+606,Vuelta a la Comunidad de Madrid 2012  Stage 1 (ITT),2012-05-05,ITT,Madrid,Madrid,104,1,race/vuelta-international-a-la-cominudad-de-madrid/2012/stage-1,7.8
+607,Vuelta a la Comunidad de Madrid 2012  Stage 2,2012-05-06,RR,Colmenar Viejo,Pto. de la Morcuera,104,2,race/vuelta-international-a-la-cominudad-de-madrid/2012/stage-2,182.4
+608,Five Rings of Moscow 2012  Stage 1,2012-05-05,RR,Moscow,Moscow,105,1,race/five-rings-of-moscow/2012/stage-1,149.6
+609,Five Rings of Moscow 2012  Stage 2,2012-05-06,RR,Moscow,Moscow,105,2,race/five-rings-of-moscow/2012/stage-2,134.4
+610,Five Rings of Moscow 2012  Stage 3,2012-05-07,RR,Moscow,Moscow,105,3,race/five-rings-of-moscow/2012/stage-3,163.2
+611,Five Rings of Moscow 2012  Stage 4,2012-05-08,RR,Moscow,Moscow,105,4,race/five-rings-of-moscow/2012/stage-4,151.3
+612,Five Rings of Moscow 2012  Stage 5,2012-05-09,RR,Moscow,Moscow,105,5,race/five-rings-of-moscow/2012/stage-5,129.6
+613,Circuit de Wallonie 2012,2012-05-06,RR,Lambusart,Lambusart,106,0,race/circuit-de-wallonie/2012,176.4
+614,Circuito del Porto - Trofeo Arvedi 2012,2012-05-06,RR,Cremona,Cremona,107,0,race/circuito-del-porto-trofeo-arvedi/2012,0.0
+615,Grand Prix Dobrich II 2012,2012-05-06,RR,Dobrich,Dobrich,108,0,race/grand-prix-dobrich-ii/2012,0.0
+616,Omloop der Kempen 2012,2012-05-06,RR,Veldhoven,Veldhoven,109,0,race/omloop-der-kempen/2012,200.0
+617,Heydar Aliyev Anniversary Tour 2012  Stage 1 (TTT),2012-05-09,TTT,Baku,Baku,110,1,race/heydar-aliyev-anniversary-tour/2012/stage-1,30.0
+618,Heydar Aliyev Anniversary Tour 2012  Stage 2,2012-05-10,RR,Baku, Ismayilli,110,2,race/heydar-aliyev-anniversary-tour/2012/stage-2,176.0
+619,Heydar Aliyev Anniversary Tour 2012  Stage 3,2012-05-11,RR,Qabala,Qabala,110,3,race/heydar-aliyev-anniversary-tour/2012/stage-3,160.0
+620,Heydar Aliyev Anniversary Tour 2012  Stage 4,2012-05-12,RR,Start,Finish,110,4,race/heydar-aliyev-anniversary-tour/2012/stage-4,0.0
+621,Heydar Aliyev Anniversary Tour 2012  Stage 5,2012-05-13,RR,Baku,Baku,110,5,race/heydar-aliyev-anniversary-tour/2012/stage-5,123.0
+622,Rhône-Alpes Isère Tour 2012  Stage 1,2012-05-10,RR,Domarin,Ruy,111,1,race/rhone-alpes-isere-tour/2012/stage-1,141.0
+623,Rhône-Alpes Isère Tour 2012  Stage 2,2012-05-11,RR,Vaulx-Milieu,Montanay,111,2,race/rhone-alpes-isere-tour/2012/stage-2,181.0
+624,Rhône-Alpes Isère Tour 2012  Stage 3,2012-05-12,RR,Saint-Maurice l\'Exil,Saint-Maurice l\'Exil,111,3,race/rhone-alpes-isere-tour/2012/stage-3,166.0
+625,Rhône-Alpes Isère Tour 2012  Stage 4,2012-05-13,RR,Charvieu-Chavagneux,Charvieu-Chavagneux,111,4,race/rhone-alpes-isere-tour/2012/stage-4,154.0
+626,Tour of Malopolska 2012  Stage 1,2012-05-10,RR,Niepolomice,Miechów,112,1,race/tour-of-malopolska/2012/stage-1,153.0
+627,Tour of Malopolska 2012  Stage 2,2012-05-11,RR,Chelmek, Jodlownik,112,2,race/tour-of-malopolska/2012/stage-2,162.0
+628,Tour of Malopolska 2012  Stage 3,2012-05-12,RR,Rabka, Bukowina Tatrzanska,112,3,race/tour-of-malopolska/2012/stage-3,137.0
+629,Tour de Picardie 2012  Stage 1,2012-05-11,RR,Clermont,Braine,113,1,race/60th-tour-de-picardie/2012/stage-1,166.5
+630,Tour de Picardie 2012  Stage 2,2012-05-12,RR,Tergnier,Villers-Bocage,113,2,race/60th-tour-de-picardie/2012/stage-2,178.5
+631,Tour de Picardie 2012  Stage 3,2012-05-13,RR,Fressenneville,Maignelay-Montigny,113,3,race/60th-tour-de-picardie/2012/stage-3,171.0
+632,Scandinavian Race in Uppsala 1909-2012 2012,2012-05-12,RR,Uppsala,Uppsala,114,0,race/scandinavian-race-uppsala/2012,194.0
+633,Rogaland GP 2012,2012-05-13,RR,Sandnes,Stavanger,115,0,race/tour-des-fjords/2012,192.0
+634,Royal Smilde Olympia’s Tour 2012  Prologue,2012-05-14,Prologue,Zandvoort,Zandvoort,116,1,race/olympias-tour/2012/prologue,3.6
+635,Royal Smilde Olympia’s Tour 2012  Stage 1,2012-05-15,RR,Zandvoort,Noordwijk,116,2,race/olympias-tour/2012/stage-1,164.8
+636,Royal Smilde Olympia’s Tour 2012  Stage 2,2012-05-16,RR,Ulft,Gendringen,116,3,race/olympias-tour/2012/stage-2,162.7
+637,Royal Smilde Olympia’s Tour 2012  Stage 3,2012-05-17,RR,Elst (Gld),Hoofddorp,116,4,race/olympias-tour/2012/stage-3,163.4
+638,Royal Smilde Olympia’s Tour 2012  Stage 4,2012-05-18,RR,Simpelveld,Buchten,116,5,race/olympias-tour/2012/stage-4,206.1
+639,Royal Smilde Olympia’s Tour 2012  Stage 5 (ITT),2012-05-19,ITT,Reuver,Reuver,116,6,race/olympias-tour/2012/stage-5,13.8
+640,Royal Smilde Olympia’s Tour 2012  Stage 6,2012-05-19,RR,Reuver,Reuver,116,7,race/olympias-tour/2012/stage-6,96.3
+641,National Championships Austria - ITT 2012,2012-05-15,RR,Offenhausen,Offenhausen,117,0,race/nc-austria-itt/2012,0.0
+642,Circuit de Lorraine Professionnel 2012  Stage 1,2012-05-16,RR,Rombas,Neuves-Maisons,118,1,race/circuit-de-lorraine-professionnels/2012/stage-1,159.5
+643,Circuit de Lorraine Professionnel 2012  Stage 2,2012-05-17,RR,Etain,L’Hôpital,118,2,race/circuit-de-lorraine-professionnels/2012/stage-2,176.0
+644,Circuit de Lorraine Professionnel 2012  Stage 3,2012-05-18,RR,Pompey,Neufchâteau,118,3,race/circuit-de-lorraine-professionnels/2012/stage-3,210.0
+645,Circuit de Lorraine Professionnel 2012  Stage 4,2012-05-19,RR,Briey,Metz,118,4,race/circuit-de-lorraine-professionnels/2012/stage-4,160.0
+646,Circuit de Lorraine Professionnel 2012  Stage 5,2012-05-20,RR,Thionville,Hayange,118,5,race/circuit-de-lorraine-professionnels/2012/stage-5,158.5
+647,Glava Tour of Norway 2012  Stage 1,2012-05-16,RR,Sandefjord,Tønsberg,119,1,race/tour-of-norway/2012/stage-1,185.7
+648,Glava Tour of Norway 2012  Stage 2,2012-05-17,RR,Oslo,Drammen,119,2,race/tour-of-norway/2012/stage-2,163.0
+649,Glava Tour of Norway 2012  Stage 3,2012-05-18,RR,Lillestrøm,Elverum,119,3,race/tour-of-norway/2012/stage-3,180.0
+650,Glava Tour of Norway 2012  Stage 4,2012-05-19,RR,Hamar,Lillehammer,119,4,race/tour-of-norway/2012/stage-4,195.0
+651,Glava Tour of Norway 2012  Stage 5,2012-05-20,RR,Gjøvik,Hønefoss,119,5,race/tour-of-norway/2012/stage-5,172.0
+652,Flèche du Sud 2012  Stage 1,2012-05-16,RR,Differdange,Differdange,120,1,race/fleche-du-sud/2012/stage-1,81.0
+653,Flèche du Sud 2012  Stage 2,2012-05-17,RR,Schifflange,Roeser,120,2,race/fleche-du-sud/2012/stage-2,171.1
+654,Flèche du Sud 2012  Stage 3,2012-05-18,RR,Tandel,Wiltz,120,3,race/fleche-du-sud/2012/stage-3,154.4
+655,Flèche du Sud 2012  Stage 4 (ITT),2012-05-19,ITT,Tetange,Rumelange,120,4,race/fleche-du-sud/2012/stage-4,14.9
+656,Flèche du Sud 2012  Stage 5,2012-05-20,RR,Belvaux,Esch/Alzette,120,5,race/fleche-du-sud/2012/stage-5,181.6
+657,International Tour of Hellas 2012  Stage 1,2012-05-16,RR,Korinthos, Leonidio,121,1,race/international-tour-of-hellas/2012/stage-1,138.0
+658,International Tour of Hellas 2012  Stage 2,2012-05-17,RR,Leonidio, Sparta,121,2,race/international-tour-of-hellas/2012/stage-2,133.0
+659,International Tour of Hellas 2012  Stage 3,2012-05-18,RR,Sparta, Methoni,121,3,race/international-tour-of-hellas/2012/stage-3,135.2
+660,International Tour of Hellas 2012  Stage 4,2012-05-19,RR,Olympia, Kalavrita,121,4,race/international-tour-of-hellas/2012/stage-4,149.0
+661,International Tour of Hellas 2012  Stage 5,2012-05-20,RR,Korinthos, Athens,121,5,race/international-tour-of-hellas/2012/stage-5,104.0
+662,Ronde van Limburg 2012,2012-05-17,RR,Tongeren,Tongeren,122,0,race/ronde-van-limburg/2012,189.6
+663,Tour de Berlin 2012  Stage 1,2012-05-17,RR,Birkenwerda,Birkenwerda,123,1,race/tour-de-berlin/2012/stage-1,163.8
+664,Tour de Berlin 2012  Stage 2 (ITT),2012-05-18,ITT,Lehnitz,Lehnitz,123,2,race/tour-de-berlin/2012/stage-2,16.4
+665,Tour de Berlin 2012  Stage 3,2012-05-18,RR,Baruth/Mark, Baruth/Mark ,123,3,race/tour-de-berlin/2012/stage-3,125.0
+666,Tour de Berlin 2012  Stage 4,2012-05-19,RR,Rüdow,Rüdow,123,4,race/tour-de-berlin/2012/stage-4,127.0
+667,Tour de Berlin 2012  Stage 5,2012-05-20,RR,Berlin,Berlin,123,5,race/tour-de-berlin/2012/stage-5,184.0
+668,Riga Grand Prix 2012,2012-06-03,RR,Start,Finish,124,0,race/jurmala-gp/2012,0.0
+669,Sparkassen Neuseenclassics - Rund um die Braunkohle 2012,2012-05-20,RR,Zwenkau,Zwenkau,125,0,race/neuseen-classics/2012,182.0
+670,An Post Ras 2012  Stage 1,2012-05-20,RR,Dunboyne, Kilkenny,126,1,race/fbd-insurance-ras/2012/stage-1,147.0
+671,An Post Ras 2012  Stage 2,2012-05-21,RR,Kilkenny, Gort,126,2,race/fbd-insurance-ras/2012/stage-2,158.0
+672,An Post Ras 2012  Stage 3,2012-05-22,RR,Gort, Westport,126,3,race/fbd-insurance-ras/2012/stage-3,145.0
+673,An Post Ras 2012  Stage 4,2012-05-23,RR,Westport, Bundoran,126,4,race/fbd-insurance-ras/2012/stage-4,135.0
+674,An Post Ras 2012  Stage 5,2012-05-24,RR,Bundoran, Buncrana,126,5,race/fbd-insurance-ras/2012/stage-5,149.0
+675,An Post Ras 2012  Stage 6,2012-05-25,RR,Buncrana, Killybegs,126,6,race/fbd-insurance-ras/2012/stage-6,134.0
+676,An Post Ras 2012  Stage 7,2012-05-26,RR,Donegal, Cootehill,126,7,race/fbd-insurance-ras/2012/stage-7,161.0
+677,An Post Ras 2012  Stage 8,2012-05-27,RR,Cootehill, Skerries,126,8,race/fbd-insurance-ras/2012/stage-8,161.0
+678,Grand Prix Criquielion 2012,2012-05-20,RR,Boussu,Les Deux-Acren,127,0,race/grand-prix-criquielion/2012,0.0
+679,Bayern-Rundfahrt 2012  Stage 1,2012-05-23,RR,Traunstein, Penzberg,128,1,race/bayern-rundfarht/2012/stage-1,215.7
+680,Bayern-Rundfahrt 2012  Stage 2,2012-05-24,RR,Penzberg,Kempten ,128,2,race/bayern-rundfarht/2012/stage-2,195.4
+681,Bayern-Rundfahrt 2012  Stage 3,2012-05-25,RR,Kempten,Treuchtlingen,128,3,race/bayern-rundfarht/2012/stage-3,196.4
+682,Bayern-Rundfahrt 2012  Stage 4 (ITT),2012-05-26,ITT,Feuchtwangen,Feuchtwangen,128,4,race/bayern-rundfarht/2012/stage-4,26.4
+683,Bayern-Rundfahrt 2012  Stage 5,2012-05-27,RR,Feuchtwangen, Bamberg,128,5,race/bayern-rundfarht/2012/stage-5,164.9
+684,Tour of Belgium 2012  Stage 1,2012-05-23,RR,Mechelen, Buggenhout,129,1,race/tour-of-belgium/2012/stage-1,162.0
+685,Tour of Belgium 2012  Stage 2,2012-05-24,RR,Lochristi, Knokke-Heist,129,2,race/tour-of-belgium/2012/stage-2,169.5
+686,Tour of Belgium 2012  Stage 3,2012-05-25,RR,Knokke-Heist, Beveren,129,3,race/tour-of-belgium/2012/stage-3,163.0
+687,Tour of Belgium 2012  Stage 4 (ITT),2012-05-26,ITT,Turnhout, Arendonk,129,4,race/tour-of-belgium/2012/stage-4,20.5
+688,Tour of Belgium 2012  Stage 5,2012-05-27,RR,Clavier, Engis,129,5,race/tour-of-belgium/2012/stage-5,212.0
+689,Tour of Trakya 2012  Stage 1,2012-05-24,RR,Tekirdag,Tekirdag,130,1,race/tour-of-trakya/2012/stage-1,109.5
+690,Tour of Trakya 2012  Stage 2,2012-05-25,RR,Corlu, Lüleburgaz,130,2,race/tour-of-trakya/2012/stage-2,115.0
+691,Tour of Trakya 2012  Stage 3,2012-05-26,RR,Lüleburgaz, Edirne,130,3,race/tour-of-trakya/2012/stage-3,116.0
+692,Tour of Trakya 2012  Stage 4,2012-05-27,RR,Edirne, Edirne ,130,4,race/tour-of-trakya/2012/stage-4,104.0
+693,Tallinn-Tartu Grand Prix 2012,2012-05-25,RR,Tallinn,Tartu,131,0,race/tallinn-tartu-gp/2012,180.0
+694,Grand Prix de Plumelec-Morbihan 2012,2012-05-26,RR,Plumelec,Plumelec,132,0,race/gp-de-plumelec/2012,181.0
+695,SEB Tartu Grand Prix 2012,2012-05-26,RR,Tartu,Tartu,133,0,race/eb-tartu-grand-prix/2012,187.0
+696,Tour de Gironde 2012  Stage 1,2012-05-26,RR,Fargues-de-Langon, Cenon,134,1,race/tour-de-gironde/2012/stage-1,159.8
+697,Tour de Gironde 2012  Stage 2,2012-05-27,RR,Saint-Loubès,Braud-et-Saint-Louis,134,2,race/tour-de-gironde/2012/stage-2,181.1
+698,Tour de Gironde 2012  Stage 3,2012-05-28,RR,Saint-Pierre-d\'Aurillac, Villenave-d\'Ornon,134,3,race/tour-de-gironde/2012/stage-3,171.9
+699,Boucles de l'Aulne - Châteaulin 2012,2012-05-27,RR,Châteaulin,Châteaulin,135,0,race/boucles-de-l-aulne/2012,168.0
+700,GP Industria e Commercio - Tr. Città di San Vendemiano 2012,2012-05-27,RR,San Vendemiano,San Vendemiano,136,0,race/gp-industria-e-commercio2/2012,171.0
+701,Paris-Roubaix Espoirs 2012,2012-05-27,RR,Péronne,Roubaix,137,0,race/paris-roubaix-espoirs/2012,179.0
+702,Race Horizon Park 2012,2012-05-27,RR,Start,Finish,138,0,race/race-horizon-park/2012,0.0
+703,Skoda-Tour de Luxembourg 2012  Prologue,2012-05-30,Prologue,Luxembourg,Luxembourg,139,1,race/tour-de-luxembourg/2012/prologue,2.66
+704,Skoda-Tour de Luxembourg 2012  Stage 1,2012-05-31,RR,Luxembourg,Hesperange,139,2,race/tour-de-luxembourg/2012/stage-1,181.0
+705,Skoda-Tour de Luxembourg 2012  Stage 2,2012-06-01,RR,Schifflange,Leudelange,139,3,race/tour-de-luxembourg/2012/stage-2,183.9
+706,Skoda-Tour de Luxembourg 2012  Stage 3,2012-06-02,RR,Eschweiler (Wiltz),Differdange,139,4,race/tour-de-luxembourg/2012/stage-3,205.4
+707,Skoda-Tour de Luxembourg 2012  Stage 4,2012-06-03,RR,Mersch,Luxembourg,139,5,race/tour-de-luxembourg/2012/stage-4,153.5
+708,Trofeo Melinda - Val di Non 2012,2012-06-02,RR,Malè,Fondo,140,0,race/17th-trofeo-melinda/2012,196.0
+709,Romanian Cycling Tour 2012  Stage 1 (ITT),2012-06-02,ITT,Constanta,Constanta,141,1,race/romanian-cycling-tour/2012/stage-1,8.0
+710,Romanian Cycling Tour 2012  Stage 2,2012-06-03,RR,Hârsova,Galati,141,2,race/romanian-cycling-tour/2012/stage-2,143.0
+711,Romanian Cycling Tour 2012  Stage 3,2012-06-04,RR,Galati,Vaslui,141,3,race/romanian-cycling-tour/2012/stage-3,178.0
+712,Romanian Cycling Tour 2012  Stage 4,2012-06-05,RR,Iasi,Botosani,141,4,race/romanian-cycling-tour/2012/stage-4,117.0
+713,Romanian Cycling Tour 2012  Stage 5,2012-06-06,RR,Siret,Suceava,141,5,race/romanian-cycling-tour/2012/stage-5,159.0
+714,Romanian Cycling Tour 2012  Stage 6,2012-06-07,RR,Poiana Largului,Targu Mures,141,6,race/romanian-cycling-tour/2012/stage-6,167.0
+715,Romanian Cycling Tour 2012  Stage 7,2012-06-08,RR,Agnita,Ramnicu Valcea,141,7,race/romanian-cycling-tour/2012/stage-7,156.0
+716,Romanian Cycling Tour 2012  Stage 8,2012-06-09,RR,Ramnicu Valcea,Pasul Urdele,141,8,race/romanian-cycling-tour/2012/stage-8,126.0
+717,Romanian Cycling Tour 2012  Stage 9,2012-06-09,RR,Salonta,Marghita,141,9,race/romanian-cycling-tour/2012/stage-9,109.0
+718,Trofeo Alcide Degasperi 2012,2012-06-02,RR,Bassano,Povo,142,0,race/trofeo-alcide-degasperi/2012,156.4
+719,Coppa della Pace - Trofeo F.lli Anelli 2012,2012-06-03,RR,Start,Finish,143,0,race/coppa-della-pace-trofeo-flli-anelli/2012,0.0
+720,Grand Prix Südkärnten 2012,2012-06-03,RR,Start,Finish,144,0,race/grand-prix-sudkarnten/2012,0.0
+721,Memorial Philippe Van Coningsloo 2012,2012-06-03,RR,Waver,Rijmenan,145,0,race/memorial-philippe-van-coningsloo/2012,0.0
+722,Riga Grand Prix 2012,2012-06-03,RR,Start,Finish,124,0,race/jurmala-gp/2012,0.0
+723,Okolo Slovenska 2012  Stage 1,2012-06-05,RR,Liptovský Mikuláš,Liptovský Mikuláš,147,1,race/okolo-slovenska/2012/stage-1,158.1
+724,Okolo Slovenska 2012  Stage 2,2012-06-06,RR,Liptovský Mikuláš,ierny Váh,147,2,race/okolo-slovenska/2012/stage-2,153.7
+725,Okolo Slovenska 2012  Stage 3,2012-06-07,RR,Liptovský Hrádok,Veký Krtíš,147,3,race/okolo-slovenska/2012/stage-3,184.6
+726,Okolo Slovenska 2012  Stage 4,2012-06-08,RR,Dudince,Bratislava,147,4,race/okolo-slovenska/2012/stage-4,231.8
+727,Okolo Slovenska 2012  Stage 5,2012-06-09,RR,Bratislava,Vodné dielo Gabíkovo,147,5,race/okolo-slovenska/2012/stage-5,135.4
+728,GP du Canton d'Argovie / GP Gippingen 2012,2012-06-07,RR,Gippingen,Gippingen,148,0,race/gp-du-canton-d-argovie/2012,181.5
+729,Ronde de l'Oise 2012  Stage 1,2012-06-07,RR,Breuil-le-Sec, Montataire,149,1,race/ronde-de-l-oise/2012/stage-1,138.0
+730,Ronde de l'Oise 2012  Stage 2,2012-06-08,RR,Longueil-Sainte-Marie, Ribécourt,149,2,race/ronde-de-l-oise/2012/stage-2,171.8
+731,Ronde de l'Oise 2012  Stage 3,2012-06-09,RR,Wavignies, Clermont ,149,3,race/ronde-de-l-oise/2012/stage-3,190.3
+732,Ronde de l'Oise 2012  Stage 4,2012-06-10,RR,Crépy-en-Valois, Rantigny,149,4,race/ronde-de-l-oise/2012/stage-4,173.9
+733,National Championships Slovenia - ITT 2012,2012-06-08,RR,Ljubljana,Ljubljana,150,0,race/nc-slovenia-itt/2012,0.0
+734,Giro Ciclistico d'Italia 2012  Stage 1,2012-06-08,RR,Monte Urano,Tortoreto Lido,151,1,race/giro-ciclistico-d-italia/2012/stage-1,144.0
+735,Giro Ciclistico d'Italia 2012  Stage 2,2012-06-09,RR,Colonnela,Alba Adriatica,151,2,race/giro-ciclistico-d-italia/2012/stage-2a,57.6
+736,Giro Ciclistico d'Italia 2012  Stage 2 (ITT),2012-06-09,ITT,Giulianova,Alba Adriatica,151,3,race/giro-ciclistico-d-italia/2012/stage-2b,12.1
+737,Giro Ciclistico d'Italia 2012  Stage 3,2012-06-10,RR,Notaresco,Sora,151,4,race/giro-ciclistico-d-italia/2012/stage-3,193.9
+738,Giro Ciclistico d'Italia 2012  Stage 4,2012-06-11,RR,Avenzzano,Monte Terminillo,151,5,race/giro-ciclistico-d-italia/2012/stage-4,168.4
+739,Giro Ciclistico d'Italia 2012  Stage 5,2012-06-12,RR,Perugia,Gaiole in Chianti,151,6,race/giro-ciclistico-d-italia/2012/stage-5,158.4
+740,Giro Ciclistico d'Italia 2012  Stage 6,2012-06-14,RR,Greve in Chianti,Perignano di Lari,151,7,race/giro-ciclistico-d-italia/2012/stage-6,163.8
+741,Giro Ciclistico d'Italia 2012  Stage 7,2012-06-15,RR,Monticelli Terme,Lonato del Garda,151,8,race/giro-ciclistico-d-italia/2012/stage-7,147.1
+742,Giro Ciclistico d'Italia 2012  Stage 8,2012-06-16,RR,Rovereto,Passo di Gavia,151,9,race/giro-ciclistico-d-italia/2012/stage-8,168.2
+743,Giro Ciclistico d'Italia 2012  Stage 9,2012-06-17,RR,Asiago,Asiago,151,10,race/giro-ciclistico-d-italia/2012/stage-9,123.0
+744,Ronde van Zeeland Seaports 2012,2012-06-09,RR,Middelburg,Goes,152,0,race/1e-delta-tour-zeeland/2012,201.0
+745,Internationale Thüringen-Rundfahrt U23 2012  Stage 1 (TTT),2012-06-09,TTT,Sangerhausen,Sangerhausen,153,1,race/thuringen-rundfahrt/2012/stage-1,6.9
+746,Internationale Thüringen-Rundfahrt U23 2012  Stage 2,2012-06-10,RR,Erfurt,Erfurt,153,2,race/thuringen-rundfahrt/2012/stage-2,170.0
+747,Internationale Thüringen-Rundfahrt U23 2012  Stage 3,2012-06-11,RR,Schönbrunn,Steinbach-Langenbach,153,3,race/thuringen-rundfahrt/2012/stage-3,139.5
+748,Internationale Thüringen-Rundfahrt U23 2012  Stage 4,2012-06-12,RR,Bad Blankenburg,Bad Blankenburg,153,4,race/thuringen-rundfahrt/2012/stage-4,147.2
+749,Internationale Thüringen-Rundfahrt U23 2012  Stage 5,2012-06-13,RR,Treffurt,Treffurt,153,5,race/thuringen-rundfahrt/2012/stage-5,186.0
+750,Internationale Thüringen-Rundfahrt U23 2012  Stage 6 (ITT),2012-06-14,ITT,Gräfenroda,Oberhof,153,6,race/thuringen-rundfahrt/2012/stage-6,8.6
+751,Internationale Thüringen-Rundfahrt U23 2012  Stage 7,2012-06-15,RR,Zeulenroda,Triebes,153,7,race/thuringen-rundfahrt/2012/stage-7,143.3
+752,Garmin ProRace 2012,2012-06-10,RR,Berlin,Berlin,154,0,race/prorace-berlin/2012,182.9
+753,National Championships Macedonia - ITT 2012,2012-06-10,RR,Start,Finish,155,0,race/nc-macedonia-itt/2012,0.0
+754,Route du Sud - la Depêche du Midi 2012  Stage 1,2012-06-14,RR,Lacaune les Bains,Albi,156,1,race/la-route-d-occitanie/2012/stage-1,188.4
+755,Route du Sud - la Depêche du Midi 2012  Stage 2,2012-06-15,RR,Castres,Saint Michel,156,2,race/la-route-d-occitanie/2012/stage-2,197.1
+756,Route du Sud - la Depêche du Midi 2012  Stage 3,2012-06-16,RR,Trie sur Baise,Arras en Lavedan,156,3,race/la-route-d-occitanie/2012/stage-3,204.6
+757,Route du Sud - la Depêche du Midi 2012  Stage 4,2012-06-17,RR,Saint Gaudens,Saint Gaudens,156,4,race/la-route-d-occitanie/2012/stage-4,139.5
+758,Ster ZLM Toer GP Jan van Heeswijk 2012  Stage 1,2012-06-14,RR,Eindhoven,Geleen,157,1,race/ster-elektro-tour/2012/stage-1,0.0
+759,Ster ZLM Toer GP Jan van Heeswijk 2012  Stage 2,2012-06-15,RR,Schimmert,Schimmert,157,2,race/ster-elektro-tour/2012/stage-2,167.0
+760,Ster ZLM Toer GP Jan van Heeswijk 2012  Stage 3,2012-06-16,RR,Verviers,La Gileppe,157,3,race/ster-elektro-tour/2012/stage-3,184.0
+761,Ster ZLM Toer GP Jan van Heeswijk 2012  Stage 4,2012-06-17,RR,Schijndel,Boxtel,157,4,race/ster-elektro-tour/2012/stage-4,182.0
+762,Tour De Slovénie 2012  Stage 1,2012-06-14,RR, Celje,Novo Mesto,158,1,race/tour-of-slovenia/2012/stage-1,152.0
+763,Tour De Slovénie 2012  Stage 2,2012-06-15,RR,Koevje,Metlika,158,2,race/tour-of-slovenia/2012/stage-2,177.4
+764,Tour De Slovénie 2012  Stage 3,2012-06-16,RR,Ivanna Gorica,Škofja Loka,158,3,race/tour-of-slovenia/2012/stage-3,219.0
+765,Tour De Slovénie 2012  Stage 4 (ITT),2012-06-17,ITT,Ljubljana,Ljubljana,158,4,race/tour-of-slovenia/2012/stage-4,17.8
+766,Boucles de la Mayenne 2012  Prologue,2012-06-14,Prologue,Laval,Laval,159,1,race/boucles-de-la-mayenne/2012/prologue,4.5
+767,Boucles de la Mayenne 2012  Stage 1,2012-06-15,RR,Renault Saint-Berthevin,Lassay-les-Chateaux,159,2,race/boucles-de-la-mayenne/2012/stage-1,187.0
+768,Boucles de la Mayenne 2012  Stage 2,2012-06-16,RR,Villaines-la-Juhel,Villaines-la-Juhel,159,3,race/boucles-de-la-mayenne/2012/stage-2,173.0
+769,Boucles de la Mayenne 2012  Stage 3,2012-06-17,RR,Montsûrs, Laval,159,4,race/boucles-de-la-mayenne/2012/stage-3,166.0
+770,National Championships Finland - ITT 2012,2012-06-15,RR,Lieto,Lieto,160,0,race/nc-finland-itt/2012,0.0
+771,National Championships Finland - Road Race 2012,2012-06-17,RR,Lieto,Lieto,161,0,race/nc-finland/2012,0.0
+772,Flèche Ardennaise 2012,2012-06-17,RR,Hervé,Hervé,162,0,race/fleche-ardennaise/2012,180.4
+773,Halle-Ingooigem 2012,2012-06-20,RR,Start,Finish,163,0,race/halle-ingooigem/2012,198.0
+774,National Championships Estonia - ITT 2012,2012-06-20,RR,Rõuge,Rõuge,164,0,race/nc-estonia-itt/2012,0.0
+775,National Championships Netherlands - ITT 2012,2012-06-20,RR,Emmen,Emmen,165,0,race/nc-netherlands-itt/2012,0.0
+776,National Championships Switzerland - ITT 2012,2012-06-20,RR,Messen,Messen,166,0,race/nc-switzerland-itt/2012,0.0
+777,National Championships Czech Republic - ITT 2012,2012-06-21,RR,Puchov,Puchov,167,0,race/nc-czech-republic-itt/2012,0.0
+778,National Championships Denmark - ITT 2012,2012-06-21,RR,Hammel,Hammel,168,0,race/nc-denmark-itt/2012,0.0
+779,National Championships France - ITT 2012,2012-06-21,RR,Saint-Amand-les-Eaux,Saint-Amand-les-Eaux,169,0,race/nc-france-itt/2012,48.5
+780,National Championships Hungary - ITT 2012,2012-06-21,RR,Felsözsolca,Felsözsolca,170,0,race/nc-hungary-itt/2012,0.0
+781,National Championships Ireland - ITT 2012,2012-06-21,RR,Cahir,Cahir,171,0,race/nc-ireland-itt/2012,0.0
+782,National Championships Latvia - ITT 2012,2012-06-21,RR,Smiltene,Smiltene,172,0,race/nc-latvia-itt/2012,0.0
+783,National Championships Luxembourg - ITT 2012,2012-06-21,RR,Tétange,Tétange,173,0,race/nc-luxembourg-itt/2012,0.0
+784,National Championships Norway - ITT 2012,2012-06-21,RR,Bergen,Bergen,174,0,race/nc-norway-itt/2012,0.0
+785,National Championships Poland - ITT 2012,2012-06-21,RR,Jedrzejow,Jedrzejow,175,0,race/nc-poland-itt/2012,0.0
+786,National Championships Slovakia - ITT 2012,2012-06-21,RR,Puchov,Puchov,176,0,race/nc-slovakia2/2012,0.0
+787,National Championships Luxembourg 2012,2012-06-21,RR,Tétange,Tétange,177,0,race/nc-luxembourg-u23/2012,0.0
+788,National Championships Estonia - Road Race 2012,2012-06-22,RR,Rõuge,Rõuge,178,0,race/nc-estonia/2012,0.0
+789,National Championships Azerbaijan - ITT 2012,2012-06-22,RR,Qabala,Oguz,179,0,race/nc-azerbaijan-itt/2012,0.0
+790,National Championships Belarus - ITT 2012,2012-06-22,RR,Grodno,Grodno,180,0,race/nc-belarus-itt/2012,0.0
+791,National Championships Croatia - ITT 2012,2012-06-22,RR,Breznicki Hum,Breznicki Hum,181,0,race/nc-croatia-itt/2012,0.0
+792,National Championships Georgia - ITT 2012,2012-06-22,RR,Tbilisi,Tbilisi,182,0,race/nc-georgia-itt/2012,0.0
+793,National Championships Germany - ITT 2012,2012-06-22,RR,Zwenkau,Zwenkau,183,0,race/nc-germany-itt/2012,0.0
+794,National Championships Greece - ITT 2012,2012-06-22,RR,Larisa,Larisa,184,0,race/nc-greece-itt/2012,0.0
+795,National Championships Lithuania - ITT 2012,2012-06-22,RR,Šiauliai,Šiauliai,185,0,race/nc-lithuania-itt/2012,0.0
+796,National Championships Romania - ITT 2012,2012-06-22,RR,Bucin,Bucin,186,0,race/nc-romania-itt/2012,0.0
+797,National Championships Russia - ITT 2012,2012-06-22,RR,Voronezh,Voronezh,187,0,race/nc-russia-itt/2012,0.0
+798,National Championships Spain - ITT 2012,2012-06-22,RR,Béjar,Béjar,188,0,race/nc-spain-itt/2012,0.0
+799,National Championships Turkey - ITT 2012,2012-06-22,RR,Nevsehir,Nevsehir,189,0,race/nc-turkey-itt/2012,0.0
+800,National Championships Ukraine - ITT 2012,2012-06-22,RR,Bila Tserkva,Bila Tserkva,190,0,race/nc-ukraine-itt/2012,0.0
+801,National TT Championships Portugal 2012,2012-06-22,RR,Start,Finish,191,0,race/nc-portugal/2012,0.0
+802,National Championships Italy - Road Race 2012,2012-06-23,RR,Borgo Valsugana,Borgo Valsugana,192,0,race/nc-italy/2012,0.0
+803,National Championships Latvia - Road Race 2012,2012-06-23,RR,Smiltene,Smiltene,193,0,race/nc-latvia/2012,0.0
+804,National Championships Moldova - ITT 2012,2012-06-23,RR,Chisinau,Chisinau,194,0,race/nc-moldova-itt/2012,0.0
+805,National Championships Serbia - ITT 2012,2012-06-23,RR,Kraljevo,Kraljevo,195,0,race/nc-serbia-itt/2012,0.0
+806,National Championships Turkey - Road Race 2012,2012-06-23,RR,Nevsehir,Nevsehir,196,0,race/nc-turkey/2012,0.0
+807,National Championships Austria - Road Race 2012,2012-06-24,RR,Judendorf,Judendorf,197,0,race/nc-austria/2012,0.0
+808,National Championships Azerbaijan - Road Race 2012,2012-06-24,RR,Start,Finish,198,0,race/nc-azerbaijan/2012,0.0
+809,National Championships Belarus - Road Race 2012,2012-06-24,RR,Grodno,Grodno,199,0,race/nc-belarus/2012,0.0
+810,National Championships Belgium - Road Race 2012,2012-06-24,RR,Geel,Geel,200,0,race/nc-belgium/2012,0.0
+811,National Championships Croatia - Road Race 2012,2012-06-24,RR,Lepoglava,Lepoglava,201,0,race/nc-croatia/2012,0.0
+812,National Championships Czech Republic - Road Race 2012,2012-06-24,RR,Puchov,Puchov,202,0,race/nc-czech-republic/2012,0.0
+813,National Championships Denmark - Road Race 2012,2012-06-24,RR,Hammel,Hammel,203,0,race/danish-championships/2012,0.0
+814,National Championships France - Road Race 2012,2012-06-24,RR,Saint-Amand-les-Eaux,Saint-Amand-les-Eaux,204,0,race/nc-france/2012,256.3
+815,National Championships Georgia - Road Race 2012,2012-06-24,RR,Tbilisi,Tbilisi,205,0,race/nc-georgia/2012,0.0
+816,National Championships Germany - Road Race 2012,2012-06-24,RR,Grimma,Grimma,206,0,race/nc-germany/2012,0.0
+817,National Championships Great Britain - Road Race 2012,2012-06-24,RR,Ampleforth,Ampleforth,207,0,race/ncgreat-britain/2012,0.0
+818,National Championships Greece - Road Race 2012,2012-06-24,RR,Larisa,Larisa,208,0,race/nc-greece/2012,0.0
+819,National Championships Hungary - Road Race 2012,2012-06-24,RR,Hosszúhetény,Hosszúhetény,209,0,race/nc-hungary/2012,0.0
+820,National Championships Ireland - Road Race 2012,2012-06-24,RR,Clonmel,Clonmel,210,0,race/nc-ireland/2012,0.0
+821,National Championships Italy - ITT 2012,2012-06-24,RR,Levico,Levico,211,0,race/nc-italy-itt/2012,0.0
+822,National Championships Lithuania - Road Race 2012,2012-06-24,RR,Šiauliai,Šiauliai,212,0,race/nc-lithuania/2012,0.0
+823,National Championships Luxembourg - Road Race 2012,2012-06-24,RR,Tétange,Tétange,213,0,race/nc-luxembourg/2012,0.0
+824,National Championships Macedonia - Road Race 2012,2012-06-24,RR,Start,Finish,214,0,race/nc-macedonia/2012,0.0
+825,National Championships Moldova - Road Race 2012,2012-06-24,RR,Chisinau,Chisinau,215,0,race/nc-moldova/2012,0.0
+826,National Championships Netherlands - Road Race 2012,2012-06-24,RR,Kerkrade,Kerkrade,216,0,race/nc-netherlands/2012,0.0
+827,National Championships Norway - Road Race 2012,2012-06-24,RR,Bergen,Bergen,217,0,race/nc-norway/2012,0.0
+828,National Championships Poland - Road Race 2012,2012-06-24,RR,Sedziszów,Sedziszów,218,0,race/nc-poland/2012,0.0
+829,National Championships Romania - Road Race 2012,2012-06-24,RR,Izvoru Muresului,Izvoru Muresului,219,0,race/nc-romania/2012,0.0
+830,National Championships Russia - Road Race 2012,2012-06-24,RR,Voronezh,Voronezh,220,0,race/nc-russia/2012,0.0
+831,National Championships Serbia - Road Race 2012,2012-06-24,RR,Cacak,Cacak,221,0,race/nc-serbia/2012,0.0
+832,National Championships Slovakia - Road Race 2012,2012-06-24,RR,Puchov,Puchov,222,0,race/nc-slovakia/2012,0.0
+833,National Championships Slovenia - Road Race 2012,2012-06-24,RR,Mirna,Mirna,223,0,race/nc-slovenia/2012,0.0
+834,National Championships Spain - Road Race 2012,2012-06-24,RR,Salamanca,Salamanca,224,0,race/nc-spain/2012,0.0
+835,National Championships Sweden - Road Race 2012,2012-06-24,RR,Södertälje,Södertälje,225,0,race/nc-sweden/2012,0.0
+836,National Championships Switzerland - Road Race 2012,2012-06-24,RR,Cham,Cham,226,0,race/nc-switserland/2012,0.0
+837,National Championships Ukraine - Road Race 2012,2012-06-24,RR,Bila Tserkva,Bila Tserkva,227,0,race/nc-ukraine/2012,0.0
+838,National Championships Sweden - ITT 2012,2012-06-26,RR,Södertälje,Södertälje,228,0,race/nc-sweden-itt/2012,0.0
+839,Internationale Wielertrofee Jong Maar Moedig I.W.T 2012,2012-06-27,RR,Oetingen,Oetingen,229,0,race/int-wielertrofee-jong-maar-moedig-iwt/2012,168.0
+840,Czech Cycling Tour 2012  Stage 1 (TTT),2012-06-28,TTT,Uniov,Uniov,230,1,race/czech-cycling-tour/2012/stage-1,25.9
+841,Czech Cycling Tour 2012  Stage 2,2012-06-29,RR,Olomouc,Prostjov,230,2,race/czech-cycling-tour/2012/stage-2,146.4
+842,Czech Cycling Tour 2012  Stage 3,2012-06-30,RR,Jeseník,Šternberk,230,3,race/czech-cycling-tour/2012/stage-3,195.0
+843,Czech Cycling Tour 2012  Stage 4,2012-07-01,RR,Olomouc,Olomouc,230,4,race/czech-cycling-tour/2012/stage-4,176.0
+844,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2012,2012-06-30,RR,Start,Finish,231,0,race/omloop-het-nieuwsblad-beloften/2012,0.0
+845,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 1,2012-07-01,RR,Innsbruck,Innsbruck,232,1,race/tour-of-austria/2012/stage-1,153.0
+846,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 2,2012-07-02,RR,Innsbruck,Kitzbuheler Horn,232,2,race/tour-of-austria/2012/stage-2,157.4
+847,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 3,2012-07-03,RR,Kitzbuhel,Lienz,232,3,race/tour-of-austria/2012/stage-3,141.8
+848,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 4,2012-07-04,RR,Lienz,St. Johann/Alpendorf,232,4,race/tour-of-austria/2012/stage-4,141.3
+849,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 5,2012-07-05,RR,St. Johann/Alpendorf,Sonntagberg,232,5,race/tour-of-austria/2012/stage-5,228.3
+850,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 6,2012-07-06,RR,Waidhofen/Ybbs,Melk,232,6,race/tour-of-austria/2012/stage-6,185.2
+851,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 7 (ITT),2012-07-07,ITT,Podersdorf am Neusiedler See,Podersdorf am Neusiedler See,232,7,race/tour-of-austria/2012/stage-7,24.1
+852,Int. Osterreich-Rundfahrt-Tour of Austria 2012  Stage 8,2012-07-08,RR,Podersdorf am Neusiedler See,Wien,232,8,race/tour-of-austria/2012/stage-8,122.8
+853,National Championships Bulgaria - Road Race 2012,2012-07-01,RR,Sliven,Sliven,233,0,race/nc-bulgaria/2012,0.0
+854,National Championships Albania - Road Race 2012,2012-07-03,RR,Start,Finish,234,0,race/nc-albania/2012,160.0
+855,Course Cycliste de Solidarnosc et des Champions Olympiques 2012  Stage 1,2012-07-04,RR,Lodz,Belchatow,235,1,race/course-cycliste-de-solidarnosc/2012/stage-1,76.2
+856,Course Cycliste de Solidarnosc et des Champions Olympiques 2012  Stage 2,2012-07-04,RR,Tuszyn,Sieradz,235,2,race/course-cycliste-de-solidarnosc/2012/stage-2,140.8
+857,Course Cycliste de Solidarnosc et des Champions Olympiques 2012  Stage 3,2012-07-05,RR,Leczyca,Kutno,235,3,race/course-cycliste-de-solidarnosc/2012/stage-3,167.6
+858,Course Cycliste de Solidarnosc et des Champions Olympiques 2012  Stage 4,2012-07-06,RR,Tomaszow Mazowiecki,Kielce,235,4,race/course-cycliste-de-solidarnosc/2012/stage-4,158.4
+859,Course Cycliste de Solidarnosc et des Champions Olympiques 2012  Stage 5,2012-07-07,RR,Nowy Sacz,Krosno,235,5,race/course-cycliste-de-solidarnosc/2012/stage-5,186.5
+860,Course Cycliste de Solidarnosc et des Champions Olympiques 2012  Stage 6,2012-07-08,RR,Jaslo,Jaroslaw,235,6,race/course-cycliste-de-solidarnosc/2012/stage-6,165.2
+861,Sibiu Cycling Tour 2012  Prologue,2012-07-04,Prologue,Sibiu,Sibiu,236,1,race/sibiu-cycling-tour/2012/prologue,2.4
+862,Sibiu Cycling Tour 2012  Stage 1,2012-07-05,RR,Sibiu,Paltinis,236,2,race/sibiu-cycling-tour/2012/stage-1,184.0
+863,Sibiu Cycling Tour 2012  Stage 2 (TTT),2012-07-06,TTT,Cisnadie,Sibiu,236,3,race/sibiu-cycling-tour/2012/stage-2,10.2
+864,Sibiu Cycling Tour 2012  Stage 3,2012-07-07,RR,Sibiu,Balea Lac,236,4,race/sibiu-cycling-tour/2012/stage-3,90.2
+865,Sibiu Cycling Tour 2012  Stage 4,2012-07-08,RR,Sibiu,Sibiu,236,5,race/sibiu-cycling-tour/2012/stage-4,146.2
+866,Giro del Medio Brenta 2012,2012-07-08,RR,Cittadella,Cittadella,237,0,race/giro-del-medio-brenta/2012,169.1
+867,GP de Pont a Marcq - La Ronde Pévèloise 2012,2012-07-08,RR,Pont-à-Marcq,Pont-à-Marcq,238,0,race/gp-de-pont-a-marcq/2012,0.0
+868,GP van de stad Geel 2012,2012-07-11,RR,Start,Finish,239,0,race/gp-van-de-stad-geel/2012,0.0
+869,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2012  Prologue,2012-07-12,Prologue,Torres Vedras,Torres Vedras,240,1,race/gp-int-torres-vedras/2012/prologue,0.0
+870,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2012  Stage 1,2012-07-13,RR,Manique do Intendente, Vimeiro,240,2,race/gp-int-torres-vedras/2012/stage-1,0.0
+871,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2012  Stage 2,2012-07-14,RR,Torres Vedras,Torres Vedras,240,3,race/gp-int-torres-vedras/2012/stage-2,0.0
+872,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2012  Stage 3,2012-07-15,RR,Atouguia da Baleia, Carvoeira,240,4,race/gp-int-torres-vedras/2012/stage-3,0.0
+873,GP Nobili Rubinetterie Coppa Citta di Stresa 2012,2012-07-14,RR,Start,Finish,241,0,race/gp-nobili-rubinetterie/2012,195.0
+874,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012  Prologue,2012-07-16,Prologue,Bard,Bard,242,1,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2012/prologue,3.4
+875,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012  Stage 1,2012-07-17,RR,Arvier,Arvier,242,2,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2012/stage-1,133.0
+876,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012  Stage 2,2012-07-18,RR,Issogne, Champdepraz ,242,3,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2012/stage-2,160.0
+877,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012  Stage 3,2012-07-19,RR,Quincinetto, Tavagnasco,242,4,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2012/stage-3,138.8
+878,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012  Stage 4,2012-07-20,RR,Antey-Saint-André,Antey-Saint-André,242,5,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2012/stage-4,166.2
+879,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012  Stage 5,2012-07-21,RR,Aigle, Châtel,242,6,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2012/stage-5,142.1
+880,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2012  Stage 6 (ITT),2012-07-22,ITT,Châtel,,242,7,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2012/stage-6,12.45
+881,Tour de Wallonie 2012  Stage 1,2012-07-21,RR,Tournai,Lessines,243,1,race/tour-de-wallonie/2012/stage-1,159.7
+882,Tour de Wallonie 2012  Stage 2,2012-07-22,RR,Binche,Mettet,243,2,race/tour-de-wallonie/2012/stage-2,205.5
+883,Tour de Wallonie 2012  Stage 3,2012-07-23,RR,Marche en Famenne,Beaufays,243,3,race/tour-de-wallonie/2012/stage-3,185.9
+884,Tour de Wallonie 2012  Stage 4,2012-07-24,RR,Huy,Oreye,243,4,race/tour-de-wallonie/2012/stage-4,207.0
+885,Tour de Wallonie 2012  Stage 5,2012-07-25,RR,Welkenraedt,Perwez,243,5,race/tour-de-wallonie/2012/stage-5,179.2
+886,Central European Tour Miskolc GP 2012,2012-07-21,RR,Start,Finish,244,0,race/central-european-tour-miskolc-gp/2012,0.0
+887,Central European Tour Budapest GP 2012,2012-07-22,RR,Start,Finish,245,0,race/central-european-tour-budapest-gp/2012,0.0
+888,Grand Prix de la ville de Pérenchies 2012,2012-07-22,RR,Start,Finish,246,0,race/grand-prix-de-la-ville-de-perenchies/2012,0.0
+889,Tour Alsace 2012  Stage 1,2012-07-24,RR,Huningue,Huningue,247,1,race/tour-alsace/2012/stage-1,146.3
+890,Tour Alsace 2012  Stage 2,2012-07-25,RR,Strasbourg,Bischoffsheim,247,2,race/tour-alsace/2012/stage-2,153.8
+891,Tour Alsace 2012  Stage 3,2012-07-26,RR,Beaucourt,Colmar,247,3,race/tour-alsace/2012/stage-3,160.3
+892,Tour Alsace 2012  Stage 4,2012-07-27,RR,Bollwiller,Markstein,247,4,race/tour-alsace/2012/stage-4,84.6
+893,Tour Alsace 2012  Stage 5 (ITT),2012-07-28,ITT,Cernay,Cernay,247,5,race/tour-alsace/2012/stage-5,17.7
+894,Tour Alsace 2012  Stage 6,2012-07-29,RR,Ribeauvillé,Le Ballon d’Alsace,247,6,race/tour-alsace/2012/stage-6,156.7
+895,Prueba Villafranca-Ordiziako Klasika 2012,2012-07-25,RR,Start,Finish,248,0,race/prueba-villafranca/2012,165.7
+896,Dookola Mazowsza 2012  Stage 1,2012-07-25,RR,Modlin,Modlin,249,1,race/dookola-mazowsza/2012/stage-1,0.0
+897,Dookola Mazowsza 2012  Stage 2,2012-07-26,RR,Nowy Dwór Mazowiecki, Nowy Dwór Mazowiecki ,249,2,race/dookola-mazowsza/2012/stage-2,0.0
+898,Dookola Mazowsza 2012  Stage 3,2012-07-27,RR,Kozienice,Kozienice,249,3,race/dookola-mazowsza/2012/stage-3,0.0
+899,Dookola Mazowsza 2012  Stage 4 (ITT),2012-07-28,ITT,Szydlowiec,Szydlowiec,249,4,race/dookola-mazowsza/2012/stage-4,19.6
+900,Kreiz Breizh Elites 2012  Stage 1,2012-07-28,RR,Calanhel,Plouray,250,1,race/kreiz-breizh-elites/2012/stage-1,198.8
+901,Kreiz Breizh Elites 2012  Stage 2 (ITT),2012-07-29,ITT,Carhaix,Cléden Poher,250,2,race/kreiz-breizh-elites/2012/stage-2,12.5
+902,Kreiz Breizh Elites 2012  Stage 3,2012-07-29,RR,Plouguernevel,Ploerdut,250,3,race/kreiz-breizh-elites/2012/stage-3,102.4
+903,Kreiz Breizh Elites 2012  Stage 4,2012-07-30,RR,Carhaix,Rostrenen,250,4,race/kreiz-breizh-elites/2012/stage-4,169.1
+904,La Poly Normande 2012,2012-07-29,RR,Avranches,,251,0,race/la-poly-normande/2012,157.0
+905,Trofeo Matteotti 2012,2012-07-29,RR,Start,Finish,252,0,race/trofeo-matteotti/2012,195.0
+906,Circuito De Getxo \'Memorial Ricardo Otxoa\' 2012,2012-07-31,RR,Start,Finish,253,0,race/circuito-de-getxo/2012,170.0
+907,Vuelta a Burgos 2012  Stage 1,2012-08-01,RR,Miranda de Ebro,Ojo Guareña,254,1,race/vuelta-a-burgos/2012/stage-1,135.0
+908,Vuelta a Burgos 2012  Stage 2,2012-08-02,RR,Burgos,Burgos,254,2,race/vuelta-a-burgos/2012/stage-2,141.0
+909,Vuelta a Burgos 2012  Stage 3,2012-08-03,RR,Santo Domingo de Silos,Lerma,254,3,race/vuelta-a-burgos/2012/stage-3,159.0
+910,Vuelta a Burgos 2012  Stage 4,2012-08-04,RR,Doña Santos,Clunia,254,4,race/vuelta-a-burgos/2012/stage-4,170.0
+911,Vuelta a Burgos 2012  Stage 5,2012-08-05,RR,Revenga,Lagunas de Neila,254,5,race/vuelta-a-burgos/2012/stage-5,170.0
+912,Paris - Corrèze 2012  Stage 1,2012-08-01,RR,Contres,Sassay,255,1,race/paris-correze/2012/stage-1,168.1
+913,Paris - Corrèze 2012  Stage 2,2012-08-02,RR, Objat,Chaumeil,255,2,race/paris-correze/2012/stage-2,170.2
+914,Antwerpse Havenpijl 2012,2012-08-05,RR,Merksem,Merksem,256,0,race/antwerpse-havenpijl/2012,173.0
+915,Trofeo Internazionale Bastianelli 2012,2012-08-05,RR,Sabina,Atina,257,0,race/trofeo-internazionale-bastianelli/2012,143.0
+916,Tour de l'Ain - La route du progrès 2012  Stage 1,2012-08-07,RR,Montmerle, Trévoux ,258,1,race/tour-de-l-ain/2012/stage-1,146.2
+917,Tour de l'Ain - La route du progrès 2012  Stage 2,2012-08-08,RR,Lagnieu,Ambérieu-en-Bugey,258,2,race/tour-de-l-ain/2012/stage-2a,83.5
+918,Tour de l'Ain - La route du progrès 2012  Stage 2 (TTT),2012-08-08,TTT,Saint Vulbas,Saint Vulbas,258,3,race/tour-de-l-ain/2012/stage-2b,10.7
+919,Tour de l'Ain - La route du progrès 2012  Stage 3,2012-08-09,RR,Belley,Montréal-la-Cluse ,258,4,race/tour-de-l-ain/2012/stage-3,148.5
+920,Tour de l'Ain - La route du progrès 2012  Stage 4,2012-08-10,RR,Nantua,Septmoncel,258,5,race/tour-de-l-ain/2012/stage-4,166.2
+921,Tour de l'Ain - La route du progrès 2012  Stage 5,2012-08-11,RR,Saint-Claude,Léxel,258,6,race/tour-de-l-ain/2012/stage-5,134.7
+922,Vuelta Ciclista a León 2012  Stage 1,2012-08-07,RR,Rio Pinos/Lugueros,Sahagun,259,1,race/vuelta-ciclista-a-leon/2012/stage-1,169.0
+923,Vuelta Ciclista a León 2012  Stage 2,2012-08-08,RR,Camponaraya,La Bana,259,2,race/vuelta-ciclista-a-leon/2012/stage-2,155.2
+924,Vuelta Ciclista a León 2012  Stage 3,2012-08-09,RR,Val de San Lorenzo,Riello,259,3,race/vuelta-ciclista-a-leon/2012/stage-3,161.2
+925,Vuelta Ciclista a León 2012  Stage 4,2012-08-10,RR,Sabero,Villamanin,259,4,race/vuelta-ciclista-a-leon/2012/stage-4,182.1
+926,Vuelta Ciclista a León 2012  Stage 5,2012-08-11,RR,Laguna de Negrillos,Leon,259,5,race/vuelta-ciclista-a-leon/2012/stage-5,118.2
+927,La Mi-Août en Bretagne 2012  Stage 1,2012-08-09,RR, Guingamp,Ploumagoar,260,1,race/mi-aout-bretonne/2012/stage-1,179.0
+928,La Mi-Août en Bretagne 2012  Stage 2,2012-08-10,RR,Pont-Scorff, Cléguer ,260,2,race/mi-aout-bretonne/2012/stage-2,166.0
+929,La Mi-Août en Bretagne 2012  Stage 3,2012-08-11,RR,Poullaouen, Poullaouen ,260,3,race/mi-aout-bretonne/2012/stage-3,186.0
+930,La Mi-Août en Bretagne 2012  Stage 4,2012-08-12,RR,Guerlesquin, Guerlesquin ,260,4,race/mi-aout-bretonne/2012/stage-4,178.0
+931,Tour of Szeklerland 2012  Stage 1 (TTT),2012-08-09,TTT,Miercurea Ciuc, Manastirea Fagatel,261,1,race/tour-of-szeklerland/2012/stage-1,22.0
+932,Tour of Szeklerland 2012  Stage 2,2012-08-10,RR,Miercurea Ciuc,Miercurea Ciuc,261,2,race/tour-of-szeklerland/2012/stage-2,168.0
+933,Tour of Szeklerland 2012  Stage 3,2012-08-11,RR,Miercurea Ciuc,Harghita-Bai,261,3,race/tour-of-szeklerland/2012/stage-3,180.0
+934,Tour of Szeklerland 2012  Stage 4 (ITT),2012-08-12,ITT,Harmaskereszt,Harghita-Bai,261,4,race/tour-of-szeklerland/2012/stage-4a,5.0
+935,Tour of Szeklerland 2012  Stage 4,2012-08-12,RR,Miercurea Ciuc,Miercurea Ciuc,261,5,race/tour-of-szeklerland/2012/stage-4b,130.0
+936,G.P. Camaiore 2012,2012-08-11,RR,Camaiore,Camaiore,262,0,race/gp-camaiore/2012,199.2
+937,Memorial Henryka Lasaka 2012,2012-08-11,RR,Sucha Beskidzka,Sucha Beskidzka,263,0,race/memorial-henryka-lasaka/2012,204.0
+938,National Championships Iceland - Road Race 2012,2012-08-12,RR,Start,Finish,264,0,race/national-championships-iceland---road-race/2012,95.0
+939,Gran Premio Sportivi di Poggiana-Trofeo Bonin Costruzioni 2012,2012-08-12,RR,Poggiana,Poggiana,265,0,race/gp-di-poggiana/2012,178.0
+940,Puchar Uzdrowisk Karpackich 2012,2012-08-12,RR,Rymanów,Iwonicz-Zdroj,266,0,race/puchar-uzdrowisk-karpackich/2012,147.4
+941,Tour du Limousin 2012  Stage 1,2012-08-14,RR,Limoges,La Souterraine,267,1,race/tour-du-limousin/2012/stage-1,162.1
+942,Tour du Limousin 2012  Stage 2,2012-08-15,RR,Oradour-sur-Glane, Saint-Junie,267,2,race/tour-du-limousin/2012/stage-2,186.0
+943,Tour du Limousin 2012  Stage 3,2012-08-16,RR,Jumilhac Le Grand,Trélissac,267,3,race/tour-du-limousin/2012/stage-3,189.1
+944,Tour du Limousin 2012  Stage 4,2012-08-17,RR,Varetz,Limoges,267,4,race/tour-du-limousin/2012/stage-4,173.9
+945,Volta a Portugal em Bicicleta 2012  Prologue,2012-08-15,Prologue,Castelo Branco,Castelo Branco,268,1,race/volta-a-portugal/2012/prologue,2.2
+946,Volta a Portugal em Bicicleta 2012  Stage 1,2012-08-16,RR,Termas Monfortinho,Oliveira do Hospital,268,2,race/volta-a-portugal/2012/stage-1,200.8
+947,Volta a Portugal em Bicicleta 2012  Stage 2,2012-08-17,RR,Oliveira do Bairro,Trofa,268,3,race/volta-a-portugal/2012/stage-2,190.7
+948,Volta a Portugal em Bicicleta 2012  Stage 3,2012-08-18,RR,Vila Nova da Cerveira,Fafe,268,4,race/volta-a-portugal/2012/stage-3,176.1
+949,Volta a Portugal em Bicicleta 2012  Stage 4,2012-08-19,RR,Viana do Castelo,Mondim de Basto,268,5,race/volta-a-portugal/2012/stage-4,151.9
+950,Volta a Portugal em Bicicleta 2012  Stage 5,2012-08-20,RR,Armamar,Oliveira de Azeméis,268,6,race/volta-a-portugal/2012/stage-5,176.6
+951,Volta a Portugal em Bicicleta 2012  Stage 6,2012-08-21,RR,Aveiro,Viseu,268,7,race/volta-a-portugal/2012/stage-6,184.1
+952,Volta a Portugal em Bicicleta 2012  Stage 7,2012-08-23,RR,Gouveia,Sabugal,268,8,race/volta-a-portugal/2012/stage-7,185.3
+953,Volta a Portugal em Bicicleta 2012  Stage 8,2012-08-24,RR,Guarda,Seia (Torre),268,9,race/volta-a-portugal/2012/stage-8,154.9
+954,Volta a Portugal em Bicicleta 2012  Stage 9 (ITT),2012-08-25,ITT,Pedrogão, Leiria,268,10,race/volta-a-portugal/2012/stage-9,32.6
+955,Volta a Portugal em Bicicleta 2012  Stage 10,2012-08-26,RR,Sintra,Lisboa,268,11,race/volta-a-portugal/2012/stage-10,149.5
+956,GP Banca di Legnano - Coppa Bernocchi 2012,2012-08-16,RR,Start,Finish,269,0,race/coppa-bernocchi/2012,200.0
+957,GP Capodarco - Comunità di Capodarco 2012,2012-08-16,RR,Capodarco,Capodarco,270,0,race/gp-capodarco/2012,0.0
+958,Coppa Agostoni - Giro della Brianza 2012,2012-08-17,RR,Monza,Lissone,271,0,race/coppa-agostoni/2012,196.5
+959,Dutch Food Valley Classic 2012,2012-08-17,RR,Veenendaal,Veenendaal,272,0,race/veenendaal-veenendaal/2012,197.4
+960,Tre Valli Varesine 2012,2012-08-18,RR,Bissone,Campione d\\\'Italia,273,0,race/tre-valli-varesine/2012,195.0
+961,National Championships Bosnia and Herzegovina - Road Race 2012,2012-08-18,RR,Banja Luka,Banja Luka,274,0,race/nc-bosnia-and-herzegovina/2012,0.0
+962,Grand Prix Kralovehradeckeho kraje 2012,2012-08-18,RR,Hradec Králové,Trebechovice pod Orebem,275,0,race/grand-prix-kralovehradeckeho-kraje/2012,178.0
+963,Puchar Ministra Obrony Narodowej 2012,2012-08-18,RR,Start,Finish,276,0,race/puchar-ministra-obrony-narodowej/2012,0.0
+964,Chateauroux Classic de l'Indre Trophee Fenioux 2012,2012-08-19,RR,Châteauroux,Châteauroux,277,0,race/chateauroux-classic-de-l-indre-trophee-fenioux/2012,201.2
+965,GP Stad Zottegem 2012,2012-08-21,RR,Zottegem,Zottegem,278,0,race/gp-stad-zottegem/2012,181.7
+966,Tour du Poitou Charentes 2012  Stage 1,2012-08-21,RR,Villebois-Lavalette,Royan,279,1,race/tour-du-poitou-charentes-et-de-la-vienne/2012/stage-1,182.0
+967,Tour du Poitou Charentes 2012  Stage 2,2012-08-22,RR,Royan,Melle,279,2,race/tour-du-poitou-charentes-et-de-la-vienne/2012/stage-2,196.8
+968,Tour du Poitou Charentes 2012  Stage 3,2012-08-23,RR,Pleumartin,La Roche Posay,279,3,race/tour-du-poitou-charentes-et-de-la-vienne/2012/stage-3,99.4
+969,Tour du Poitou Charentes 2012  Stage 4 (ITT),2012-08-23,ITT,La Roche Posay,La Roche Posay,279,4,race/tour-du-poitou-charentes-et-de-la-vienne/2012/stage-4,22.1
+970,Tour du Poitou Charentes 2012  Stage 5,2012-08-24,RR,Melle,Poitiers,279,5,race/tour-du-poitou-charentes-et-de-la-vienne/2012/stage-5,188.8
+971,Baltic Chain Tour 2012  Stage 1,2012-08-21,RR,Tallinn,Viljandi,280,1,race/baltic-chain-tour/2012/stage-1,187.0
+972,Baltic Chain Tour 2012  Stage 2,2012-08-22,RR,Viljandi, Otepää,280,2,race/baltic-chain-tour/2012/stage-2,185.0
+973,Baltic Chain Tour 2012  Stage 3,2012-08-23,RR,Smiltene,Riga,280,3,race/baltic-chain-tour/2012/stage-3,180.9
+974,Baltic Chain Tour 2012  Stage 4,2012-08-24,RR,Šiauliai,Utena,280,4,race/baltic-chain-tour/2012/stage-4,180.0
+975,Baltic Chain Tour 2012  Stage 5,2012-08-25,RR,Utena,Vilnius,280,5,race/baltic-chain-tour/2012/stage-5,140.0
+976,Grand Prix des Marbriers 2012,2012-08-21,RR,Bellignies,Bellignies,281,0,race/grand-prix-des-marbriers/2012,160.0
+977,Post Danmark Rundt 2012  Stage 1,2012-08-22,RR,Randers,Randers,282,1,race/tour-of-denmark/2012/stage-1,191.2
+978,Post Danmark Rundt 2012  Stage 2,2012-08-23,RR,Løgstør,Aarhus,282,2,race/tour-of-denmark/2012/stage-2,211.5
+979,Post Danmark Rundt 2012  Stage 3,2012-08-24,RR,Silkeborg,Vejle,282,3,race/tour-of-denmark/2012/stage-3,184.8
+980,Post Danmark Rundt 2012  Stage 4,2012-08-25,RR,Ringe,Odense,282,4,race/tour-of-denmark/2012/stage-4,91.7
+981,Post Danmark Rundt 2012  Stage 5 (ITT),2012-08-25,ITT,Kerteminde,Kerteminde,282,5,race/tour-of-denmark/2012/stage-5,14.5
+982,Post Danmark Rundt 2012  Stage 6,2012-08-26,RR,Slagelse,Frederiksberg,282,6,race/tour-of-denmark/2012/stage-6,163.8
+983,52nd Druivenkoers - Overijse 2012,2012-08-22,RR,Overijse,Overijse,283,0,race/druivenkoers-overijse/2012,198.0
+984,GP Industria Commercio Artigianato Carnaghese 2012,2012-08-23,RR,Carnago,Carnago,284,0,race/gp-industria-e-commercio/2012,199.6
+985,83th Giro Del Veneto - Coppa Placci 2012,2012-08-25,RR,Abano Terme (Teolo),Imola,285,0,race/coppa-placci/2012,233.0
+986,Schaal Sels 2012,2012-08-26,RR,Merksem,Merksem,286,0,race/81st-schaal-schels/2012,203.1
+987,Ljubljana - Zagreb 2012,2012-08-26,RR,Ljubljana,Zagreb,287,0,race/1st-ljubljana-zagreb/2012,183.3
+988,Ronde van Midden-Nederland 2012,2012-08-26,RR,Utrecht,Utrecht,288,0,race/ronde-van-midden-nederland/2012,199.4
+989,World Ports Classic 2012,2012-09-01,RR,Start,Finish,289,0,race/world-ports-classic/2012,0.0
+990,Grote Prijs Jef Scherens - Rondom Leuven 2012,2012-09-02,RR,Leuven,Leuven,290,0,race/gp-jef-scherens/2012,183.3
+991,National Championships Great Britain - ITT 2012,2012-09-02,RR,Hose,Hose,291,0,race/nc-great-britain-itt/2012,55.0
+992,Tour du Doubs - Conseil General 2012,2012-09-02,RR,Monteau,Pontarlier,292,0,race/tour-du-doubs/2012,194.5
+993,Kernen Omloop Echt-Susteren 2012,2012-09-02,RR,Echt,Echt,293,0,race/kernen-omloop-echt-susteren/2012,186.8
+994,Memorial Davide Fardelli - Cronometro Individuale 2012,2012-09-02,RR,Start,Finish,294,0,race/memorial-davide-fardelli-cronometro-individuale/2012,0.0
+995,Giro di Padania 2012  Stage 1,2012-09-03,RR,Sant Agostino,Bondeno,295,1,race/giro-di-padania/2012/stage-1,83.2
+996,Giro di Padania 2012  Stage 1,2012-09-03,RR,Sant Agostino,Bondeno,295,2,race/giro-di-padania/2012/stage-1,83.2
+997,Giro di Padania 2012  Stage 2,2012-09-04,RR,Poggio Renatico,San Vendemmiano,295,3,race/giro-di-padania/2012/stage-2,223.2
+998,Giro di Padania 2012  Stage 3,2012-09-05,RR,Castelfranco Veneto,Merate,295,4,race/giro-di-padania/2012/stage-3,229.7
+999,Giro di Padania 2012  Stage 4,2012-09-06,RR,Lazzate,Passo della Bocchetta,295,5,race/giro-di-padania/2012/stage-4,186.3
+1000,Giro di Padania 2012  Stage 5,2012-09-07,RR,Acqui Terme,Frabosa Soprana,295,6,race/giro-di-padania/2012/stage-5,174.2
+1001,Memorial Rik Van Steenbergen 2012,2012-09-05,RR,Aartselaar,Laar,296,0,race/memorial-rik-van-steenbergen/2012,195.9
+1002,Okolo Jižních Čech 2012  Prologue,2012-09-06,Prologue,eské Budjovice,eské Budjovice,297,1,race/okolo-jiznich-cech/2012/prologue,1.22
+1003,Okolo Jižních Čech 2012  Stage 1,2012-09-07,RR,Tebo,Milevsko,297,2,race/okolo-jiznich-cech/2012/stage-1,125.8
+1004,Okolo Jižních Čech 2012  Stage 2,2012-09-08,RR,Tyn nad Vltavou,Tábor,297,3,race/okolo-jiznich-cech/2012/stage-2,146.5
+1005,Okolo Jižních Čech 2012  Stage 3,2012-09-09,RR,Nová Bystice,Jindichv Hradec,297,4,race/okolo-jiznich-cech/2012/stage-3,130.8
+1006,Paris-Bruxelles 2012,2012-09-08,RR,Paris,Bruxelles,298,0,race/brussels-cycling-classic/2012,216.8
+1007,GP de Fourmies - La Voix du Nord 2012,2012-09-09,RR,Fourmies,Fourmies,299,0,race/gp-de-fourmies/2012,205.0
+1008,Tour of Britain 2012  Stage 1,2012-09-09,RR,Ipswich,Norfolk ,300,1,race/tour-of-brittain/2012/stage-1,203.0
+1009,Tour of Britain 2012  Stage 2,2012-09-10,RR,Nottingham,Knowsley Safari Park,300,2,race/tour-of-brittain/2012/stage-2,180.7
+1010,Tour of Britain 2012  Stage 3,2012-09-11,RR,Jedburgh,Dumfries,300,3,race/tour-of-brittain/2012/stage-3,152.6
+1011,Tour of Britain 2012  Stage 4,2012-09-12,RR,Carlisle,Blackpool,300,4,race/tour-of-brittain/2012/stage-4,156.0
+1012,Tour of Britain 2012  Stage 5,2012-09-13,RR,Stoke-on-Trent,Stoke-on-Trent,300,5,race/tour-of-brittain/2012/stage-5,147.0
+1013,Tour of Britain 2012  Stage 6,2012-09-14,RR,Welshpool,Caerphilly,300,6,race/tour-of-brittain/2012/stage-6,189.6
+1014,Tour of Britain 2012  Stage 7,2012-09-15,RR,Barnstaple,Dartmouth,300,7,race/tour-of-brittain/2012/stage-7,172.9
+1015,Tour of Britain 2012  Stage 8,2012-09-16,RR,Reigate,Guildford,300,8,race/tour-of-brittain/2012/stage-8,147.8
+1016,Chrono Champenois Masculin International 2012,2012-09-09,RR,Bétheny,Bétheny,301,0,race/chrono-champenois-masculin/2012,33.4
+1017,Tour of Bulgaria 2012  Stage 1,2012-09-09,RR,Sofia,Zlatitsa,302,1,race/tour-of-bulgaria/2012/stage-1,68.0
+1018,Tour of Bulgaria 2012  Stage 1,2012-09-09,RR,Sofia,Zlatitsa,302,2,race/tour-of-bulgaria/2012/stage-1,68.0
+1019,Tour of Bulgaria 2012  Stage 2,2012-09-10,RR,Troyan,Gabrovo,302,3,race/tour-of-bulgaria/2012/stage-2,100.0
+1020,Tour of Bulgaria 2012  Stage 3,2012-09-11,RR,Gabrovo,Tryavna,302,4,race/tour-of-bulgaria/2012/stage-3,113.0
+1021,Tour of Bulgaria 2012  Stage 4,2012-09-12,RR,Tryavna,Stara Zagora,302,5,race/tour-of-bulgaria/2012/stage-4,97.0
+1022,Tour of Bulgaria 2012  Stage 5,2012-09-13,RR,Stara Zagora,Burgas,302,6,race/tour-of-bulgaria/2012/stage-5,170.0
+1023,Tour of Bulgaria 2012  Stage 6,2012-09-14,RR,Burgas,Shumen,302,7,race/tour-of-bulgaria/2012/stage-6,217.0
+1024,Tour of Bulgaria 2012  Stage 7,2012-09-15,RR,Shumen,Dobrich,302,8,race/tour-of-bulgaria/2012/stage-7,176.0
+1025,Grand Prix de Wallonie 2012,2012-09-12,RR,Chaudfontaine,Namur,303,0,race/gp-de-wallonie/2012,203.1
+1026,Grand Prix de la Somme « Conseil Général 80 » 2012,2012-09-14,RR,Start,Finish,304,0,race/gp-de-la-somme/2012,0.0
+1027,Kampioenschap van Vlaanderen 2012,2012-09-14,RR,Koolskamp,Koolskamp,305,0,race/kampioenschap-van-vlaanderen/2012,182.6
+1028,GP Impanis - Van Petegem 2012,2012-09-15,RR,Start,Finish,306,0,race/gp-impanis-van-petegem/2012,0.0
+1029,Memorial Marco Pantani - Trofeo Sidermac 2012,2012-09-15,RR,Cesena,Cesenatico,307,0,race/memorial-marco-pantani/2012,183.7
+1030,GP Industria & Commercio di Prato 2012,2012-09-16,RR,Prato,Prato,308,0,race/gp-industria2/2012,178.6
+1031,Grand Prix d'Isbergues - Pas de Calais 2012,2012-09-16,RR,Isbergues,Isbergues,309,0,race/gp-d-isbergues/2012,203.9
+1032,Tour Bohemia 2012,2012-09-16,RR,Karlovy Vary,Praha,310,0,race/tour-bohemia/2012,153.6
+1033,Trofeo G. Bianchin 2012,2012-09-16,RR,Paderno di Ponzano Veneto,Paderno di Ponzano Veneto,311,0,race/40th-trofeo-g.-bianchin/2012,176.0
+1034,Omloop van het Houtland 2012,2012-09-19,RR,Lichtervelde,Lichtervelde,312,0,race/omloop-van-het-houtland-lichtervelde/2012,193.8
+1035,Tour of Vojvodina I 2012,2012-09-21,RR,Žabalj,Apatin,313,0,race/tour-of-vojvodina-i/2012,154.0
+1036, Tour of Vojvodina II 2012,2012-09-22,RR,Apatin,Pecinci,314,0,race/tour-of-vojvodina-ii/2012,164.0
+1037,De Kustpijl 2012,2012-09-22,RR,Duinbergen,Duinbergen,315,0,race/de-kustpijl/2012,170.8
+1038,9th Gooikse Pijl 2012,2012-09-23,RR,Gooik,Gooik,316,0,race/gooikse-pijl/2012,192.0
+1039,Ruota d'Oro - GP Festa del Perdono 2012,2012-09-25,RR,Terranuova Bracciolini,Terranuova Bracciolini,317,0,race/ruota-d-oro-gp-festa-del-perdono/2012,167.0
+1040,Milano-Torino 2012,2012-09-26,RR,Milano,Torino,318,0,race/milano-torino/2012,193.5
+1041,Gran Piemonte 2012,2012-09-27,RR,Fossano,Biella,319,0,race/gran-piemonte/2012,188.0
+1042,Eurométropole Tour 2012  Stage 1,2012-09-27,RR,La Louvière,Menen,320,1,race/circuit-franco-belge/2012/stage-1,167.0
+1043,Eurométropole Tour 2012  Stage 2,2012-09-28,RR,Antoing,Poperinge,320,2,race/circuit-franco-belge/2012/stage-2,181.0
+1044,Eurométropole Tour 2012  Stage 3,2012-09-29,RR,Péruwelz,Ichtegem,320,3,race/circuit-franco-belge/2012/stage-3,176.0
+1045,Eurométropole Tour 2012  Stage 4,2012-09-30,RR,Mons,Tournai,320,4,race/circuit-franco-belge/2012/stage-4,158.0
+1046,Duo Normand 2012,2012-09-30,RR,Marigny,Marigny,321,0,race/duo-normand/2012,54.3
+1047,Binche-Tournai-Binche/ Mémorial Frank Vandenbroucke 2012,2012-10-02,RR,Binche,Binche,322,0,race/memorial-frank-vandenbroucke/2012,200.3
+1048,Sparkassen Münsterland Giro 2012,2012-10-03,RR,Stadtlohn,Münster,323,0,race/munsterland-giro/2012,196.0
+1049,Gran Premio Città di Peccioli - Coppa Sabatini 2012,2012-10-04,RR,Peccioli,Peccioli,324,0,race/gp-citta-di-peccioli/2012,198.6
+1050,Paris-Bourges 2012,2012-10-04,RR,Gien,Bourges,325,0,race/paris-bourges/2012,190.9
+1051,Giro dell'Emilia 2012,2012-10-06,RR,Modena,San Luca,326,0,race/giro-dell-emilia/2012,200.0
+1052,Piccolo Giro di Lombardia 2012,2012-10-06,RR,Oggiono,Oggiono,327,0,race/piccolo-giro-di-lombardia/2012,169.0
+1053,Paris - Tours 2012,2012-10-07,RR,Châteauneuf-en-Thymerais,,328,0,race/paris-tours/2012,235.5
+1054,Gran Premio Bruno Beghelli 2012,2012-10-07,RR,Monteveglio,Monteveglio,329,0,race/gp-bruno-beghelli/2012,196.3
+1055,Paris-Tours Espoirs 2012,2012-10-07,RR,Bonneval,,330,0,race/paris-tours-u23/2012,183.0
+1056,Nationale Sluitingprijs Putte - Kapellen 2012,2012-10-09,RR,Kapellen,Kapellen,331,0,race/nationale-sluitingsprijs-putte-kapellen/2012,183.6
+1057,Tour de Vendée 2012,2012-10-14,RR,La Ferrière,La Roche sur Yon,332,0,race/tour-de-vendee/2012,172.0
+1058,Chrono des Nations 2012,2012-10-21,RR,Les Herbiers,Les Herbiers,333,0,race/chrono-des-nations/2012,48.3
+1059,National Championships New Zealand - ITT 2012,2012-01-06,RR,Start,Finish,0,0,race/nc-new-zealand-itt/2012,40.0
+1060,National Championships Australia - Road Race 2012,2012-01-08,RR,Buninyong,Buninyong,1,0,race/nc-australia/2012,163.2
+1061,National Championships New Zealand - Road Race 2012,2012-01-08,RR,Christchurch,Christchurch,2,0,race/nc-new-zealand/2012,182.0
+1062,National Championships Australia - ITT 2012,2012-01-10,RR,"Learmonth, Ballarat","Learmonth, Ballarat",3,0,race/australian-open-road-championships-itt/2012,38.2
+1063,New Zealand Cycle Classic 2012  Stage 1 (ITT),2012-01-25,ITT,Manawaru,Manawaru,4,1,race/tour-of-wellington/2012/stage-1,7.1
+1064,New Zealand Cycle Classic 2012  Stage 2,2012-01-26,RR,Palmerston North,Palmerston North,4,2,race/tour-of-wellington/2012/stage-2,143.0
+1065,New Zealand Cycle Classic 2012  Stage 3,2012-01-27,RR,Palmerston North,Palmerston North,4,3,race/tour-of-wellington/2012/stage-3,163.5
+1066,New Zealand Cycle Classic 2012  Stage 4,2012-01-28,RR,Palmerston North,Palmerston North,4,4,race/tour-of-wellington/2012/stage-4,111.0
+1067,New Zealand Cycle Classic 2012  Stage 5,2012-01-29,RR,Palmerston North,Palmerston North,4,5,race/tour-of-wellington/2012/stage-5,111.0
+1068,Oceania Cycling Championships - ITT 2012,2012-03-16,RR,Queenstown,Queenstown,5,0,race/oceania-continental-championships-itt/2012,0.0
+1069,Oceania Cycling Championships - Road Race 2012,2012-03-18,RR,Queenstown,Queenstown,6,0,race/oceania-cycling-championships/2012,0.0
+1070,Vuelta Ciclista De Chile 2012  Stage 1 (TTT),2012-01-05,TTT,La Serena,Coquimbo,0,1,race/vuelta-ciclista-de-chile/2012/stage-1,18.8
+1071,Vuelta Ciclista De Chile 2012  Stage 2,2012-01-06,RR,La Serena,Tongoy,0,2,race/vuelta-ciclista-de-chile/2012/stage-2,161.8
+1072,Vuelta Ciclista De Chile 2012  Stage 3,2012-01-07,RR,Los Vilos,Viña del Mar,0,3,race/vuelta-ciclista-de-chile/2012/stage-3,189.1
+1073,Vuelta Ciclista De Chile 2012  Stage 4,2012-01-08,RR, Viña del Mar,Hacienda Santa Martina,0,4,race/vuelta-ciclista-de-chile/2012/stage-4,153.7
+1074,Vuelta Ciclista De Chile 2012  Stage 5 (ITT),2012-01-10,ITT,Puerto Montt,Puerto Montt,0,5,race/vuelta-ciclista-de-chile/2012/stage-5a,20.0
+1075,Vuelta Ciclista De Chile 2012  Stage 5,2012-01-10,RR,Puerto Montt,Osorno,0,6,race/vuelta-ciclista-de-chile/2012/stage-5b,131.1
+1076,Vuelta Ciclista De Chile 2012  Stage 6,2012-01-11,RR,Valdivia,Villarrica,0,7,race/vuelta-ciclista-de-chile/2012/stage-6,157.6
+1077,Vuelta Ciclista De Chile 2012  Stage 7,2012-01-12,RR,Temuco,Los Angeles,0,8,race/vuelta-ciclista-de-chile/2012/stage-7,221.7
+1078,Vuelta Ciclista De Chile 2012  Stage 8,2012-01-13,RR,Talca,Curicó,0,9,race/vuelta-ciclista-de-chile/2012/stage-8,137.5
+1079,Vuelta Ciclista De Chile 2012  Stage 9,2012-01-14,RR,Rancagua,Farellones,0,10,race/vuelta-ciclista-de-chile/2012/stage-9,141.6
+1080,Vuelta Ciclista De Chile 2012  Stage 10,2012-01-15,RR,Santiago,Santiago,0,11,race/vuelta-ciclista-de-chile/2012/stage-10,81.8
+1081,Copa América De Ciclismo 2012,2012-01-08,RR,Rio de Janeiro,Rio de Janeiro,1,0,race/copa-amarica-de-ciclismo/2012,110.5
+1082,Vuelta al Tachira en Bicicleta 2012  Stage 1,2012-01-13,RR,Barinas,,2,1,race/vuelta-al-tachira/2012/stage-1,127.4
+1083,Vuelta al Tachira en Bicicleta 2012  Stage 2,2012-01-14,RR,Santa Bárbara de Barinas, Santa Ana del Táchira ,2,2,race/vuelta-al-tachira/2012/stage-2,160.7
+1084,Vuelta al Tachira en Bicicleta 2012  Stage 3,2012-01-15,RR,San Cristóbal,San Cristóbal,2,3,race/vuelta-al-tachira/2012/stage-3,115.2
+1085,Vuelta al Tachira en Bicicleta 2012  Stage 4,2012-01-16,RR,Rubio, Bramón,2,4,race/vuelta-al-tachira/2012/stage-4,119.7
+1086,Vuelta al Tachira en Bicicleta 2012  Stage 5,2012-01-17,RR,San Josecito, Colón,2,5,race/vuelta-al-tachira/2012/stage-5,128.5
+1087,Vuelta al Tachira en Bicicleta 2012  Stage 6,2012-01-18,RR,La Fría, Mérida,2,6,race/vuelta-al-tachira/2012/stage-6,159.7
+1088,Vuelta al Tachira en Bicicleta 2012  Stage 7,2012-01-19,RR,Lagunillas,La Grita,2,7,race/vuelta-al-tachira/2012/stage-7,168.7
+1089,Vuelta al Tachira en Bicicleta 2012  Stage 8,2012-01-20,RR, Seboruco, Cerro el Cristo,2,8,race/vuelta-al-tachira/2012/stage-8,129.0
+1090,Vuelta al Tachira en Bicicleta 2012  Stage 9,2012-01-21,RR,Táriba, Casa del Padre,2,9,race/vuelta-al-tachira/2012/stage-9,114.2
+1091,Vuelta al Tachira en Bicicleta 2012  Stage 10,2012-01-22,RR,San Rafael de el Pinal,San Cristobal,2,10,race/vuelta-al-tachira/2012/stage-10,118.6
+1092,Tour de San Luis 2012  Stage 1,2012-01-23,RR,San Luis, Villa Mercedes,3,1,race/tour-de-san-luis/2012/stage-1,189.3
+1093,Tour de San Luis 2012  Stage 2,2012-01-24,RR,Fraga, Juana Koslay,3,2,race/tour-de-san-luis/2012/stage-2,145.3
+1094,Tour de San Luis 2012  Stage 3,2012-01-25,RR,Estancia Grande, Mirador de Potrero,3,3,race/tour-de-san-luis/2012/stage-3,168.2
+1095,Tour de San Luis 2012  Stage 4 (ITT),2012-01-26,ITT,San Luis,San Luis,3,4,race/tour-de-san-luis/2012/stage-4,19.5
+1096,Tour de San Luis 2012  Stage 5,2012-01-27,RR, La Toma," Mirador del Sol, Merlo ",3,5,race/tour-de-san-luis/2012/stage-5,160.6
+1097,Tour de San Luis 2012  Stage 6,2012-01-28,RR,Lujan, Quines,3,6,race/tour-de-san-luis/2012/stage-6,201.0
+1098,Tour de San Luis 2012  Stage 7,2012-01-29,RR,San Luis,San Luis,3,7,race/tour-de-san-luis/2012/stage-7,167.0
+1099,Vuelta Independencia Nacional 2012  Stage 1,2012-02-19,RR,Santo Domingo,Santo Domingo,4,1,race/vuelta-independencia-nacional/2012/stage-1,84.0
+1100,Vuelta Independencia Nacional 2012  Stage 2,2012-02-20,RR,Santo Domingo,La Romana,4,2,race/vuelta-independencia-nacional/2012/stage-2a,104.4
+1101,Vuelta Independencia Nacional 2012  Stage 2,2012-02-20,RR,La Romana,Higüey,4,3,race/vuelta-independencia-nacional/2012/stage-2b,53.0
+1102,Vuelta Independencia Nacional 2012  Stage 3,2012-02-21,RR,Higuey,Santo Domingo,4,4,race/vuelta-independencia-nacional/2012/stage-3,172.0
+1103,Vuelta Independencia Nacional 2012  Stage 4,2012-02-22,RR,San Cristobal,Bani,4,5,race/vuelta-independencia-nacional/2012/stage-4,141.4
+1104,Vuelta Independencia Nacional 2012  Stage 5,2012-02-23,RR,Santo Domingo,San Fco. De Macor,4,6,race/vuelta-independencia-nacional/2012/stage-5,135.0
+1105,Vuelta Independencia Nacional 2012  Stage 6,2012-02-24,RR,Moca,Jarabacoa,4,7,race/vuelta-independencia-nacional/2012/stage-6,153.0
+1106,Vuelta Independencia Nacional 2012  Stage 7,2012-02-25,RR,Santiago,Santiago,4,8,race/vuelta-independencia-nacional/2012/stage-7,117.0
+1107,Vuelta Independencia Nacional 2012  Stage 8,2012-02-26,RR,La Vega,Santo Domingo,4,9,race/vuelta-independencia-nacional/2012/stage-8a,115.0
+1108,Vuelta Independencia Nacional 2012  Stage 8 (ITT),2012-02-26,ITT,Santo Domingo,Santo Domingo,4,10,race/vuelta-independencia-nacional/2012/stage-8b,10.4
+1109,Vuelta Independencia Nacional 2012  Stage 9,2012-02-27,RR, Santo Domingo, Santo Domingo,4,11,race/vuelta-independencia-nacional/2012/stage-9,120.0
+1110,Rutas de América 2012  Stage 1,2012-02-21,RR,Montevideo,Minas,5,1,race/rutas-de-america/2012/stage-1,146.0
+1111,Rutas de América 2012  Stage 2,2012-02-22,RR,José P. Varela,Melo,5,2,race/rutas-de-america/2012/stage-2,150.0
+1112,Rutas de América 2012  Stage 3,2012-02-23,RR,Pueblo Trigo,Tacuarembó,5,3,race/rutas-de-america/2012/stage-3,0.0
+1113,Rutas de América 2012  Stage 4,2012-02-24,RR,Tacuarembó,Paso de los Toros,5,4,race/rutas-de-america/2012/stage-4a,140.3
+1114,Rutas de América 2012  Stage 4,2012-02-24,RR,Paso de los Toros,Paso de los Toros,5,5,race/rutas-de-america/2012/stage-4b,0.0
+1115,Rutas de América 2012  Stage 5,2012-02-25,RR,Paso de los Toros,Trinidad,5,6,race/rutas-de-america/2012/stage-5,105.3
+1116,Rutas de América 2012  Stage 6,2012-02-25,RR,Trinidad,Montevideo,5,7,race/rutas-de-america/2012/stage-6,203.6
+1117,Pan American Championships - ITT 2012,2012-03-09,RR,Mar del Plata,Mar del Plata,6,0,race/pan-american-championships-itt/2012,0.0
+1118,Pan American Championships - Road Race 2012,2012-03-11,RR,Mar del Plata,Mar del Plata,7,0,race/pan-american-championships/2012,165.0
+1119,Vuelta Mexico Telmex 2012  Stage 1,2012-03-18,RR,Acapulco, Acapulco ,8,1,race/vuelta-mexico-telmex/2012/stage-1,100.0
+1120,Vuelta Mexico Telmex 2012  Stage 2,2012-03-19,RR,Taxco,Toluca,8,2,race/vuelta-mexico-telmex/2012/stage-2,136.0
+1121,Vuelta Mexico Telmex 2012  Stage 3,2012-03-20,RR,Toluca,Pachuca,8,3,race/vuelta-mexico-telmex/2012/stage-3,169.3
+1122,Vuelta Mexico Telmex 2012  Stage 4,2012-03-21,RR,Pachuca,La Malinche,8,4,race/vuelta-mexico-telmex/2012/stage-4,195.0
+1123,Vuelta Mexico Telmex 2012  Stage 5,2012-03-22,RR,Puebla,Puebla,8,5,race/vuelta-mexico-telmex/2012/stage-5,80.3
+1124,Vuelta Mexico Telmex 2012  Stage 6,2012-03-23,RR,Puebla,Cuautla,8,6,race/vuelta-mexico-telmex/2012/stage-6,123.5
+1125,Vuelta Mexico Telmex 2012  Stage 7 (ITT),2012-03-24,ITT,Ajusco,Ajusco,8,7,race/vuelta-mexico-telmex/2012/stage-7,12.0
+1126,Vuelta Mexico Telmex 2012  Stage 8,2012-03-25,RR,Mexico City,Mexico City,8,8,race/vuelta-mexico-telmex/2012/stage-8,105.0
+1127,Vuelta Ciclista al Uruguay 2012  Stage 1,2012-03-30,RR,Montevideo, Trinidad,9,1,race/vuelta-ciclista-al-uruguay/2012/stage-1,188.1
+1128,Vuelta Ciclista al Uruguay 2012  Stage 2,2012-03-31,RR,Cardona, Fray Bentos,9,2,race/vuelta-ciclista-al-uruguay/2012/stage-2,165.1
+1129,Vuelta Ciclista al Uruguay 2012  Stage 3,2012-04-01,RR, Mercedes, Paysandú,9,3,race/vuelta-ciclista-al-uruguay/2012/stage-3,173.5
+1130,Vuelta Ciclista al Uruguay 2012  Stage 4,2012-04-02,RR,Paysandú, Salto,9,4,race/vuelta-ciclista-al-uruguay/2012/stage-4,113.5
+1131,Vuelta Ciclista al Uruguay 2012  Stage 5,2012-04-03,RR,Tacuarembó,Tacuarembó,9,5,race/vuelta-ciclista-al-uruguay/2012/stage-5,141.1
+1132,Vuelta Ciclista al Uruguay 2012  Stage 6,2012-04-04,RR,Ansina, Melo,9,6,race/vuelta-ciclista-al-uruguay/2012/stage-6,146.1
+1133,Vuelta Ciclista al Uruguay 2012  Stage 7,2012-04-05,RR,Treinta y Tres, Minas,9,7,race/vuelta-ciclista-al-uruguay/2012/stage-7,165.9
+1134,Vuelta Ciclista al Uruguay 2012  Stage 8 (ITT),2012-04-06,ITT,Montevideo,Montevideo,9,8,race/vuelta-ciclista-al-uruguay/2012/stage-8,31.0
+1135,Vuelta Ciclista al Uruguay 2012  Stage 9,2012-04-07,RR,Montevideo, Durazno,9,9,race/vuelta-ciclista-al-uruguay/2012/stage-9,185.0
+1136,Vuelta Ciclista al Uruguay 2012  Stage 10,2012-04-08,RR,Trinidad, Montevideo,9,10,race/vuelta-ciclista-al-uruguay/2012/stage-10,198.3
+1137,National Championships Argentina - ITT 2012,2012-04-13,RR,Start,Finish,10,0,race/nc-argentina-itt/2012,0.0
+1138,National Championships Argentina - Road Race 2012,2012-04-15,RR,Start,Finish,11,0,race/nc-argentina/2012,190.0
+1139,Tour of the Battenkill 2012,2012-04-15,RR,"Cambridge, NY","Cambridge, NY",12,0,race/tour-of-the-battenkill/2012,200.0
+1140,Tour of the Gila 2012  Stage 1,2012-05-02,RR,Silver City,Mogollon,13,1,race/tour-of-the-gila/2012/stage-1,153.1
+1141,Tour of the Gila 2012  Stage 2,2012-05-03,RR,Fort Bayard,Fort Bayard,13,2,race/tour-of-the-gila/2012/stage-2,128.7
+1142,Tour of the Gila 2012  Stage 3 (ITT),2012-05-04,ITT,Tyrone,Tyrone,13,3,race/tour-of-the-gila/2012/stage-3,26.6
+1143,Tour of the Gila 2012  Stage 4,2012-05-05,RR,Silver City,Silver City,13,4,race/tour-of-the-gila/2012/stage-4,69.5
+1144,Tour of the Gila 2012  Stage 5,2012-05-06,RR, Silver City,Pinos Altos,13,5,race/tour-of-the-gila/2012/stage-5,170.1
+1145,Amgen Tour of California 2012  Stage 1,2012-05-13,RR,Santa Rosa,Santa Rosa,14,1,race/tour-of-california/2012/stage-1,186.5
+1146,Amgen Tour of California 2012  Stage 2,2012-05-14,RR,Francisco,Santa Cruz,14,2,race/tour-of-california/2012/stage-2,188.5
+1147,Amgen Tour of California 2012  Stage 3,2012-05-15,RR,Jose,Livermore,14,3,race/tour-of-california/2012/stage-3,185.5
+1148,Amgen Tour of California 2012  Stage 4,2012-05-16,RR,Sonora,Clovis,14,4,race/tour-of-california/2012/stage-4,209.6
+1149,Amgen Tour of California 2012  Stage 5 (ITT),2012-05-17,ITT,Bakersfield,Bakerfield,14,5,race/tour-of-california/2012/stage-5,29.7
+1150,Amgen Tour of California 2012  Stage 6,2012-05-18,RR,Palmdale,Big Bear Lake,14,6,race/tour-of-california/2012/stage-6,186.3
+1151,Amgen Tour of California 2012  Stage 7,2012-05-19,RR,Ontario,Mt. Baldy,14,7,race/tour-of-california/2012/stage-7,126.0
+1152,Amgen Tour of California 2012  Stage 8,2012-05-20,RR,Angeles,Angeles Los Angeles,14,8,race/tour-of-california/2012/stage-8,68.5
+1153,Vuelta a Guatemala 2012  Stage 1,2012-05-13,RR,Guatemala City,Guatemala City,15,1,race/vuelta-a-guatemala/2012/stage-1,140.0
+1154,Vuelta a Guatemala 2012  Stage 2,2012-05-14,RR,Sanarate, Cobán,15,2,race/vuelta-a-guatemala/2012/stage-2,158.0
+1155,Vuelta a Guatemala 2012  Stage 3,2012-05-15,RR,Salamá, Jalapa,15,3,race/vuelta-a-guatemala/2012/stage-3,141.0
+1156,Vuelta a Guatemala 2012  Stage 4 (ITT),2012-05-16,ITT,Escuintla, Santa Lucía Cotzumalguapa,15,4,race/vuelta-a-guatemala/2012/stage-4,29.8
+1157,Vuelta a Guatemala 2012  Stage 5,2012-05-17,RR,Antigua Guatemala, Tecpán Guatemala,15,5,race/vuelta-a-guatemala/2012/stage-5,99.0
+1158,Vuelta a Guatemala 2012  Stage 6,2012-05-18,RR,Quetzaltenango, San Pedro Sacatepéquez,15,6,race/vuelta-a-guatemala/2012/stage-6,134.0
+1159,Vuelta a Guatemala 2012  Stage 7,2012-05-19,RR,San Pedro Sacatepéquez, Huehuetenango,15,7,race/vuelta-a-guatemala/2012/stage-7,131.0
+1160,Vuelta a Guatemala 2012  Stage 8,2012-05-20,RR,Retalhuleu, Quetzaltenango,15,8,race/vuelta-a-guatemala/2012/stage-8,91.0
+1161,National Championships Mexico - ITT 2012,2012-05-26,RR,Toluca de Lerdo,Toluca de Lerdo,16,0,race/nc-mexico-itt/2012,0.0
+1162,National Championships United States - ITT 2012,2012-05-26,RR,"Greenville, SC","Greenville, SC",17,0,race/nc-usa-itt/2012,0.0
+1163,National Championships Mexico - Road Race 2012,2012-05-27,RR,Ixtapan de la Sal,Ixtapan de la Sal,18,0,race/nc-mexico/2012,0.0
+1164,National Championships United States - Road Race 2012,2012-05-28,RR,"Greenville, SC","Greenville, SC",19,0,race/nc-united-states/2012,0.0
+1165,TD Bank International Cycling Championship 2012,2012-06-03,RR,Philadelphia,Philadelphia,20,0,race/philadelphia-international-championship/2012,251.0
+1166,National Championships Suriname - ITT 2012,2012-06-10,RR,Paramaribo,Paramaribo,21,0,race/nc-suriname-itt/2012,0.0
+1167,Vuelta Pilsen a Colombia 2012  Prologue,2012-06-12,Prologue,Puerto Gaitán,Puerto Gaitán,22,1,race/vuelta-pilsen-a-colombia/2012/prologue,3.8
+1168,Vuelta Pilsen a Colombia 2012  Stage 1,2012-06-13,RR,Puerto Gaitán,Villavicencio,22,2,race/vuelta-pilsen-a-colombia/2012/stage-1,192.8
+1169,Vuelta Pilsen a Colombia 2012  Stage 2,2012-06-14,RR,Santander,Santander,22,3,race/vuelta-pilsen-a-colombia/2012/stage-2,164.1
+1170,Vuelta Pilsen a Colombia 2012  Stage 3,2012-06-15,RR,Soacha,Ibagué,22,4,race/vuelta-pilsen-a-colombia/2012/stage-3,198.0
+1171,Vuelta Pilsen a Colombia 2012  Stage 4,2012-06-16,RR,Ibagué,Armenia,22,5,race/vuelta-pilsen-a-colombia/2012/stage-4,130.2
+1172,Vuelta Pilsen a Colombia 2012  Stage 5,2012-06-17,RR,Armenia,Cali,22,6,race/vuelta-pilsen-a-colombia/2012/stage-5,191.6
+1173,Vuelta Pilsen a Colombia 2012  Stage 6,2012-06-18,RR,Cali,Popayan,22,7,race/vuelta-pilsen-a-colombia/2012/stage-6,133.0
+1174,Vuelta Pilsen a Colombia 2012  Stage 7,2012-06-20,RR,Popayan,Palmira,22,8,race/vuelta-pilsen-a-colombia/2012/stage-7,149.1
+1175,Vuelta Pilsen a Colombia 2012  Stage 8,2012-06-21,RR,Palmira,Dosquebradas,22,9,race/vuelta-pilsen-a-colombia/2012/stage-8,198.2
+1176,Vuelta Pilsen a Colombia 2012  Stage 9,2012-06-22,RR,Dosquebradas,Manizales,22,10,race/vuelta-pilsen-a-colombia/2012/stage-9,119.5
+1177,Vuelta Pilsen a Colombia 2012  Stage 10,2012-06-23,RR,Manizales,Medellín,22,11,race/vuelta-pilsen-a-colombia/2012/stage-10,196.4
+1178,Vuelta Pilsen a Colombia 2012  Stage 11 (ITT),2012-06-24,ITT,Medellín,Alto de Las Palmas,22,12,race/vuelta-pilsen-a-colombia/2012/stage-11,27.8
+1179,National Championships Canada - ITT 2012,2012-06-21,RR,Lac-Mégantic,Lac-Mégantic,23,0,race/nc-canada-itt/2012,0.0
+1180,National Championships Panama - ITT 2012,2012-06-22,RR,Tanara,Tanara,24,0,race/nc-panama-itt/2012,0.0
+1181,National Championships Aruba - ITT 2012,2012-06-23,RR,Pos Chiquito,Mahuma,25,0,race/nc-aruba-itt/2012,0.0
+1182,National Championships Brazil - ITT 2012,2012-06-23,RR,Rio das Ostras,Rio das Ostras,26,0,race/nc-brazil-itt/2012,0.0
+1183,National Championships Canada - Road Race 2012,2012-06-23,RR,Lac-Mégantic,Lac-Mégantic,27,0,race/nc-canada/2012,0.0
+1184,National Championships Costa Rica - ITT 2012,2012-06-23,RR,Ticaban,Ticaban,28,0,race/nc-costa-rica-itt/2012,0.0
+1185,National Championships Curaçao - ITT 2012,2012-06-23,RR,Willemstad,Willemstad,29,0,race/nc-curacao-itt/2012,0.0
+1186,National Championships Saint Kitts and Nevis - ITT 2012,2012-06-23,RR,Newcastle,Pinneys,30,0,race/nc-saint-kitts-and-nevis-itt/2012,0.0
+1187,National Championships Venezuela - ITT 2012,2012-06-23,RR,Falcon,Falcon,31,0,race/nc-venezuela-itt/2012,0.0
+1188,National Championships United States U23 - Road Race 2012,2012-06-23,RR,"Augusta, GA","Augusta, GA",32,0,race/nc-united-states-u23/2012,0.0
+1189,National Championships Aruba - Road Race 2012,2012-06-24,RR,Bloemond,Bloemond,33,0,race/nc-aruba/2012,0.0
+1190,National Championships Brazil - Road Race 2012,2012-06-24,RR,Rio das Ostras,Rio das Ostras,34,0,race/nc-brazil/2012,0.0
+1191,National Championships Costa Rica - Road Race 2012,2012-06-24,RR,Chachagua,Chachagua,35,0,race/nc-costa-rica/2012,0.0
+1192,National Championships Cuba - Road Race 2012,2012-06-24,RR,Start,Finish,36,0,race/nc-cuba/2012,0.0
+1193,National Championships Curaçao - Road Race 2012,2012-06-24,RR,Willemstad,Willemstad,37,0,race/nc-curacao/2012,0.0
+1194,National Championships Dominican Republic - Road Race 2012,2012-06-24,RR,Santo Domingo,Santo Domingo,38,0,race/nc-dominican-republic/2012,0.0
+1195,National Championships El Salvador - ITT 2012,2012-06-24,RR,La Libertad,La Libertad,39,0,race/nc-el-salvador-itt/2012,0.0
+1196,National Championships Panama - Road Race 2012,2012-06-24,RR,Tanara,Tanara,40,0,race/nc-panama/2012,0.0
+1197,National Championships Saint Kitts and Nevis - Road Race 2012,2012-06-24,RR,Newcastle,Pinneys,41,0,race/nc-saint-kitts-and-nevis/2012,0.0
+1198,National Championships Saint Lucia - Road Race 2012,2012-06-24,RR,Start,Finish,42,0,race/nc-saint-lucia/2012,0.0
+1199,National Championships Suriname - Road Race 2012,2012-06-24,RR,Paramaribo,Paramaribo,43,0,race/nc-suriname/2012,0.0
+1200,National Championships Venezuela - Road Race 2012,2012-06-24,RR,Falcon,Falcon,44,0,race/nc-venezuela/2012,0.0
+1201,National Championships Puerto Rico - ITT 2012,2012-07-01,RR,Santa Isabel,Santa Isabel,45,0,race/nc-puerto-rico-itt/2012,0.0
+1202,Vuelta Ciclista a Venezuela 2012  Stage 1,2012-07-06,RR,Maturín,Maturín,46,1,race/vuelta-ciclista-a-venezuela/2012/stage-1,0.0
+1203,Vuelta Ciclista a Venezuela 2012  Stage 2,2012-07-07,RR,Aragua de Maturín, Cumaná,46,2,race/vuelta-ciclista-a-venezuela/2012/stage-2,0.0
+1204,Vuelta Ciclista a Venezuela 2012  Stage 3,2012-07-08,RR,Cumaná,Cumaná,46,3,race/vuelta-ciclista-a-venezuela/2012/stage-3,0.0
+1205,Vuelta Ciclista a Venezuela 2012  Stage 4,2012-07-09,RR,Cumaná, Puerto La Cruz,46,4,race/vuelta-ciclista-a-venezuela/2012/stage-4,0.0
+1206,Vuelta Ciclista a Venezuela 2012  Stage 5,2012-07-10,RR,Píritu, Altagracia de Orituco,46,5,race/vuelta-ciclista-a-venezuela/2012/stage-5,0.0
+1207,Vuelta Ciclista a Venezuela 2012  Stage 6,2012-07-11,RR,Altagracia de Orituco, Cagua,46,6,race/vuelta-ciclista-a-venezuela/2012/stage-6,0.0
+1208,Vuelta Ciclista a Venezuela 2012  Stage 7,2012-07-12,RR,Tinaquillo, Barquisimeto,46,7,race/vuelta-ciclista-a-venezuela/2012/stage-7,0.0
+1209,Vuelta Ciclista a Venezuela 2012  Stage 8,2012-07-13,RR,Barquisimeto, San Felipe,46,8,race/vuelta-ciclista-a-venezuela/2012/stage-8,0.0
+1210,Vuelta Ciclista a Venezuela 2012  Stage 9,2012-07-14,RR,San Felipe, Guacara,46,9,race/vuelta-ciclista-a-venezuela/2012/stage-9,0.0
+1211,Vuelta Ciclista a Venezuela 2012  Stage 10,2012-07-15,RR,Caracas,Caracas,46,10,race/vuelta-ciclista-a-venezuela/2012/stage-10,0.0
+1212,Tour of Elk Grove 2012  Prologue,2012-08-03,Prologue,Elk Grove Village,Elk Grove Village,47,1,race/tour-of-elk-grove/2012/prologue,7.2
+1213,Tour of Elk Grove 2012  Stage 1,2012-08-04,RR,Elk Grove Village,Elk Grove Village,47,2,race/tour-of-elk-grove/2012/stage-1,155.0
+1214,Tour of Elk Grove 2012  Stage 2,2012-08-05,RR,Elk Grove Village,Elk Grove Village,47,3,race/tour-of-elk-grove/2012/stage-2,120.0
+1215,Tour Cycliste International de la Guadeloupe 2012  Stage 1,2012-08-04,RR,Baie-Mahault,Morne à l\'Eau,48,1,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-1,164.0
+1216,Tour Cycliste International de la Guadeloupe 2012  Stage 2,2012-08-05,RR,Morne à l\'Eau	,Les Abymes,48,2,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-2a,102.4
+1217,Tour Cycliste International de la Guadeloupe 2012  Stage 2 (ITT),2012-08-05,ITT,Abymes,Abymes,48,3,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-2b,20.4
+1218,Tour Cycliste International de la Guadeloupe 2012  Stage 3,2012-08-06,RR,Abymes,Goyave,48,4,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-3,146.0
+1219,Tour Cycliste International de la Guadeloupe 2012  Stage 4,2012-08-07,RR,Goyave,Vieux Habitants,48,5,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-4,136.7
+1220,Tour Cycliste International de la Guadeloupe 2012  Stage 5,2012-08-08,RR,Vieux Habitants,Pointe Noire,48,6,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-5,140.0
+1221,Tour Cycliste International de la Guadeloupe 2012  Stage 6,2012-08-09,RR,Pointe Noire,Pointe à Pitre,48,7,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-6,151.0
+1222,Tour Cycliste International de la Guadeloupe 2012  Stage 7,2012-08-10,RR,Pointe à Pitre,Bouillante,48,8,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-7,144.0
+1223,Tour Cycliste International de la Guadeloupe 2012  Stage 8,2012-08-11,RR,Bouillante,Basse Terre,48,9,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-8a,105.0
+1224,Tour Cycliste International de la Guadeloupe 2012  Stage 8 (ITT),2012-08-11,ITT,Basse Terre,Saint-Claude,48,10,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-8b,6.3
+1225,Tour Cycliste International de la Guadeloupe 2012  Stage 9,2012-08-12,RR,Lamentin,Lamentin,48,11,race/tour-cycliste-international-de-la-guadeloupe/2012/stage-9,137.6
+1226,Tour of Utah 2012  Stage 1,2012-08-07,RR,Ogden,Ogden,49,1,race/tour-of-utah/2012/stage-1,211.0
+1227,Tour of Utah 2012  Stage 2 (TTT),2012-08-08,TTT,Miller Motorsports Park, Miller Motorsports Park ,49,2,race/tour-of-utah/2012/stage-2,21.7
+1228,Tour of Utah 2012  Stage 3,2012-08-09,RR,Ogden, University of Utah Research Park (Salt Lake City),49,3,race/tour-of-utah/2012/stage-3,137.0
+1229,Tour of Utah 2012  Stage 4,2012-08-10,RR,Utah County, Salt Lake City,49,4,race/tour-of-utah/2012/stage-4,219.8
+1230,Tour of Utah 2012  Stage 5,2012-08-11,RR,Park City, Snowbird Sky and Summer Resort,49,5,race/tour-of-utah/2012/stage-5,162.8
+1231,Tour of Utah 2012  Stage 6,2012-08-12,RR,Park City,Park City,49,6,race/tour-of-utah/2012/stage-6,123.5
+1232,USA Pro Cycling Challenge 2012  Stage 1,2012-08-20,RR,Durango,Telluride,50,1,race/usa-pro-challenge/2012/stage-1,202.0
+1233,USA Pro Cycling Challenge 2012  Stage 2,2012-08-21,RR,Montrose,Crested Butte,50,2,race/usa-pro-challenge/2012/stage-2,159.3
+1234,USA Pro Cycling Challenge 2012  Stage 3,2012-08-22,RR,Gunnison,Aspen,50,3,race/usa-pro-challenge/2012/stage-3,210.1
+1235,USA Pro Cycling Challenge 2012  Stage 4,2012-08-23,RR,Aspen,Beaver Creek,50,4,race/usa-pro-challenge/2012/stage-4,156.5
+1236,USA Pro Cycling Challenge 2012  Stage 5,2012-08-24,RR,Breckenridge,Colorado Springs,50,5,race/usa-pro-challenge/2012/stage-5,189.7
+1237,USA Pro Cycling Challenge 2012  Stage 6,2012-08-25,RR,Golden,Boulder,50,6,race/usa-pro-challenge/2012/stage-6,165.5
+1238,USA Pro Cycling Challenge 2012  Stage 7 (ITT),2012-08-26,ITT,Denver,Denver,50,7,race/usa-pro-challenge/2012/stage-7,15.3
+1239,Tour do Rio 2012  Stage 1,2012-08-29,RR, Rio de Janeiro, Angra dos Reis,51,1,race/tour-do-rio/2012/stage-1,152.0
+1240,Tour do Rio 2012  Stage 2,2012-08-30,RR,Volta Redonda, Três Rios,51,2,race/tour-do-rio/2012/stage-2,162.0
+1241,Tour do Rio 2012  Stage 3,2012-08-31,RR,Três Rios, Teresópolis,51,3,race/tour-do-rio/2012/stage-3,118.1
+1242,Tour do Rio 2012  Stage 4,2012-09-01,RR,Teresópolis, Rio das Ostras,51,4,race/tour-do-rio/2012/stage-4,190.0
+1243,Tour do Rio 2012  Stage 5,2012-09-02,RR,Rio das Ostras,Rio de Janeiro,51,5,race/tour-do-rio/2012/stage-5,182.0
+1244,Thompson Bucks County Classic 2012,2012-09-15,RR,New Hope,Doylestown,52,0,race/univest-gp/2012,165.9
+1245,Tobago Cycling Classic 2012,2012-10-07,RR,Scarborough,Scarborough,53,0,race/tobago-cycling-classic/2012,112.0
+1246,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 1,2012-10-14,RR,Marilia,Bauru,54,1,race/tour-do-brasil/2012/stage-1,108.3
+1247,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 2,2012-10-15,RR,Bauru,São Carlos,54,2,race/tour-do-brasil/2012/stage-2,178.6
+1248,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 3 (ITT),2012-10-16,ITT,São,Carlo,54,3,race/tour-do-brasil/2012/stage-3,23.0
+1249,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 4,2012-10-17,RR,Rio Claro,Sorocaba,54,4,race/tour-do-brasil/2012/stage-4,166.8
+1250,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 5,2012-10-18,RR,Sorocaba,Atibaia,54,5,race/tour-do-brasil/2012/stage-5,150.2
+1251,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 6,2012-10-19,RR,Atibaia,Pindamonhagaba,54,6,race/tour-do-brasil/2012/stage-6,174.3
+1252,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 7,2012-10-20,RR,Pindamonhagaba,Campos do Jordao,54,7,race/tour-do-brasil/2012/stage-7,72.4
+1253,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012  Stage 8,2012-10-21,RR,Jundiai,São Paulo,54,8,race/tour-do-brasil/2012/stage-8,72.0
+1254,Vuelta a Bolivia 2012  Stage 1,2012-11-02,RR,Santa Rosa de la Mina,San Javier,55,1,race/vuelta-a-bolivia/2012/stage-1,135.0
+1255,Vuelta a Bolivia 2012  Stage 2,2012-11-03,RR,Start,Finish,55,2,race/vuelta-a-bolivia/2012/stage-2,192.0
+1256,Vuelta a Bolivia 2012  Stage 3 (TTT),2012-11-04,TTT,Montero,Santa Cruz de la Sierra,55,3,race/vuelta-a-bolivia/2012/stage-3,50.0
+1257,Vuelta a Bolivia 2012  Stage 4,2012-11-05,RR,Santa Cruz de la Sierra,Buena Vista,55,4,race/vuelta-a-bolivia/2012/stage-4,189.0
+1258,Vuelta a Bolivia 2012  Stage 5,2012-11-06,RR,Buena Vista,Villa Tunari,55,5,race/vuelta-a-bolivia/2012/stage-5,205.0
+1259,Vuelta a Bolivia 2012  Stage 6,2012-11-07,RR,Corani,Cochabamba,55,6,race/vuelta-a-bolivia/2012/stage-6,103.0
+1260,Vuelta a Bolivia 2012  Stage 7,2012-11-08,RR,Bombeo,Oruro,55,7,race/vuelta-a-bolivia/2012/stage-7,141.0
+1261,Vuelta a Bolivia 2012  Stage 8,2012-11-09,RR,Vila Vila,El Alto,55,8,race/vuelta-a-bolivia/2012/stage-8,162.0
+1262,Vuelta a Bolivia 2012  Stage 9,2012-11-10,RR,Obrajes,San Pablo de Tiquina,55,9,race/vuelta-a-bolivia/2012/stage-9a,116.0
+1263,Vuelta a Bolivia 2012  Stage 9 (ITT),2012-11-10,ITT,San Pedro de Tiquina,Copacabana,55,10,race/vuelta-a-bolivia/2012/stage-9b,40.0
+1264,Vuelta a Bolivia 2012  Stage 10 (ITT),2012-11-11,ITT,Copacabana,Copacabana,55,11,race/vuelta-a-bolivia/2012/stage-10a,39.0
+1265,Vuelta a Bolivia 2012  Stage 10,2012-11-11,RR,San Pablo de Tiquina, La Paz,55,12,race/vuelta-a-bolivia/2012/stage-10b,121.0
+1266,National Championships Colombia - ITT 2012,2012-11-14,RR,Popayan,Popayan,56,0,race/nc-colombia-itt/2012,42.6
+1267,National Championships Colombia - Road Race 2012,2012-11-17,RR,Popayan,Popayan,57,0,race/nc-colombia/2012,168.0
+1268,Vuelta Mundo Maya 2012  Prologue,2012-11-18,Prologue,Villa Linda,Villa Linda,58,1,race/vuelta-mundo-maya/2012/prologue,4.0
+1269,Vuelta Mundo Maya 2012  Stage 2,2012-11-19,RR,Guatamala City,Zacapa,58,2,race/vuelta-mundo-maya/2012/stage-2,143.5
+1270,Vuelta Mundo Maya 2012  Stage 3,2012-11-20,RR,Zacapa,Puerto Barrios,58,3,race/vuelta-mundo-maya/2012/stage-3,173.0
+1271,Vuelta Mundo Maya 2012  Stage 4,2012-11-21,RR,Puerto Barrios,Teculután,58,4,race/vuelta-mundo-maya/2012/stage-4,177.0
+1272,Vuelta Mundo Maya 2012  Stage 5,2012-11-22,RR,Teculután,Esquipulas,58,5,race/vuelta-mundo-maya/2012/stage-5,103.5
+1273,Vuelta Mundo Maya 2012  Stage 6,2012-11-23,RR,Chiquimula,Guatemala City,58,6,race/vuelta-mundo-maya/2012/stage-6,162.5
+1274,Vuelta Mundo Maya 2012  Stage 7,2012-11-24,RR,San Lucas Sacatepéquez, Tecpán Guatemala,58,7,race/vuelta-mundo-maya/2012/stage-7,139.0
+1275,Vuelta Mundo Maya 2012  Stage 8,2012-11-25,RR,Guatamala,Guatamala,58,8,race/vuelta-mundo-maya/2012/stage-8,122.5
+1276,Vuelta Internacional a Costa Rica 2012  Stage 1,2012-12-17,RR,San José,Limón,59,1,race/vuelta-internacional-a-costa-rica/2012/stage-1,155.9
+1277,Vuelta Internacional a Costa Rica 2012  Stage 2,2012-12-18,RR,Limón,Guápiles,59,2,race/vuelta-internacional-a-costa-rica/2012/stage-2,178.8
+1278,Vuelta Internacional a Costa Rica 2012  Stage 3 (ITT),2012-12-19,ITT,Ticabán,Guápiles,59,3,race/vuelta-internacional-a-costa-rica/2012/stage-3,28.8
+1279,Vuelta Internacional a Costa Rica 2012  Stage 4,2012-12-20,RR,Guápiles,Paraíso de Cartago,59,4,race/vuelta-internacional-a-costa-rica/2012/stage-4,138.9
+1280,Vuelta Internacional a Costa Rica 2012  Stage 5,2012-12-21,RR,San José,Cañas,59,5,race/vuelta-internacional-a-costa-rica/2012/stage-5,138.9
+1281,Vuelta Internacional a Costa Rica 2012  Stage 6,2012-12-22,RR,Cañas,Grecia,59,6,race/vuelta-internacional-a-costa-rica/2012/stage-6,140.2
+1282,Vuelta Internacional a Costa Rica 2012  Stage 7 (ITT),2012-12-23,ITT,"San Pedro de Poás, Alajuela","San Pedro de Poás, Alajuela",59,7,race/vuelta-internacional-a-costa-rica/2012/stage-7,18.0
+1283,Vuelta Internacional a Costa Rica 2012  Stage 8,2012-12-25,RR,San José,San José,59,8,race/vuelta-internacional-a-costa-rica/2012/stage-8,118.4
+1284,Vuelta Internacional a Costa Rica 2012  Stage 9,2012-12-26,RR,Jacó,Pérez Zeledón,59,9,race/vuelta-internacional-a-costa-rica/2012/stage-9,143.1
+1285,Vuelta Internacional a Costa Rica 2012  Stage 10,2012-12-27,RR,Península de Osa,Península de Osa,59,10,race/vuelta-internacional-a-costa-rica/2012/stage-10,121.4
+1286,Vuelta Internacional a Costa Rica 2012  Stage 11,2012-12-28,RR,San Ramón, Pejibaye,59,11,race/vuelta-internacional-a-costa-rica/2012/stage-11,90.2
+1287,Vuelta Internacional a Costa Rica 2012  Stage 12,2012-12-29,RR,Pérez Zeledón,San José,59,12,race/vuelta-internacional-a-costa-rica/2012/stage-12,134.8

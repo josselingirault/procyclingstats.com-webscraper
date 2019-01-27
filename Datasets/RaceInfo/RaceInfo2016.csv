@@ -1,692 +1,640 @@
 ,Race_Name,Category,Number_stages
-0,Vuelta al Táchira en Bicicleta 2016 ,2.2/U23,10
-1,Tour de San Luis 2016 ,2.1,7
-2,National Championships Colombia - TTT 2016 ,-,1
-3,National Championships Colombia - ITT 2016 ,Nationals.C3.TT,1
-4,National Championships Colombia U23 - ITT 2016 ,-,1
-5,National Championships Colombia U23 - Road Race 2016 ,-,1
-6,National Championships Colombia - Road Race 2016 ,Nationals.C3,1
-7,National Championships Uruguay - ITT 2016 ,Nationals.C3.TT,1
-8,Vuelta Independencia Nacional Republica Dominicana 2016 ,2.2/U23,8
-9,National Championships Uruguay - Road Race 2016 ,Nationals.C3,1
-10,Vuelta Ciclista del Uruguay 2016 ,2.2/U23,11
-11,National Championships Chile - ITT 2016 ,Nationals.C3.TT,1
-12,National Championships Chile - Road Race 2016 ,Nationals.C3,1
-13,Volta Ciclistica Internacional do Rio Grande do Sul 2016 ,2.2/U23,5
-14,National Championships Argentina - ITT 2016 ,Nationals.C3.TT,1
-15,National Championships Ecuador - ITT 2016 ,Nationals.C3.TT,1
-16,National Championships Argentina U23 - ITT 2016 ,-,1
-17,National Championships Argentina U23 - Road Race 2016 ,-,1
-18,National Championships Argentina - Road Race 2016 ,Nationals.C3,1
-19,Joe Martin Stage Race p/b Nature Valley 2016 ,2.2/U23,8
-20,Silver City's Tour of the Gila 2016 ,2.2/U23,5
-21,National Championships Cuba U23 - ITT 2016 ,-,1
-22,National Championships Bolivia U23 - ITT 2016 ,-,1
-23,National Championships Bolivia - Road Race 2016 ,Nationals.C3,1
-24,National Championships Cuba - Road Race 2016 ,-,1
-25,National Championships Cuba U23 - Road Race 2016 ,-,1
-26,National Championships Bolivia U23 - Road Race 2016 ,-,1
-27,National Championships Bolivia - ITT 2016 ,Nationals.C3.TT,1
-28,Amgen Tour of California 2016 ,2.HC,8
-29,Campeonato Panamericano de Ruta - ME - TT 2016 ,UCI.Cont.Ch.TT,1
-30,Campeonato Panamericano de Ruta ITT - U23 2016 ,E-CC.TT,1
-31,Campeonato Panamericano de Ruta - MU - RR 2016 ,E-CC,1
-32,Campeonato Panamericano de Ruta - ME - RR 2016 ,E-CC,1
-33,National Championships United States - ITT 2016 ,Nationals.C3.TT,1
-34,National Championships United States - Road Race 2016 ,Nationals.C3,1
-35,Winston Salem Cycling Classic 2016 ,1.1,1
-36,National Championships Antigua and Barbuda - ITT 2016 ,Nationals.C3.TT,1
-37,Philadelphia International Cycling Classic 2016 ,1.1,1
-38,Grand Prix Cycliste de Saguenay 2016 ,2.2/U23,4
-39,Vuelta a Colombia 2016 ,2.2/U23,13
-40,Tour de Beauce 2016 ,2.2/U23,6
-41,National Championships Guatemala - ITT 2016 ,Nationals.C3.TT,1
-42,National Championship Dominican Republic - ITT 2016 ,Nationals.C3.TT,1
-43,National Championships Costa Rica - ITT 2016 ,Nationals.C3.TT,1
-44,National Championships Brazil - ITT 2016 ,Nationals.C3.TT,1
-45,National Championships Panama - ITT 2016 ,Nationals.C3.TT,1
-46,National Championships Venezuela - ITT 2016 ,Nationals.C3.TT,1
-47,National Championships Dominican Republic U23 - ITT 2016 ,-,1
-48,National Championships Mexico U23 - ITT 2016 ,-,1
-49,National Championships Brazil WE - Road Race 2016 ,F-NC.2,1
-50,National Championships El Salvador - ITT 2016 ,Nationals.C3.TT,1
-51,National Championships Guyana - ITT 2016 ,Nationals.C3.TT,1
-52,National Championships Mexico - ITT 2016 ,Nationals.C3.TT,1
-53,National Championships Puerto Rico - ITT 2016 ,Nationals.C3.TT,1
-54,National Championships El Salvador U23 - ITT 2016 ,-,1
-55,National Championships Antigua and Barbuda MJ - Road Race 2016 ,J-NC2,1
-56,National Championships Antigua and Barbuda - Road Race 2016 ,Nationals.C3,1
-57,National Championships Brazil - Road Race 2016 ,Nationals.C3,1
-58,National Championships Canada - Road Race 2016 ,Nationals.C3,1
-59,National Championships Costa Rica - Road Race 2016 ,Nationals.C3,1
-60,National Championships Dominican Republic - Road Race 2016 ,Nationals.C3,1
-61,National Championships El Salvador - Road Race 2016 ,Nationals.C3,1
-62,National Championships Guatemala - Road Race 2016 ,Nationals.C3,1
-63,National Championships Guyana - Road Race 2016 ,Nationals.C3,1
-64,National Championships Mexico - Road Race 2016 ,Nationals.C3,1
-65,National Championships Venezuela - Road Race 2016 ,Nationals.C3,1
-66,National Championships Canada - ITT 2016 ,Nationals.C3.TT,1
-67,Vuelta Ciclista a Venezuela 2016 ,2.2/U23,10
-68,White Spot / Delta Road Race 2016 ,1.2,1
-69,Tour Cycliste International de la Guadeloupe 2016 ,2.2/U23,12
-70,The Larry H.Miller Tour of Utah 2016 ,2.HC,7
-71,Olympic Games Road Race 2016 ,Olympics.RR,1
-72,National Championships Puerto Rico - Road Race 2016 ,Nationals.C3,1
-73,Tour of Alberta 2016 ,2.1,5
-74,The Reading 120 2016 ,1.2,1
-75,Tobago Cycling Classic 2016 ,1.2,1
-76,Vuelta a Guatemala 2016 ,2.2/U23,9
-77,Gran Premio de San José 2016 ,1.2,1
-78,Vuelta Popular a Costa Rica 2016 ,2.2/U23,12
-79,World Championships - TTT 2016 ,Worlds.TTT,1
-80,World Championships WE - TTT 2016 ,F-CDM-TTT,1
-81,World Championships U23 - ITT 2016 ,UCI.WO.u23.TT,1
-82,World Championships WJ - ITT 2016 ,-,1
-83,World Championships MJ - ITT 2016 ,J-WC.TT,1
-84,World Championships WE - ITT 2016 ,F-WC.TT,1
-85,World Championships U23 - Road Race 2016 ,Nationals.C1,1
-86,World Championships MJ - Road Race 2016 ,J-WC,1
-87,World Championships WJ - Road Race 2016 ,-,1
-88,World Championships WE - Road Race 2016 ,-,1
-89,La Tropicale Amissa Bongo 2016 ,2.1,7
-90,National Championships Namibia - ITT 2016 ,Nationals.C3.TT,1
-91,National Championships Namibia - Road Race 2016 ,Nationals.C3,1
-92, National Championships South Africa - ITT 2016 ,Nationals.C3.TT,1
-93,National Championships South Africa - Road Race 2016 ,Nationals.C3,1
-94,African Continental Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
-95,African Continental Championships - Road Race 2016 ,E-CC,1
-96,Circuit International d'Alger 2016 ,1.2,1
-97,Tour Internationale d'Oranie 2016 ,2.2/U23,3
-98,Grand Prix de la Ville d'Oran 2016 ,1.2,1
-99,Tour International de Blida 2016 ,2.2/U23,3
-100,Tour du Cameroun 2016 ,2.2/U23,8
-101,Tour International de Setif 2016 ,2.2/U23,4
-102,National Championships Egypt - Road Race 2016 ,-,1
-103,Criterium International de Setif 2016 ,1.2,1
-104,Tour Internationale d'Annaba 2016 ,2.2/U23,4
-105,Tour International de Constantine 2016 ,2.2/U23,3
-106,Circuit International de Constantine 2016 ,1.2,1
-107,Criterium International de Blida 2016 ,1.2,1
-108,Tour du Maroc 2016 ,2.2/U23,10
-109,Fenkil Northen Red Sea Challenge 2016 ,1.2,1
-110,Massawa Circuit 2016 ,1.2,1
-111,Tour Eritrea 2016 ,2.2/U23,5
-112,Tour du Sénégal 2016 ,2.2/U23,7
-113,Asmara Circuit 2016 ,1.2,1
-114,Challenge du Prince - Trophée Princier 2016 ,1.2,1
-115,Challenge du Prince - Trophée de l'Anniversaire 2016 ,1.2,1
-116,Challenge du Prince - Trophée de la Maison Royale 2016 ,1.2,1
-117,Tour de Tunisie 2016 ,2.2/U23,4
-118,National Championships Tunisia - ITT 2016 ,Nationals.C3.TT,1
-119,National Championships Tunesia - Road race 2016 ,Nationals.C3,1
-120,National Championships Ethiopia - ITT 2016 ,Nationals.C3.TT,1
-121,National Championships Ethiopia - Road Race 2016 ,Nationals.C3,1
-122,National Championships Mauritius - ITT 2016 ,Nationals.C3.TT,1
-123,National Championships Mauritius MJ - ITT 2016 ,Nationals.C3.TT,1
-124,National Championships Eritrea - ITT 2016 ,Nationals.C3.TT,1
-125,National Championships Angola - Road Race 2016 ,Nationals.C3,1
-126,National Championships Rwanda - ITT 2016 ,Nationals.C3.TT,1
-127, National Championships Rwanda - Road Race 2016 ,Nationals.C3,1
-128,National Championships Eritrea - Road Race 2016 ,Nationals.C3,1
-129,National Championships Mauritius - Road Race 2016 ,Nationals.C3,1
-130,National Championships Algeria - ITT 2016 ,Nationals.C3.TT,1
-131,National Championships Morocco - ITT 2016 ,Nationals.C3.TT,1
-132,National Championships Algeria - Road Race 2016 ,Nationals.C3,1
-133,National Championships Morocco - Road Race 2016 ,Nationals.C3,1
-134,Tour Ethiopian Meles Zenawi 2016 ,2.2/U23,5
-135,Tour de Côte d'Ivoire-Tour de la Réconciliation 2016 ,2.2/U23,7
-136,Grand Prix Chantal Biya 2016 ,2.2/U23,4
-137,Tour du Faso 2016 ,2.2/U23,10
-138,Tour of Rwanda 2016 ,2.2/U23,8
-139,Asian Cycling Championships U23 - ITT 2016 ,E-CC.TT,1
-140,Asian Cycling Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
-141,Asian Cycling Championships U23 - Road Race 2016 ,E-CC,1
-142,Asian Cycling Championships - Road Race 2016 ,E-CC,1
-143,Dubai Tour 2016 ,2.HC,4
-144,Tour of Qatar 2016 ,2.HC,5
-145,Tour of Oman 2016 ,2.HC,6
-146,Le Tour de Filipinas 2016 ,2.2/U23,4
-147,Le Tour de Langkawi 2016 ,2.HC,8
-148,National Championships India - ITT 2016 ,Nationals.C3.TT,1
-149,National Championships India - ITT 2016 ,Nationals.C3.TT,1
-150,National Championships India - Road Race 2016 ,Nationals.C3,1
-151,Tour de Taiwan 2016 ,2.1,5
-152,National Championships Kuwait - ITT 2016 ,Nationals.C3.TT,1
-153,National Championships Kuwait - Road Race 2016 ,Nationals.C3,1
-154,National Championships United Arab Emirates - Road Race 2016 ,Nationals.C3,1
-155,The Princess Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2016 ,2.2/U23,6
-156,National Championships Iran - ITT 2016 ,Nationals.C3.TT,1
-157,National Championships Iran - Road Race 2016 ,Nationals.C3,1
-158,International Tour de Banyuwangi Ijen 2016 ,2.2/U23,4
-159,Tour of Iran (Azarbaijan) 2016 ,2.1,6
-160,Tour de Flores 2016 ,2.2/U23,5
-161,National Championships Singapore - ITT 2016 ,Nationals.C3.TT,1
-162,National Championships Singapore - Road Race 2016 ,Nationals.C3,1
-163,Tour of Japan 2016 ,2.1,8
-164,National Championships Malaysia - Road Race 2016 ,-,1
-165,National Championships Malaysia - ITT 2016 ,-,1
-166,Tour de Korea 2016 ,2.1,8
-167,Tour de Kumano 2016 ,2.2/U23,4
-168,National Championships Israel - ITT 2016 ,Nationals.C3.TT,1
-169,National Championships Libanon - ITT 2016 ,Nationals.C3.TT,1
-170,National Championships Kazakhstan - ITT 2016 ,Nationals.C3.TT,1
-171,National Championships South Korea - ITT 2016 ,Nationals.C3.TT,1
-172,National Championships Japan - ITT 2016 ,Nationals.C3.TT,1
-173,National Championships Mongolia - ITT 2016 ,Nationals.C3.TT,1
-174,National Championships South Korea - Road Race 2016 ,Nationals.C3,1
-175,National Championships Japan U23 - ITT 2016 ,-,1
-176,National Championships Hong Kong - ITT 2016 ,Nationals.C3.TT,1
-177,National Championships Israel - Road Race 2016 ,Nationals.C3,1
-178,National Championships Japan U23 - Road Race 2016 ,-,1
-179,National Championships Hong Kong - Road Race 2016 ,Nationals.C3,1
-180,National Championships Japan - Road Race 2016 ,Nationals.C3,1
-181,National Championships Kazakhstan - Road Race 2016 ,Nationals.C3,1
-182,National Championships Libanon - Road Race 2016 ,Nationals.C3,1
-183,National Championships Macau 2016 ,Nationals.C3,1
-184,National Championships Mongolia - Road Race 2016 ,Nationals.C3,1
-185,National Championships Mongolia WE - Road Race 2016 ,F-NC.2,1
-186,National Championships Uzbekistan - Road Race 2016 ,Nationals.C3,1
-187,National Championships Uzbekistan - ITT 2016 ,Nationals.C3.TT,1
-188,Tour of Qinghai Lake 2016 ,2.HC,13
-189,Tour de Jakarta 2016 ,1.2,1
-190,Tour de Singkarak 2016 ,2.2/U23,8
-191,Tour de Hokkaido 2016 ,2.2/U23,4
-192,Tour of China I 2016 ,2.1,6
-193,Tour of China II 2016 ,2.1,6
-194,Tour of Almaty 2016 ,1.1,1
-195,World Championships - ITT 2016 ,-,1
-196,World Championships - Road Race 2016 ,Worlds.RR,1
-197,Jelajah Malaysia 2016 ,2.2/U23,5
-198,Abu Dhabi Tour 2016 ,2.HC,4
-199,Tour of Hainan 2016 ,2.HC,9
-200,Japan Cup Cycle Road Race 2016 ,1.HC,1
-201,Sharjah International Cycling Tour 2016 ,2.1,4
-202,UAE Cup 2016 ,1.1,1
-203,Tour of Yancheng Costal Wetlands 2016 ,1.2,1
-204,Tour of Taihu Lake 2016 ,2.1,8
-205,National Championships India - ITT 2016 ,Nationals.C3.TT,1
-206,National Championships India - Road Race 2016 ,Nationals.C3,1
-207,Tour de Okinawa 2016 ,1.2,1
-208,Tour of Fuzhou 2016 ,2.1,5
-209,Trofeo Felanitx - Ses Salines - Campos - Porreres 2016 ,1.1,1
-210,Trofeo Pollenca - Port de Andratx 2016 ,1.1,1
-211,Trofeo Serra de Tramuntana 2016 ,1.1,1
-212,Grand Prix Cycliste la Marseillaise 2016 ,1.1,1
-213,Trofeo Playa de Palma - Palma 2016 ,1.1,1
-214,Etoile de Bessèges 2016 ,2.1,5
-215,Volta a la Comunitat Valenciana 2016 ,2.1,5
-216,G.P. Costa degli Etruschi 2016 ,1.1,1
-217,La Méditerranéenne 2016 ,2.1,4
-218,Vuelta Ciclista a la Region de Murcia 'Costa Calida' 2016 ,1.1,1
-219,Trofeo Laigueglia 2016 ,1.HC,1
-220,Clasica de Almeria 2016 ,1.1,1
-221,GP Laguna Porec 2016 ,1.2,1
-222,Volta ao Algarve em Bicicleta 2016 ,2.1,5
-223,Vuelta a Andalucia Ruta Ciclista Del Sol 2016 ,2.1,5
-224,Tour Cycliste International du Haut Var Matin 2016 ,2.1,2
-225, Tour Cycliste International La Provence 2016 ,2.1,3
-226,Omloop Het Nieuwsblad Elite 2016 ,1.HC,1
-227,Classic Sud Ardèche - Souvenir Francis Delpech 2016 ,1.1,1
-228,Gran Premio Città di Lugano 2016 ,1.HC,1
-229,Kuurne-Bruxelles-Kuurne 2016 ,1.HC,1
-230,Royal Bernard Drôme Classic 2016 ,1.1,1
-231,GP Izola 2016 ,1.2,1
-232,Le Samyn 2016 ,1.1,1
-233,Trofej Umag - Umag Trophy 2016 ,1.2,1
-234,Driedaagse van West-Vlaanderen 2016 ,2.1,3
-235,Strade Bianche 2016 ,1.HC,1
-236,Craft Ster van Zwolle 2016 ,1.2,1
-237,Porec Trophy - Trofej Porec 2016 ,1.2,1
-238,GP Industria & Artigianato 2016 ,1.1,1
-239,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2016 ,1.2,1
-240,Istarsko proljece - Istrian Spring Trophy 2016 ,2.2/U23,4
-241,Energiewacht Ronde van Drenthe 2016 ,1.1,1
-242,GP Liberty Seguros - Troféu Alpendre 2016 ,2.2/U23,2
-243,Paris-Troyes 2016 ,1.2,1
-244,Rabobank Dorpenomloop Rucphen 2016 ,1.2,1
-245,Nokere Koerse - Danilith Classic 2016 ,1.HC,1
-246,Volta ao Alentejo 2016 ,2.2/U23,5
-247,Handzame Classic 2016 ,1.1,1
-248,Classic Loire Atlantique 2016 ,1.1,1
-249,Cholet - Pays De Loire 2016 ,1.1,1
-250,Tour de Normandie 2016 ,2.2/U23,7
-251,Dwars door Vlaanderen / A travers la Flandre 2016 ,1.HC,1
-252,Settimana Internazionale Coppi e Bartali 2016 ,2.1,5
-253,Critérium International 2016 ,2.HC,3
-254,Giro del Belvedere 2016 ,1.2,1
-255,Driedaagse De Panne-Koksijde 2016 ,2.HC,4
-256,G.P. Palio del Recioto - 34th Memorial cav. Sante Carradori 2016 ,1.2,1
-257,Route Adélie de Vitré 2016 ,1.1,1
-258,Le Triptyque des Monts et Châteaux 2016 ,2.2/U23,4
-259,Gran Premio Miguel Indurain 2016 ,1.1,1
-260,Volta Limburg Classic 2016 ,1.1,1
-261,Paris-Camembert 2016 ,1.1,1
-262,Vuelta Ciclista a La Rioja 2016 ,1.1,1
-263,GP Adria Mobil 2016 ,1.2,1
-264,Trofeo Piva 2016 ,1.2,1
-265,Circuit Cycliste Sarthe - Pays de la Loire 2016 ,2.1,5
-266,Scheldeprijs 2016 ,1.HC,1
-267,Circuit des Ardennes International 2016 ,2.2/U23,4
-268,Ronde van Vlaanderen Beloften 2016 ,E-1.Ncup,1
-269,Klasika Primavera de Amorebieta 2016 ,1.1,1
-270,De Brabantse Pijl - La Flèche Brabançonne 2016 ,1.HC,1
-271,Tour du Loir et Cher E Provost 2016 ,2.2/U23,5
-272,GP de Denain - Porte du Hainaut / Valenciennes Métropole 2016 ,1.HC,1
-273,Tour of Mersin 2016 ,2.2/U23,4
-274,Vuelta a Castilla y Leon 2016 ,2.1,3
-275,ZLM-Roompot tour 2016 ,E-1.Ncup,3
-276,Tour du Finistère 2016 ,1.1,1
-277,Liège - Bastogne - Liège U23 2016 ,E-1.Ncup,1
-278,Trofeo Edil C 2016 ,1.2,1
-279,Giro dell'Appennino 2016 ,1.1,1
-280,Tro-Bro Léon 2016 ,1.1,1
-281,Profronde van Noord-Holland 2016 ,1.2,1
-282,Giro del Trentino 2016 ,2.HC,4
-283,Tour of Croatia 2016 ,2.1,6
-284,Arno Wallaard Memorial 2016 ,1.2,1
-285,Belgrade - Banjaluka I 2016 ,1.2,1
-286,Visegrad 4 Kerékpárverseny 2016 ,1.2,1
-287,Presidential Cycling Tour of Turkey 2016 ,2.HC,8
-288,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle 2016 ,1.1,1
-289,Belgrade Banjaluka II 2016 ,1.2,1
-290,Paris - Mantes-en-Yvelines 2016 ,1.2,1
-291,Rutland - Melton International Cicle Classic 2016 ,1.2,1
-292,Visegrad 4 Bicycle Race - GP Slovakia 2016 ,1.2,1
-293,Gran Premio della Liberazione 2016 ,1.2,1
-294,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2016 ,2.2/U23,7
-295,Tour de Yorkshire 2016 ,2.1,3
-296,Carpathian Couriers Race U-23 2016 ,2.2/U23,5
-297,Himmerland Rundt 2016 ,1.2,1
-298,Vuelta Asturias Julio Alvarez Mendo 2016 ,2.1,3
-299,GP Viborg 2016 ,1.2,1
-300,ZODC Zuidenveld Tour 2016 ,1.2,1
-301,Rund um den Finanzplatz Eschborn-Frankfurt 2016 ,1.HC,1
-302,Circuito del Porto - Trofeo Arvedi 2016 ,1.2,1
-303,Memorial Andrzeja Trochanowskiego 2016 ,1.2,1
-304,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2016 ,1.2,1
-305,Skive-Løbet  2016 ,1.2,1
-306,Memorial Romana Sieminskiego 2016 ,1.2,1
-307,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais 2016 ,2.HC,5
-308,Tour d'Azerbaïdjan 2016 ,2.1,5
-309,Flèche du Sud 2016 ,2.2/U23,5
-310,National Championships Cyprus - ITT 2016 ,Nationals.C3.TT,1
-311,Dwars door de Vlaamse Ardennen 2016 ,1.2,1
-312,CCC Tour - Grody Piastowskie 2016 ,2.2/U23,3
-313,National Championships Cyprus - Road Race 2016 ,Nationals.C3,1
-314,Vuelta Ciclista Comunidad de Madrid 2016 ,2.1,2
-315,Sundvolden GP 2016 ,1.2,1
-316,Flèche Ardennaise 2016 ,1.2,1
-317,Ringerike GP 2016 ,1.2,1
-318,Tr. Citta di San Vendemiano - 56th GP Industria & Commercio 2016 ,1.2,1
-319,Rhône-Alpes Isère Tour 2016 ,2.2/U23,4
-320,Grande Prémio Internacional Beiras e Serra da Estrela 2016 ,2.1,3
-321,Tour de Picardie 2016 ,2.1,3
-322,Tour de Berlin 2016 ,2.2/U23,5
-323,Ronde van Overijssel 2016 ,1.2,1
-324,Scandinavian Race in Uppsala 1909-2016 2016 ,1.2,1
-325,Visegrad V4 Race - GP Polski 2016 ,1.2,1
-326,Gran Premio Industrie del Marmo 2016 ,1.2,1
-327,Grand Prix Criquielion 2016 ,1.2,1
-328,Visegrad 4 Bicycle Race - GP Czech Republic 2016 ,1.2,1
-329,Tour of Norway 2016 ,2.HC,5
-330,Baltyk - Karkonosze Tour 2016 ,2.2/U23,6
-331,Ronde de l'Isard 2016 ,2.2/U23,4
-332,Tour of Bihor - Bellotto 2016 ,2.2/U23,4
-333,Paris-Arras Tour 2016 ,2.2/U23,3
-334,Berner Rundfahrt / Tour de Berne 2016 ,1.2,1
-335,Grand Prix de la Somme « Conseil Général 80» 2016 ,1.1,1
-336,Velothon Wales 2016 ,1.1,1
-337,An Post Ras 2016 ,2.2/U23,8
-338,SwissEver GP Cham - Hagendorn 2016 ,F-1.2,1
-339,Baloise Belgium Tour 2016 ,2.HC,5
-340,National Championships Denmark U23 - ITT 2016 ,-,1
-341,National Championships Kosovo - ITT 2016 ,Nationals.C3.TT,1
-342,Tour of Estonia 2016 ,2.1,2
-343,Horizon Park Race for Peace 2016 ,1.2,1
-344,Tour de Gironde 2016 ,2.2/U23,3
-345,Grand Prix de Plumelec-Morbihan 2016 ,1.1,1
-346,Horizon Park Race Maidan 2016 ,1.2,1
-347,National Championships Denmark U23 - Road Race 2016 ,-,1
-348,Boucles de l'Aulne - Chateaulin 2016 ,1.1,1
-349,National Championships Kosovo - Road Race 2016 ,Nationals.C3,1
-350,National Championships Macedonia - ITT 2016 ,Nationals.C3.TT,1
-351,Horizon Park Classic 2016 ,1.2,1
-352,Paris-Roubaix Espoirs 2016 ,1.2,1
-353,Tour of Ukraine 2016 ,2.2/U23,4
-354,Skoda-Tour de Luxembourg 2016 ,2.HC,5
-355,Boucles de la Mayenne 2016 ,2.1,4
-356,Course de la Paix U23 / Závod Míru U23 2016 ,E-2.Ncup,3
-357,Heistse Pijl - Heist op den Berg 2016 ,1.1,1
-358,Grand Prix of Vinnytsia 2016 ,1.2,1
-359,Hets Hatsafon / Northern Arrow 2016 ,1.2,1
-360,Coppa della Pace - Trofeo F.lli Anelli 2016 ,1.2,1
-361,Grand Prix of ISD 2016 ,1.2,1
-362,Memorial Philippe Van Coningsloo 2016 ,1.2,1
-363,Okolo Slovenska 2016 ,2.2/U23,6
-364,GP du canton d'Argovie 2016 ,1.HC,1
-365,Ronde de l'Oise 2016 ,2.2/U23,4
-366,National Championships Slovenia - ITT 2016 ,Nationals.C3.TT,1
-367,Tour of Malopolska 2016 ,2.2/U23,3
-368,Fyen Rundt - Tour of Fyen 2016 ,1.2,1
-369,Ronde van Limburg 2016 ,1.1,1
-370,Rund um Köln 2016 ,1.1,1
-371,GP Horsens Posten 2016 ,1.2,1
-372,Tour de Serbia 2016 ,2.2/U23,6
-373,Ster ZLM Toer GP Jan van Heeswijk 2016 ,2.1,5
-374,Route du Sud - la Depeche du Midi 2016 ,2.1,5
-375,Tour de Slovénie 2016 ,2.1,4
-376,Oberösterreichrundfahrt 2016 ,2.2/U23,4
-377,Tour de Savoie Mont Blanc 2016 ,2.2/U23,5
-378,Memorial Grundmanna I Wizowskiego	 2016 ,1.2,1
-379,Beaumont Trophy 2016 ,1.2,1
-380,Circuit de Wallonie 2016 ,1.2,1
-381,Korona Kocich Gór I Dolina Baryczy Zmigrod-Milic 2016 ,1.2,1
-382,National Championships Germany U23 - Road Race 2016 ,-,1
-383,National Championships Norway U23 - Road Race 2016 ,-,1
-384,National Championships Estonia - ITT 2016 ,Nationals.C3.TT,1
-385,Halle Ingooigem 2016 ,1.1,1
-386,National Championships Azerbaijan - ITT 2016 ,Nationals.C3.TT,1
-387,National Championships Finland - ITT 2016 ,Nationals.C3.TT,1
-388,National Championships Italy - ITT 2016 ,Nationals.C3.TT,1
-389,National Championships Latvia - ITT 2016 ,Nationals.C3.TT,1
-390,National Championships Netherlands - ITT 2016 ,Nationals.C3.TT,1
-391,National Championships Poland - ITT 2016 ,Nationals.C3.TT,1
-392,National Championships Switzerland - ITT 2016 ,Nationals.C3.TT,1
-393,National Championships Finland U23 - ITT 2016 ,-,1
-394,National Championships Italy U23 - ITT 2016 ,-,1
-395,National Championships Latvia U23 - ITT 2016 ,-,1
-396,National Championships Netherlands U23- ITT 2016 ,-,1
-397,National Championships Poland U23 - ITT 2016 ,-,1
-398,National Championships Switzerland U23 - ITT 2016 ,-,1
-399,National Championships Ukraine U23 - ITT 2016 ,-,1
-400,National Championships France - ITT 2016 ,Nationals.C3.TT,1
-401,National Championships Belarus - ITT 2016 ,Nationals.C3.TT,1
-402,National Championships Belgium - ITT 2016 ,Nationals.C3.TT,1
-403,National Championships Czech Republic - ITT 2016 ,Nationals.C3.TT,1
-404,National Championships Czech Republic U23 - ITT 2016 ,-,1
-405,National Championships Denmark - ITT 2016 ,Nationals.C3.TT,1
-406,National Championships Great Britain - ITT 2016 ,Nationals.C3.TT,1
-407,National Championships Hungary - ITT 2016 ,Nationals.C3.TT,1
-408,National Championships Ireland - ITT 2016 ,Nationals.C3.TT,1
-409,National Championships Norway - ITT 2016 ,Nationals.C3.TT,1
-410,National Championships Slovakia - ITT 2016 ,Nationals.C3.TT,1
-411,National Championships Spain - ITT 2016 ,Nationals.C3.TT,1
-412,National Championships Sweden - ITT 2016 ,Nationals.C3.TT,1
-413,National Championships Ukraine - ITT 2016 ,Nationals.C3.TT,1
-414,National Championships Great Britain U23 - ITT 2016 ,-,1
-415,National Championships Hungary U23 - ITT 2016 ,-,1
-416,National Championships Spain U23 - ITT 2016 ,-,1
-417,National Championships Albania - ITT 2016 ,Nationals.C3.TT,1
-418,National Championships Azerbaijan - Road Race 2016 ,Nationals.C3,1
-419,National Championships Croatia - ITT 2016 ,Nationals.C3.TT,1
-420,National Championships Germany - ITT 2016 ,Nationals.C3.TT,1
-421,National Championships Greece - ITT 2016 ,Nationals.C3.TT,1
-422,National Championships Lithuania - ITT 2016 ,Nationals.C3.TT,1
-423,National Championships Luxembourg - ITT 2016 ,Nationals.C3.TT,1
-424,National Championships Portugal - ITT 2016 ,Nationals.C3.TT,1
-425,National Championships Romania - ITT 2016 ,Nationals.C3.TT,1
-426,National Championships Romania U23 - ITT 2016 ,-,1
-427,National Championships Russia - ITT 2016 ,Nationals.C3.TT,1
-428,National Championships Bosnia and Herzegovina - ITT 2016 ,Nationals.C3.TT,1
-429,National Championships Croatia U23 - ITT 2016 ,-,1
-430,National Championships Germany U23 - ITT 2016 ,-,1
-431,National Championships Netherlands U23 - Road Race 2016 ,-,1
-432,National Championships Portugal U23 - ITT 2016 ,-,1
-433,National Championships Spain U23 - Road Race 2016 ,-,1
-434,National Championships Austria - ITT 2016 ,Nationals.C3.TT,1
-435,National Championships Bulgaria - ITT 2016 ,Nationals.C3.TT,1
-436,National Championships Georgia - ITT 2016 ,Nationals.C3.TT,1
-437,National Championships Iceland - Road Race 2016 ,Nationals.C3,1
-438,National Championships Moldova - ITT 2016 ,Nationals.C3.TT,1
-439,National Championships Netherlands - Road Race 2016 ,Nationals.C3,1
-440,National Championships Serbia - ITT 2016 ,Nationals.C3.TT,1
-441,National Championships Spain - Road Race 2016 ,Nationals.C3,1
-442,National Championships Turkey - ITT 2016 ,Nationals.C3.TT,1
-443,National Championships Italy U23 - Road Race 2016 ,-,1
-444,National Championships Poland U23 - Road Race 2016 ,-,1
-445,National Championships Portugal U23 - Road Race 2016 ,-,1
-446,National Championships Ukraine U23 - Road Race 2016 ,-,1
-447,National Championships Albania - Road Race 2016 ,Nationals.C3,1
-448,National Championships Austria - Road Race 2016 ,Nationals.C3,1
-449,National Championships Belarus - Road Race 2016 ,Nationals.C3,1
-450,National Championships Belgium - Road Race 2016 ,Nationals.C3,1
-451,National Championships Bosnia and Herzegovina - Road Race 2016 ,Nationals.C3,1
-452,National Championships Bulgaria - Road Race 2016 ,Nationals.C3,1
-453,National Championships Croatia - Road Race 2016 ,Nationals.C3,1
-454,National Championships Czech Republic - Road Race 2016 ,Nationals.C3,1
-455,National Championships Denmark - Road Race 2016 ,Nationals.C3,1
-456,National Championships Estonia - Road Race 2016 ,Nationals.C3,1
-457,National Championships France - Road Race 2016 ,Nationals.C3,1
-458,National Championships Georgia - Road Race 2016 ,Nationals.C3,1
-459,National Championships Germany - Road Race 2016 ,Nationals.C3,1
-460,National Championships Great Britain - Road Race 2016 ,Nationals.C3,1
-461,National Championships Greece - Road Race 2016 ,Nationals.C3,1
-462,National Championships Hungary - Road Race 2016 ,Nationals.C3,1
-463,National Championships Ireland - Road Race 2016 ,Nationals.C3,1
-464,National Championships Italy - Road Race 2016 ,Nationals.C3,1
-465,National Championships Latvia - Road Race 2016 ,Nationals.C3,1
-466,National Championships Lithuania - Road Race 2016 ,Nationals.C3,1
-467,National Championships Luxembourg - Road Race 2016 ,Nationals.C3,1
-468,National Championships Macedonia - Road Race 2016 ,Nationals.C3,1
-469,National Championships Moldova - Road Race 2016 ,Nationals.C3,1
-470,National Championships Montenegro - Road Race 2016 ,Nationals.C3,1
-471,National Championships Norway - Road Race 2016 ,Nationals.C3,1
-472,National Championships Poland - Road Race 2016 ,Nationals.C3,1
-473,National Championships Portugal - Road Race 2016 ,Nationals.C3,1
-474,National Championships Romania - Road Race 2016 ,Nationals.C3,1
-475,National Championships Russia - Road Race 2016 ,Nationals.C3,1
-476,National Championships Serbia - Road Race 2016 ,Nationals.C3,1
-477,National Championships Slovakia - Road Race 2016 ,Nationals.C3,1
-478,National Championships Slovenia - Road Race 2016 ,Nationals.C3,1
-479,National Championships Sweden - Road Race 2016 ,Nationals.C3,1
-480,National Championships Switzerland - Road Race 2016 ,Nationals.C3,1
-481,National Championships Turkey - Road Race 2016 ,Nationals.C3,1
-482,National Championships Ukraine - Road Race 2016 ,Nationals.C3,1
-483,National Championships Bulgaria U23 - ITT 2016 ,-,1
-484,National Championships Bulgaria U23 - Road Race 2016 ,-,1
-485,National Championships Czech Republic U23 - Road Race 2016 ,-,1
-486,National Championships Hungary U23 - Road Race 2016 ,-,1
-487,National Championships Lithuania U23 - Road Race 2016 ,-,1
-488,National Championships Romania U23 - Road Race 2016 ,-,1
-489,Tour de Hongrie 2016 ,2.2/U23,6
-490,Course Cycliste de Solidarnosc et des Champions Olympiques 2016 ,2.2/U23,5
-491,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2016 ,1.2,1
-492,Int. Österreich-Rundfahrt-Tour of Austria 2016 ,2.1,8
-493,National Championships Finland - Road Race 2016 ,Nationals.C3,1
-494,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2016 ,1.2,1
-495,Balkan Elite Road Classics 2016 ,1.2,1
-496,Paris-Chauny (classique) 2016 ,1.2,1
-497,Sibiu Cycling Tour 2016 ,2.1,5
-498,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2016 ,2.2/U23,4
-499,Minsk Cup 2016 ,1.2,1
-500,Grand Prix Minsk 2016 ,1.2,1
-501,Grote Prijs Stad Sint-Niklaas 2016 ,1.2,1
-502,Giro del Medio Brenta 2016 ,1.2,1
-503,Giro Ciclistico della Valle d'Aosta Mont Blanc 2016 ,2.2/U23,5
-504,Volta a Portugal do Futuro / Liberty Seguros 2016 ,2.2/U23,5
-505,Trofeo Matteotti 2016 ,1.1,1
-506,Grand Prix Cerami 2016 ,1.1,1
-507,Tour de Wallonie 2016 ,2.HC,5
-508,Grand Prix de la ville de Pérenchies 2016 ,1.2,1
-509,Prueba Villafranca-Ordiziako Klasika 2016 ,1.1,1
-510,PostNord Danmark Rundt - Tour of Denmark 2016 ,2.HC,5
-511,Volta a Portugal em Bicicleta / Liberty Seguros 2016 ,2.1,11
-512,Dookola Mazowsza 2016 ,2.2/U23,4
-513,Tour Alsace 2016 ,2.2/U23,5
-514,Kreiz Breizh Elites 2016 ,2.2/U23,4
-515,RideLondon Classic 2016 ,1.HC,1
-516,Circuito de Getxo 'Memorial Ricardo Otxoa' 2016 ,1.1,1
-517,Circuito de Getxo 'Memorial Ricardo Otxoa' 2016 ,1.1,1
-518,La Poly Normande 2016 ,1.1,1
-519,Rad am Ring 2016 ,1.1,1
-520,Coppa dei Laghi - Trofeo Almar 2016 ,E-1.Ncup,1
-521,GP Kranj 2016 ,1.2,1
-522,Vuelta a Burgos 2016 ,2.HC,5
-523,Dwars door het Hageland - Aarschot 2016 ,1.1,1
-524,Tour de Ribas 2016 ,1.2,1
-525,Antwerpse Havenpijl 2016 ,1.2,1
-526,Odessa Grand Prix 2016 ,1.2,1
-527,Tour de l'Ain 2016 ,2.1,4
-528,Arctic Race of Norway 2016 ,2.HC,4
-529,Czech Cycling Tour 2016 ,2.1,4
-530,Tour of Szeklerland 2016 ,2.2/U23,4
-531,Memorial Henryka Lasaka 2016 ,1.2,1
-532,Gran Premio Sportivi di Poggiana- Trofeo Bonin Costruzioni- Gran Premio Pasta Zara 2016 ,1.2,1
-533,KOGA Slag om Norg 2016 ,1.2,1
-534,National Championships Belgium U23 - Road Race 2016 ,-,1
-535,Puchar Uzdrowisk Karpackich 2016 ,1.2,1
-536,Tour of Ankara 2016 ,2.2/U23,4
-537,Tour du Limousin 2016 ,2.1,4
-538,GP Capodarco - Comunità di Capodarco 2016 ,1.2,1
-539,Trofeo Beato Bernardo - Coppa Citta' di Offida 2016 ,1.2,1
-540,National Championships France U23 - ITT 2016 ,-,1
-541,Arnhem-Veenendaal Classic 2016 ,1.1,1
-542,Puchar Ministra Obrony Narodowej 2016 ,1.2,1
-543,Tour de l'Avenir 2016 ,E-2.Ncup,8
-544,Grote Prijs Jef Scherens - Rondom Leuven 2016 ,1.1,1
-545,National Championships France U23 - Road Race 2016 ,-,1
-546,GP Stad Zottegem 2016 ,1.1,1
-547,Tour du Poitou Charentes 2016 ,2.1,5
-548,Grand Prix des Marbriers 2016 ,1.2,1
-549,Druivenkoers - Overijse 2016 ,1.1,1
-550,Baltic Chain Tour 2016 ,2.2/U23,3
-551,Omloop Mandel-Leie-Schelde Meulebeke 2016 ,1.2,1
-552,Ronde van Midden Nederland 2016 ,2.2/U23,2
-553,Schaal Sels 2016 ,1.1,1
-554,Croatia-Slovenia 2016 ,1.2,1
-555,Tour of Bulgaria 2016 ,2.2/U23,6
-556,Tour des Fjords 2016 ,2.1,5
-557,Brussels Cycling Classic 2016 ,1.HC,1
-558,GP de Fourmies / La Voix du Nord 2016 ,1.HC,1
-559,Tour of Britain 2016 ,2.HC,9
-560,Kernen Omloop Echt-Susteren 2016 ,1.2,1
-561,East Bohemia Tour 2016 ,2.2/U23,2
-562,De Kustpijl 2016 ,1.2,1
-563,Tour du Doubs - Conseil Général 2016 ,1.1,1
-564,Chrono Champenois Masculin International 2016 ,1.2,1
-565,Grote Prijs Marcel Kint 2016 ,1.2,1
-566,Coppa Bernocchi - G.P. BPM 2016 ,1.1,1
-567,Grand Prix de Wallonie 2016 ,1.1,1
-568,UEC Road European Championships U23 - ITT 2016 ,E-CC.TT,1
-569,Coppa Agostoni - Giro delle Brianze 2016 ,1.1,1
-570,UEC Road European Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
-571,Kampioenschap van Vlaanderen 2016 ,1.1,1
-572,Primus Classic Impanis - Van Petegem 2016 ,1.HC,1
-573,Memorial Marco Pantani 2016 ,1.1,1
-574,UEC Road European Championships U23 - Road Race 2016 ,E-CC,1
-575,Grand Prix d'Isbergues - Pas de Calais 2016 ,1.1,1
-576,UEC Road European Championships - Road Race 2016 ,E-CC,1
-577,Giro della Toscana - Memorial Alfredo Martini 2016 ,2.1,2
-578,Coppa Sabatini - Gran Premio citta di Peccioli 2016 ,1.1,1
-579,Giro dell'Emilia 2016 ,1.HC,1
-580,Gran Premio Bruno Beghelli 2016 ,1.HC,1
-581,Duo Normand 2016 ,1.1,1
-582,Gooikse Pijl 2016 ,1.2,1
-583,Tre Valli Varesine 2016 ,1.HC,1
-584,Olympia's Tour 2016 ,2.2/U23,7
-585,Ruota d'Oro - GP Festa del Perdono 2016 ,1.2,1
-586,Milano-Torino 2016 ,1.HC,1
-587,Giro del Piemonte 2016 ,1.HC,1
-588,Tour de l'Eurométropole 2016 ,1.1,1
-589,Tour de Vendée 2016 ,1.1,1
-590,Piccolo Giro di Lombardia 2016 ,1.2,1
-591,Sparkassen Münsterland Giro 2016 ,1.HC,1
-592,Binche - Chimay - Binche / Memorial Frank Vandenbroucke 2016 ,1.1,1
-593,Paris-Bourges 2016 ,1.1,1
-594,Paris - Tours Elite 2016 ,1.HC,1
-595,Paris-Tours Espoirs 2016 ,1.2,1
-596,Nationale Sluitingprijs - Putte - Kapellen 2016 ,1.1,1
-597,Chrono des Nations 2016 ,1.1,1
-598,National Championships Australia - ITT 2016 ,Nationals.C3.TT,1
-599,National Championships Australia U23 - ITT 2016 ,-,1
-600,National Championships New Zealand - ITT 2016 ,Nationals.C3.TT,1
-601,National Championships New Zealand U23 - ITT 2016 ,-,1
-602,National Championships Australia U23 - Road Race 2016 ,-,1
-603,National Championships Australia - Road Race 2016 ,Nationals.C3,1
-604,National Championships New Zealand - Road Race 2016 ,Nationals.C3,1
-605,New Zealand Cycle Classic 2016 ,2.2/U23,5
-606,Cadel Evans Great Ocean Road Race 2016 ,1.HC,1
-607,Herald Sun Tour 2016 ,2.1,5
-608,REV Classic 2016 ,1.2,1
-609, Oceania Continental Championships U23 - ITT 2016 ,E-CC.TT,1
-610,Oceania Continental Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
-611,Oceania Continental Championships - Road Race 2016 ,E-CC,1
-612,Vuelta al Táchira en Bicicleta 2016 ,2.2/U23,10
-613,Tour de San Luis 2016 ,2.1,7
-614,National Championships Colombia - TTT 2016 ,-,1
-615,National Championships Colombia - ITT 2016 ,Nationals.C3.TT,1
-616,National Championships Colombia U23 - ITT 2016 ,-,1
-617,National Championships Colombia U23 - Road Race 2016 ,-,1
-618,National Championships Colombia - Road Race 2016 ,Nationals.C3,1
-619,National Championships Uruguay - ITT 2016 ,Nationals.C3.TT,1
-620,Vuelta Independencia Nacional Republica Dominicana 2016 ,2.2/U23,8
-621,National Championships Uruguay - Road Race 2016 ,Nationals.C3,1
-622,Vuelta Ciclista del Uruguay 2016 ,2.2/U23,11
-623,National Championships Chile - ITT 2016 ,Nationals.C3.TT,1
-624,National Championships Chile - Road Race 2016 ,Nationals.C3,1
-625,Volta Ciclistica Internacional do Rio Grande do Sul 2016 ,2.2/U23,5
-626,National Championships Argentina - ITT 2016 ,Nationals.C3.TT,1
-627,National Championships Ecuador - ITT 2016 ,Nationals.C3.TT,1
-628,National Championships Argentina U23 - ITT 2016 ,-,1
-629,National Championships Argentina U23 - Road Race 2016 ,-,1
-630,National Championships Argentina - Road Race 2016 ,Nationals.C3,1
-631,Joe Martin Stage Race p/b Nature Valley 2016 ,2.2/U23,8
-632,Silver City's Tour of the Gila 2016 ,2.2/U23,5
-633,National Championships Cuba U23 - ITT 2016 ,-,1
-634,National Championships Bolivia U23 - ITT 2016 ,-,1
-635,National Championships Bolivia - Road Race 2016 ,Nationals.C3,1
-636,National Championships Cuba - Road Race 2016 ,-,1
-637,National Championships Cuba U23 - Road Race 2016 ,-,1
-638,National Championships Bolivia U23 - Road Race 2016 ,-,1
-639,National Championships Bolivia - ITT 2016 ,Nationals.C3.TT,1
-640,Amgen Tour of California 2016 ,2.HC,8
-641,Campeonato Panamericano de Ruta - ME - TT 2016 ,UCI.Cont.Ch.TT,1
-642,Campeonato Panamericano de Ruta ITT - U23 2016 ,E-CC.TT,1
-643,Campeonato Panamericano de Ruta - MU - RR 2016 ,E-CC,1
-644,Campeonato Panamericano de Ruta - ME - RR 2016 ,E-CC,1
-645,National Championships United States - ITT 2016 ,Nationals.C3.TT,1
-646,National Championships United States - Road Race 2016 ,Nationals.C3,1
-647,Winston Salem Cycling Classic 2016 ,1.1,1
-648,National Championships Antigua and Barbuda - ITT 2016 ,Nationals.C3.TT,1
-649,Philadelphia International Cycling Classic 2016 ,1.1,1
-650,Grand Prix Cycliste de Saguenay 2016 ,2.2/U23,4
-651,Vuelta a Colombia 2016 ,2.2/U23,13
-652,Tour de Beauce 2016 ,2.2/U23,6
-653,National Championships Guatemala - ITT 2016 ,Nationals.C3.TT,1
-654,National Championship Dominican Republic - ITT 2016 ,Nationals.C3.TT,1
-655,National Championships Costa Rica - ITT 2016 ,Nationals.C3.TT,1
-656,National Championships Brazil - ITT 2016 ,Nationals.C3.TT,1
-657,National Championships Panama - ITT 2016 ,Nationals.C3.TT,1
-658,National Championships Venezuela - ITT 2016 ,Nationals.C3.TT,1
-659,National Championships Dominican Republic U23 - ITT 2016 ,-,1
-660,National Championships Mexico U23 - ITT 2016 ,-,1
-661,National Championships Brazil WE - Road Race 2016 ,F-NC.2,1
-662,National Championships El Salvador - ITT 2016 ,Nationals.C3.TT,1
-663,National Championships Guyana - ITT 2016 ,Nationals.C3.TT,1
-664,National Championships Mexico - ITT 2016 ,Nationals.C3.TT,1
-665,National Championships Puerto Rico - ITT 2016 ,Nationals.C3.TT,1
-666,National Championships El Salvador U23 - ITT 2016 ,-,1
-667,National Championships Antigua and Barbuda MJ - Road Race 2016 ,J-NC2,1
-668,National Championships Antigua and Barbuda - Road Race 2016 ,Nationals.C3,1
-669,National Championships Brazil - Road Race 2016 ,Nationals.C3,1
-670,National Championships Canada - Road Race 2016 ,Nationals.C3,1
-671,National Championships Costa Rica - Road Race 2016 ,Nationals.C3,1
-672,National Championships Dominican Republic - Road Race 2016 ,Nationals.C3,1
-673,National Championships El Salvador - Road Race 2016 ,Nationals.C3,1
-674,National Championships Guatemala - Road Race 2016 ,Nationals.C3,1
-675,National Championships Guyana - Road Race 2016 ,Nationals.C3,1
-676,National Championships Mexico - Road Race 2016 ,Nationals.C3,1
-677,National Championships Venezuela - Road Race 2016 ,Nationals.C3,1
-678,National Championships Canada - ITT 2016 ,Nationals.C3.TT,1
-679,Vuelta Ciclista a Venezuela 2016 ,2.2/U23,10
-680,White Spot / Delta Road Race 2016 ,1.2,1
-681,Tour Cycliste International de la Guadeloupe 2016 ,2.2/U23,12
-682,The Larry H.Miller Tour of Utah 2016 ,2.HC,7
-683,Olympic Games Road Race 2016 ,Olympics.RR,1
-684,National Championships Puerto Rico - Road Race 2016 ,Nationals.C3,1
-685,Tour of Alberta 2016 ,2.1,5
-686,The Reading 120 2016 ,1.2,1
-687,Tobago Cycling Classic 2016 ,1.2,1
-688,Vuelta a Guatemala 2016 ,2.2/U23,9
-689,Gran Premio de San José 2016 ,1.2,1
-690,Vuelta Popular a Costa Rica 2016 ,2.2/U23,12
+0,Santos Tour Down Under 2016 ,2.WT,6
+1,Paris - Nice 2016 ,2.WT,8
+2,Tirreno - Adriatico 2016 ,2.WT,7
+3,Milano - Sanremo 2016 ,1.WT.A,1
+4,Volta Ciclista a Catalunya 2016 ,2.WT,7
+5,E3 Harelbeke 2016 ,1.WT.B,1
+6,Gent - Wevelgem in Flanders Fields 2016 ,1.WT.B,1
+7,Ronde van Vlaanderen / Tour des Flandres 2016 ,1.WT.A,1
+8,Vuelta Ciclista al Pais Vasco 2016 ,2.WT,6
+9,Paris - Roubaix 2016 ,1.WT.A,1
+10,Amstel Gold Race 2016 ,1.WT.A,1
+11,La Flèche Wallonne 2016 ,1.WT.B,1
+12,Liège - Bastogne - Liège 2016 ,1.WT.A,1
+13,Tour de Romandie 2016 ,2.WT,6
+14,Giro d'Italia 2016 ,GT.B,21
+15,Criterium du Dauphiné 2016 ,2.WT,8
+16,Tour de Suisse 2016 ,2.WT,9
+17,Tour de France 2016 ,GT.A,21
+18,Tour de Pologne 2016 ,1.WT.B,7
+19,Clasica Ciclista San Sebastian 2016 ,1.WT.B,1
+20,Vuelta a España 2016 ,GT.B,21
+21,Cyclassics Hamburg 2016 ,1.WT.B,1
+22,Bretagne Classic - Ouest-France 2016 ,1.WT.B,1
+23,Grand Prix Cycliste de Quebec 2016 ,1.WT.B,1
+24,Grand Prix Cycliste de Montréal 2016 ,1.WT.B,1
+25,Eneco Tour 2016 ,2.WT,7
+26,Il Lombardia 2016 ,1.WT.A,1
+27,World Championships - TTT 2016 ,Worlds.TTT,1
+28,World Championships WE - TTT 2016 ,F-CDM-TTT,1
+29,World Championships U23 - ITT 2016 ,UCI.WO.u23.TT,1
+30,World Championships WJ - ITT 2016 ,-,1
+31,World Championships MJ - ITT 2016 ,J-WC.TT,1
+32,World Championships WE - ITT 2016 ,F-WC.TT,1
+33,World Championships U23 - Road Race 2016 ,Nationals.C1,1
+34,World Championships MJ - Road Race 2016 ,J-WC,1
+35,World Championships WJ - Road Race 2016 ,-,1
+36,World Championships WE - Road Race 2016 ,-,1
+37,La Tropicale Amissa Bongo 2016 ,2.1,7
+38,National Championships Namibia - ITT 2016 ,Nationals.C3.TT,1
+39,National Championships Namibia - Road Race 2016 ,Nationals.C3,1
+40, National Championships South Africa - ITT 2016 ,Nationals.C3.TT,1
+41,National Championships South Africa - Road Race 2016 ,Nationals.C3,1
+42,African Continental Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
+43,African Continental Championships - Road Race 2016 ,E-CC,1
+44,Circuit International d'Alger 2016 ,1.2,1
+45,Tour Internationale d'Oranie 2016 ,2.2/U23,3
+46,Grand Prix de la Ville d'Oran 2016 ,1.2,1
+47,Tour International de Blida 2016 ,2.2/U23,3
+48,Tour du Cameroun 2016 ,2.2/U23,8
+49,Tour International de Setif 2016 ,2.2/U23,4
+50,National Championships Egypt - Road Race 2016 ,-,1
+51,Criterium International de Setif 2016 ,1.2,1
+52,Tour Internationale d'Annaba 2016 ,2.2/U23,4
+53,Tour International de Constantine 2016 ,2.2/U23,3
+54,Circuit International de Constantine 2016 ,1.2,1
+55,Criterium International de Blida 2016 ,1.2,1
+56,Tour du Maroc 2016 ,2.2/U23,10
+57,Fenkil Northen Red Sea Challenge 2016 ,1.2,1
+58,Massawa Circuit 2016 ,1.2,1
+59,Tour Eritrea 2016 ,2.2/U23,5
+60,Tour du Sénégal 2016 ,2.2/U23,7
+61,Asmara Circuit 2016 ,1.2,1
+62,Challenge du Prince - Trophée Princier 2016 ,1.2,1
+63,Challenge du Prince - Trophée de l'Anniversaire 2016 ,1.2,1
+64,Challenge du Prince - Trophée de la Maison Royale 2016 ,1.2,1
+65,Tour de Tunisie 2016 ,2.2/U23,4
+66,National Championships Tunisia - ITT 2016 ,Nationals.C3.TT,1
+67,National Championships Tunesia - Road race 2016 ,Nationals.C3,1
+68,National Championships Ethiopia - ITT 2016 ,Nationals.C3.TT,1
+69,National Championships Ethiopia - Road Race 2016 ,Nationals.C3,1
+70,National Championships Mauritius - ITT 2016 ,Nationals.C3.TT,1
+71,National Championships Mauritius MJ - ITT 2016 ,Nationals.C3.TT,1
+72,National Championships Eritrea - ITT 2016 ,Nationals.C3.TT,1
+73,National Championships Angola - Road Race 2016 ,Nationals.C3,1
+74,National Championships Rwanda - ITT 2016 ,Nationals.C3.TT,1
+75, National Championships Rwanda - Road Race 2016 ,Nationals.C3,1
+76,National Championships Eritrea - Road Race 2016 ,Nationals.C3,1
+77,National Championships Mauritius - Road Race 2016 ,Nationals.C3,1
+78,National Championships Algeria - ITT 2016 ,Nationals.C3.TT,1
+79,National Championships Morocco - ITT 2016 ,Nationals.C3.TT,1
+80,National Championships Algeria - Road Race 2016 ,Nationals.C3,1
+81,National Championships Morocco - Road Race 2016 ,Nationals.C3,1
+82,Tour Ethiopian Meles Zenawi 2016 ,2.2/U23,5
+83,Tour de Côte d'Ivoire-Tour de la Réconciliation 2016 ,2.2/U23,7
+84,Grand Prix Chantal Biya 2016 ,2.2/U23,4
+85,Tour du Faso 2016 ,2.2/U23,10
+86,Tour of Rwanda 2016 ,2.2/U23,8
+87,Asian Cycling Championships U23 - ITT 2016 ,E-CC.TT,1
+88,Asian Cycling Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
+89,Asian Cycling Championships U23 - Road Race 2016 ,E-CC,1
+90,Asian Cycling Championships - Road Race 2016 ,E-CC,1
+91,Dubai Tour 2016 ,2.HC,4
+92,Tour of Qatar 2016 ,2.HC,5
+93,Tour of Oman 2016 ,2.HC,6
+94,Le Tour de Filipinas 2016 ,2.2/U23,4
+95,Le Tour de Langkawi 2016 ,2.HC,8
+96,National Championships India - ITT 2016 ,Nationals.C3.TT,1
+97,National Championships India - ITT 2016 ,Nationals.C3.TT,1
+98,National Championships India - Road Race 2016 ,Nationals.C3,1
+99,Tour de Taiwan 2016 ,2.1,5
+100,National Championships Kuwait - ITT 2016 ,Nationals.C3.TT,1
+101,National Championships Kuwait - Road Race 2016 ,Nationals.C3,1
+102,National Championships United Arab Emirates - Road Race 2016 ,Nationals.C3,1
+103,The Princess Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2016 ,2.2/U23,6
+104,National Championships Iran - ITT 2016 ,Nationals.C3.TT,1
+105,National Championships Iran - Road Race 2016 ,Nationals.C3,1
+106,International Tour de Banyuwangi Ijen 2016 ,2.2/U23,4
+107,Tour of Iran (Azarbaijan) 2016 ,2.1,6
+108,Tour de Flores 2016 ,2.2/U23,5
+109,National Championships Singapore - ITT 2016 ,Nationals.C3.TT,1
+110,National Championships Singapore - Road Race 2016 ,Nationals.C3,1
+111,Tour of Japan 2016 ,2.1,8
+112,National Championships Malaysia - Road Race 2016 ,-,1
+113,National Championships Malaysia - ITT 2016 ,-,1
+114,Tour de Korea 2016 ,2.1,8
+115,Tour de Kumano 2016 ,2.2/U23,4
+116,National Championships Israel - ITT 2016 ,Nationals.C3.TT,1
+117,National Championships Libanon - ITT 2016 ,Nationals.C3.TT,1
+118,National Championships Kazakhstan - ITT 2016 ,Nationals.C3.TT,1
+119,National Championships South Korea - ITT 2016 ,Nationals.C3.TT,1
+120,National Championships Japan - ITT 2016 ,Nationals.C3.TT,1
+121,National Championships Mongolia - ITT 2016 ,Nationals.C3.TT,1
+122,National Championships South Korea - Road Race 2016 ,Nationals.C3,1
+123,National Championships Japan U23 - ITT 2016 ,-,1
+124,National Championships Hong Kong - ITT 2016 ,Nationals.C3.TT,1
+125,National Championships Israel - Road Race 2016 ,Nationals.C3,1
+126,National Championships Japan U23 - Road Race 2016 ,-,1
+127,National Championships Hong Kong - Road Race 2016 ,Nationals.C3,1
+128,National Championships Japan - Road Race 2016 ,Nationals.C3,1
+129,National Championships Kazakhstan - Road Race 2016 ,Nationals.C3,1
+130,National Championships Libanon - Road Race 2016 ,Nationals.C3,1
+131,National Championships Macau 2016 ,Nationals.C3,1
+132,National Championships Mongolia - Road Race 2016 ,Nationals.C3,1
+133,National Championships Mongolia WE - Road Race 2016 ,F-NC.2,1
+134,National Championships Uzbekistan - Road Race 2016 ,Nationals.C3,1
+135,National Championships Uzbekistan - ITT 2016 ,Nationals.C3.TT,1
+136,Tour of Qinghai Lake 2016 ,2.HC,13
+137,Tour de Jakarta 2016 ,1.2,1
+138,Tour de Singkarak 2016 ,2.2/U23,8
+139,Tour de Hokkaido 2016 ,2.2/U23,4
+140,Tour of China I 2016 ,2.1,6
+141,Tour of China II 2016 ,2.1,6
+142,Tour of Almaty 2016 ,1.1,1
+143,World Championships - ITT 2016 ,-,1
+144,World Championships - Road Race 2016 ,Worlds.RR,1
+145,Jelajah Malaysia 2016 ,2.2/U23,5
+146,Abu Dhabi Tour 2016 ,2.HC,4
+147,Tour of Hainan 2016 ,2.HC,9
+148,Japan Cup Cycle Road Race 2016 ,1.HC,1
+149,Sharjah International Cycling Tour 2016 ,2.1,4
+150,UAE Cup 2016 ,1.1,1
+151,Tour of Yancheng Costal Wetlands 2016 ,1.2,1
+152,Tour of Taihu Lake 2016 ,2.1,8
+153,National Championships India - ITT 2016 ,Nationals.C3.TT,1
+154,National Championships India - Road Race 2016 ,Nationals.C3,1
+155,Tour de Okinawa 2016 ,1.2,1
+156,Tour of Fuzhou 2016 ,2.1,5
+157,Trofeo Felanitx - Ses Salines - Campos - Porreres 2016 ,1.1,1
+158,Trofeo Pollenca - Port de Andratx 2016 ,1.1,1
+159,Trofeo Serra de Tramuntana 2016 ,1.1,1
+160,Grand Prix Cycliste la Marseillaise 2016 ,1.1,1
+161,Trofeo Playa de Palma - Palma 2016 ,1.1,1
+162,Etoile de Bessèges 2016 ,2.1,5
+163,Volta a la Comunitat Valenciana 2016 ,2.1,5
+164,G.P. Costa degli Etruschi 2016 ,1.1,1
+165,La Méditerranéenne 2016 ,2.1,4
+166,Vuelta Ciclista a la Region de Murcia 'Costa Calida' 2016 ,1.1,1
+167,Trofeo Laigueglia 2016 ,1.HC,1
+168,Clasica de Almeria 2016 ,1.1,1
+169,GP Laguna Porec 2016 ,1.2,1
+170,Volta ao Algarve em Bicicleta 2016 ,2.1,5
+171,Vuelta a Andalucia Ruta Ciclista Del Sol 2016 ,2.1,5
+172,Tour Cycliste International du Haut Var Matin 2016 ,2.1,2
+173, Tour Cycliste International La Provence 2016 ,2.1,3
+174,Omloop Het Nieuwsblad Elite 2016 ,1.HC,1
+175,Classic Sud Ardèche - Souvenir Francis Delpech 2016 ,1.1,1
+176,Gran Premio Città di Lugano 2016 ,1.HC,1
+177,Kuurne-Bruxelles-Kuurne 2016 ,1.HC,1
+178,Royal Bernard Drôme Classic 2016 ,1.1,1
+179,GP Izola 2016 ,1.2,1
+180,Le Samyn 2016 ,1.1,1
+181,Trofej Umag - Umag Trophy 2016 ,1.2,1
+182,Driedaagse van West-Vlaanderen 2016 ,2.1,3
+183,Strade Bianche 2016 ,1.HC,1
+184,Craft Ster van Zwolle 2016 ,1.2,1
+185,Porec Trophy - Trofej Porec 2016 ,1.2,1
+186,GP Industria & Artigianato 2016 ,1.1,1
+187,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2016 ,1.2,1
+188,Istarsko proljece - Istrian Spring Trophy 2016 ,2.2/U23,4
+189,Energiewacht Ronde van Drenthe 2016 ,1.1,1
+190,GP Liberty Seguros - Troféu Alpendre 2016 ,2.2/U23,2
+191,Paris-Troyes 2016 ,1.2,1
+192,Rabobank Dorpenomloop Rucphen 2016 ,1.2,1
+193,Nokere Koerse - Danilith Classic 2016 ,1.HC,1
+194,Volta ao Alentejo 2016 ,2.2/U23,5
+195,Handzame Classic 2016 ,1.1,1
+196,Classic Loire Atlantique 2016 ,1.1,1
+197,Cholet - Pays De Loire 2016 ,1.1,1
+198,Tour de Normandie 2016 ,2.2/U23,7
+199,Dwars door Vlaanderen / A travers la Flandre 2016 ,1.HC,1
+200,Settimana Internazionale Coppi e Bartali 2016 ,2.1,5
+201,Critérium International 2016 ,2.HC,3
+202,Giro del Belvedere 2016 ,1.2,1
+203,Driedaagse De Panne-Koksijde 2016 ,2.HC,4
+204,G.P. Palio del Recioto - 34th Memorial cav. Sante Carradori 2016 ,1.2,1
+205,Route Adélie de Vitré 2016 ,1.1,1
+206,Le Triptyque des Monts et Châteaux 2016 ,2.2/U23,4
+207,Gran Premio Miguel Indurain 2016 ,1.1,1
+208,Volta Limburg Classic 2016 ,1.1,1
+209,Paris-Camembert 2016 ,1.1,1
+210,Vuelta Ciclista a La Rioja 2016 ,1.1,1
+211,GP Adria Mobil 2016 ,1.2,1
+212,Trofeo Piva 2016 ,1.2,1
+213,Circuit Cycliste Sarthe - Pays de la Loire 2016 ,2.1,5
+214,Scheldeprijs 2016 ,1.HC,1
+215,Circuit des Ardennes International 2016 ,2.2/U23,4
+216,Ronde van Vlaanderen Beloften 2016 ,E-1.Ncup,1
+217,Klasika Primavera de Amorebieta 2016 ,1.1,1
+218,De Brabantse Pijl - La Flèche Brabançonne 2016 ,1.HC,1
+219,Tour du Loir et Cher E Provost 2016 ,2.2/U23,5
+220,GP de Denain - Porte du Hainaut / Valenciennes Métropole 2016 ,1.HC,1
+221,Tour of Mersin 2016 ,2.2/U23,4
+222,Vuelta a Castilla y Leon 2016 ,2.1,3
+223,ZLM-Roompot tour 2016 ,E-1.Ncup,3
+224,Tour du Finistère 2016 ,1.1,1
+225,Liège - Bastogne - Liège U23 2016 ,E-1.Ncup,1
+226,Trofeo Edil C 2016 ,1.2,1
+227,Giro dell'Appennino 2016 ,1.1,1
+228,Tro-Bro Léon 2016 ,1.1,1
+229,Profronde van Noord-Holland 2016 ,1.2,1
+230,Giro del Trentino 2016 ,2.HC,4
+231,Tour of Croatia 2016 ,2.1,6
+232,Arno Wallaard Memorial 2016 ,1.2,1
+233,Belgrade - Banjaluka I 2016 ,1.2,1
+234,Visegrad 4 Kerékpárverseny 2016 ,1.2,1
+235,Presidential Cycling Tour of Turkey 2016 ,2.HC,8
+236,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle 2016 ,1.1,1
+237,Belgrade Banjaluka II 2016 ,1.2,1
+238,Paris - Mantes-en-Yvelines 2016 ,1.2,1
+239,Rutland - Melton International Cicle Classic 2016 ,1.2,1
+240,Visegrad 4 Bicycle Race - GP Slovakia 2016 ,1.2,1
+241,Gran Premio della Liberazione 2016 ,1.2,1
+242,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2016 ,2.2/U23,7
+243,Tour de Yorkshire 2016 ,2.1,3
+244,Carpathian Couriers Race U-23 2016 ,2.2/U23,5
+245,Himmerland Rundt 2016 ,1.2,1
+246,Vuelta Asturias Julio Alvarez Mendo 2016 ,2.1,3
+247,GP Viborg 2016 ,1.2,1
+248,ZODC Zuidenveld Tour 2016 ,1.2,1
+249,Rund um den Finanzplatz Eschborn-Frankfurt 2016 ,1.HC,1
+250,Circuito del Porto - Trofeo Arvedi 2016 ,1.2,1
+251,Memorial Andrzeja Trochanowskiego 2016 ,1.2,1
+252,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2016 ,1.2,1
+253,Skive-Løbet  2016 ,1.2,1
+254,Memorial Romana Sieminskiego 2016 ,1.2,1
+255,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais 2016 ,2.HC,5
+256,Tour d'Azerbaïdjan 2016 ,2.1,5
+257,Flèche du Sud 2016 ,2.2/U23,5
+258,National Championships Cyprus - ITT 2016 ,Nationals.C3.TT,1
+259,Dwars door de Vlaamse Ardennen 2016 ,1.2,1
+260,CCC Tour - Grody Piastowskie 2016 ,2.2/U23,3
+261,National Championships Cyprus - Road Race 2016 ,Nationals.C3,1
+262,Vuelta Ciclista Comunidad de Madrid 2016 ,2.1,2
+263,Sundvolden GP 2016 ,1.2,1
+264,Flèche Ardennaise 2016 ,1.2,1
+265,Ringerike GP 2016 ,1.2,1
+266,Tr. Citta di San Vendemiano - 56th GP Industria & Commercio 2016 ,1.2,1
+267,Rhône-Alpes Isère Tour 2016 ,2.2/U23,4
+268,Grande Prémio Internacional Beiras e Serra da Estrela 2016 ,2.1,3
+269,Tour de Picardie 2016 ,2.1,3
+270,Tour de Berlin 2016 ,2.2/U23,5
+271,Ronde van Overijssel 2016 ,1.2,1
+272,Scandinavian Race in Uppsala 1909-2016 2016 ,1.2,1
+273,Visegrad V4 Race - GP Polski 2016 ,1.2,1
+274,Gran Premio Industrie del Marmo 2016 ,1.2,1
+275,Grand Prix Criquielion 2016 ,1.2,1
+276,Visegrad 4 Bicycle Race - GP Czech Republic 2016 ,1.2,1
+277,Tour of Norway 2016 ,2.HC,5
+278,Baltyk - Karkonosze Tour 2016 ,2.2/U23,6
+279,Ronde de l'Isard 2016 ,2.2/U23,4
+280,Tour of Bihor - Bellotto 2016 ,2.2/U23,4
+281,Paris-Arras Tour 2016 ,2.2/U23,3
+282,Berner Rundfahrt / Tour de Berne 2016 ,1.2,1
+283,Grand Prix de la Somme « Conseil Général 80» 2016 ,1.1,1
+284,Velothon Wales 2016 ,1.1,1
+285,An Post Ras 2016 ,2.2/U23,8
+286,SwissEver GP Cham - Hagendorn 2016 ,F-1.2,1
+287,Baloise Belgium Tour 2016 ,2.HC,5
+288,National Championships Denmark U23 - ITT 2016 ,-,1
+289,National Championships Kosovo - ITT 2016 ,Nationals.C3.TT,1
+290,Tour of Estonia 2016 ,2.1,2
+291,Horizon Park Race for Peace 2016 ,1.2,1
+292,Tour de Gironde 2016 ,2.2/U23,3
+293,Grand Prix de Plumelec-Morbihan 2016 ,1.1,1
+294,Horizon Park Race Maidan 2016 ,1.2,1
+295,National Championships Denmark U23 - Road Race 2016 ,-,1
+296,Boucles de l'Aulne - Chateaulin 2016 ,1.1,1
+297,National Championships Kosovo - Road Race 2016 ,Nationals.C3,1
+298,National Championships Macedonia - ITT 2016 ,Nationals.C3.TT,1
+299,Horizon Park Classic 2016 ,1.2,1
+300,Paris-Roubaix Espoirs 2016 ,1.2,1
+301,Tour of Ukraine 2016 ,2.2/U23,4
+302,Skoda-Tour de Luxembourg 2016 ,2.HC,5
+303,Boucles de la Mayenne 2016 ,2.1,4
+304,Course de la Paix U23 / Závod Míru U23 2016 ,E-2.Ncup,3
+305,Heistse Pijl - Heist op den Berg 2016 ,1.1,1
+306,Grand Prix of Vinnytsia 2016 ,1.2,1
+307,Hets Hatsafon / Northern Arrow 2016 ,1.2,1
+308,Coppa della Pace - Trofeo F.lli Anelli 2016 ,1.2,1
+309,Grand Prix of ISD 2016 ,1.2,1
+310,Memorial Philippe Van Coningsloo 2016 ,1.2,1
+311,Okolo Slovenska 2016 ,2.2/U23,6
+312,GP du canton d'Argovie 2016 ,1.HC,1
+313,Ronde de l'Oise 2016 ,2.2/U23,4
+314,National Championships Slovenia - ITT 2016 ,Nationals.C3.TT,1
+315,Tour of Malopolska 2016 ,2.2/U23,3
+316,Fyen Rundt - Tour of Fyen 2016 ,1.2,1
+317,Ronde van Limburg 2016 ,1.1,1
+318,Rund um Köln 2016 ,1.1,1
+319,GP Horsens Posten 2016 ,1.2,1
+320,Tour de Serbia 2016 ,2.2/U23,6
+321,Ster ZLM Toer GP Jan van Heeswijk 2016 ,2.1,5
+322,Route du Sud - la Depeche du Midi 2016 ,2.1,5
+323,Tour de Slovénie 2016 ,2.1,4
+324,Oberösterreichrundfahrt 2016 ,2.2/U23,4
+325,Tour de Savoie Mont Blanc 2016 ,2.2/U23,5
+326,Memorial Grundmanna I Wizowskiego	 2016 ,1.2,1
+327,Beaumont Trophy 2016 ,1.2,1
+328,Circuit de Wallonie 2016 ,1.2,1
+329,Korona Kocich Gór I Dolina Baryczy Zmigrod-Milic 2016 ,1.2,1
+330,National Championships Germany U23 - Road Race 2016 ,-,1
+331,National Championships Norway U23 - Road Race 2016 ,-,1
+332,National Championships Estonia - ITT 2016 ,Nationals.C3.TT,1
+333,Halle Ingooigem 2016 ,1.1,1
+334,National Championships Azerbaijan - ITT 2016 ,Nationals.C3.TT,1
+335,National Championships Finland - ITT 2016 ,Nationals.C3.TT,1
+336,National Championships Italy - ITT 2016 ,Nationals.C3.TT,1
+337,National Championships Latvia - ITT 2016 ,Nationals.C3.TT,1
+338,National Championships Netherlands - ITT 2016 ,Nationals.C3.TT,1
+339,National Championships Poland - ITT 2016 ,Nationals.C3.TT,1
+340,National Championships Switzerland - ITT 2016 ,Nationals.C3.TT,1
+341,National Championships Finland U23 - ITT 2016 ,-,1
+342,National Championships Italy U23 - ITT 2016 ,-,1
+343,National Championships Latvia U23 - ITT 2016 ,-,1
+344,National Championships Netherlands U23- ITT 2016 ,-,1
+345,National Championships Poland U23 - ITT 2016 ,-,1
+346,National Championships Switzerland U23 - ITT 2016 ,-,1
+347,National Championships Ukraine U23 - ITT 2016 ,-,1
+348,National Championships France - ITT 2016 ,Nationals.C3.TT,1
+349,National Championships Belarus - ITT 2016 ,Nationals.C3.TT,1
+350,National Championships Belgium - ITT 2016 ,Nationals.C3.TT,1
+351,National Championships Czech Republic - ITT 2016 ,Nationals.C3.TT,1
+352,National Championships Czech Republic U23 - ITT 2016 ,-,1
+353,National Championships Denmark - ITT 2016 ,Nationals.C3.TT,1
+354,National Championships Great Britain - ITT 2016 ,Nationals.C3.TT,1
+355,National Championships Hungary - ITT 2016 ,Nationals.C3.TT,1
+356,National Championships Ireland - ITT 2016 ,Nationals.C3.TT,1
+357,National Championships Norway - ITT 2016 ,Nationals.C3.TT,1
+358,National Championships Slovakia - ITT 2016 ,Nationals.C3.TT,1
+359,National Championships Spain - ITT 2016 ,Nationals.C3.TT,1
+360,National Championships Sweden - ITT 2016 ,Nationals.C3.TT,1
+361,National Championships Ukraine - ITT 2016 ,Nationals.C3.TT,1
+362,National Championships Great Britain U23 - ITT 2016 ,-,1
+363,National Championships Hungary U23 - ITT 2016 ,-,1
+364,National Championships Spain U23 - ITT 2016 ,-,1
+365,National Championships Albania - ITT 2016 ,Nationals.C3.TT,1
+366,National Championships Azerbaijan - Road Race 2016 ,Nationals.C3,1
+367,National Championships Croatia - ITT 2016 ,Nationals.C3.TT,1
+368,National Championships Germany - ITT 2016 ,Nationals.C3.TT,1
+369,National Championships Greece - ITT 2016 ,Nationals.C3.TT,1
+370,National Championships Lithuania - ITT 2016 ,Nationals.C3.TT,1
+371,National Championships Luxembourg - ITT 2016 ,Nationals.C3.TT,1
+372,National Championships Portugal - ITT 2016 ,Nationals.C3.TT,1
+373,National Championships Romania - ITT 2016 ,Nationals.C3.TT,1
+374,National Championships Romania U23 - ITT 2016 ,-,1
+375,National Championships Russia - ITT 2016 ,Nationals.C3.TT,1
+376,National Championships Bosnia and Herzegovina - ITT 2016 ,Nationals.C3.TT,1
+377,National Championships Croatia U23 - ITT 2016 ,-,1
+378,National Championships Germany U23 - ITT 2016 ,-,1
+379,National Championships Netherlands U23 - Road Race 2016 ,-,1
+380,National Championships Portugal U23 - ITT 2016 ,-,1
+381,National Championships Spain U23 - Road Race 2016 ,-,1
+382,National Championships Austria - ITT 2016 ,Nationals.C3.TT,1
+383,National Championships Bulgaria - ITT 2016 ,Nationals.C3.TT,1
+384,National Championships Georgia - ITT 2016 ,Nationals.C3.TT,1
+385,National Championships Iceland - Road Race 2016 ,Nationals.C3,1
+386,National Championships Moldova - ITT 2016 ,Nationals.C3.TT,1
+387,National Championships Netherlands - Road Race 2016 ,Nationals.C3,1
+388,National Championships Serbia - ITT 2016 ,Nationals.C3.TT,1
+389,National Championships Spain - Road Race 2016 ,Nationals.C3,1
+390,National Championships Turkey - ITT 2016 ,Nationals.C3.TT,1
+391,National Championships Italy U23 - Road Race 2016 ,-,1
+392,National Championships Poland U23 - Road Race 2016 ,-,1
+393,National Championships Portugal U23 - Road Race 2016 ,-,1
+394,National Championships Ukraine U23 - Road Race 2016 ,-,1
+395,National Championships Albania - Road Race 2016 ,Nationals.C3,1
+396,National Championships Austria - Road Race 2016 ,Nationals.C3,1
+397,National Championships Belarus - Road Race 2016 ,Nationals.C3,1
+398,National Championships Belgium - Road Race 2016 ,Nationals.C3,1
+399,National Championships Bosnia and Herzegovina - Road Race 2016 ,Nationals.C3,1
+400,National Championships Bulgaria - Road Race 2016 ,Nationals.C3,1
+401,National Championships Croatia - Road Race 2016 ,Nationals.C3,1
+402,National Championships Czech Republic - Road Race 2016 ,Nationals.C3,1
+403,National Championships Denmark - Road Race 2016 ,Nationals.C3,1
+404,National Championships Estonia - Road Race 2016 ,Nationals.C3,1
+405,National Championships France - Road Race 2016 ,Nationals.C3,1
+406,National Championships Georgia - Road Race 2016 ,Nationals.C3,1
+407,National Championships Germany - Road Race 2016 ,Nationals.C3,1
+408,National Championships Great Britain - Road Race 2016 ,Nationals.C3,1
+409,National Championships Greece - Road Race 2016 ,Nationals.C3,1
+410,National Championships Hungary - Road Race 2016 ,Nationals.C3,1
+411,National Championships Ireland - Road Race 2016 ,Nationals.C3,1
+412,National Championships Italy - Road Race 2016 ,Nationals.C3,1
+413,National Championships Latvia - Road Race 2016 ,Nationals.C3,1
+414,National Championships Lithuania - Road Race 2016 ,Nationals.C3,1
+415,National Championships Luxembourg - Road Race 2016 ,Nationals.C3,1
+416,National Championships Macedonia - Road Race 2016 ,Nationals.C3,1
+417,National Championships Moldova - Road Race 2016 ,Nationals.C3,1
+418,National Championships Montenegro - Road Race 2016 ,Nationals.C3,1
+419,National Championships Norway - Road Race 2016 ,Nationals.C3,1
+420,National Championships Poland - Road Race 2016 ,Nationals.C3,1
+421,National Championships Portugal - Road Race 2016 ,Nationals.C3,1
+422,National Championships Romania - Road Race 2016 ,Nationals.C3,1
+423,National Championships Russia - Road Race 2016 ,Nationals.C3,1
+424,National Championships Serbia - Road Race 2016 ,Nationals.C3,1
+425,National Championships Slovakia - Road Race 2016 ,Nationals.C3,1
+426,National Championships Slovenia - Road Race 2016 ,Nationals.C3,1
+427,National Championships Sweden - Road Race 2016 ,Nationals.C3,1
+428,National Championships Switzerland - Road Race 2016 ,Nationals.C3,1
+429,National Championships Turkey - Road Race 2016 ,Nationals.C3,1
+430,National Championships Ukraine - Road Race 2016 ,Nationals.C3,1
+431,National Championships Bulgaria U23 - ITT 2016 ,-,1
+432,National Championships Bulgaria U23 - Road Race 2016 ,-,1
+433,National Championships Czech Republic U23 - Road Race 2016 ,-,1
+434,National Championships Hungary U23 - Road Race 2016 ,-,1
+435,National Championships Lithuania U23 - Road Race 2016 ,-,1
+436,National Championships Romania U23 - Road Race 2016 ,-,1
+437,Tour de Hongrie 2016 ,2.2/U23,6
+438,Course Cycliste de Solidarnosc et des Champions Olympiques 2016 ,2.2/U23,5
+439,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2016 ,1.2,1
+440,Int. Österreich-Rundfahrt-Tour of Austria 2016 ,2.1,8
+441,National Championships Finland - Road Race 2016 ,Nationals.C3,1
+442,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2016 ,1.2,1
+443,Balkan Elite Road Classics 2016 ,1.2,1
+444,Paris-Chauny (classique) 2016 ,1.2,1
+445,Sibiu Cycling Tour 2016 ,2.1,5
+446,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2016 ,2.2/U23,4
+447,Minsk Cup 2016 ,1.2,1
+448,Grand Prix Minsk 2016 ,1.2,1
+449,Grote Prijs Stad Sint-Niklaas 2016 ,1.2,1
+450,Giro del Medio Brenta 2016 ,1.2,1
+451,Giro Ciclistico della Valle d'Aosta Mont Blanc 2016 ,2.2/U23,5
+452,Volta a Portugal do Futuro / Liberty Seguros 2016 ,2.2/U23,5
+453,Trofeo Matteotti 2016 ,1.1,1
+454,Grand Prix Cerami 2016 ,1.1,1
+455,Tour de Wallonie 2016 ,2.HC,5
+456,Grand Prix de la ville de Pérenchies 2016 ,1.2,1
+457,Prueba Villafranca-Ordiziako Klasika 2016 ,1.1,1
+458,PostNord Danmark Rundt - Tour of Denmark 2016 ,2.HC,5
+459,Volta a Portugal em Bicicleta / Liberty Seguros 2016 ,2.1,11
+460,Dookola Mazowsza 2016 ,2.2/U23,4
+461,Tour Alsace 2016 ,2.2/U23,5
+462,Kreiz Breizh Elites 2016 ,2.2/U23,4
+463,RideLondon Classic 2016 ,1.HC,1
+464,Circuito de Getxo 'Memorial Ricardo Otxoa' 2016 ,1.1,1
+465,Circuito de Getxo 'Memorial Ricardo Otxoa' 2016 ,1.1,1
+466,La Poly Normande 2016 ,1.1,1
+467,Rad am Ring 2016 ,1.1,1
+468,Coppa dei Laghi - Trofeo Almar 2016 ,E-1.Ncup,1
+469,GP Kranj 2016 ,1.2,1
+470,Vuelta a Burgos 2016 ,2.HC,5
+471,Dwars door het Hageland - Aarschot 2016 ,1.1,1
+472,Tour de Ribas 2016 ,1.2,1
+473,Antwerpse Havenpijl 2016 ,1.2,1
+474,Odessa Grand Prix 2016 ,1.2,1
+475,Tour de l'Ain 2016 ,2.1,4
+476,Arctic Race of Norway 2016 ,2.HC,4
+477,Czech Cycling Tour 2016 ,2.1,4
+478,Tour of Szeklerland 2016 ,2.2/U23,4
+479,Memorial Henryka Lasaka 2016 ,1.2,1
+480,Gran Premio Sportivi di Poggiana- Trofeo Bonin Costruzioni- Gran Premio Pasta Zara 2016 ,1.2,1
+481,KOGA Slag om Norg 2016 ,1.2,1
+482,National Championships Belgium U23 - Road Race 2016 ,-,1
+483,Puchar Uzdrowisk Karpackich 2016 ,1.2,1
+484,Tour of Ankara 2016 ,2.2/U23,4
+485,Tour du Limousin 2016 ,2.1,4
+486,GP Capodarco - Comunità di Capodarco 2016 ,1.2,1
+487,Trofeo Beato Bernardo - Coppa Citta' di Offida 2016 ,1.2,1
+488,National Championships France U23 - ITT 2016 ,-,1
+489,Arnhem-Veenendaal Classic 2016 ,1.1,1
+490,Puchar Ministra Obrony Narodowej 2016 ,1.2,1
+491,Tour de l'Avenir 2016 ,E-2.Ncup,8
+492,Grote Prijs Jef Scherens - Rondom Leuven 2016 ,1.1,1
+493,National Championships France U23 - Road Race 2016 ,-,1
+494,GP Stad Zottegem 2016 ,1.1,1
+495,Tour du Poitou Charentes 2016 ,2.1,5
+496,Grand Prix des Marbriers 2016 ,1.2,1
+497,Druivenkoers - Overijse 2016 ,1.1,1
+498,Baltic Chain Tour 2016 ,2.2/U23,3
+499,Omloop Mandel-Leie-Schelde Meulebeke 2016 ,1.2,1
+500,Ronde van Midden Nederland 2016 ,2.2/U23,2
+501,Schaal Sels 2016 ,1.1,1
+502,Croatia-Slovenia 2016 ,1.2,1
+503,Tour of Bulgaria 2016 ,2.2/U23,6
+504,Tour des Fjords 2016 ,2.1,5
+505,Brussels Cycling Classic 2016 ,1.HC,1
+506,GP de Fourmies / La Voix du Nord 2016 ,1.HC,1
+507,Tour of Britain 2016 ,2.HC,9
+508,Kernen Omloop Echt-Susteren 2016 ,1.2,1
+509,East Bohemia Tour 2016 ,2.2/U23,2
+510,De Kustpijl 2016 ,1.2,1
+511,Tour du Doubs - Conseil Général 2016 ,1.1,1
+512,Chrono Champenois Masculin International 2016 ,1.2,1
+513,Grote Prijs Marcel Kint 2016 ,1.2,1
+514,Coppa Bernocchi - G.P. BPM 2016 ,1.1,1
+515,Grand Prix de Wallonie 2016 ,1.1,1
+516,UEC Road European Championships U23 - ITT 2016 ,E-CC.TT,1
+517,Coppa Agostoni - Giro delle Brianze 2016 ,1.1,1
+518,UEC Road European Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
+519,Kampioenschap van Vlaanderen 2016 ,1.1,1
+520,Primus Classic Impanis - Van Petegem 2016 ,1.HC,1
+521,Memorial Marco Pantani 2016 ,1.1,1
+522,UEC Road European Championships U23 - Road Race 2016 ,E-CC,1
+523,Grand Prix d'Isbergues - Pas de Calais 2016 ,1.1,1
+524,UEC Road European Championships - Road Race 2016 ,E-CC,1
+525,Giro della Toscana - Memorial Alfredo Martini 2016 ,2.1,2
+526,Coppa Sabatini - Gran Premio citta di Peccioli 2016 ,1.1,1
+527,Giro dell'Emilia 2016 ,1.HC,1
+528,Gran Premio Bruno Beghelli 2016 ,1.HC,1
+529,Duo Normand 2016 ,1.1,1
+530,Gooikse Pijl 2016 ,1.2,1
+531,Tre Valli Varesine 2016 ,1.HC,1
+532,Olympia's Tour 2016 ,2.2/U23,7
+533,Ruota d'Oro - GP Festa del Perdono 2016 ,1.2,1
+534,Milano-Torino 2016 ,1.HC,1
+535,Giro del Piemonte 2016 ,1.HC,1
+536,Tour de l'Eurométropole 2016 ,1.1,1
+537,Tour de Vendée 2016 ,1.1,1
+538,Piccolo Giro di Lombardia 2016 ,1.2,1
+539,Sparkassen Münsterland Giro 2016 ,1.HC,1
+540,Binche - Chimay - Binche / Memorial Frank Vandenbroucke 2016 ,1.1,1
+541,Paris-Bourges 2016 ,1.1,1
+542,Paris - Tours Elite 2016 ,1.HC,1
+543,Paris-Tours Espoirs 2016 ,1.2,1
+544,Nationale Sluitingprijs - Putte - Kapellen 2016 ,1.1,1
+545,Chrono des Nations 2016 ,1.1,1
+546,National Championships Australia - ITT 2016 ,Nationals.C3.TT,1
+547,National Championships Australia U23 - ITT 2016 ,-,1
+548,National Championships New Zealand - ITT 2016 ,Nationals.C3.TT,1
+549,National Championships New Zealand U23 - ITT 2016 ,-,1
+550,National Championships Australia U23 - Road Race 2016 ,-,1
+551,National Championships Australia - Road Race 2016 ,Nationals.C3,1
+552,National Championships New Zealand - Road Race 2016 ,Nationals.C3,1
+553,New Zealand Cycle Classic 2016 ,2.2/U23,5
+554,Cadel Evans Great Ocean Road Race 2016 ,1.HC,1
+555,Herald Sun Tour 2016 ,2.1,5
+556,REV Classic 2016 ,1.2,1
+557, Oceania Continental Championships U23 - ITT 2016 ,E-CC.TT,1
+558,Oceania Continental Championships - ITT 2016 ,UCI.Cont.Ch.TT,1
+559,Oceania Continental Championships - Road Race 2016 ,E-CC,1
+560,Vuelta al Táchira en Bicicleta 2016 ,2.2/U23,10
+561,Tour de San Luis 2016 ,2.1,7
+562,National Championships Colombia - TTT 2016 ,-,1
+563,National Championships Colombia - ITT 2016 ,Nationals.C3.TT,1
+564,National Championships Colombia U23 - ITT 2016 ,-,1
+565,National Championships Colombia U23 - Road Race 2016 ,-,1
+566,National Championships Colombia - Road Race 2016 ,Nationals.C3,1
+567,National Championships Uruguay - ITT 2016 ,Nationals.C3.TT,1
+568,Vuelta Independencia Nacional Republica Dominicana 2016 ,2.2/U23,8
+569,National Championships Uruguay - Road Race 2016 ,Nationals.C3,1
+570,Vuelta Ciclista del Uruguay 2016 ,2.2/U23,11
+571,National Championships Chile - ITT 2016 ,Nationals.C3.TT,1
+572,National Championships Chile - Road Race 2016 ,Nationals.C3,1
+573,Volta Ciclistica Internacional do Rio Grande do Sul 2016 ,2.2/U23,5
+574,National Championships Argentina - ITT 2016 ,Nationals.C3.TT,1
+575,National Championships Ecuador - ITT 2016 ,Nationals.C3.TT,1
+576,National Championships Argentina U23 - ITT 2016 ,-,1
+577,National Championships Argentina U23 - Road Race 2016 ,-,1
+578,National Championships Argentina - Road Race 2016 ,Nationals.C3,1
+579,Joe Martin Stage Race p/b Nature Valley 2016 ,2.2/U23,8
+580,Silver City's Tour of the Gila 2016 ,2.2/U23,5
+581,National Championships Cuba U23 - ITT 2016 ,-,1
+582,National Championships Bolivia U23 - ITT 2016 ,-,1
+583,National Championships Bolivia - Road Race 2016 ,Nationals.C3,1
+584,National Championships Cuba - Road Race 2016 ,-,1
+585,National Championships Cuba U23 - Road Race 2016 ,-,1
+586,National Championships Bolivia U23 - Road Race 2016 ,-,1
+587,National Championships Bolivia - ITT 2016 ,Nationals.C3.TT,1
+588,Amgen Tour of California 2016 ,2.HC,8
+589,Campeonato Panamericano de Ruta - ME - TT 2016 ,UCI.Cont.Ch.TT,1
+590,Campeonato Panamericano de Ruta ITT - U23 2016 ,E-CC.TT,1
+591,Campeonato Panamericano de Ruta - MU - RR 2016 ,E-CC,1
+592,Campeonato Panamericano de Ruta - ME - RR 2016 ,E-CC,1
+593,National Championships United States - ITT 2016 ,Nationals.C3.TT,1
+594,National Championships United States - Road Race 2016 ,Nationals.C3,1
+595,Winston Salem Cycling Classic 2016 ,1.1,1
+596,National Championships Antigua and Barbuda - ITT 2016 ,Nationals.C3.TT,1
+597,Philadelphia International Cycling Classic 2016 ,1.1,1
+598,Grand Prix Cycliste de Saguenay 2016 ,2.2/U23,4
+599,Vuelta a Colombia 2016 ,2.2/U23,13
+600,Tour de Beauce 2016 ,2.2/U23,6
+601,National Championships Guatemala - ITT 2016 ,Nationals.C3.TT,1
+602,National Championship Dominican Republic - ITT 2016 ,Nationals.C3.TT,1
+603,National Championships Costa Rica - ITT 2016 ,Nationals.C3.TT,1
+604,National Championships Brazil - ITT 2016 ,Nationals.C3.TT,1
+605,National Championships Panama - ITT 2016 ,Nationals.C3.TT,1
+606,National Championships Venezuela - ITT 2016 ,Nationals.C3.TT,1
+607,National Championships Dominican Republic U23 - ITT 2016 ,-,1
+608,National Championships Mexico U23 - ITT 2016 ,-,1
+609,National Championships Brazil WE - Road Race 2016 ,F-NC.2,1
+610,National Championships El Salvador - ITT 2016 ,Nationals.C3.TT,1
+611,National Championships Guyana - ITT 2016 ,Nationals.C3.TT,1
+612,National Championships Mexico - ITT 2016 ,Nationals.C3.TT,1
+613,National Championships Puerto Rico - ITT 2016 ,Nationals.C3.TT,1
+614,National Championships El Salvador U23 - ITT 2016 ,-,1
+615,National Championships Antigua and Barbuda MJ - Road Race 2016 ,J-NC2,1
+616,National Championships Antigua and Barbuda - Road Race 2016 ,Nationals.C3,1
+617,National Championships Brazil - Road Race 2016 ,Nationals.C3,1
+618,National Championships Canada - Road Race 2016 ,Nationals.C3,1
+619,National Championships Costa Rica - Road Race 2016 ,Nationals.C3,1
+620,National Championships Dominican Republic - Road Race 2016 ,Nationals.C3,1
+621,National Championships El Salvador - Road Race 2016 ,Nationals.C3,1
+622,National Championships Guatemala - Road Race 2016 ,Nationals.C3,1
+623,National Championships Guyana - Road Race 2016 ,Nationals.C3,1
+624,National Championships Mexico - Road Race 2016 ,Nationals.C3,1
+625,National Championships Venezuela - Road Race 2016 ,Nationals.C3,1
+626,National Championships Canada - ITT 2016 ,Nationals.C3.TT,1
+627,Vuelta Ciclista a Venezuela 2016 ,2.2/U23,10
+628,White Spot / Delta Road Race 2016 ,1.2,1
+629,Tour Cycliste International de la Guadeloupe 2016 ,2.2/U23,12
+630,The Larry H.Miller Tour of Utah 2016 ,2.HC,7
+631,Olympic Games Road Race 2016 ,Olympics.RR,1
+632,National Championships Puerto Rico - Road Race 2016 ,Nationals.C3,1
+633,Tour of Alberta 2016 ,2.1,5
+634,The Reading 120 2016 ,1.2,1
+635,Tobago Cycling Classic 2016 ,1.2,1
+636,Vuelta a Guatemala 2016 ,2.2/U23,9
+637,Gran Premio de San José 2016 ,1.2,1
+638,Vuelta Popular a Costa Rica 2016 ,2.2/U23,12

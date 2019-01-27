@@ -1,193 +1,465 @@
-,Category,Date,Finish,Length,Number_stages,Race_ID,Race_Name,Stage#,Stage_Name,Stage_Type,Start,url
-0,2.WT,,,,6.0,,Tour Down Under 2011 ,,,,,
-1,2.WT,,,,8.0,,Paris - Nice 2011 ,,,,,
-2,2.WT,,,,7.0,,Tirreno-Adriatico 2011 ,,,,,
-3,1.WT.A,,,,1.0,,Milano-Sanremo 2011 ,,,,,
-4,2.WT,,,,7.0,,Volta Ciclista a Catalunya 2011 ,,,,,
-5,1.WT.B,,,,1.0,,Gent - Wevelgem 2011 ,,,,,
-6,1.WT.A,,,,1.0,,Ronde van Vlaanderen / Tour des Flandres 2011 ,,,,,
-7,2.WT,,,,6.0,,Vuelta Ciclista al Pais Vasco 2011 ,,,,,
-8,1.WT.A,,,,1.0,,Paris - Roubaix 2011 ,,,,,
-9,1.WT.B,,,,1.0,,Amstel Gold Race 2011 ,,,,,
-10,1.WT.B,,,,1.0,,La Flèche Wallonne 2011 ,,,,,
-11,1.WT.A,,,,1.0,,Liège - Bastogne - Liège 2011 ,,,,,
-12,2.WT,,,,6.0,,Tour de Romandie 2011 ,,,,,
-13,GT.B,,,,21.0,,Giro d'Italia 2011 ,,,,,
-14,2.WT,,,,8.0,,Critérium du Dauphiné 2011 ,,,,,
-15,2.WT,,,,9.0,,Tour de Suisse 2011 ,,,,,
-16,GT.A,,,,21.0,,Tour de France 2011 ,,,,,
-17,1.WT.B,,,,1.0,,Clasica Ciclista San Sebastian 2011 ,,,,,
-18,1.WT.B,,,,7.0,,Tour de Pologne 2011 ,,,,,
-19,2.WT,,,,7.0,,Eneco Tour 2011 ,,,,,
-20,GT.B,,,,21.0,,Vuelta a España 2011 ,,,,,
-21,1.WT.B,,,,1.0,,GP Ouest France - Plouay 2011 ,,,,,
-22,1.WT.B,,,,1.0,,Grand Prix Cycliste de Quebec 2011 ,,,,,
-23,1.WT.B,,,,1.0,,Grand Prix Cycliste de Montréal 2011 ,,,,,
-24,2.WT,,,,5.0,,Tour of Beijing 2011 ,,,,,
-25,1.WT.A,,,,1.0,,Il Lombardia 2011 ,,,,,
-26,J-WC.TT,,,,1.0,,World Championships MJ - ITT 2011 ,,,,,
-27,F-WC.TT,,,,1.0,,World Championships WE - ITT 2011 ,,,,,
-28,-,,,,1.0,,World Championships - ITT 2011 ,,,,,
-29,Nationals.C1,,,,1.0,,World Championships U23 - Road Race 2011 ,,,,,
-30,Worlds.RR,,,,1.0,,World Championships - Road Race 2011 ,,,,,
-31,Nationals.C3.TT,,,,1.0,,National Championships South-africa Itt 2011 ,,,,,
-32,Nationals.C3,,,,1.0,,National Championships South Africa - Road Race 2011 ,,,,,
-33,1.2,,,,1.0,,Les Challenges Phosphatiers-Challenge Ben Guerir 2011 ,,,,,
-34,Nationals.C3.TT,,,,1.0,,National Championships Eritrea - Road Race 2011 ,,,,,
-35,Nationals.C3.TT,,,,1.0,,National Championships Algeria - ITT 2011 ,,,,,
-36,-,,,,1.0,,National TT Championships Morocco 2011 ,,,,,
-37,Nationals.C3,,,,1.0,,National Championships Algeria - Road Race 2011 ,,,,,
-38,Nationals.C3,,,,1.0,,National Championships Tunisia - Road Race 2011 ,,,,,
-39,Nationals.C3,,,,1.0,,National Championships Morocco - Road Race 2011 ,,,,,
-40,Nationals.C3,,,,1.0,,National Championships Zimbabwe - Road Race 2011 ,,,,,
-41,Nationals.C3.TT,,,,1.0,,National Championships Namibia - ITT 2011 ,,,,,
-42,Nationals.C3,,,,1.0,,National Championships Namibia - Road Race 2011 ,,,,,
-43,Nationals.C3.TT,,,,1.0,,National Championships Tunisia - ITT 2011 ,,,,,
-44,-,,,,1.0,,All Africa Games - ITT 2011 ,,,,,
-45,-,,,,1.0,,All Africa Games - Road Race 2011 ,,,,,
-46,2.2/U23,,,,3.0,,Grand Prix Chantal Biya 2011 ,,,,,
-47,2.2/U23,,,,10.0,,Tour du Faso 2011 ,,,,,
-48,UCI.Cont.Ch.TT,,,,1.0,,African Continental Championships - ITT 2011 ,,,,,
-49,UCI.Cont.Ch,,,,1.0,,African Continental Championships - Road Race 2011 ,,,,,
-50,2.2/U23,,,,8.0,,Tour of Rwanda 2011 ,,,,,
-51,2.1,,,,6.0,,Tour Of Oman 2011 ,,,,,
-52,2.2/U23,,,,4.0,,Tour De Kumano 2011 ,,,,,
-53,Nationals.C3.TT,,,,1.0,,National Championships Japan - ITT 2011 ,,,,,
-54,Nationals.C3.TT,,,,1.0,,National Championships Kazakhstan - ITT 2011 ,,,,,
-55,Nationals.C3.TT,,,,1.0,,National Championships Iran - ITT 2011 ,,,,,
-56,Nationals.C3.TT,,,,1.0,,National Championships Israel - ITT 2011 ,,,,,
-57,-,,,,1.0,,National Championships Iran - Road Race 2011 ,,,,,
-58,Nationals.C3,,,,1.0,,National Championships Israel - Road Race 2011 ,,,,,
-59,Nationals.C3.TT,,,,1.0,,National Championships Mongolia - ITT 2011 ,,,,,
-60,Nationals.C3,,,,1.0,,National Championships Japan - Road Race 2011 ,,,,,
-61,Nationals.C3,,,,1.0,,National Championships Mongolia - Road Race 2011 ,,,,,
-62,2.2/U23,,,,5.0,,Tour of Taihu 2011 ,,,,,
-63,1.HC,,,,1.0,,Omloop Het Nieuwsblad 2011 ,,,,,
-64,1.1,,,,1.0,,Gp Di Lugano 2011 ,,,,,
-65,2.1,,,,3.0,,Driedaagse van West-Vlaanderen 2011 ,,,,,
-66,2.1,,,,3.0,,Vuelta ciclista a la region de Murcia 2011 ,,,,,
-67,1.2,,,,1.0,,Paris-Troyes 2011 ,,,,,
-68,2.HC,,,,3.0,,Critérium International 2011 ,,,,,
-69,2.HC,,,,4.0,,Driedaagse De Panne-Koksijde 2011 ,,,,,
-70,1.1,,,,1.0,,Flèche d\'Emeraude - Saint Malo 2011 ,,,,,
-71,1.HC,,,,1.0,,Scheldeprijs 2011 ,,,,,
-72,1.1,,,,1.0,,Grand Prix Pino Cerami 2011 ,,,,,
-73,2.2/U23,,,,5.0,,Tour du Loir-et-Cher 'E. Provost' 2011 ,,,,,
-74,1.2,,,,1.0,,Tesco Rutland - Melton International Cicle Classic 2011 ,,,,,
-75,2.HC,,,,4.0,,Giro del Trentino 2011 ,,,,,
-76,1.2,,,,1.0,,Banja Luka - Belgrade I 2011 ,,,,,
-77,2.HC,,,,8.0,,Presidential Cycling Tour of Turkey 2011 ,,,,,
-78,1.2,,,,1.0,,Banja Luka-Belgrade II 2011 ,,,,,
-79,1.2,,,,1.0,,Himmerland Rundt 2011 ,,,,,
-80,1.2,,,,1.0,,Ronde van Noord-Holland 2011 ,,,,,
-81,1.2,,,,1.0,,GP Palio del Recioto 2011 ,,,,,
-82,1.HC,,,,1.0,,Rund um den Finanzplatz Eschborn-Frankfurt 2011 ,,,,,
-83,2.HC,,,,5.0,,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2011 ,,,,,
-84,1.2,,,,1.0,,Circuit De Wallonie 2011 ,,,,,
-85,1.2,,,,1.0,,Grand Prix Criquielion 2011 ,,,,,
-86,2.HC,,,,5.0,,Bayern-Rundfahrt 2011 ,,,,,
-87,1.1,,,,1.0,,Boucles de l'Aulne - Châteaulin 2011 ,,,,,
-88,1.2,,,,1.0,,GP Industria e Commercio - Tr. Città di San Vendemiano 2011 ,,,,,
-89,1.2,,,,1.0,,Paris-Roubaix Espoirs 2011 ,,,,,
-90,1.2,,,,1.0,,Rogaland Gp 2011 ,,,,,
-91,2.1,,,,5.0,,Ster Zlm Toer - Gp Jan Van Heeswijk 2011 ,,,,,
-92,2.1,,,,4.0,,Route du Sud - la Depêche du Midi 2011 ,,,,,
-93,-,,,,1.0,,National TT Championships Estonia 2011 ,,,,,
-94,Nationals.C3,,,,1.0,,National Championships Estonia - Road Race 2011 ,,,,,
-95,Nationals.C3.TT,,,,1.0,,National Championships Czech Republic - ITT 2011 ,,,,,
-96,Nationals.C3.TT,,,,1.0,,National Championships Denmark - ITT 2011 ,,,,,
-97,Nationals.C1.TT,,,,1.0,,National Championships France - ITT 2011 ,,,,,
-98,Nationals.C3.TT,,,,1.0,,National Championships Latvia - ITT 2011 ,,,,,
-99,Nationals.C3.TT,,,,1.0,,National Championships Luxembourg - ITT 2011 ,,,,,
-100,Nationals.C3.TT,,,,1.0,,National Championships Moldova - ITT 2011 ,,,,,
-101,Nationals.C3.TT,,,,1.0,,National Championships Russia - ITT 2011 ,,,,,
-102,Nationals.C3.TT,,,,1.0,,National Championships Slovakia - ITT 2011 ,,,,,
-103,Nationals.C3.TT,,,,1.0,,National Championships Switserland - ITT 2011 ,,,,,
-104,Nationals.C2.TT,,,,1.0,,National TT Championships Poland 2011 ,,,,,
-105,Nationals.C3.TT,,,,1.0,,National TT Championships Romania 2011 ,,,,,
-106,Nationals.C3,,,,1.0,,National Championships Albania - Road Race 2011 ,,,,,
-107,Nationals.C3.TT,,,,1.0,,National Championships Belarus - ITT 2011 ,,,,,
-108,Nationals.C3.TT,,,,1.0,,National Championships Hungary - ITT 2011 ,,,,,
-109,Nationals.C3.TT,,,,1.0,,National Championships Ireland - ITT 2011 ,,,,,
-110,Nationals.C3.TT,,,,1.0,,National Championships Lithuania - ITT 2011 ,,,,,
-111,Nationals.C3,,,,1.0,,National Championships Moldavie - Road Race 2011 ,,,,,
-112,Nationals.C3.TT,,,,1.0,,National Championships Serbia - ITT 2011 ,,,,,
-113,Nationals.C3,,,,1.0,,National Championships Sweden - Road Race 2011 ,,,,,
-114,Nationals.C3.TT,,,,1.0,,National Championships Ukraine - ITT 2011 ,,,,,
-115,Nationals.C3.TT,,,,1.0,,National TT Championships Portugal 2011 ,,,,,
-116,Nationals.C3.TT,,,,1.0,,National Championships Turkey - ITT 2011 ,,,,,
-117,-,,,,1.0,,National Championships Netherlands U23 - Road Race 2011 ,,,,,
-118,-,,,,1.0,,National Championships Switserland - Road Race 2011 ,,,,,
-119,Nationals.C3,,,,1.0,,National Championships Belarus - Road Race 2011 ,,,,,
-120,Nationals.C3.TT,,,,1.0,,National Championships Bulgaria - ITT 2011 ,,,,,
-121,-,,,,1.0,,National Championships Bulgaria - Road Race 2011 ,,,,,
-122,Nationals.C3,,,,1.0,,National Championships Czech Republic - Road Race 2011 ,,,,,
-123,Nationals.C3,,,,1.0,,National Championships Hungary - Road Race 2011 ,,,,,
-124,Nationals.C3,,,,1.0,,National Championships Latvia - Road Race 2011 ,,,,,
-125,Nationals.C3,,,,1.0,,National Championships Lithuania - Road Race 2011 ,,,,,
-126,Nationals.C3,,,,1.0,,National Championships Malasia - Road Race 2011 ,,,,,
-127,Nationals.C3,,,,1.0,,National Championships Romania - Road Race 2011 ,,,,,
-128,Nationals.C2,,,,1.0,,National Championships Russia - Road Race 2011 ,,,,,
-129,Nationals.C3,,,,1.0,,National Championships Serbia - Road Race 2011 ,,,,,
-130,Nationals.C3.TT,,,,1.0,,National Championships Slovenia - ITT 2011 ,,,,,
-131,Nationals.C3,,,,1.0,,National Championships Turkey - Road Race 2011 ,,,,,
-132,Nationals.C3,,,,1.0,,National Championships Ukraine - Road Race 2011 ,,,,,
-133,Nationals.C3.TT,,,,1.0,,National Championships Macedonia - ITT 2011 ,,,,,
-134,Nationals.C3,,,,1.0,,National Championships Macedonia - Road Race 2011 ,,,,,
-135,2.2/U23,,,,4.0,,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2011 ,,,,,
-136,1.2,,,,1.0,,GP van de stad Geel 2011 ,,,,,
-137,-,,,,1.0,,European Championship U23 - ITT 2011 ,,,,,
-138,Nationals.C3.TT,,,,1.0,,National Championships Greece - ITT 2011 ,,,,,
-139,2.HC,,,,5.0,,Tour de Wallonie 2011 ,,,,,
-140,Nationals.C3,,,,1.0,,National Championships Greece - Road Race 2011 ,,,,,
-141,1.2,,,,1.0,,Central European Tour Miskolc GP 2011 ,,,,,
-142,1.2,,,,1.0,,Central European Tour Budapest GP 2011 ,,,,,
-143,1.1,,,,1.0,,Sparkassen Giro 2011 ,,,,,
-144,2.1,,,,2.0,,Paris - Corrèze 2011 ,,,,,
-145,Nationals.C3,,,,1.0,,National Championships Iceland - Road Race 2011 ,,,,,
-146,1.2,,,,1.0,,Gp Di Poggiana 2011 ,,,,,
-147,2.2/U23,,,,5.0,,Baltic Chain Tour 2011 ,,,,,
-148,1.1,,,,1.0,,Coppa Agostoni - Giro della Brianza 2011 ,,,,,
-149,1.1,,,,1.0,,Dutch Food Valley Classic 2011 ,,,,,
-150,2.1,,,,5.0,,Tour International du Poitou Charentes 2011 ,,,,,
-151,2.2/U23,,,,6.0,,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2011 ,,,,,
-152,1.2,,,,1.0,,Grand Prix des Marbriers 2011 ,,,,,
-153,1.1,,,,1.0,,Schaal Sels 2011 ,,,,,
-154,Nationals.C3.TT,,,,1.0,,National Championships Finland - ITT 2011 ,,,,,
-155,E-2.Ncup,,,,8.0,,Tour de l'Avenir 2011 ,,,,,
-156,2.1,,,,5.0,,Giro di Padania 2011 ,,,,,
-157,1.HC,,,,1.0,,GP de Fourmies - La Voix du Nord 2011 ,,,,,
-158,Nationals.C3.TT,,,,1.0,,National Championships Austria - ITT 2011 ,,,,,
-159,2.1,,,,9.0,,Tour of Britain 2011 ,,,,,
-160,1.2,,,,1.0,,Chrono Champenois Masculin International 2011 ,,,,,
-161,1.2,,,,1.0,,Duo Normand 2011 ,,,,,
-162,1.2,,,,1.0,,GP Impanis - Van Petegem 2011 ,,,,,
-163,1.HC,,,,1.0,,Tour de Vendée 2011 ,,,,,
-164,1.1,,,,1.0,,Memorial Frank Vandenbroucke 2011 ,,,,,
-165,1.1,,,,1.0,,Gran Premio Bruno Beghelli 2011 ,,,,,
-166,1.2,,,,1.0,,Paris-tours Espoirs 2011 ,,,,,
-167,1.1,,,,1.0,,Nationale Sluitingsprijs Putte-kapellen 2011 ,,,,,
-168,1.1,,,,1.0,,Chrono des Nations 2011 ,,,,,
-169,1.2,,,,1.0,,Chrono des Nations U23 2011 ,,,,,
-170,-,,,,1.0,,Australian Open Road Cycling Championships - Itt 2011 ,,,,,
-171,-,,,,1.0,, Oceania Continental Championships U23- Road Race 2011 ,,,,,
-172,None,,,,1.0,,Oceania Road Championships - Road Race 2011 ,,,,,
-173,Nationals.C3.TT,,,,1.0,,National Championships Argentina - ITT 2011 ,,,,,
-174,Nationals.C3,,,,1.0,,National Championships Argentina - Road Race 2011 ,,,,,
-175,Nationals.C3.TT,,,,1.0,,National Championships Ecuador - ITT 2011 ,,,,,
-176,Nationals.C3,,,,1.0,,National Championships Ecuador - Road Race 2011 ,,,,,
-177,2.HC,,,,8.0,,Amgen Tour Of California 2011 ,,,,,
-178,Nationals.C3.TT,,,,1.0,,National Championships United States - ITT 2011 ,,,,,
-179,1.HC,,,,1.0,,TD Bank International Cycling Championship 2011 ,,,,,
-180,Nationals.C3.TT,,,,1.0,,National TT Championships Canada 2011 ,,,,,
-181,Nationals.C3.TT,,,,1.0,,National Championships Brazil - ITT 2011 ,,,,,
-182,Nationals.C3,,,,1.0,,National Championships Canada - Road Race 2011 ,,,,,
-183,Nationals.C3.TT,,,,1.0,,National Championships Cuba - ITT 2011 ,,,,,
-184,Nationals.C3,,,,1.0,,National Championships Brazil - Road Race 2011 ,,,,,
-185,Nationals.C3,,,,1.0,,National Championships Cuba - Road Race 2011 ,,,,,
-186,Nationals.C3,,,,1.0,,National Championships Venezuela - Road Race 2011 ,,,,,
-187,Nationals.C3,,,,1.0,,National Championships Costa Rica - Road Race 2011 ,,,,,
-188,2.2/U23,,,,8.0,,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011 ,,,,,
-189,2.2/U23,,,,10.0,,Vuelta a Bolivia 2011 ,,,,,
-190,2.2/U23,,,,6.0,,Vuelta Ciclista Chiapas 2011 ,,,,,
-191,2.2/U23,,,,12.0,,Vuelta Internacional a Costa Rica 2011 ,,,,,
+,Stage_Name,Date,Stage_Type,Start,Finish,Race_ID,Stage#,url,Length
+0,Tour Down Under 2011  Stage 1,2011-01-18,RR,Mawson Lakes,Angaston,0,1,race/tour-down-under/2011/stage-1,138.0
+1,Tour Down Under 2011  Stage 2,2011-01-19,RR,Tailem Bend,Mannum,0,2,race/tour-down-under/2011/stage-2,146.0
+2,Tour Down Under 2011  Stage 3,2011-01-20,RR,Unley,Stirling,0,3,race/tour-down-under/2011/stage-3,129.0
+3,Tour Down Under 2011  Stage 4,2011-01-21,RR,Norwood,Strathalbyn,0,4,race/tour-down-under/2011/stage-4,124.0
+4,Tour Down Under 2011  Stage 5,2011-01-22,RR,McLaren Vale,Willunga,0,5,race/tour-down-under/2011/stage-5,131.0
+5,Tour Down Under 2011  Stage 6,2011-01-23,RR,Adelaide,Adelaide,0,6,race/tour-down-under/2011/stage-6,90.0
+6,Paris - Nice 2011  Stage 1,2011-03-06,RR,Houdan,Houdan,1,1,race/paris-nice/2011/stage-1,154.5
+7,Paris - Nice 2011  Stage 2,2011-03-07,RR,Montfort l’Amaury,Amilly,1,2,race/paris-nice/2011/stage-2,198.5
+8,Paris - Nice 2011  Stage 3,2011-03-08,RR,Cosne Cours sur Loire,Nuits Saint Georges,1,3,race/paris-nice/2011/stage-3,202.0
+9,Paris - Nice 2011  Stage 4,2011-03-09,RR,Crêches-sur-Saône,Belleville,1,4,race/paris-nice/2011/stage-4,191.0
+10,Paris - Nice 2011  Stage 5,2011-03-10,RR,Saint-Symphorien-sur-Coise,Vernoux-en-Vivarais,1,5,race/paris-nice/2011/stage-5,194.0
+11,Paris - Nice 2011  Stage 6 (ITT),2011-03-11,ITT,Rognes,Aix-en-Provence,1,6,race/paris-nice/2011/stage-6,27.0
+12,Paris - Nice 2011  Stage 7,2011-03-12,RR,Brignoles,Biot,1,7,race/paris-nice/2011/stage-7,215.5
+13,Paris - Nice 2011  Stage 8,2011-03-13,RR,Nice,Nice,1,8,race/paris-nice/2011/stage-8,124.0
+14,Tirreno-Adriatico 2011  Stage 1 (TTT),2011-03-09,TTT,Marina di Carrara,Marina di Carrara,2,1,race/tirreno-adriatico/2011/stage-1,16.8
+15,Tirreno-Adriatico 2011  Stage 2,2011-03-10,RR,Carrara,Indicatore,2,2,race/tirreno-adriatico/2011/stage-2,202.0
+16,Tirreno-Adriatico 2011  Stage 3,2011-03-11,RR,Terranuova Bracciolini,Perugia,2,3,race/tirreno-adriatico/2011/stage-3,189.0
+17,Tirreno-Adriatico 2011  Stage 4,2011-03-12,RR,Narni,Chieti,2,4,race/tirreno-adriatico/2011/stage-4,240.0
+18,Tirreno-Adriatico 2011  Stage 5,2011-03-13,RR,Chieti,Castelraimondo,2,5,race/tirreno-adriatico/2011/stage-5,240.0
+19,Tirreno-Adriatico 2011  Stage 6,2011-03-14,RR,Uscita,Maccerata,2,6,race/tirreno-adriatico/2011/stage-6,178.0
+20,Tirreno-Adriatico 2011  Stage 7 (ITT),2011-03-15,ITT,San Benedetto,San Benedetto,2,7,race/tirreno-adriatico/2011/stage-7,9.3
+21,Milano-Sanremo 2011,2011-03-19,RR,Milano,Sanremo,3,0,race/milano-sanremo/2011,298.0
+22,Volta Ciclista a Catalunya 2011  Stage 1,2011-03-21,RR,Lloret de Mar,Lloret de Mar,4,1,race/volta-a-catalunya/2011/stage-1,166.9
+23,Volta Ciclista a Catalunya 2011  Stage 2,2011-03-22,RR,Santa Coloma de Farners,Banyoles,4,2,race/volta-a-catalunya/2011/stage-2,169.3
+24,Volta Ciclista a Catalunya 2011  Stage 3,2011-03-23,RR,La Vall d’en Bas (Sant Esteve d’en Bas),Andorra (Vallnord),4,3,race/volta-a-catalunya/2011/stage-3,189.4
+25,Volta Ciclista a Catalunya 2011  Stage 4,2011-03-24,RR,La Seu d’Urgell,El Vendrell,4,4,race/volta-a-catalunya/2011/stage-4,195.0
+26,Volta Ciclista a Catalunya 2011  Stage 5,2011-03-25,RR,El Vendrell,Tarragona,4,5,race/volta-a-catalunya/2011/stage-5,205.8
+27,Volta Ciclista a Catalunya 2011  Stage 6,2011-03-26,RR,Tarragona,Mollet del Vallès,4,6,race/volta-a-catalunya/2011/stage-6,195.0
+28,Volta Ciclista a Catalunya 2011  Stage 7,2011-03-27,RR,Parets del Vallès,Barcelona (Pla de Palau),4,7,race/volta-a-catalunya/2011/stage-7,124.5
+29,Gent - Wevelgem 2011,2011-03-27,RR,Deinze,Wevelgem,5,0,race/gent-wevelgem/2011,210.0
+30,Ronde van Vlaanderen / Tour des Flandres 2011,2011-04-03,RR,Brugge,Ninove,6,0,race/ronde-van-vlaanderen/2011,258.0
+31,Vuelta Ciclista al Pais Vasco 2011  Stage 1,2011-04-04,RR,Zumarraga,Zumarraga,7,1,race/itzulia-basque-country/2011/stage-1,149.5
+32,Vuelta Ciclista al Pais Vasco 2011  Stage 2,2011-04-05,RR,Zumarraga,Lekunberri,7,2,race/itzulia-basque-country/2011/stage-2,167.0
+33,Vuelta Ciclista al Pais Vasco 2011  Stage 3,2011-04-06,RR,Villatuerta,Murgia,7,3,race/itzulia-basque-country/2011/stage-3,177.0
+34,Vuelta Ciclista al Pais Vasco 2011  Stage 4,2011-04-07,RR,Amurrio,Eibar (Arrate),7,4,race/itzulia-basque-country/2011/stage-4,177.0
+35,Vuelta Ciclista al Pais Vasco 2011  Stage 5,2011-04-08,RR,Eibar,Zalla,7,5,race/itzulia-basque-country/2011/stage-5,179.0
+36,Vuelta Ciclista al Pais Vasco 2011  Stage 6 (ITT),2011-04-09,ITT,Zalla,Zalla,7,6,race/itzulia-basque-country/2011/stage-6,24.0
+37,Paris - Roubaix 2011,2011-04-10,RR,Compiegne,Roubaix,8,0,race/paris-roubaix/2011,258.0
+38,Amstel Gold Race 2011,2011-04-17,RR,Maastricht,Valkenburg,9,0,race/amstel-gold-race/2011,261.0
+39,La Flèche Wallonne 2011,2011-04-20,RR,Charleroi,Huy,10,0,race/la-fleche-wallone/2011,201.0
+40,Liège - Bastogne - Liège 2011,2011-04-24,RR,Start,Finish,11,0,race/liege-bastogne-liege/2011,0.0
+41,Tour de Romandie 2011  Prologue,2011-04-26,Prologue,Martigny,Martigny,12,1,race/tour-de-romandie/2011/prologue,3.5
+42,Tour de Romandie 2011  Stage 2,2011-04-27,RR,Martigny,Leysin,12,2,race/tour-de-romandie/2011/stage-2,171.5
+43,Tour de Romandie 2011  Stage 3,2011-04-28,RR,Romont,Romont,12,3,race/tour-de-romandie/2011/stage-3,168.3
+44,Tour de Romandie 2011  Stage 4,2011-04-29,RR,Thierrens,Neuchâtel,12,4,race/tour-de-romandie/2011/stage-4,166.5
+45,Tour de Romandie 2011  Stage 5 (ITT),2011-04-30,ITT,Aubonne-Signal-de-Bougy,Aubonne-Signal-de-Bougy,12,5,race/tour-de-romandie/2011/stage-5,20.5
+46,Tour de Romandie 2011  Stage 6,2011-05-01,RR,Champagne,Genève,12,6,race/tour-de-romandie/2011/stage-6,164.6
+47,Giro d'Italia 2011  Stage 1 (TTT),2011-05-07,Prologue,Venaria Reale,Torino,13,1,race/giro-d-italia/2011/prologue,19.3
+48,Giro d'Italia 2011  Stage 2,2011-05-08,RR,Alba,Parma,13,2,race/giro-d-italia/2011/stage-1,244.0
+49,Giro d'Italia 2011  Stage 3,2011-05-09,RR,Reggio Emilia,Rapallo,13,3,race/giro-d-italia/2011/stage-2,173.0
+50,Giro d'Italia 2011  Stage 4,2011-05-10,RR,Genova Quarto dei Mille,Livorno,13,4,race/giro-d-italia/2011/stage-3,216.0
+51,Giro d'Italia 2011  Stage 5,2011-05-11,RR,Piombino,Orvieto,13,5,race/giro-d-italia/2011/stage-4,191.0
+52,Giro d'Italia 2011  Stage 6,2011-05-12,RR,Orvieto,Fiuggi,13,6,race/giro-d-italia/2011/stage-5,216.0
+53,Giro d'Italia 2011  Stage 7,2011-05-13,RR,Maddaloni,Montevergine de Mercogliano,13,7,race/giro-d-italia/2011/stage-6,110.0
+54,Giro d'Italia 2011  Stage 8,2011-05-14,RR,Sapri,Tropea,13,8,race/giro-d-italia/2011/stage-7,217.0
+55,Giro d'Italia 2011  Stage 9,2011-05-15,RR,Messina,Etna,13,9,race/giro-d-italia/2011/stage-8,169.0
+56,Giro d'Italia 2011  Stage 10,2011-05-17,RR,Termoli,Teramo,13,10,race/giro-d-italia/2011/stage-9,159.0
+57,Giro d'Italia 2011  Stage 11,2011-05-18,RR,Tortoreto Lido,Castefidardo,13,11,race/giro-d-italia/2011/stage-10,144.0
+58,Giro d'Italia 2011  Stage 12,2011-05-19,RR,Castefidardo,Ravenna,13,12,race/giro-d-italia/2011/stage-11,184.0
+59,Giro d'Italia 2011  Stage 13,2011-05-20,RR,Spilimbergo,Großglockner,13,13,race/giro-d-italia/2011/stage-12,167.0
+60,Giro d'Italia 2011  Stage 14,2011-05-21,RR,Lienz,Monte Zoncolan,13,14,race/giro-d-italia/2011/stage-13,210.0
+61,Giro d'Italia 2011  Stage 15,2011-05-22,RR,Conegliano,Gardeccia/Val di Fassa,13,15,race/giro-d-italia/2011/stage-14,229.0
+62,Giro d'Italia 2011  Stage 16 (ITT),2011-05-24,ITT,Belluno,Nevegal,13,16,race/giro-d-italia/2011/stage-15,12.7
+63,Giro d'Italia 2011  Stage 17,2011-05-25,RR,Feltre,Tirano,13,17,race/giro-d-italia/2011/stage-16,230.0
+64,Giro d'Italia 2011  Stage 18,2011-05-26,RR,Morbegno,San Pellegrine Terme,13,18,race/giro-d-italia/2011/stage-17,151.0
+65,Giro d'Italia 2011  Stage 19,2011-05-27,RR,Bergamo,Macugnaga,13,19,race/giro-d-italia/2011/stage-18,209.0
+66,Giro d'Italia 2011  Stage 20,2011-05-28,RR,Verbania,Sestriere,13,20,race/giro-d-italia/2011/stage-19,242.0
+67,Giro d'Italia 2011  Stage 21 (ITT),2011-05-29,ITT,Milano,Milano,13,21,race/giro-d-italia/2011/stage-20,26.0
+68,Critérium du Dauphiné 2011  Prologue,2011-06-05,Prologue,Saint-Jean-de-Maurienne,Saint-Jean-de-Maurienne,14,1,race/dauphine/2011/prologue,5.4
+69,Critérium du Dauphiné 2011  Stage 1,2011-06-06,RR,Albertville,Saint-Pierre-de-Chartreuse,14,2,race/dauphine/2011/stage-1,144.0
+70,Critérium du Dauphiné 2011  Stage 2,2011-06-07,RR,Voiron,Lyon,14,3,race/dauphine/2011/stage-2,179.0
+71,Critérium du Dauphiné 2011  Stage 3 (ITT),2011-06-08,ITT,Grenoble,Grenoble,14,4,race/dauphine/2011/stage-3,42.5
+72,Critérium du Dauphiné 2011  Stage 4,2011-06-09,RR,La Motte-Servolex,Mâcon,14,5,race/dauphine/2011/stage-4,173.5
+73,Critérium du Dauphiné 2011  Stage 5,2011-06-10,RR,Start,Finish,14,6,race/dauphine/2011/stage-5,210.0
+74,Critérium du Dauphiné 2011  Stage 6,2011-06-11,RR,Les Gets,Le Collet d’Allevard,14,7,race/dauphine/2011/stage-6,192.5
+75,Critérium du Dauphiné 2011  Stage 7,2011-06-12,RR,Pontcharra,La Toussuire,14,8,race/dauphine/2011/stage-7,117.5
+76,Tour de Suisse 2011  Prologue,2011-06-11,Prologue,Lugano,Lugano,15,1,race/tour-de-suisse/2011/prologue,7.3
+77,Tour de Suisse 2011  Stage 2,2011-06-12,RR,Airolo,Crans-Montana,15,2,race/tour-de-suisse/2011/stage-2,147.8
+78,Tour de Suisse 2011  Stage 3,2011-06-13,RR,Brig-Glis,Grindelwald,15,3,race/tour-de-suisse/2011/stage-3,107.6
+79,Tour de Suisse 2011  Stage 4,2011-06-14,RR,Grindelwald,Huttwil,15,4,race/tour-de-suisse/2011/stage-4,198.4
+80,Tour de Suisse 2011  Stage 5,2011-06-15,RR,Huttwil,Tobel-Tägerschen,15,5,race/tour-de-suisse/2011/stage-5,204.2
+81,Tour de Suisse 2011  Stage 6,2011-06-16,RR,Tobel-Tägerschen,Triesenberg / Malbun (FL),15,6,race/tour-de-suisse/2011/stage-6,157.7
+82,Tour de Suisse 2011  Stage 7,2011-06-17,RR,Vaduz (FL),Serfaus-Fiss-Ladis (AUT),15,7,race/tour-de-suisse/2011/stage-7,222.8
+83,Tour de Suisse 2011  Stage 8,2011-06-18,RR,Tübach,Schaffhausen,15,8,race/tour-de-suisse/2011/stage-8,167.3
+84,Tour de Suisse 2011  Stage 9 (ITT),2011-06-19,ITT,Schaffhausen,Schaffhausen,15,9,race/tour-de-suisse/2011/stage-9,32.1
+85,Tour de France 2011  Stage 1,2011-07-02,RR,Passage Du Gois La Barre-de-monts,Mont Des Alouettes Les Herbiers,16,1,race/tour-de-france/2011/stage-1,191.0
+86,Tour de France 2011  Stage 2 (TTT),2011-07-03,TTT,Les Essarts,Les Essarts,16,2,race/tour-de-france/2011/stage-2,23.0
+87,Tour de France 2011  Stage 3,2011-07-04,RR,Olonne-sur-mer,Redon,16,3,race/tour-de-france/2011/stage-3,198.0
+88,Tour de France 2011  Stage 4,2011-07-05,RR,Lorient,MÃ»r-de-bretagne,16,4,race/tour-de-france/2011/stage-4,172.0
+89,Tour de France 2011  Stage 5,2011-07-06,RR,Carhaix,Cap Fréhel,16,5,race/tour-de-france/2011/stage-5,158.0
+90,Tour de France 2011  Stage 6,2011-07-07,RR,Dinan,Lisieux,16,6,race/tour-de-france/2011/stage-6,226.0
+91,Tour de France 2011  Stage 7,2011-07-08,RR,Le Mans,Châteauroux,16,7,race/tour-de-france/2011/stage-7,215.0
+92,Tour de France 2011  Stage 8,2011-07-09,RR,Aigurande,Super-besse Sancy,16,8,race/tour-de-france/2011/stage-8,190.0
+93,Tour de France 2011  Stage 9,2011-07-10,RR,Issoire,Saint-flour,16,9,race/tour-de-france/2011/stage-9,208.0
+94,Tour de France 2011  Stage 10,2011-07-12,RR,Aurillac,Carmaux,16,10,race/tour-de-france/2011/stage-10,161.0
+95,Tour de France 2011  Stage 11,2011-07-13,RR,Blaye-les-mines,Lavaur,16,11,race/tour-de-france/2011/stage-11,168.0
+96,Tour de France 2011  Stage 12,2011-07-14,RR,Cugnaux,Luz-ardiden,16,12,race/tour-de-france/2011/stage-12,209.0
+97,Tour de France 2011  Stage 13,2011-07-15,RR,Pau,Lourdes,16,13,race/tour-de-france/2011/stage-13,156.0
+98,Tour de France 2011  Stage 14,2011-07-16,RR,Saint-gaudens,Plateau De Beille,16,14,race/tour-de-france/2011/stage-14,168.0
+99,Tour de France 2011  Stage 15,2011-07-17,RR,Limoux,Montpellier,16,15,race/tour-de-france/2011/stage-15,187.0
+100,Tour de France 2011  Stage 16,2011-07-19,RR,Saint-paul-trois-châteaux,Gap,16,16,race/tour-de-france/2011/stage-16,163.0
+101,Tour de France 2011  Stage 17,2011-07-20,RR,Gap,Pinerolo,16,17,race/tour-de-france/2011/stage-17,179.0
+102,Tour de France 2011  Stage 18,2011-07-21,RR,Pinerolo,Galibier Serre-chevalier,16,18,race/tour-de-france/2011/stage-18,189.0
+103,Tour de France 2011  Stage 19,2011-07-22,RR,Modane,Alpe d’huez,16,19,race/tour-de-france/2011/stage-19,109.0
+104,Tour de France 2011  Stage 20 (ITT),2011-07-23,ITT,Grenoble,Grenoble,16,20,race/tour-de-france/2011/stage-20,41.0
+105,Tour de France 2011  Stage 21,2011-07-24,RR,Créteil,Paris,16,21,race/tour-de-france/2011/stage-21,95.0
+106,Clasica Ciclista San Sebastian 2011,2011-07-30,RR,San Sébastian,San Sébastian,17,0,race/san-sebastian/2011,234.0
+107,Tour de Pologne 2011  Stage 1,2011-07-31,RR,Pruszkow,Varsovie,18,1,race/tour-de-pologne/2011/stage-1,101.5
+108,Tour de Pologne 2011  Stage 2,2011-08-01,RR,Czestochowa,Dabrowa Gornicza,18,2,race/tour-de-pologne/2011/stage-2,159.6
+109,Tour de Pologne 2011  Stage 3,2011-08-02,RR,Bedzin,Katowice,18,3,race/tour-de-pologne/2011/stage-3,135.7
+110,Tour de Pologne 2011  Stage 4,2011-08-03,RR,Oswiecim,Cieszyn,18,4,race/tour-de-pologne/2011/stage-4,176.9
+111,Tour de Pologne 2011  Stage 5,2011-08-04,RR,Zakopane,Zakopane,18,5,race/tour-de-pologne/2011/stage-5,201.5
+112,Tour de Pologne 2011  Stage 6,2011-08-05,RR,Terma Bukovina,Terma Bukovina,18,6,race/tour-de-pologne/2011/stage-6,207.7
+113,Tour de Pologne 2011  Stage 7,2011-08-06,RR,Kraków,Kraków,18,7,race/tour-de-pologne/2011/stage-7,128.0
+114,Eneco Tour 2011  Prologue,2011-08-08,Prologue,Amersfoort,Amersfoort,19,1,race/binckbank-tour/2011/prologue,5.7
+115,Eneco Tour 2011  Stage 2,2011-08-09,RR,Oosterhout,Sint Willebrord,19,2,race/binckbank-tour/2011/stage-2,192.1
+116,Eneco Tour 2011  Stage 3,2011-08-10,RR,Aalter (B),Ardooie (B),19,3,race/binckbank-tour/2011/stage-3,169.1
+117,Eneco Tour 2011  Stage 4,2011-08-11,RR,Heers (B),Andenne,19,4,race/binckbank-tour/2011/stage-4,184.0
+118,Eneco Tour 2011  Stage 5 (ITT),2011-08-12,ITT,Roermond,Roermond,19,5,race/binckbank-tour/2011/stage-5,14.7
+119,Eneco Tour 2011  Stage 6,2011-08-13,RR,Genk (B),Genk (B),19,6,race/binckbank-tour/2011/stage-6,187.0
+120,Eneco Tour 2011  Stage 7,2011-08-14,RR,Sittard-Geleen,Sittard-Geleen,19,7,race/binckbank-tour/2011/stage-7,201.2
+121,Vuelta a España 2011  Stage 1 (TTT),2011-08-20,TTT,Benidorm,Benidorm,20,1,race/vuelta-a-espana/2011/stage-1,13.5
+122,Vuelta a España 2011  Stage 2,2011-08-21,RR,La Nucía,Playas De Orihuela,20,2,race/vuelta-a-espana/2011/stage-2,171.5
+123,Vuelta a España 2011  Stage 3,2011-08-22,RR,Petrer,Totana,20,3,race/vuelta-a-espana/2011/stage-3,164.0
+124,Vuelta a España 2011  Stage 4,2011-08-23,RR,Baza,Sierra Nevada,20,4,race/vuelta-a-espana/2011/stage-4,172.0
+125,Vuelta a España 2011  Stage 5,2011-08-24,RR,Sierra Nevada,Valdepeñas De Jaén,20,5,race/vuelta-a-espana/2011/stage-5,187.0
+126,Vuelta a España 2011  Stage 6,2011-08-25,RR,Úbeda,Córdoba,20,6,race/vuelta-a-espana/2011/stage-6,185.7
+127,Vuelta a España 2011  Stage 7,2011-08-26,RR,Almadén,Talavera De La Reina,20,7,race/vuelta-a-espana/2011/stage-7,185.0
+128,Vuelta a España 2011  Stage 8,2011-08-27,RR,Talavera De La Reina,San Lorenzo De El Escorial,20,8,race/vuelta-a-espana/2011/stage-8,183.0
+129,Vuelta a España 2011  Stage 9,2011-08-28,RR,Villacastín,Sierra De Bejar. La Covatilla,20,9,race/vuelta-a-espana/2011/stage-9,179.5
+130,Vuelta a España 2011  Stage 10 (ITT),2011-08-29,ITT,Salamanca,Salamanca,20,10,race/vuelta-a-espana/2011/stage-10,47.0
+131,Vuelta a España 2011  Stage 11,2011-08-31,RR,Verín,Estación De Montaña Manzaneda,20,11,race/vuelta-a-espana/2011/stage-11,171.0
+132,Vuelta a España 2011  Stage 12,2011-09-01,RR,Ponteareas,Pontevedra,20,12,race/vuelta-a-espana/2011/stage-12,160.0
+133,Vuelta a España 2011  Stage 13,2011-09-02,RR,Sarria,Ponferradaa,20,13,race/vuelta-a-espana/2011/stage-13,150.0
+134,Vuelta a España 2011  Stage 14,2011-09-03,RR,Astorga,La Farrapona. Lagos De Somiedo,20,14,race/vuelta-a-espana/2011/stage-14,173.2
+135,Vuelta a España 2011  Stage 15,2011-09-04,RR,Avilés,Anglirú,20,15,race/vuelta-a-espana/2011/stage-15,144.0
+136,Vuelta a España 2011  Stage 16,2011-09-06,RR,Villa Romana La Olmeda (palencia),Haro,20,16,race/vuelta-a-espana/2011/stage-16,180.0
+137,Vuelta a España 2011  Stage 17,2011-09-07,RR,Faustino V,Peña Cabarga,20,17,race/vuelta-a-espana/2011/stage-17,212.5
+138,Vuelta a España 2011  Stage 18,2011-09-08,RR,Solares,Noja,20,18,race/vuelta-a-espana/2011/stage-18,169.7
+139,Vuelta a España 2011  Stage 19,2011-09-09,RR,Noja,Bilbao,20,19,race/vuelta-a-espana/2011/stage-19,157.9
+140,Vuelta a España 2011  Stage 20,2011-09-10,RR,Bilbao,Vitoria,20,20,race/vuelta-a-espana/2011/stage-20,187.0
+141,Vuelta a España 2011  Stage 21,2011-09-11,RR,Circuito Del Jarama,Madrid,20,21,race/vuelta-a-espana/2011/stage-21,94.0
+142,GP Ouest France - Plouay 2011,2011-08-28,RR,Start,Finish,21,0,race/bretagne-classic/2011,0.0
+143,Grand Prix Cycliste de Quebec 2011,2011-09-09,RR,Quebec,Quebec,22,0,race/gp-quebec/2011,201.6
+144,Grand Prix Cycliste de Montréal 2011,2011-09-11,RR,Montréal,Montréal,23,0,race/gp-montreal/2011,205.7
+145,Tour of Beijing 2011  Stage 1 (ITT),2011-10-05,ITT,Bird\'s Nest,Water Cube,24,1,race/tour-of-beijing/2011/stage-1,11.3
+146,Tour of Beijing 2011  Stage 2,2011-10-06,RR,Bird\'s Nest,Men Tou Gou,24,2,race/tour-of-beijing/2011/stage-2,133.5
+147,Tour of Beijing 2011  Stage 3,2011-10-07,RR,Men Tou Gou,Yong Ning Town,24,3,race/tour-of-beijing/2011/stage-3,162.0
+148,Tour of Beijing 2011  Stage 4,2011-10-08,RR,Yan Qing Gui Chuan Square,Shunyi Olympic Rowing and Canoeing Centre,24,4,race/tour-of-beijing/2011/stage-4,189.5
+149,Tour of Beijing 2011  Stage 5,2011-10-09,RR,Tian An Men Square,Bird?s Nest Olympic Stadium,24,5,race/tour-of-beijing/2011/stage-5,118.0
+150,Il Lombardia 2011,2011-10-15,RR,Milano,Lecco,25,0,race/il-lombardia/2011,241.0
+151,World Championships MJ - ITT 2011,2011-09-20,RR,Start,Finish,0,0,race/uci-world-championships-itt-mj/2011,27.8
+152,World Championships WE - ITT 2011,2011-09-20,RR,Copenhagen,Copenhagen,1,0,race/world-championship-itt-we/2011,27.8
+153,World Championships - ITT 2011,2011-09-21,RR,Start,Finish,2,0,race/world-championship-itt/2011,46.4
+154,World Championships U23 - Road Race 2011,2011-09-23,RR,Kopenhagen,Kopenhagen,3,0,race/world-championships-u23/2011,168.0
+155,World Championships - Road Race 2011,2011-09-25,RR,Start,Finish,4,0,race/world-championship/2011,266.0
+156,National Championships South-africa Itt 2011,2011-02-03,RR,Start,Finish,0,0,race/nc-south-africa-itt/2011,0.0
+157,National Championships South Africa - Road Race 2011,2011-02-05,RR,Start,Finish,1,0,race/nc-south-africa/2011,130.0
+158,Les Challenges Phosphatiers-Challenge Ben Guerir 2011,2011-04-09,RR,Start,Finish,2,0,race/challenge-ben-guerir/2011,0.0
+159,National Championships Eritrea - Road Race 2011,2011-06-05,RR,Asmara,Asmara,3,0,race/nc-eritrea/2011,0.0
+160,National Championships Algeria - ITT 2011,2011-06-23,RR,Start,Finish,4,0,race/nc-algeria-itt/2011,0.0
+161,National Championships Morocco - ITT 2011,2011-06-23,RR,Ifrane,Ifrane,5,0,race/nc-morocco-itt/2011,0.0
+162,National Championships Algeria - Road Race 2011,2011-06-24,RR,Start,Finish,6,0,race/nc-algeria/2011,123.0
+163,National Championships Tunisia - Road Race 2011,2011-06-24,RR,Gammarth,Gammarth,7,0,race/nc-tunisia/2011,0.0
+164,National Championships Morocco - Road Race 2011,2011-06-25,RR,Start,Finish,8,0,race/nc-morocco/2011,0.0
+165,National Championships Zimbabwe - Road Race 2011,2011-06-26,RR,Start,Finish,9,0,race/nc-zimbabwe/2011,0.0
+166,National Championships Namibia - ITT 2011,2011-07-02,RR,Start,Finish,10,0,race/nc-namibia-itt/2011,0.0
+167,National Championships Namibia - Road Race 2011,2011-07-03,RR,Start,Finish,11,0,race/nc-namibia/2011,0.0
+168,National Championships Tunisia - ITT 2011,2011-07-10,RR,Start,Finish,12,0,race/nc-tunisia-itt/2011,0.0
+169,All Africa Games - ITT 2011,2011-09-08,RR,Start,Finish,13,0,race/jeux-africains-2015-de-brazzaville-itt/2011,26.2
+170,All Africa Games - Road Race 2011,2011-09-11,RR,Maputo,Maputo,14,0,race/jeux-africains-2015-de-brazzaville--/2011,0.0
+171,Grand Prix Chantal Biya 2011  Stage 1,2011-09-30,RR,Yaound,Ebolowa,15,1,race/grand-prix-chantal-biya/2011/stage-1,160.0
+172,Grand Prix Chantal Biya 2011  Stage 2,2011-10-01,RR,Zoétélé,Meyomesala,15,2,race/grand-prix-chantal-biya/2011/stage-2,130.0
+173,Grand Prix Chantal Biya 2011  Stage 3,2011-10-02,RR,Sangmelima,Yaoundé,15,3,race/grand-prix-chantal-biya/2011/stage-3,170.0
+174,Tour du Faso 2011  Stage 1,2011-10-21,RR,Laye,Ouahigouya,16,1,race/tour-du-faso/2011/stage-1,145.6
+175,Tour du Faso 2011  Stage 2,2011-10-22,RR,Yako,Ziniaré,16,2,race/tour-du-faso/2011/stage-2,141.5
+176,Tour du Faso 2011  Stage 3,2011-10-23,RR,Linonghin,Tenkodogo,16,3,race/tour-du-faso/2011/stage-3,143.3
+177,Tour du Faso 2011  Stage 4,2011-10-24,RR,Tenkodogo,Zorgho,16,4,race/tour-du-faso/2011/stage-4,74.5
+178,Tour du Faso 2011  Stage 5,2011-10-25,RR,Kokologo,Boromo,16,5,race/tour-du-faso/2011/stage-5,128.9
+179,Tour du Faso 2011  Stage 6,2011-10-26,RR,Boromo,Bobo Dioulasso,16,6,race/tour-du-faso/2011/stage-6,170.8
+180,Tour du Faso 2011  Stage 7,2011-10-27,RR,Bobo Dioulasso, Banfora,16,7,race/tour-du-faso/2011/stage-7,83.5
+181,Tour du Faso 2011  Stage 8,2011-10-28,RR,Bobo Dioulasso, Pâ,16,8,race/tour-du-faso/2011/stage-8,124.8
+182,Tour du Faso 2011  Stage 9,2011-10-29,RR,Boromo,Koudougou,16,9,race/tour-du-faso/2011/stage-9,153.0
+183,Tour du Faso 2011  Stage 10,2011-10-30,RR,Sapone,Ouagadougou,16,10,race/tour-du-faso/2011/stage-10,113.8
+184,African Continental Championships - ITT 2011,2011-11-11,RR,Asmara,Asmara,17,0,race/african-continental-championships-itt/2011,0.0
+185,African Continental Championships - Road Race 2011,2011-11-13,RR,Asmara,Asmara,18,0,race/african-championships/2011,146.3
+186,Tour of Rwanda 2011  Prologue,2011-11-20,Prologue,Kigali,Kigali,19,1,race/tour-of-rwanda/2011/prologue,3.5
+187,Tour of Rwanda 2011  Stage 1,2011-11-21,RR,Rwamagana,Kigali,19,2,race/tour-of-rwanda/2011/stage-1,85.0
+188,Tour of Rwanda 2011  Stage 2 (ITT),2011-11-21,ITT,Kigali,Rwamagana,19,3,race/tour-of-rwanda/2011/stage-2,45.0
+189,Tour of Rwanda 2011  Stage 3,2011-11-22,RR,Kigali,Gisenyi,19,4,race/tour-of-rwanda/2011/stage-3,150.0
+190,Tour of Rwanda 2011  Stage 4,2011-11-23,RR,Gisenyi,Gitarama,19,5,race/tour-of-rwanda/2011/stage-4,140.0
+191,Tour of Rwanda 2011  Stage 5,2011-11-24,RR,Gitarama,Butare,19,6,race/tour-of-rwanda/2011/stage-5,80.0
+192,Tour of Rwanda 2011  Stage 6,2011-11-25,RR,Butare,Kibuye,19,7,race/tour-of-rwanda/2011/stage-6,155.0
+193,Tour of Rwanda 2011  Stage 7,2011-11-26,RR,Kibuye,Kigali,19,8,race/tour-of-rwanda/2011/stage-7,130.0
+194,Tour of Oman 2011  Stage 1,2011-02-15,RR,As Sawadi,Al Seeb,0,1,race/tour-of-oman/2011/stage-1,158.0
+195,Tour of Oman 2011  Stage 2,2011-02-16,RR,"The Wave, Muscat",Al Wutayya,0,2,race/tour-of-oman/2011/stage-2,150.0
+196,Tour of Oman 2011  Stage 3,2011-02-17,RR,Sur,Sur,0,3,race/tour-of-oman/2011/stage-3,208.0
+197,Tour of Oman 2011  Stage 4,2011-02-18,RR,Sultan Qaboos University,Jabal al Akhdhar (Green Mountain),0,4,race/tour-of-oman/2011/stage-4,157.0
+198,Tour of Oman 2011  Stage 5 (ITT),2011-02-19,ITT,Al Jissah,Al Jissah,0,5,race/tour-of-oman/2011/stage-5,18.0
+199,Tour of Oman 2011  Stage 6,2011-02-20,RR,Qurayyat,Mattrah Seafront,0,6,race/tour-of-oman/2011/stage-6,157.0
+200,Tour De Kumano 2011  Stage (ITT),2011-05-26,ITT,Shingu,Shingu,1,1,race/tour-de-kumano/2011/stage-0,0.7
+201,Tour De Kumano 2011  Stage 1,2011-05-27,RR,Nagai,Nagai,1,2,race/tour-de-kumano/2011/stage-1,0.0
+202,Tour De Kumano 2011  Stage 2,2011-05-28,RR,Kumano,Kumano,1,3,race/tour-de-kumano/2011/stage-2,0.0
+203,Tour De Kumano 2011  Stage 3,2011-05-29,RR,Taiji,Taiji,1,4,race/tour-de-kumano/2011/stage-3,0.0
+204,National Championships Japan - ITT 2011,2011-06-12,RR,Start,Finish,2,0,race/nc-japan-itt/2011,30.0
+205,National Championships Kazakhstan - ITT 2011,2011-06-22,RR,Start,Finish,3,0,race/nc-kazakhstan-itt/2011,50.0
+206,National Championships Iran - ITT 2011,2011-06-23,RR,Start,Finish,4,0,race/nc-iran-itt/2011,0.0
+207,National Championships Israel - ITT 2011,2011-06-23,RR,Start,Finish,5,0,race/nc-israel-itt/2011,0.0
+208,National Championships Iran - Road Race 2011,2011-06-25,RR,Start,Finish,6,0,race/nc-iran/2011,0.0
+209,National Championships Israel - Road Race 2011,2011-06-25,RR,Start,Finish,7,0,race/nc-israel/2011,133.0
+210,National Championships Mongolia - ITT 2011,2011-06-25,RR,Start,Finish,8,0,race/nc-mongolia-itt/2011,0.0
+211,National Championships Japan - Road Race 2011,2011-06-26,RR,Start,Finish,9,0,race/nc-japan/2011,0.0
+212,National Championships Mongolia - Road Race 2011,2011-06-26,RR,Start,Finish,10,0,race/nc-mongolia/2011,0.0
+213,Tour of Taihu 2011  Stage 1,2011-11-01,RR,Wuxi,Wuxi,11,1,race/tour-of-taihu-lake/2011/stage-1,0.0
+214,Tour of Taihu 2011  Stage 2,2011-11-02,RR,Suzhou,Suzhou,11,2,race/tour-of-taihu-lake/2011/stage-2,0.0
+215,Tour of Taihu 2011  Stage 3,2011-11-03,RR,Changshu,Changshu,11,3,race/tour-of-taihu-lake/2011/stage-3,0.0
+216,Tour of Taihu 2011  Stage 4,2011-11-04,RR,Jiangyin, Changzhou,11,4,race/tour-of-taihu-lake/2011/stage-4,0.0
+217,Tour of Taihu 2011  Stage 5,2011-11-05,RR,Changzhou, Yixing,11,5,race/tour-of-taihu-lake/2011/stage-5,0.0
+218,Omloop Het Nieuwsblad 2011,2011-02-26,RR,Gent,Gent,0,0,race/omloop-het-nieuwsblad/2011,203.0
+219,Gp Di Lugano 2011,2011-02-27,RR,Start,Finish,1,0,race/gp-lugano/2011,178.1
+220,Driedaagse van West-Vlaanderen 2011  Prologue,2011-03-04,Prologue,Middelkerke,Middelkerke,2,1,race/3daagse-van-west-vlaanderen/2011/prologue,7.0
+221,Driedaagse van West-Vlaanderen 2011  Stage 2,2011-03-05,RR,Brugge,Bellegem,2,2,race/3daagse-van-west-vlaanderen/2011/stage-2,174.9
+222,Driedaagse van West-Vlaanderen 2011  Stage 3,2011-03-06,RR,Nieuwpoort,Ichtegem,2,3,race/3daagse-van-west-vlaanderen/2011/stage-3,195.5
+223,Vuelta ciclista a la region de Murcia 2011  Stage 1,2011-03-04,RR,San Pedro del Pinatar,Alhama de Murcia,3,1,race/vuelta-ciclista-a-la-region-de-murcia/2011/stage-1,178.5
+224,Vuelta ciclista a la region de Murcia 2011  Stage 2,2011-03-05,RR,Estrella Levante,Alto de Espuña,3,2,race/vuelta-ciclista-a-la-region-de-murcia/2011/stage-2,183.2
+225,Vuelta ciclista a la region de Murcia 2011  Stage 3 (ITT),2011-03-06,ITT,Murcia,Murcia,3,3,race/vuelta-ciclista-a-la-region-de-murcia/2011/stage-3,12.4
+226,Paris-Troyes 2011,2011-03-13,RR,Start,Finish,4,0,race/paris-troyes/2011,148.9
+227,Critérium International 2011  Stage 1,2011-03-26,RR,Porto-Vecchio,Col de l’Ospedale,5,1,race/criterium-international/2011/stage-1,198.0
+228,Critérium International 2011  Stage 2,2011-03-27,RR,Porto-Vecchio,Porto-Vecchio,5,2,race/criterium-international/2011/stage-2,75.0
+229,Critérium International 2011  Stage 3 (ITT),2011-03-27,ITT,Porto-Vecchio,Porto-Vecchio,5,3,race/criterium-international/2011/stage-3,7.0
+230,Driedaagse De Panne-Koksijde 2011  Stage 1,2011-03-29,RR,Middelkerke,Zottegem,6,1,race/driedaagse-vd-panne/2011/stage-1,194.0
+231,Driedaagse De Panne-Koksijde 2011  Stage 2,2011-03-30,RR,Oudenaarde,Koksijde,6,2,race/driedaagse-vd-panne/2011/stage-2,219.0
+232,Driedaagse De Panne-Koksijde 2011  Stage 3,2011-03-31,RR,De Panne,De Panne,6,3,race/driedaagse-vd-panne/2011/stage-3,0.0
+233,Driedaagse De Panne-Koksijde 2011  Stage 4,2011-03-31,RR,De Panne,De Panne,6,4,race/driedaagse-vd-panne/2011/stage-4,0.0
+234,Flèche d\'Emeraude - Saint Malo 2011,2011-04-03,RR,Start,Finish,7,0,race/fleche-d-emeraude-saint-malo/2011,183.0
+235,Scheldeprijs 2011,2011-04-06,RR,Antwerpen,Antwerpen,8,0,race/scheldeprijs/2011,200.0
+236,Grand Prix Pino Cerami 2011,2011-04-07,RR,Start,Finish,9,0,race/gp-cerami/2011,199.2
+237,Tour du Loir-et-Cher 'E. Provost' 2011  Stage 1,2011-04-13,RR,Blois,Lamotte Beuvron,10,1,race/tour-du-loir-et-cher-e.-provost-/2011/stage-1,153.0
+238,Tour du Loir-et-Cher 'E. Provost' 2011  Stage 2,2011-04-14,RR,Vendôme,Villebarou,10,2,race/tour-du-loir-et-cher-e.-provost-/2011/stage-2,201.9
+239,Tour du Loir-et-Cher 'E. Provost' 2011  Stage 3,2011-04-15,RR,Huisseau-sur-Cosson,Nouan-le-Fuzelier,10,3,race/tour-du-loir-et-cher-e.-provost-/2011/stage-3,200.5
+240,Tour du Loir-et-Cher 'E. Provost' 2011  Stage 4,2011-04-16,RR,Monthou-sur-Nièvre,Ange,10,4,race/tour-du-loir-et-cher-e.-provost-/2011/stage-4,192.0
+241,Tour du Loir-et-Cher 'E. Provost' 2011  Stage 5,2011-04-17,RR,Blois,Blois,10,5,race/tour-du-loir-et-cher-e.-provost-/2011/stage-5,97.7
+242,Tesco Rutland - Melton International Cicle Classic 2011,2011-04-17,RR,Start,Finish,11,0,race/east-midlands-international-cicle-classic/2011,0.0
+243,Giro del Trentino 2011  Stage 1 (ITT),2011-04-19,ITT,Riva del Garda,Arco,12,1,race/tour-of-the-alps/2011/stage-1,13.4
+244,Giro del Trentino 2011  Stage 2,2011-04-20,RR,Dro,Ledro Bezzecca,12,2,race/tour-of-the-alps/2011/stage-2,184.0
+245,Giro del Trentino 2011  Stage 3,2011-04-21,RR,Molina di Ledro,Fai della Paganella,12,3,race/tour-of-the-alps/2011/stage-3,170.0
+246,Giro del Trentino 2011  Stage 4,2011-04-22,RR,Andalo,Madonna di Campiglio,12,4,race/tour-of-the-alps/2011/stage-4,161.5
+247,Banja Luka - Belgrade I 2011,2011-04-23,RR,Banja Luka,Brcko,13,0,race/banja-luka-belgrade-i/2011,0.0
+248,Presidential Cycling Tour of Turkey 2011  Stage 1,2011-04-24,RR,Istanbul,Istanbul,14,1,race/tour-of-turkey/2011/stage-1,121.0
+249,Presidential Cycling Tour of Turkey 2011  Stage 2,2011-04-25,RR,Kusadasi,Turgutreis,14,2,race/tour-of-turkey/2011/stage-2,181.0
+250,Presidential Cycling Tour of Turkey 2011  Stage 3,2011-04-26,RR,Bodrum,Marmaris,14,3,race/tour-of-turkey/2011/stage-3,166.0
+251,Presidential Cycling Tour of Turkey 2011  Stage 4,2011-04-27,RR,Marmaris,Pamukkale,14,4,race/tour-of-turkey/2011/stage-4,209.0
+252,Presidential Cycling Tour of Turkey 2011  Stage 5,2011-04-28,RR,Denizli,Fethiye,14,5,race/tour-of-turkey/2011/stage-5,221.0
+253,Presidential Cycling Tour of Turkey 2011  Stage 6,2011-04-29,RR,Fethiye,Finike,14,6,race/tour-of-turkey/2011/stage-6,194.0
+254,Presidential Cycling Tour of Turkey 2011  Stage 7,2011-04-30,RR,Tekirova,Manavgat,14,7,race/tour-of-turkey/2011/stage-7,135.0
+255,Presidential Cycling Tour of Turkey 2011  Stage 8,2011-05-01,RR,Side,Alanya,14,8,race/tour-of-turkey/2011/stage-8,160.0
+256,Banja Luka-Belgrade II 2011,2011-04-24,RR,Start,Finish,15,0,race/beograd-banja-luka-ii/2011,0.0
+257,Himmerland Rundt 2011,2011-04-24,RR,Start,Finish,16,0,race/himmerland-rundt/2011,0.0
+258,Ronde van Noord-Holland 2011,2011-04-25,RR,Zaandam,Zaandam,17,0,race/ronde-van-noord-holland/2011,223.0
+259,GP Palio del Recioto 2011,2011-04-26,RR,Negrar,Negrar,18,0,race/gp-palio-del-recioto/2011,0.0
+260,Rund um den Finanzplatz Eschborn-Frankfurt 2011,2011-05-01,RR,Frankfurt,Frankfurt,19,0,race/Eschborn-Frankfurt/2011,202.7
+261,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2011  Stage 1,2011-05-04,RR,Dunkerque,Orchies,20,1,race/4-jours-de-dunkerque/2011/stage-1,180.6
+262,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2011  Stage 2,2011-05-05,RR,Douai,Iwuy,20,2,race/4-jours-de-dunkerque/2011/stage-2,166.0
+263,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2011  Stage 3,2011-05-06,RR,Caudry,Le Cateau-Cambrésis,20,3,race/4-jours-de-dunkerque/2011/stage-3,171.2
+264,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2011  Stage 4,2011-05-07,RR,Hazebrouck,Cassel,20,4,race/4-jours-de-dunkerque/2011/stage-4,189.6
+265,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2011  Stage 5,2011-05-08,RR,Grande-Synthe,Dunkerque,20,5,race/4-jours-de-dunkerque/2011/stage-5,179.5
+266,Circuit De Wallonie 2011,2011-05-08,RR,Fleurus,Fleurus,21,0,race/circuit-de-wallonie/2011,0.0
+267,Grand Prix Criquielion 2011,2011-05-22,RR,Start,Finish,22,0,race/grand-prix-criquielion/2011,160.0
+268,Bayern-Rundfahrt 2011  Stage 1,2011-05-25,RR,Pfarrkirchen,Freystadt,23,1,race/bayern-rundfarht/2011/stage-1,223.2
+269,Bayern-Rundfahrt 2011  Stage 2,2011-05-26,RR,Freystadt,Bad Gögging,23,2,race/bayern-rundfarht/2011/stage-2,206.2
+270,Bayern-Rundfahrt 2011  Stage 3,2011-05-27,RR,Bad Gögging,Aichach,23,3,race/bayern-rundfarht/2011/stage-3,180.8
+271,Bayern-Rundfahrt 2011  Stage 4 (ITT),2011-05-28,ITT,Friedberg,Friedberg,23,4,race/bayern-rundfarht/2011/stage-4,26.0
+272,Bayern-Rundfahrt 2011  Stage 5,2011-05-29,RR,Friedberg,Moosburg,23,5,race/bayern-rundfarht/2011/stage-5,162.1
+273,Boucles de l'Aulne - Châteaulin 2011,2011-05-29,RR,Start,Finish,24,0,race/boucles-de-l-aulne/2011,168.0
+274,GP Industria e Commercio - Tr. Città di San Vendemiano 2011,2011-05-29,RR,San Vendemiano,San Vendemiano,25,0,race/gp-industria-e-commercio2/2011,178.5
+275,Paris-Roubaix Espoirs 2011,2011-05-29,RR,Péronne,Roubaix,26,0,race/paris-roubaix-espoirs/2011,180.7
+276,Rogaland Gp 2011,2011-05-29,RR,Sandnes,Stavanger,27,0,race/tour-des-fjords/2011,194.0
+277,Ster Zlm Toer - Gp Jan Van Heeswijk 2011  Prologue,2011-06-15,Prologue,Alblasserdam,Alblasserdam,28,1,race/ster-elektro-tour/2011/prologue,7.0
+278,Ster Zlm Toer - Gp Jan Van Heeswijk 2011  Stage 1,2011-06-16,RR,Eindhoven,Sittard/Geleen,28,2,race/ster-elektro-tour/2011/stage-1,177.0
+279,Ster Zlm Toer - Gp Jan Van Heeswijk 2011  Stage 2,2011-06-17,RR,Nuth (Schimmert),Nuth (Schimmert),28,3,race/ster-elektro-tour/2011/stage-2,188.0
+280,Ster Zlm Toer - Gp Jan Van Heeswijk 2011  Stage 3,2011-06-18,RR,Verviers (B),La Gileppe (B),28,4,race/ster-elektro-tour/2011/stage-3,184.0
+281,Ster Zlm Toer - Gp Jan Van Heeswijk 2011  Stage 4,2011-06-19,RR,Etten-Leur,Etten-Leur,28,5,race/ster-elektro-tour/2011/stage-4,191.9
+282,Route du Sud - la Depêche du Midi 2011  Stage 1,2011-06-16,RR,Castres,Samatan,29,1,race/la-route-d-occitanie/2011/stage-1,203.0
+283,Route du Sud - la Depêche du Midi 2011  Stage 2,2011-06-17,RR,ST Gaudens,Cauterets,29,2,race/la-route-d-occitanie/2011/stage-2,177.0
+284,Route du Sud - la Depêche du Midi 2011  Stage 3,2011-06-18,RR,Pierrefitte-Nestalas,Bagnères-de-Luchon,29,3,race/la-route-d-occitanie/2011/stage-3,197.0
+285,Route du Sud - la Depêche du Midi 2011  Stage 4,2011-06-19,RR,Izaourt,Pau,29,4,race/la-route-d-occitanie/2011/stage-4,143.0
+286,National Championships Estonia - ITT 2011,2011-06-20,RR,Kuressaare,Kuressaare,30,0,race/nc-estonia-itt/2011,38.7
+287,National Championships Estonia - Road Race 2011,2011-06-22,RR,Kuressaare,Kuressaare,31,0,race/nc-estonia/2011,0.0
+288,National Championships Czech Republic - ITT 2011,2011-06-23,RR,Sumperk,Sumperk,32,0,race/nc-czech-republic-itt/2011,0.0
+289,National Championships Denmark - ITT 2011,2011-06-23,RR,Nyborg,Nyborg,33,0,race/nc-denmark-itt/2011,0.0
+290,National Championships France - ITT 2011,2011-06-23,RR,Boulogne-sur-Mer,Boulogne-sur-Mer,34,0,race/nc-france-itt/2011,45.2
+291,National Championships Latvia - ITT 2011,2011-06-23,RR,Smiltene,Smiltene,35,0,race/nc-latvia-itt/2011,40.0
+292,National Championships Luxembourg - ITT 2011,2011-06-23,RR,Diekirch,Diekirch,36,0,race/nc-luxembourg-itt/2011,46.4
+293,National Championships Moldova - ITT 2011,2011-06-23,RR,Start,Finish,37,0,race/nc-moldova-itt/2011,0.0
+294,National Championships Russia - ITT 2011,2011-06-24,RR,Start,Finish,38,0,race/nc-russia-itt/2011,45.0
+295,National Championships Slovakia - ITT 2011,2011-06-23,RR,Sumperk,Sumperk,39,0,race/nc-slovakia2/2011,0.0
+296,National Championships Switserland - ITT 2011,2011-06-23,RR,Pfaffnau,Pfaffnau,40,0,race/nc-switzerland-itt/2011,41.0
+297,National TT Championships Poland 2011,2011-06-23,RR,Start,Finish,41,0,race/nc-poland-itt/2011,0.0
+298,National TT Championships Romania 2011,2011-06-23,RR,Start,Finish,42,0,race/nc-romania-itt/2011,0.0
+299,National Championships Albania - Road Race 2011,2011-06-24,RR,Start,Finish,43,0,race/nc-albania/2011,0.0
+300,National Championships Belarus - ITT 2011,2011-06-24,RR,Mazyr,Mazyr,44,0,race/nc-belarus-itt/2011,0.0
+301,National Championships Hungary - ITT 2011,2011-06-24,RR,Start,Finish,45,0,race/nc-hungary-itt/2011,0.0
+302,National Championships Ireland - ITT 2011,2011-06-24,RR,Emyvale,Emyvale,46,0,race/nc-ireland-itt/2011,0.0
+303,National Championships Lithuania - ITT 2011,2011-06-24,RR,Start,Finish,47,0,race/nc-lithuania-itt/2011,0.0
+304,National Championships Moldavie - Road Race 2011,2011-06-24,RR,Chisinau,Chisinau,48,0,race/nc-moldova/2011,0.0
+305,National Championships Serbia - ITT 2011,2011-06-24,RR,Start,Finish,49,0,race/nc-serbia-itt/2011,0.0
+306,National Championships Sweden - Road Race 2011,2011-06-24,RR,Sollerön,Sollerön,50,0,race/nc-sweden/2011,0.0
+307,National Championships Ukraine - ITT 2011,2011-06-24,RR,Chernivtsi,Chernivtsi,51,0,race/nc-ukraine-itt/2011,32.0
+308,National TT Championships Portugal 2011,2011-06-24,RR,Start,Finish,52,0,race/nc-portugal/2011,0.0
+309,National Championships Turkey - ITT 2011,2011-06-25,RR,Start,Finish,53,0,race/nc-turkey-itt/2011,0.0
+310,National Championships Netherlands U23 - Road Race 2011,2011-06-25,RR,Ootmarsum,Ootmarsum,54,0,race/nc-netherlands-u23/2011,175.5
+311,National Championships Switserland - Road Race 2011,2011-06-25,RR,Kirchdorf,Kirchdorf,55,0,race/nc-suisse-u23/2011,158.4
+312,National Championships Belarus - Road Race 2011,2011-06-26,RR,Mazyr,Mazyr,56,0,race/nc-belarus/2011,0.0
+313,National Championships Bulgaria - ITT 2011,2011-06-26,RR,Start,Finish,57,0,race/nc-bulgaria-itt/2011,0.0
+314,National Championships Bulgaria - Road Race 2011,2011-06-26,RR,Start,Finish,58,0,race/nc-bulgaria/2011,0.0
+315,National Championships Czech Republic - Road Race 2011,2011-06-26,RR,Start,Finish,59,0,race/nc-czech-republic/2011,0.0
+316,National Championships Hungary - Road Race 2011,2011-06-26,RR,Start,Finish,60,0,race/nc-hungary/2011,0.0
+317,National Championships Latvia - Road Race 2011,2011-06-26,RR,Start,Finish,61,0,race/nc-latvia/2011,0.0
+318,National Championships Lithuania - Road Race 2011,2011-06-26,RR,Start,Finish,62,0,race/nc-lithuania/2011,0.0
+319,National Championships Malasia - Road Race 2011,2011-06-26,RR,Raub,Raub,63,0,race/nc-malaysia/2011,0.0
+320,National Championships Romania - Road Race 2011,2011-06-26,RR,Start,Finish,64,0,race/nc-romania/2011,0.0
+321,National Championships Russia - Road Race 2011,2011-06-26,RR,Start,Finish,65,0,race/nc-russia/2011,0.0
+322,National Championships Serbia - Road Race 2011,2011-06-26,RR,Start,Finish,66,0,race/nc-serbia/2011,0.0
+323,National Championships Slovenia - ITT 2011,2011-06-26,RR,Solkan,Solkan,67,0,race/nc-slovenia-itt/2011,0.0
+324,National Championships Turkey - Road Race 2011,2011-06-26,RR,Start,Finish,68,0,race/nc-turkey/2011,124.0
+325,National Championships Ukraine - Road Race 2011,2011-06-26,RR,Chernivtsi,Chernivtsi,69,0,race/nc-ukraine/2011,0.0
+326,National Championships Macedonia - ITT 2011,2011-06-29,RR,Start,Finish,70,0,race/nc-macedonia-itt/2011,0.0
+327,National Championships Macedonia - Road Race 2011,2011-07-03,RR,Start,Finish,71,0,race/nc-macedonia/2011,0.0
+328,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2011  Stage 1,2011-07-07,RR,Ramalhal,Sobral de Monte Agraço,72,1,race/gp-int-torres-vedras/2011/stage-1,0.0
+329,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2011  Stage 2,2011-07-08,RR,Manique do Intendente,Carvoeira,72,2,race/gp-int-torres-vedras/2011/stage-2,0.0
+330,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2011  Stage 3,2011-07-09,RR,Atouguia da Baleia,Vimeiro,72,3,race/gp-int-torres-vedras/2011/stage-3,0.0
+331,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2011  Stage 4,2011-07-10,RR,Torres Vedras,Torres Vedras,72,4,race/gp-int-torres-vedras/2011/stage-4,0.0
+332,GP van de stad Geel 2011,2011-07-11,RR,Geel,Geel,73,0,race/gp-van-de-stad-geel/2011,167.1
+333,European Championship U23 - ITT 2011,2011-07-15,RR,Offida,Offida,74,0,race/european-championships-itt-u23/2011,25.0
+334,National Championships Greece - ITT 2011,2011-07-22,RR,Start,Finish,75,0,race/nc-greece-itt/2011,0.0
+335,Tour de Wallonie 2011  Stage 1,2011-07-23,RR,Amay,Banneux,76,1,race/tour-de-wallonie/2011/stage-1,152.1
+336,Tour de Wallonie 2011  Stage 2,2011-07-24,RR,Wanze,Houffalize,76,2,race/tour-de-wallonie/2011/stage-2,194.4
+337,Tour de Wallonie 2011  Stage 3,2011-07-25,RR,Sambreville,Perwez,76,3,race/tour-de-wallonie/2011/stage-3,224.4
+338,Tour de Wallonie 2011  Stage 4,2011-07-26,RR,Enghien,Mouscron,76,4,race/tour-de-wallonie/2011/stage-4,151.6
+339,Tour de Wallonie 2011  Stage 5,2011-07-27,RR,Charleroi,Thuin,76,5,race/tour-de-wallonie/2011/stage-5,163.3
+340,National Championships Greece - Road Race 2011,2011-07-23,RR,Start,Finish,77,0,race/nc-greece/2011,0.0
+341,Central European Tour Miskolc GP 2011,2011-07-23,RR,Miskolc,Miskolc,78,0,race/central-european-tour-miskolc-gp/2011,0.0
+342,Central European Tour Budapest GP 2011,2011-07-24,RR,Start,Finish,79,0,race/central-european-tour-budapest-gp/2011,0.0
+343,Sparkassen Giro 2011,2011-07-31,RR,Bochum,Bochum,80,0,race/sparkassen-giro-bochum/2011,180.0
+344,Paris - Corrèze 2011  Stage 1,2011-08-03,RR,Contres,Bellac,81,1,race/paris-correze/2011/stage-1,181.8
+345,Paris - Corrèze 2011  Stage 2,2011-08-04,RR,Objat,Chaumeil,81,2,race/paris-correze/2011/stage-2,178.7
+346,National Championships Iceland - Road Race 2011,2011-08-06,RR,Start,Finish,82,0,race/national-championships-iceland---road-race/2011,101.4
+347,Gp Di Poggiana 2011,2011-08-14,RR,Riese Pio X,Riese Pio X,83,0,race/gp-di-poggiana/2011,0.0
+348,Baltic Chain Tour 2011  Prologue,2011-08-16,Prologue,Start,Finish,84,1,race/baltic-chain-tour/2011/prologue,0.0
+349,Baltic Chain Tour 2011  Stage 1,2011-08-17,RR,Start,Finish,84,2,race/baltic-chain-tour/2011/stage-1,0.0
+350,Baltic Chain Tour 2011  Stage 2,2011-08-18,RR,Start,Finish,84,3,race/baltic-chain-tour/2011/stage-2,0.0
+351,Baltic Chain Tour 2011  Stage 3,2011-08-19,RR,Start,Finish,84,4,race/baltic-chain-tour/2011/stage-3,0.0
+352,Baltic Chain Tour 2011  Stage 4,2011-08-20,RR,Start,Finish,84,5,race/baltic-chain-tour/2011/stage-4,0.0
+353,Coppa Agostoni - Giro della Brianza 2011,2011-08-17,RR,Start,Finish,85,0,race/coppa-agostoni/2011,0.0
+354,Dutch Food Valley Classic 2011,2011-08-19,RR,Start,Finish,86,0,race/veenendaal-veenendaal/2011,0.0
+355,Tour International du Poitou Charentes 2011  Stage 1,2011-08-23,RR,Surgères,Cognac,87,1,race/tour-du-poitou-charentes-et-de-la-vienne/2011/stage-1,184.2
+356,Tour International du Poitou Charentes 2011  Stage 2,2011-08-24,RR,Cognac,Bressuire,87,2,race/tour-du-poitou-charentes-et-de-la-vienne/2011/stage-2,175.2
+357,Tour International du Poitou Charentes 2011  Stage 3,2011-08-25,RR,Bressuire,Châtellerault,87,3,race/tour-du-poitou-charentes-et-de-la-vienne/2011/stage-3,104.8
+358,Tour International du Poitou Charentes 2011  Stage 4 (ITT),2011-08-25,ITT,Châtellerault,Châtellerault,87,4,race/tour-du-poitou-charentes-et-de-la-vienne/2011/stage-4,20.5
+359,Tour International du Poitou Charentes 2011  Stage 5,2011-08-26,RR,Saint-Jacques de Thouars,Poitiers,87,5,race/tour-du-poitou-charentes-et-de-la-vienne/2011/stage-5,171.4
+360,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2011  Stage 1,2011-08-23,RR,Ville-La-Grand,Ville-La-Grand,88,1,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2011/stage-1,150.0
+361,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2011  Stage 2,2011-08-24,RR,Megeve,La Salle,88,2,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2011/stage-2,142.6
+362,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2011  Stage 3,2011-08-25,RR,La Salle,Vangrisenche,88,3,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2011/stage-3,155.6
+363,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2011  Stage 4,2011-08-26,RR,Rivara,Rivara,88,4,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2011/stage-4,167.1
+364,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2011  Stage 5,2011-08-27,RR,Chatillon,Gorgnon,88,5,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2011/stage-5,162.4
+365,Giro Ciclistico della Valle d\'Aosta Mont Blanc 2011  Stage 6 (ITT),2011-08-28,ITT,Champdepraz,Champdepraz,88,6,race/giro-ciclistico-della-valle-d-aosta-mont-blanc/2011/stage-6,9.2
+366,Grand Prix des Marbriers 2011,2011-08-23,RR,Start,Finish,89,0,race/grand-prix-des-marbriers/2011,0.0
+367,Schaal Sels 2011,2011-08-28,RR,Merksem,Merksem,90,0,race/81st-schaal-schels/2011,203.1
+368,National Championships Finland - ITT 2011,2011-09-03,RR,Start,Finish,91,0,race/nc-finland-itt/2011,46.2
+369,Tour de l'Avenir 2011  Prologue,2011-09-04,Prologue,Yutz,Yutz,92,1,race/tour-de-l-avenir/2011/prologue,6.6
+370,Tour de l'Avenir 2011  Stage 2,2011-09-05,RR,Yutz,Lun?ville,92,2,race/tour-de-l-avenir/2011/stage-2,160.5
+371,Tour de l'Avenir 2011  Stage 3,2011-09-06,RR,Rambervilliers,Bruy?res,92,3,race/tour-de-l-avenir/2011/stage-3,151.0
+372,Tour de l'Avenir 2011  Stage 4,2011-09-07,RR,G?rardmer,Porrentruy,92,4,race/tour-de-l-avenir/2011/stage-4,166.5
+373,Tour de l'Avenir 2011  Stage 5,2011-09-08,RR,Porrentruy,Arbois,92,5,race/tour-de-l-avenir/2011/stage-5,153.5
+374,Tour de l'Avenir 2011  Stage 6,2011-09-09,RR,Champagnole,Le Sal?ve,92,6,race/tour-de-l-avenir/2011/stage-6,171.5
+375,Tour de l'Avenir 2011  Stage 7,2011-09-10,RR,Fossano,Fossano,92,7,race/tour-de-l-avenir/2011/stage-7,153.5
+376,Tour de l'Avenir 2011  Stage 8,2011-09-11,RR,Alba,Alba,92,8,race/tour-de-l-avenir/2011/stage-8,138.5
+377,Giro di Padania 2011  Stage 1,2011-09-06,RR,Paesana,Laigueglia,93,1,race/giro-di-padania/2011/stage-1,170.0
+378,Giro di Padania 2011  Stage 2,2011-09-07,RR,Loano,Vigevano,93,2,race/giro-di-padania/2011/stage-2,187.0
+379,Giro di Padania 2011  Stage 3,2011-09-08,RR,Lonate Pozzolo,Salsomaggiore,93,3,race/giro-di-padania/2011/stage-3,227.0
+380,Giro di Padania 2011  Stage 4,2011-09-09,RR,Noceto,San Valentino di Brentonica,93,4,race/giro-di-padania/2011/stage-4,184.6
+381,Giro di Padania 2011  Stage 5,2011-09-10,RR,Rovereto,Montecchio Maggiore,93,5,race/giro-di-padania/2011/stage-5,170.0
+382,GP de Fourmies - La Voix du Nord 2011,2011-09-11,RR,Start,Finish,94,0,race/gp-de-fourmies/2011,0.0
+383,National Championships Austria - ITT 2011,2011-09-11,RR,Start,Finish,95,0,race/nc-austria-itt/2011,0.0
+384,Tour of Britain 2011  Stage 1,2011-09-11,RR,Peebles,Dumfries,96,1,race/tour-of-brittain/2011/stage-1,170.3
+385,Tour of Britain 2011  Stage 2,2011-09-12,RR,Kendal,Blackpool,96,2,race/tour-of-brittain/2011/stage-2,137.7
+386,Tour of Britain 2011  Stage 3,2011-09-13,RR,Stoke-on-Trent,Stoke-on-Trent,96,3,race/tour-of-brittain/2011/stage-3,140.0
+387,Tour of Britain 2011  Stage 4,2011-09-14,RR,Powis Castle,Caerphilly,96,4,race/tour-of-brittain/2011/stage-4,182.0
+388,Tour of Britain 2011  Stage 5,2011-09-15,RR,Exeter,Exmouth,96,5,race/tour-of-brittain/2011/stage-5,180.3
+389,Tour of Britain 2011  Stage 6,2011-09-16,RR,Taunton,Wells,96,6,race/tour-of-brittain/2011/stage-6,0.0
+390,Tour of Britain 2011  Stage 7,2011-09-17,RR,Bury St. Edmunds,Sandringham Estate,96,7,race/tour-of-brittain/2011/stage-7,199.7
+391,Tour of Britain 2011  Stage 8 (ITT),2011-09-18,ITT,London,London,96,8,race/tour-of-brittain/2011/stage-8,8.8
+392,Tour of Britain 2011  Stage 9,2011-09-18,RR,London,London,96,9,race/tour-of-brittain/2011/stage-9,88.8
+393,Chrono Champenois Masculin International 2011,2011-09-11,RR,Betheny,Betheny,97,0,race/chrono-champenois-masculin/2011,0.0
+394,Duo Normand 2011,2011-09-18,RR,Start,Finish,98,0,race/duo-normand/2011/,0.0
+395,GP Impanis - Van Petegem 2011,2011-09-18,RR,Brakel,Haacht,99,0,race/gp-impanis-van-petegem/2011,170.8
+396,Tour de Vendée 2011,2011-10-02,RR,La Ferrière,La Roche Sur Yon,100,0,race/tour-de-vendee/2011,205.0
+397,Memorial Frank Vandenbroucke 2011,2011-10-04,RR,Binche,Binche,101,0,race/memorial-frank-vandenbroucke/2011,202.1
+398,Gran Premio Bruno Beghelli 2011,2011-10-09,RR,Monteveglio,Monteveglio,102,0,race/gp-bruno-beghelli/2011,198.9
+399,Paris-tours Espoirs 2011,2011-10-09,RR,Start,Finish,103,0,race/paris-tours-u23/2011,0.0
+400,Nationale Sluitingsprijs Putte-kapellen 2011,2011-10-11,RR,Putte-kapellen,Putte-kapellen,104,0,race/nationale-sluitingsprijs-putte-kapellen/2011,183.6
+401,Chrono des Nations 2011,2011-10-16,RR,Les Herbiers,Les herbiers,105,0,race/chrono-des-nations/2011,48.5
+402,Chrono des Nations U23 2011,2011-10-16,RR,Les Herbiers,Les herbiers,106,0,race/chrono-des-nations-u23/2011,38.61
+403,Australian Open Road Cycling Championships - Itt 2011,2011-01-11,RR,Start,Finish,0,0,race/nc-australia-u23-itt/2011,38.5
+404, Oceania Continental Championships U23- Road Race 2011,2011-03-20,RR,"Shepparton, Victoria","Shepparton, Victoria",1,0,race/oceania-road-championships/2011,116.0
+405,Oceania Road Championships - Road Race 2011,2011-03-20,RR,"Shepparton, Victoria","Shepparton, Victoria",2,0,race/oceania-championships/2011,162.4
+406,National Championships Argentina - ITT 2011,2011-04-01,RR,Start,Finish,0,0,race/nc-argentina-itt/2011,0.0
+407,National Championships Argentina - Road Race 2011,2011-04-03,RR,Start,Finish,1,0,race/nc-argentina/2011,191.4
+408,National Championships Ecuador - ITT 2011,2011-04-16,RR,Start,Finish,2,0,race/nc-ecuador-itt/2011,0.0
+409,National Championships Ecuador - Road Race 2011,2011-04-17,RR,Start,Finish,3,0,race/nc-ecuador/2011,0.0
+410,Amgen Tour Of California 2011  Stage 1,2011-05-15,RR,South Lake Tahoe,to North Lake Tahoe-Northstar at Tahoe Resort,4,1,race/tour-of-california/2011/stage-1,80.0
+411,Amgen Tour Of California 2011  Stage 2,2011-05-16,RR,Nevada City,Sacramento,4,2,race/tour-of-california/2011/stage-2,122.8
+412,Amgen Tour Of California 2011  Stage 3,2011-05-17,RR,Auburn,Sacramento,4,3,race/tour-of-california/2011/stage-3,196.2
+413,Amgen Tour Of California 2011  Stage 4,2011-05-18,RR,Livermore,San José,4,4,race/tour-of-california/2011/stage-4,131.6
+414,Amgen Tour Of California 2011  Stage 5,2011-05-19,RR,Seaside,Paso Robles,4,5,race/tour-of-california/2011/stage-5,217.4
+415,Amgen Tour Of California 2011  Stage 6 (ITT),2011-05-20,ITT,Solvang,Solvang,4,6,race/tour-of-california/2011/stage-6,24.1
+416,Amgen Tour Of California 2011  Stage 7,2011-05-21,RR,Claremont,Mt. Baldy,4,7,race/tour-of-california/2011/stage-7,121.9
+417,Amgen Tour Of California 2011  Stage 8,2011-05-22,RR,Santa Clarita,Thousand Oaks,4,8,race/tour-of-california/2011/stage-8,129.4
+418,National Championships United States - ITT 2011,2011-05-28,RR,Greenville,Greenville,5,0,race/nc-usa-itt/2011,0.0
+419,TD Bank International Cycling Championship 2011,2011-06-05,RR,Philadelphia,Philadelphia,6,0,race/philadelphia-international-championship/2011,251.0
+420,National TT Championships Canada 2011,2011-06-23,RR,Start,Finish,7,0,race/nc-canada-itt/2011,0.0
+421,National Championships Brazil - ITT 2011,2011-06-24,RR,Cerquilho,Cerquilho,8,0,race/nc-brazil-itt/2011,27.2
+422,National Championships Canada - Road Race 2011,2011-06-25,RR,Milton,Milton,9,0,race/nc-canada/2011,180.0
+423,National Championships Cuba - ITT 2011,2011-06-25,RR,Start,Finish,10,0,race/nc-cuba-itt/2011,0.0
+424,National Championships Brazil - Road Race 2011,2011-06-26,RR,Start,Finish,11,0,race/nc-brazil/2011,0.0
+425,National Championships Cuba - Road Race 2011,2011-06-26,RR,Start,Finish,12,0,race/nc-cuba/2011,0.0
+426,National Championships Venezuela - Road Race 2011,2011-06-26,RR,Anzoátegui,Anzoátegui,13,0,race/nc-venezuela/2011,0.0
+427,National Championships Costa Rica - Road Race 2011,2011-07-03,RR,Start,Finish,14,0,race/nc-costa-rica/2011,0.0
+428,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 1,2011-10-16,RR,Marília,Bauru,15,1,race/tour-do-brasil/2011/stage-1,114.0
+429,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 2,2011-10-17,RR,Bauru,Sao Carlos,15,2,race/tour-do-brasil/2011/stage-2,178.0
+430,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 3 (ITT),2011-10-18,ITT,Sao Carlos,Contra Rel?gio,15,3,race/tour-do-brasil/2011/stage-3,23.4
+431,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 4,2011-10-19,RR,Rio Claro,Sorocaba,15,4,race/tour-do-brasil/2011/stage-4,179.0
+432,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 5,2011-10-20,RR,Sorocaba,Atibaia,15,5,race/tour-do-brasil/2011/stage-5,150.2
+433,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 6,2011-10-21,RR,Atibaia,Pindamonhangaba,15,6,race/tour-do-brasil/2011/stage-6,183.7
+434,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 7,2011-10-22,RR,Pindamohangaba,Campos do Jordao,15,7,race/tour-do-brasil/2011/stage-7,53.2
+435,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2011  Stage 8 (ITT),2011-10-23,ITT,Sao Paolo,Sao Paolo,15,8,race/tour-do-brasil/2011/stage-8,48.0
+436,Vuelta a Bolivia 2011  Stage 1,2011-11-06,RR,Gutierrez,Santa Cruz de la sierra,16,1,race/vuelta-a-bolivia/2011/stage-1,215.0
+437,Vuelta a Bolivia 2011  Stage 2,2011-11-07,RR,Santra Cruz de la sierra,Buena Vista,16,2,race/vuelta-a-bolivia/2011/stage-2,189.0
+438,Vuelta a Bolivia 2011  Stage 3,2011-11-08,RR,Buena Vista,Villa Tunari,16,3,race/vuelta-a-bolivia/2011/stage-3,207.0
+439,Vuelta a Bolivia 2011  Stage 4,2011-11-09,RR,Corani,Cochabamba,16,4,race/vuelta-a-bolivia/2011/stage-4,118.0
+440,Vuelta a Bolivia 2011  Stage 5,2011-11-10,RR,Bombeo,Oruro,16,5,race/vuelta-a-bolivia/2011/stage-5,141.0
+441,Vuelta a Bolivia 2011  Stage 6,2011-11-11,RR,Vila Vila,El Alto (Cruz Papal),16,6,race/vuelta-a-bolivia/2011/stage-6,162.0
+442,Vuelta a Bolivia 2011  Stage 7,2011-11-12,RR,Obrajes,San Pablo de Tiquina,16,7,race/vuelta-a-bolivia/2011/stage-7a,116.0
+443,Vuelta a Bolivia 2011  Stage 7 (ITT),2011-11-12,ITT,San Pedro de Tiquina,Copacabana,16,8,race/vuelta-a-bolivia/2011/stage-7b,40.0
+444,Vuelta a Bolivia 2011  Stage 8 (ITT),2011-11-13,ITT,Copacabana,San Pedro de Tiquina,16,9,race/vuelta-a-bolivia/2011/stage-8a,39.0
+445,Vuelta a Bolivia 2011  Stage 8,2011-11-13,RR,San Pablo de Tiquina,Irpavi,16,10,race/vuelta-a-bolivia/2011/stage-8b,121.0
+446,Vuelta Ciclista Chiapas 2011  Stage 1,2011-11-22,RR,Tapachula,Tapachula,17,1,race/vuelta-ciclista-chiapas/2011/stage-1,0.0
+447,Vuelta Ciclista Chiapas 2011  Stage 2,2011-11-23,RR,Huixtla,Tonalá,17,2,race/vuelta-ciclista-chiapas/2011/stage-2,0.0
+448,Vuelta Ciclista Chiapas 2011  Stage 3,2011-11-24,RR,Tonalá, Tuxtla Gutiérrez,17,3,race/vuelta-ciclista-chiapas/2011/stage-3,0.0
+449,Vuelta Ciclista Chiapas 2011  Stage 4,2011-11-25,RR,Tuxtla Gutiérrez, San Cristóbal de las Casas,17,4,race/vuelta-ciclista-chiapas/2011/stage-4,0.0
+450,Vuelta Ciclista Chiapas 2011  Stage 5,2011-11-26,RR,San Cristóbal de las Casas,Comitán,17,5,race/vuelta-ciclista-chiapas/2011/stage-5,0.0
+451,Vuelta Ciclista Chiapas 2011  Stage 6 (ITT),2011-11-27,ITT,Chiapa de Corzo, Tuxtla Gutiérrez,17,6,race/vuelta-ciclista-chiapas/2011/stage-6,0.0
+452,Vuelta Internacional a Costa Rica 2011  Stage 1,2011-12-16,RR,Circuitos Esparza,Circuitos Esparza,18,1,race/vuelta-internacional-a-costa-rica/2011/stage-1,98.7
+453,Vuelta Internacional a Costa Rica 2011  Stage 2,2011-12-17,RR,Esparza,Liberia,18,2,race/vuelta-internacional-a-costa-rica/2011/stage-2,127.1
+454,Vuelta Internacional a Costa Rica 2011  Stage 3,2011-12-18,RR,Liberia,Quesada,18,3,race/vuelta-internacional-a-costa-rica/2011/stage-3,216.9
+455,Vuelta Internacional a Costa Rica 2011  Stage 4,2011-12-19,RR,Quesada,Guápiles,18,4,race/vuelta-internacional-a-costa-rica/2011/stage-4,116.3
+456,Vuelta Internacional a Costa Rica 2011  Stage 5 (ITT),2011-12-20,ITT,Ticaban,Guápiles,18,5,race/vuelta-internacional-a-costa-rica/2011/stage-5,28.8
+457,Vuelta Internacional a Costa Rica 2011  Stage 6,2011-12-21,RR,Guápiles, Limón,18,6,race/vuelta-internacional-a-costa-rica/2011/stage-6,154.9
+458,Vuelta Internacional a Costa Rica 2011  Stage 7,2011-12-22,RR,Limón, Paraíso,18,7,race/vuelta-internacional-a-costa-rica/2011/stage-7,148.2
+459,Vuelta Internacional a Costa Rica 2011  Stage 8 (ITT),2011-12-23,ITT,Pacayas,San Juan de Chicuá,18,8,race/vuelta-internacional-a-costa-rica/2011/stage-8,24.5
+460,Vuelta Internacional a Costa Rica 2011  Stage 9,2011-12-25,RR,Sábana,Sábana,18,9,race/vuelta-internacional-a-costa-rica/2011/stage-9,94.0
+461,Vuelta Internacional a Costa Rica 2011  Stage 10,2011-12-26,RR,San José, Pérez Zeledón,18,10,race/vuelta-internacional-a-costa-rica/2011/stage-10,126.4
+462,Vuelta Internacional a Costa Rica 2011  Stage 11,2011-12-27,RR,Palmar Norte,Buenos Aires,18,11,race/vuelta-internacional-a-costa-rica/2011/stage-11,160.5
+463,Vuelta Internacional a Costa Rica 2011  Stage 12,2011-12-28,RR,Pérez Zeledón, San José,18,12,race/vuelta-internacional-a-costa-rica/2011/stage-12,134.8

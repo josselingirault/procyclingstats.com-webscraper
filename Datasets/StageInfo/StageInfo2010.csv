@@ -1,162 +1,328 @@
-,Category,Date,Finish,Length,Number_stages,Race_ID,Race_Name,Stage#,Stage_Name,Stage_Type,Start,url
-0,1.WT.A,,,,1.0,,Milano-Sanremo 2010 ,,,,,
-1,1.WT.B,,,,1.0,,Gent - Wevelgem 2010 ,,,,,
-2,2.WT,,,,6.0,,Vuelta Ciclista al Pais Vasco 2010 ,,,,,
-3,2.WT,,,,6.0,,Tour de Romandie 2010 ,,,,,
-4,2.WT,,,,8.0,,Critérium du Dauphiné 2010 ,,,,,
-5,2.WT,,,,9.0,,Tour de Suisse 2010 ,,,,,
-6,1.WT.B,,,,1.0,,Clasica Ciclista San Sebastian 2010 ,,,,,
-7,1.WT.B,,,,7.0,,Tour de Pologne 2010 ,,,,,
-8,GT.B,,,,21.0,,Vuelta a España 2010 ,,,,,
-9,1.WT.B,,,,1.0,,Grand Prix Cycliste de Montréal 2010 ,,,,,
-10,J-WC.TT,,,,1.0,,World Championships MJ - ITT 2010 ,,,,,
-11,F-WC.TT,,,,1.0,,World Championships WE - ITT 2010 ,,,,,
-12,-,,,,1.0,,World Championships - ITT 2010 ,,,,,
-13,Worlds.RR,,,,1.0,,World Championships - Road Race 2010 ,,,,,
-14,Nationals.C3,,,,1.0,,National Championships South Africa - Road Race 2010 ,,,,,
-15,2.2/U23,,,,5.0,,Tour Of Libya 2010 ,,,,,
-16,Nationals.C3,,,,1.0,,National Championships Benin - Road Race 2010 ,,,,,
-17,Nationals.C3,,,,1.0,,National Championships Uganda - Road Race 2010 ,,,,,
-18,Nationals.C3.TT,,,,1.0,,National Championships Morocco - ITT 2010 ,,,,,
-19,Nationals.C3.TT,,,,1.0,,National Championships Tunisia - ITT 2010 ,,,,,
-20,Nationals.C3.TT,,,,1.0,,National Championships Algeria - ITT 2010 ,,,,,
-21,Nationals.C3.TT,,,,1.0,,National Championships Namibia - ITT 2010 ,,,,,
-22,Nationals.C3,,,,1.0,,National Championships Morocco - Road Race 2010 ,,,,,
-23,Nationals.C3,,,,1.0,,National Championships Namibia - Road Race 2010 ,,,,,
-24,Nationals.C3,,,,1.0,,National Championships Tunisia - Road Race 2010 ,,,,,
-25,Nationals.C3,,,,1.0,,National Championships Zimbabwe - Road Race 2010 ,,,,,
-26,Nationals.C3,,,,1.0,,National Championships Algeria - Road Race 2010 ,,,,,
-27,2.2/U23,,,,10.0,,Tour du Faso 2010 ,,,,,
-28,UCI.Cont.Ch.TT,,,,1.0,,African Continental Championships - ITT 2010 ,,,,,
-29,2.2/U23,,,,9.0,,Tour of Rwanda 2010 ,,,,,
-30,2.1,,,,6.0,,Tour Of Oman 2010 ,,,,,
-31,-,,,,1.0,,Asian Cycling Championships - ITT 2010 ,,,,,
-32,2.2/U23,,,,4.0,,Le Tour de Filipinas 2010 ,,,,,
-33,2.2/U23,,,,4.0,,Tour De Kumano 2010 ,,,,,
-34,Nationals.C3.TT,,,,1.0,,National Championships Japan - ITT 2010 ,,,,,
-35,Nationals.C3.TT,,,,1.0,,National Championships Kazakhstan - ITT 2010 ,,,,,
-36,Nationals.C3.TT,,,,1.0,,National Championships Israel - ITT 2010 ,,,,,
-37,Nationals.C3.TT,,,,1.0,,National Championships Iran - ITT 2010 ,,,,,
-38,Nationals.C3,,,,1.0,,National Championships Israel - Road Race 2010 ,,,,,
-39,Nationals.C3.TT,,,,1.0,,National Championships Mongolia - ITT 2010 ,,,,,
-40,Nationals.C3,,,,1.0,,National Championships Iran - Road Race 2010 ,,,,,
-41,Nationals.C3,,,,1.0,,National Championships Japan - Road Race 2010 ,,,,,
-42,Nationals.C3,,,,1.0,,National Championships Mongolia - Road Race 2010 ,,,,,
-43,Nationals.C3,,,,1.0,,National Championships Malasia - Road Race 2010 ,,,,,
-44,1.2,,,,1.0,,Tour of Taihu 2010 ,,,,,
-45,1.HC,,,,1.0,,Omloop Het Nieuwsblad 2010 ,,,,,
-46,2.1,,,,5.0,,Vuelta ciclista a la region de Murcia 2010 ,,,,,
-47,2.1,,,,3.0,,Driedaagse van West-Vlaanderen 2010 ,,,,,
-48,1.2,,,,1.0,,Paris-Troyes 2010 ,,,,,
-49,E-2.Ncup,,,,3.0,,Troféu Cidade da Guarda - GP Portugal 2010 ,,,,,
-50,2.HC,,,,3.0,,Critérium International 2010 ,,,,,
-51,2.HC,,,,4.0,,Driedaagse De Panne-Koksijde 2010 ,,,,,
-52,1.2,,,,1.0,,GP Palio del Recioto 2010 ,,,,,
-53,1.HC,,,,1.0,,Scheldeprijs 2010 ,,,,,
-54,2.HC,,,,8.0,,Presidential Cycling Tour of Turkey 2010 ,,,,,
-55,2.2/U23,,,,5.0,,Tour du Loir-et-Cher 'E. Provost' 2010 ,,,,,
-56,2.1,,,,4.0,,Giro del Trentino 2010 ,,,,,
-57,1.2,,,,1.0,,Banja Luka-Belgrade II 2010 ,,,,,
-58,1.2,,,,1.0,,Ronde van Noord-Holland 2010 ,,,,,
-59,1.HC,,,,1.0,,Rund um den Finanzplatz Eschborn-Frankfurt 2010 ,,,,,
-60,2.HC,,,,5.0,,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2010 ,,,,,
-61,1.2,,,,1.0,,Circuit De Wallonie 2010 ,,,,,
-62,2.2/U23,,,,7.0,,Royal Smilde Olympia’s Tour 2010 ,,,,,
-63,2.2/U23,,,,4.0,, Ronde de l'Isard 2010 ,,,,,
-64,1.2,,,,1.0,,Grand Prix Criquielion 2010 ,,,,,
-65,Nationals.C3.TT,,,,1.0,,National Championships Bulgaria - ITT 2010 ,,,,,
-66,2.HC,,,,5.0,,Bayern-Rundfahrt 2010 ,,,,,
-67,1.1,,,,1.0,,Boucles de l'Aulne - Châteaulin 2010 ,,,,,
-68,1.2,,,,1.0,,GP Industria e Commercio - Tr. Città di San Vendemiano 2010 ,,,,,
-69,1.2,,,,1.0,,Paris-Roubaix Espoirs 2010 ,,,,,
-70,1.2,,,,1.0,,Rogaland Gp 2010 ,,,,,
-71,2.HC,,,,5.0,,Skoda-Tour de Luxembourg 2010 ,,,,,
-72,2.1,,,,5.0,,Ster Elektrotoer 2010 ,,,,,
-73,2.1,,,,4.0,,Route du Sud - la Depêche du Midi 2010 ,,,,,
-74,1.2,,,,1.0,,Flèche Ardennaise 2010 ,,,,,
-75,Nationals.C3.TT,,,,1.0,,National Championships Sweden Itt 2010 ,,,,,
-76,Nationals.C3.TT,,,,1.0,,National Championships Switserland Itt 2010 ,,,,,
-77,Nationals.C3.TT,,,,1.0,,National Championships Czech Republic - ITT 2010 ,,,,,
-78,Nationals.C1.TT,,,,1.0,,National Championships France - ITT 2010 ,,,,,
-79,Nationals.C3.TT,,,,1.0,,National Championships Hungary - ITT 2010 ,,,,,
-80,Nationals.C3.TT,,,,1.0,,National Championships Ireland - ITT 2010 ,,,,,
-81,Nationals.C3.TT,,,,1.0,,National Championships Latvia - ITT 2010 ,,,,,
-82,Nationals.C3.TT,,,,1.0,,National Championships Luxembourg - ITT 2010 ,,,,,
-83,Nationals.C2.TT,,,,1.0,,National Championships Poland I.t.t. 2010 ,,,,,
-84,Nationals.C3.TT,,,,1.0,,National Championships Russia - ITT 2010 ,,,,,
-85,Nationals.C3.TT,,,,1.0,,National Championships Slovakia - ITT 2010 ,,,,,
-86,Nationals.C3.TT,,,,1.0,,National Championships Slovenia - ITT 2010 ,,,,,
-87,Nationals.C3.TT,,,,1.0,,National TT Championships Portugal 2010 ,,,,,
-88,Nationals.C3,,,,1.0,,National Championships Belarus - ITT 2010 ,,,,,
-89,Nationals.C3.TT,,,,1.0,,National Championships Estonia - ITT 2010 ,,,,,
-90,Nationals.C3.TT,,,,1.0,,National Championships Greece - ITT 2010 ,,,,,
-91,Nationals.C3.TT,,,,1.0,,National Championships Lithuania - ITT 2010 ,,,,,
-92,Nationals.C3.TT,,,,1.0,,National Championships Moldova - ITT 2010 ,,,,,
-93,Nationals.C3.TT,,,,1.0,,National Championships Serbia - ITT 2010 ,,,,,
-94,Nationals.C3.TT,,,,1.0,,National Championships Turkey - ITT 2010 ,,,,,
-95,Nationals.C3.TT,,,,1.0,,National Championships Ukraine - ITT 2010 ,,,,,
-96,Nationals.C3.TT,,,,1.0,,National TT Championships Romania 2010 ,,,,,
-97,Nationals.C3,,,,1.0,,National Championships Sweden - Road Race 2010 ,,,,,
-98,Nationals.C3,,,,1.0,,National Championship Austria - Road Race 2010 ,,,,,
-99,Nationals.C3,,,,1.0,,National Championships Albania - Road Race 2010 ,,,,,
-100,Nationals.C3,,,,1.0,,National Championships Belarus - Road Race 2010 ,,,,,
-101,Nationals.C3,,,,1.0,,National Championships Belgium - Road Race 2010 ,,,,,
-102,Nationals.C3,,,,1.0,,National Championships Brazil - Road Race 2010 ,,,,,
-103,Nationals.C3,,,,1.0,,National Championships Bulgaria - Road Race 2010 ,,,,,
-104,Nationals.C3,,,,1.0,,National Championships Czech Republic - Road Race 2010 ,,,,,
-105,Nationals.C3,,,,1.0,,National Championships Finland - Road Race 2010 ,,,,,
-106,Nationals.C3,,,,1.0,,National Championships France - Road Race 2010 ,,,,,
-107,Nationals.C3,,,,1.0,,National Championships Greece - Road Race 2010 ,,,,,
-108,Nationals.C3,,,,1.0,,National Championships Hungary - Road Race 2010 ,,,,,
-109,Nationals.C3.TT,,,,1.0,,National Championships Italy - ITT 2010 ,,,,,
-110,Nationals.C3,,,,1.0,,National Championships Latvia - Road Race 2010 ,,,,,
-111,Nationals.C3,,,,1.0,,National Championships Lithuania - Road Race 2010 ,,,,,
-112,Nationals.C3,,,,1.0,,National Championships Macedonia - Road Race 2010 ,,,,,
-113,Nationals.C3,,,,1.0,,National Championships Moldavie - Road Race 2010 ,,,,,
-114,Nationals.C3,,,,1.0,,National Championships Romania - Road Race 2010 ,,,,,
-115,Nationals.C2,,,,1.0,,National Championships Russia - Road Race 2010 ,,,,,
-116,Nationals.C3,,,,1.0,,National Championships Serbia - Road Race 2010 ,,,,,
-117,Nationals.C3,,,,1.0,,National Championships Turkey - Road Race 2010 ,,,,,
-118,Nationals.C3,,,,1.0,,National Championships Ukraine - Road Race 2010 ,,,,,
-119,2.2/U23,,,,5.0,,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2010 ,,,,,
-120,Nationals.C3.TT,,,,1.0,,National Championships Macedonia - ITT 2010 ,,,,,
-121,1.2,,,,1.0,,GP van de Stad Geel 2010 ,,,,,
-122,UCI.Cont.Ch.TT,,,,1.0,,U23 European Championship Tt 2010 ,,,,,
-123,2.HC,,,,5.0,,Tour de Wallonie 2010 ,,,,,
-124,2.1,,,,2.0,,Paris - Corrèze  2010 ,,,,,
-125,1.1,,,,1.0,,Sparkassen Giro Bochum 2010 ,,,,,
-126,Nationals.C3,,,,1.0,,National Championships Iceland - Road Race 2010 ,,,,,
-127,1.2,,,,1.0,,Gp Di Poggiana 2010 ,,,,,
-128,-,,,,1.0,,National Championships France U23 - Road Race 2010 ,,,,,
-129,1.2,,,,1.0,,Grand Prix Des Marbriers 2010 ,,,,,
-130,1.2,,,,1.0,,Ronde van Midden-Nederland 2010 ,,,,,
-131,1.2,,,,1.0,,Schaal Sels 2010 ,,,,,
-132,Nationals.C3.TT,,,,1.0,,National Championships Finland - ITT 2010 ,,,,,
-133,1.2,,,,1.0,,Memorial Davide Fardelli 2010 ,,,,,
-134,E-2.Ncup,,,,8.0,,Tour de l'Avenir 2010 ,,,,,
-135,2.1,,,,8.0,,Tour of Britain 2010 ,,,,,
-136,1.2,,,,1.0,,Duo Normand 2010 ,,,,,
-137,1.HC,,,,1.0,,Tour de Vendée 2010 ,,,,,
-138,1.1,,,,1.0,,Memorial Frank Vandenbroucke 2010 ,,,,,
-139,1.1,,,,1.0,,Gran Premio Bruno Beghelli 2010 ,,,,,
-140,1.HC,,,,1.0,,Paris - Tours U23 2010 ,,,,,
-141,1.1,,,,1.0,,Nationale Sluitingprijs Putte - Kapellen 2010 ,,,,,
-142,1.1,,,,1.0,,Chrono Des Herbiers 2010 ,,,,,
-143,Nationals.C3.TT,,,,1.0,,National TT Championships New Zealand 2010 ,,,,,
-144,Nationals.C3,,,,1.0,,National Championships New Zealand - Road Race 2010 ,,,,,
-145,Nationals.C3.TT,,,,1.0,,National Championships Ecuador - ITT 2010 ,,,,,
-146,Nationals.C3,,,,1.0,,National Championships Ecuador - Road Race 2010 ,,,,,
-147,Nationals.C3.TT,,,,1.0,,National Championships Argentina - ITT 2010 ,,,,,
-148,Nationals.C3,,,,1.0,,National Championships Argentina - Road Race 2010 ,,,,,
-149,1.2,,,,1.0,,Tour of the Battenkill 2010 ,,,,,
-150,Nationals.C3.TT,,,,1.0,,National Championships Cuba - ITT 2010 ,,,,,
-151,Nationals.C3,,,,1.0,,National Championships Cuba - Road Race 2010 ,,,,,
-152,Nationals.C3.TT,,,,1.0,,National Championships Brazil - ITT 2010 ,,,,,
-153,Nationals.C3.TT,,,,1.0,,National TT Championships Canada 2010 ,,,,,
-154,Nationals.C3,,,,1.0,,National Championships Canada - Road Race 2010 ,,,,,
-155,Nationals.C3,,,,1.0,,National Championships Costa Rica - Road Race 2010 ,,,,,
-156,Nationals.C3,,,,1.0,,National Championships Venezuela - Road Race 2010 ,,,,,
-157,2.1,,,,6.0,,Tour Of Utah 2010 ,,,,,
-158,Nationals.C3.TT,,,,1.0,,National Championships Mexico - ITT 2010 ,,,,,
-159,Nationals.C3,,,,1.0,,National Championships Mexico Road Race 2010 ,,,,,
-160,Nationals.C3.TT,,,,1.0,,National Championships United States - ITT 2010 ,,,,,
+,Stage_Name,Date,Stage_Type,Start,Finish,Race_ID,Stage#,url,Length
+0,Milano-Sanremo 2010,2010-03-20,RR,Milano,San Remo,0,0,race/milano-sanremo/2010,298.0
+1,Gent - Wevelgem 2010,2010-03-28,RR,Deinze,Wevelgem,1,0,race/gent-wevelgem/2010,201.0
+2,Vuelta Ciclista al Pais Vasco 2010  Stage 1,2010-04-05,RR,Zierbena,Zierbena,2,1,race/itzulia-basque-country/2010/stage-1,152.0
+3,Vuelta Ciclista al Pais Vasco 2010  Stage 2,2010-04-06,RR,Zierbena,Viana,2,2,race/itzulia-basque-country/2010/stage-2,217.0
+4,Vuelta Ciclista al Pais Vasco 2010  Stage 3,2010-04-07,RR,Viana,Amurrio,2,3,race/itzulia-basque-country/2010/stage-3,187.0
+5,Vuelta Ciclista al Pais Vasco 2010  Stage 4,2010-04-08,RR,Murgia,Santuario de Arrate,2,4,race/itzulia-basque-country/2010/stage-4,160.0
+6,Vuelta Ciclista al Pais Vasco 2010  Stage 5,2010-04-09,RR,Eibar,Orio,2,5,race/itzulia-basque-country/2010/stage-5,170.0
+7,Vuelta Ciclista al Pais Vasco 2010  Stage 6 (ITT),2010-04-10,ITT,Orio,Orio,2,6,race/itzulia-basque-country/2010/stage-6,22.0
+8,Tour de Romandie 2010  Prologue,2010-04-27,Prologue,Porrentruy,Porrentruy,3,1,race/tour-de-romandie/2010/prologue,4.3
+9,Tour de Romandie 2010  Stage 2,2010-04-28,RR,Porrentruy,Fleurier,3,2,race/tour-de-romandie/2010/stage-2,175.6
+10,Tour de Romandie 2010  Stage 3,2010-04-29,RR,Fribourg,Fribourg,3,3,race/tour-de-romandie/2010/stage-3,171.8
+11,Tour de Romandie 2010  Stage 4 (ITT),2010-04-30,ITT,Moudon,Moudon,3,4,race/tour-de-romandie/2010/stage-4,23.4
+12,Tour de Romandie 2010  Stage 5,2010-05-01,RR,Vevey,Châtel/Vallée d'Abondance,3,5,race/tour-de-romandie/2010/stage-5,157.9
+13,Tour de Romandie 2010  Stage 6,2010-05-02,RR,Sion,Sion,3,6,race/tour-de-romandie/2010/stage-6,121.8
+14,Critérium du Dauphiné 2010  Prologue,2010-06-06,Prologue,Evian-les-Bains,Evian-les-Bains,4,1,race/dauphine/2010/prologue,6.8
+15,Critérium du Dauphiné 2010  Stage 2,2010-06-07,RR,Evian-les-Bains,Saint-Laurent-du-Pont,4,2,race/dauphine/2010/stage-2,191.5
+16,Critérium du Dauphiné 2010  Stage 3,2010-06-08,RR,Annonay,Bourg-Saint-Andéol,4,3,race/dauphine/2010/stage-3,177.0
+17,Critérium du Dauphiné 2010  Stage 4 (ITT),2010-06-09,ITT,Monteux,Sorgues,4,4,race/dauphine/2010/stage-4,49.0
+18,Critérium du Dauphiné 2010  Stage 5,2010-06-10,RR,Saint-Paul-Trois-Châteaux,Risoul,4,5,race/dauphine/2010/stage-5,210.5
+19,Critérium du Dauphiné 2010  Stage 6,2010-06-11,RR,Serre-Chevalier,Grenoble,4,6,race/dauphine/2010/stage-6,143.5
+20,Critérium du Dauphiné 2010  Stage 7,2010-06-12,RR,Crolles,Alpe d\'Huez,4,7,race/dauphine/2010/stage-7,151.5
+21,Critérium du Dauphiné 2010  Stage 8,2010-06-13,RR,Allevard-les-Bains,Sallanches,4,8,race/dauphine/2010/stage-8,148.0
+22,Tour de Suisse 2010  Prologue,2010-06-12,Prologue,Lugano,Lugano,5,1,race/tour-de-suisse/2010/prologue,7.6
+23,Tour de Suisse 2010  Stage 1,2010-06-13,RR,Ascona,Sierre,5,2,race/tour-de-suisse/2010/stage-1,0.0
+24,Tour de Suisse 2010  Stage 2,2010-06-14,RR,Sierre,Schwarzenburg,5,3,race/tour-de-suisse/2010/stage-2,0.0
+25,Tour de Suisse 2010  Stage 3,2010-06-15,RR,Schwarzenburg,Wettingen,5,4,race/tour-de-suisse/2010/stage-3,192.2
+26,Tour de Suisse 2010  Stage 4,2010-06-16,RR,Wettingen,Frutigen,5,5,race/tour-de-suisse/2010/stage-4,172.5
+27,Tour de Suisse 2010  Stage 5,2010-06-17,RR,Meiringen,La Punt,5,6,race/tour-de-suisse/2010/stage-5,0.0
+28,Tour de Suisse 2010  Stage 6,2010-06-18,RR,Savognin,Wetzikon,5,7,race/tour-de-suisse/2010/stage-6,204.1
+29,Tour de Suisse 2010  Stage 7,2010-06-19,RR,Wetzikon,Liestal,5,8,race/tour-de-suisse/2010/stage-7,173.4
+30,Tour de Suisse 2010  Stage 8 (ITT),2010-06-20,ITT,Liestal,Liestal,5,9,race/tour-de-suisse/2010/stage-8,26.9
+31,Clasica Ciclista San Sebastian 2010,2010-07-31,RR,San,Sebastian,6,0,race/san-sebastian/2010,234.0
+32,Tour de Pologne 2010  Stage 1,2010-08-01,RR,Sochaczew,Warschau,7,1,race/tour-de-pologne/2010/stage-1,175.1
+33,Tour de Pologne 2010  Stage 2,2010-08-02,RR,Rawa Mazowiecka,Czestochowa,7,2,race/tour-de-pologne/2010/stage-2,240.0
+34,Tour de Pologne 2010  Stage 3,2010-08-03,RR,Sosnowiec,Katowice,7,3,race/tour-de-pologne/2010/stage-3,122.1
+35,Tour de Pologne 2010  Stage 4,2010-08-04,RR,Tychy,Cieszyn,7,4,race/tour-de-pologne/2010/stage-4,177.9
+36,Tour de Pologne 2010  Stage 5,2010-08-05,RR,Jastrzbie Zdrój,Ustro,7,5,race/tour-de-pologne/2010/stage-5,149.0
+37,Tour de Pologne 2010  Stage 6,2010-08-06,RR,Owicim,Bukowina Tatrzaska,7,6,race/tour-de-pologne/2010/stage-6,228.5
+38,Tour de Pologne 2010  Stage 7,2010-08-07,RR,Nowy Targ,Kraków,7,7,race/tour-de-pologne/2010/stage-7,163.9
+39,Vuelta a España 2010  Stage 1 (TTT),2010-08-28,TTT,Sevilla,Sevilla,8,1,race/vuelta-a-espana/2010/stage-1,13.0
+40,Vuelta a España 2010  Stage 2,2010-08-29,RR,Alcalá de Guadaíra,Marbella,8,2,race/vuelta-a-espana/2010/stage-2,173.0
+41,Vuelta a España 2010  Stage 3,2010-08-30,RR,Marbella,Málaga,8,3,race/vuelta-a-espana/2010/stage-3,156.0
+42,Vuelta a España 2010  Stage 4,2010-08-31,RR,Málaga,Valdepeñas de Jaén,8,4,race/vuelta-a-espana/2010/stage-4,177.0
+43,Vuelta a España 2010  Stage 5,2010-09-01,RR,Guadix,Lorca,8,5,race/vuelta-a-espana/2010/stage-5,194.0
+44,Vuelta a España 2010  Stage 6,2010-09-02,RR,Caravaca de Cruz,Murcia,8,6,race/vuelta-a-espana/2010/stage-6,144.0
+45,Vuelta a España 2010  Stage 7,2010-09-03,RR,Murcia,Orihuela,8,7,race/vuelta-a-espana/2010/stage-7,187.1
+46,Vuelta a España 2010  Stage 8,2010-09-04,RR,Villena,Xorret del Catí,8,8,race/vuelta-a-espana/2010/stage-8,188.0
+47,Vuelta a España 2010  Stage 9,2010-09-05,RR,Calpe,Alcoi,8,9,race/vuelta-a-espana/2010/stage-9,187.0
+48,Vuelta a España 2010  Stage 10,2010-09-07,RR,Tarragona,Vilanova i la Geltrú,8,10,race/vuelta-a-espana/2010/stage-10,173.7
+49,Vuelta a España 2010  Stage 11,2010-09-08,RR,Vilanova i la Geltrú,Andorra,8,11,race/vuelta-a-espana/2010/stage-11,208.0
+50,Vuelta a España 2010  Stage 12,2010-09-09,RR,Andorra la Vella,Lleida,8,12,race/vuelta-a-espana/2010/stage-12,196.0
+51,Vuelta a España 2010  Stage 13,2010-09-10,RR,Rincón de Soto,Burgos,8,13,race/vuelta-a-espana/2010/stage-13,193.7
+52,Vuelta a España 2010  Stage 14,2010-09-11,RR,Burgos,Peña Cabarga,8,14,race/vuelta-a-espana/2010/stage-14,178.8
+53,Vuelta a España 2010  Stage 15,2010-09-12,RR,Solares,Lagos de Covadonga,8,15,race/vuelta-a-espana/2010/stage-15,170.0
+54,Vuelta a España 2010  Stage 16,2010-09-13,RR,Gijón,Alto de Cotobello,8,16,race/vuelta-a-espana/2010/stage-16,181.4
+55,Vuelta a España 2010  Stage 17 (ITT),2010-09-15,ITT,Peñafiel,Peñafiel,8,17,race/vuelta-a-espana/2010/stage-17,46.0
+56,Vuelta a España 2010  Stage 18,2010-09-16,RR,Valladolid,Salamanca,8,18,race/vuelta-a-espana/2010/stage-18,148.9
+57,Vuelta a España 2010  Stage 19,2010-09-17,RR,Piedrahita,Toledo,8,19,race/vuelta-a-espana/2010/stage-19,200.0
+58,Vuelta a España 2010  Stage 20,2010-09-18,RR,San Martín de Valdeiglesias,Bola del Mundo,8,20,race/vuelta-a-espana/2010/stage-20,168.8
+59,Vuelta a España 2010  Stage 21,2010-09-19,RR,San Sebastián de los Reyes,Madrid,8,21,race/vuelta-a-espana/2010/stage-21,85.0
+60,Grand Prix Cycliste de Montréal 2010,2010-09-12,RR,Montréal,Montréal,9,0,race/gp-montreal/2010,193.6
+61,World Championships MJ - ITT 2010,2010-08-06,RR,Offida,Offida,0,0,race/uci-world-championships-itt-mj/2010,28.5
+62,World Championships WE - ITT 2010,2010-09-29,RR,Start,Finish,1,0,race/world-championship-itt-we/2010,22.7
+63,World Championships - ITT 2010,2010-09-30,RR,Geelong,Geelong,2,0,race/world-championship-itt/2010,45.4
+64,World Championships - Road Race 2010,2010-10-03,RR,Geelong,Geelong,3,0,race/world-championship/2010,262.7
+65,National Championships South Africa - Road Race 2010,2010-02-19,RR,Start,Finish,0,0,race/nc-south-africa/2010,0.0
+66,Tour Of Libya 2010  Stage 1,2010-03-13,RR,Tripoli,Zouara,1,1,race/tour-of-libya/2010/stage-1,110.0
+67,Tour Of Libya 2010  Stage 2,2010-03-14,RR,Al Ajaylat,Sbrata,1,2,race/tour-of-libya/2010/stage-2,158.0
+68,Tour Of Libya 2010  Stage 3,2010-03-15,RR,Sorman,Jadu,1,3,race/tour-of-libya/2010/stage-3,120.0
+69,Tour Of Libya 2010  Stage 4,2010-03-16,RR,Jadu,Gharian,1,4,race/tour-of-libya/2010/stage-4,124.0
+70,Tour Of Libya 2010  Stage 5,2010-03-17,RR,Gharian,Tripoli,1,5,race/tour-of-libya/2010/stage-5,145.0
+71,National Championships Benin - Road Race 2010,2010-04-11,RR,Start,Finish,2,0,race/nc-benin/2010,120.0
+72,National Championships Uganda - Road Race 2010,2010-06-20,RR,Start,Finish,3,0,race/nc-uganda/2010,160.0
+73,National Championships Morocco - ITT 2010,2010-06-25,RR,Start,Finish,4,0,race/nc-morocco-itt/2010,0.0
+74,National Championships Tunisia - ITT 2010,2010-06-25,RR,Start,Finish,5,0,race/nc-tunisia-itt/2010,0.0
+75,National Championships Algeria - ITT 2010,2010-06-26,RR,Start,Finish,6,0,race/nc-algeria-itt/2010,0.0
+76,National Championships Namibia - ITT 2010,2010-06-26,RR,Start,Finish,7,0,race/nc-namibia-itt/2010,0.0
+77,National Championships Morocco - Road Race 2010,2010-06-27,RR,Start,Finish,8,0,race/nc-morocco/2010,0.0
+78,National Championships Namibia - Road Race 2010,2010-06-27,RR,Start,Finish,9,0,race/nc-namibia/2010,0.0
+79,National Championships Tunisia - Road Race 2010,2010-06-27,RR,Start,Finish,10,0,race/nc-tunisia/2010,0.0
+80,National Championships Zimbabwe - Road Race 2010,2010-06-27,RR,Start,Finish,11,0,race/nc-zimbabwe/2010,0.0
+81,National Championships Algeria - Road Race 2010,2010-06-28,RR,Start,Finish,12,0,race/nc-algeria/2010,0.0
+82,Tour du Faso 2010  Stage 1,2010-10-22,RR,Start,Finish,13,1,race/tour-du-faso/2010/stage-1,0.0
+83,Tour du Faso 2010  Stage 2,2010-10-23,RR,Start,Finish,13,2,race/tour-du-faso/2010/stage-2,0.0
+84,Tour du Faso 2010  Stage 3,2010-10-24,RR,Start,Finish,13,3,race/tour-du-faso/2010/stage-3,0.0
+85,Tour du Faso 2010  Stage 4,2010-10-25,RR,Start,Finish,13,4,race/tour-du-faso/2010/stage-4,0.0
+86,Tour du Faso 2010  Stage 5,2010-10-26,RR,Start,Finish,13,5,race/tour-du-faso/2010/stage-5,0.0
+87,Tour du Faso 2010  Stage 6,2010-10-27,RR,Start,Finish,13,6,race/tour-du-faso/2010/stage-6,0.0
+88,Tour du Faso 2010  Stage 7,2010-10-28,RR,Start,Finish,13,7,race/tour-du-faso/2010/stage-7,0.0
+89,Tour du Faso 2010  Stage 8,2010-10-29,RR,Start,Finish,13,8,race/tour-du-faso/2010/stage-8,0.0
+90,Tour du Faso 2010  Stage 9,2010-10-30,RR,Start,Finish,13,9,race/tour-du-faso/2010/stage-9,0.0
+91,Tour du Faso 2010  Stage 10,2010-10-31,RR,Start,Finish,13,10,race/tour-du-faso/2010/stage-10,0.0
+92,African Continental Championships - ITT 2010,2010-11-12,RR,Kigali,Kigali,14,0,race/african-continental-championships-itt/2010,33.0
+93,Tour of Rwanda 2010  Stage 1,2010-11-17,RR,Kigali,Kigali,15,1,race/tour-of-rwanda/2010/stage-1,162.8
+94,Tour of Rwanda 2010  Stage 2,2010-11-18,RR,Kigali,Byumba,15,2,race/tour-of-rwanda/2010/stage-2,54.2
+95,Tour of Rwanda 2010  Stage 3,2010-11-18,RR,Byumba,Kigali,15,3,race/tour-of-rwanda/2010/stage-3,62.5
+96,Tour of Rwanda 2010  Stage 4,2010-11-19,RR,Kigali,Gisenyi,15,4,race/tour-of-rwanda/2010/stage-4,148.9
+97,Tour of Rwanda 2010  Stage 5,2010-11-20,RR,Gisenyi,Kigali,15,5,race/tour-of-rwanda/2010/stage-5,158.2
+98,Tour of Rwanda 2010  Stage 6,2010-11-22,RR,Kigali,Kibuye,15,6,race/tour-of-rwanda/2010/stage-6,124.2
+99,Tour of Rwanda 2010  Stage 7,2010-11-23,RR,Kibuye,Butare,15,7,race/tour-of-rwanda/2010/stage-7,156.8
+100,Tour of Rwanda 2010  Stage 8,2010-11-24,RR,Butare,Kigali,15,8,race/tour-of-rwanda/2010/stage-8,129.2
+101,Tour of Rwanda 2010  Stage 9,2010-11-25,RR,Kigali,Kigali,15,9,race/tour-of-rwanda/2010/stage-9,120.9
+102,Tour of Oman 2010  Stage 1,2010-02-14,RR,Muscat Corniche,Muscat Corniche,0,1,race/tour-of-oman/2010/stage-1,61.0
+103,Tour of Oman 2010  Stage 2,2010-02-15,RR,Nizwa,Samail,0,2,race/tour-of-oman/2010/stage-2,148.5
+104,Tour of Oman 2010  Stage 3,2010-02-16,RR,Saifat Ash Shiekh,Qurayyat,0,3,race/tour-of-oman/2010/stage-3,124.0
+105,Tour of Oman 2010  Stage 4,2010-02-17,RR,Ibri,Nakhal,0,4,race/tour-of-oman/2010/stage-4,187.0
+106,Tour of Oman 2010  Stage 5,2010-02-18,RR,Wattayat,Sultan Qaboos Stadium,0,5,race/tour-of-oman/2010/stage-5,148.0
+107,Tour of Oman 2010  Stage 6 (ITT),2010-02-19,ITT,Al Jissah,Muscat Corniche,0,6,race/tour-of-oman/2010/stage-6,18.6
+108,Asian Cycling Championships - ITT 2010,2010-04-10,RR,Sharjah,Sharjah,1,0,race/asian-cycling-championships-itt/2010,0.0
+109,Le Tour de Filipinas 2010  Stage 1,2010-04-17,RR,Tagaytay City,Tagaytay City,2,1,race/le-tour-de-filipinas/2010/stage-1,142.7
+110,Le Tour de Filipinas 2010  Stage 2,2010-04-18,RR,Start,Finish,2,2,race/le-tour-de-filipinas/2010/stage-2,60.0
+111,Le Tour de Filipinas 2010  Stage 3,2010-04-19,RR,Quezon City,Subic,2,3,race/le-tour-de-filipinas/2010/stage-3,142.0
+112,Le Tour de Filipinas 2010  Stage 4,2010-04-20,RR,Subic,Subic,2,4,race/le-tour-de-filipinas/2010/stage-4,127.0
+113,Tour De Kumano 2010  Prologue,2010-05-27,Prologue,Start,Finish,3,1,race/tour-de-kumano/2010/prologue,0.0
+114,Tour De Kumano 2010  Stage 1,2010-05-28,RR,Nagai,Nagai,3,2,race/tour-de-kumano/2010/stage-1,0.0
+115,Tour De Kumano 2010  Stage 2,2010-05-29,RR,Kumano,Kumano,3,3,race/tour-de-kumano/2010/stage-2,0.0
+116,Tour De Kumano 2010  Stage 3,2010-05-30,RR,Taiji,Taiji,3,4,race/tour-de-kumano/2010/stage-3,0.0
+117,National Championships Japan - ITT 2010,2010-06-13,RR,Start,Finish,4,0,race/nc-japan-itt/2010,0.0
+118,National Championships Kazakhstan - ITT 2010,2010-06-23,RR,Start,Finish,5,0,race/nc-kazakhstan-itt/2010,0.0
+119,National Championships Israel - ITT 2010,2010-06-25,RR,Start,Finish,6,0,race/nc-israel-itt/2010,0.0
+120,National Championships Iran - ITT 2010,2010-06-26,RR,Start,Finish,7,0,race/nc-iran-itt/2010,0.0
+121,National Championships Israel - Road Race 2010,2010-06-26,RR,Start,Finish,8,0,race/nc-israel/2010,0.0
+122,National Championships Mongolia - ITT 2010,2010-06-26,RR,Start,Finish,9,0,race/nc-mongolia-itt/2010,0.0
+123,National Championships Iran - Road Race 2010,2010-06-27,RR,Start,Finish,10,0,race/nc-iran/2010,0.0
+124,National Championships Japan - Road Race 2010,2010-06-27,RR,Start,Finish,11,0,race/nc-japan/2010,0.0
+125,National Championships Mongolia - Road Race 2010,2010-06-27,RR,Start,Finish,12,0,race/nc-mongolia/2010,0.0
+126,National Championships Malasia - Road Race 2010,2010-07-03,RR,Start,Finish,13,0,race/nc-malaysia/2010,0.0
+127,Tour of Taihu 2010,2010-10-23,RR,Start,Finish,14,0,race/tour-of-taihu-lake/2010,0.0
+128,Omloop Het Nieuwsblad 2010,2010-02-27,RR,Gent,Gent,0,0,race/omloop-het-nieuwsblad/2010,201.2
+129,Vuelta ciclista a la region de Murcia 2010  Stage 1,2010-03-03,RR,San Pedro del Pinatar,San Pedro del Pinatar,1,1,race/vuelta-ciclista-a-la-region-de-murcia/2010/stage-1,166.5
+130,Vuelta ciclista a la region de Murcia 2010  Stage 2,2010-03-04,RR,Calasparra,Caravaca de la Cruz,1,2,race/vuelta-ciclista-a-la-region-de-murcia/2010/stage-2,169.8
+131,Vuelta ciclista a la region de Murcia 2010  Stage 3,2010-03-05,RR,Las Torres de Cotillas,Alhama de Murcia,1,3,race/vuelta-ciclista-a-la-region-de-murcia/2010/stage-3,166.5
+132,Vuelta ciclista a la region de Murcia 2010  Stage 4 (ITT),2010-03-06,ITT,Alhama de Murcia,Alhama de Murcia,1,4,race/vuelta-ciclista-a-la-region-de-murcia/2010/stage-4,22.0
+133,Vuelta ciclista a la region de Murcia 2010  Stage 5,2010-03-07,RR,Redyser,Gran Vía de Murcia,1,5,race/vuelta-ciclista-a-la-region-de-murcia/2010/stage-5,121.1
+134,Driedaagse van West-Vlaanderen 2010  Stage 1,2010-03-05,RR,Kortrijk,Bellegem,2,1,race/3daagse-van-west-vlaanderen/2010/stage-1,176.4
+135,Driedaagse van West-Vlaanderen 2010  Stage 2,2010-03-06,RR,Torhout,Handzame,2,2,race/3daagse-van-west-vlaanderen/2010/stage-2,177.5
+136,Driedaagse van West-Vlaanderen 2010  Stage 3,2010-03-07,RR,Middelkerke,Ichtegem,2,3,race/3daagse-van-west-vlaanderen/2010/stage-3,194.5
+137,Paris-Troyes 2010,2010-03-14,RR,Start,Finish,3,0,race/paris-troyes/2010,172.2
+138,Troféu Cidade da Guarda - GP Portugal 2010  Stage 1,2010-03-26,RR,Guarda,Sabugal,4,1,race/gp-du-portugal/2010/stage-1,123.4
+139,Troféu Cidade da Guarda - GP Portugal 2010  Stage 2,2010-03-27,RR,Guarda,Trancoso,4,2,race/gp-du-portugal/2010/stage-2,0.0
+140,Troféu Cidade da Guarda - GP Portugal 2010  Stage 3 (ITT),2010-03-28,ITT,Guarda,Guarda,4,3,race/gp-du-portugal/2010/stage-3,17.5
+141,Critérium International 2010  Stage 1,2010-03-27,RR,Porto-Vecchio,Col de l\'Ospedale,5,1,race/criterium-international/2010/stage-1,175.5
+142,Critérium International 2010  Stage 2,2010-03-28,RR,Porto Vecchio,Porto Vecchio,5,2,race/criterium-international/2010/stage-2,75.5
+143,Critérium International 2010  Stage 3 (ITT),2010-03-28,ITT,Porto Vecchio,Porto Vecchio,5,3,race/criterium-international/2010/stage-3,7.7
+144,Driedaagse De Panne-Koksijde 2010  Stage 1,2010-03-30,RR,Middelkerke,Oudenaarde,6,1,race/driedaagse-vd-panne/2010/stage-1,198.0
+145,Driedaagse De Panne-Koksijde 2010  Stage 2,2010-03-31,RR,Zottegem,Koksijde (St Idesbald),6,2,race/driedaagse-vd-panne/2010/stage-2,188.0
+146,Driedaagse De Panne-Koksijde 2010  Stage 3,2010-04-01,RR,De Panne,De Panne,6,3,race/driedaagse-vd-panne/2010/stage-3,112.0
+147,Driedaagse De Panne-Koksijde 2010  Stage 4 (ITT),2010-04-01,ITT,De Panne,De Panne,6,4,race/driedaagse-vd-panne/2010/stage-4,14.75
+148,GP Palio del Recioto 2010,2010-04-06,RR,Negrar,Negrar,7,0,race/gp-palio-del-recioto/2010,133.0
+149,Scheldeprijs 2010,2010-04-07,RR,Sloten,Sloten,8,0,race/scheldeprijs/2010,205.4
+150,Presidential Cycling Tour of Turkey 2010  Prologue,2010-04-11,Prologue,Istanbul,Istanbul,9,1,race/tour-of-turkey/2010/prologue,5.8
+151,Presidential Cycling Tour of Turkey 2010  Stage 2,2010-04-12,RR,Kusadasi,Bodrum,9,2,race/tour-of-turkey/2010/stage-2,181.0
+152,Presidential Cycling Tour of Turkey 2010  Stage 3,2010-04-13,RR,Bodrum,Marmaris,9,3,race/tour-of-turkey/2010/stage-3,170.0
+153,Presidential Cycling Tour of Turkey 2010  Stage 4,2010-04-14,RR,Marmaris,Pamukkale,9,4,race/tour-of-turkey/2010/stage-4,209.0
+154,Presidential Cycling Tour of Turkey 2010  Stage 5,2010-04-15,RR,Pamukkale,Fethiye,9,5,race/tour-of-turkey/2010/stage-5,208.6
+155,Presidential Cycling Tour of Turkey 2010  Stage 6,2010-04-16,RR,Fethiye,Finike,9,6,race/tour-of-turkey/2010/stage-6,194.0
+156,Presidential Cycling Tour of Turkey 2010  Stage 7,2010-04-17,RR,Finike,Antalya,9,7,race/tour-of-turkey/2010/stage-7,114.0
+157,Presidential Cycling Tour of Turkey 2010  Stage 8,2010-04-18,RR,Antalya,Alanya,9,8,race/tour-of-turkey/2010/stage-8,158.5
+158,Tour du Loir-et-Cher 'E. Provost' 2010  Stage 1,2010-04-14,RR,Blois,Mer,10,1,race/tour-du-loir-et-cher-e.-provost-/2010/stage-1,139.6
+159,Tour du Loir-et-Cher 'E. Provost' 2010  Stage 2,2010-04-15,RR,Lamotte-sur-Beuvron,Vendôme,10,2,race/tour-du-loir-et-cher-e.-provost-/2010/stage-2,194.0
+160,Tour du Loir-et-Cher 'E. Provost' 2010  Stage 3,2010-04-16,RR,Villebarou,Ange,10,3,race/tour-du-loir-et-cher-e.-provost-/2010/stage-3,185.5
+161,Tour du Loir-et-Cher 'E. Provost' 2010  Stage 4,2010-04-17,RR,Saint-Gervais,Chailles,10,4,race/tour-du-loir-et-cher-e.-provost-/2010/stage-4,0.0
+162,Tour du Loir-et-Cher 'E. Provost' 2010  Stage 5,2010-04-18,RR,Blois,Blois,10,5,race/tour-du-loir-et-cher-e.-provost-/2010/stage-5,0.0
+163,Giro del Trentino 2010  Stage 1 (ITT),2010-04-20,ITT,Riva del Garda,Torbole sul Garda,11,1,race/tour-of-the-alps/2010/stage-1,12.5
+164,Giro del Trentino 2010  Stage 2,2010-04-21,RR,Dro,San Martino di Castrozza,11,2,race/tour-of-the-alps/2010/stage-2,172.5
+165,Giro del Trentino 2010  Stage 3,2010-04-22,RR,Fiera di Primiero,Trento,11,3,race/tour-of-the-alps/2010/stage-3,164.0
+166,Giro del Trentino 2010  Stage 4,2010-04-23,RR,Arco,Alpe di Pampeago (Tesero),11,4,race/tour-of-the-alps/2010/stage-4,172.1
+167,Banja Luka-Belgrade II 2010,2010-04-24,RR,Start,Finish,12,0,race/beograd-banja-luka-ii/2010,127.0
+168,Ronde van Noord-Holland 2010,2010-04-25,RR,Zaandam,Zaandam,13,0,race/ronde-van-noord-holland/2010,0.0
+169,Rund um den Finanzplatz Eschborn-Frankfurt 2010,2010-05-01,RR,Frankfurt,Frankfurt,14,0,race/Eschborn-Frankfurt/2010,202.7
+170,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2010  Stage 1,2010-05-05,RR,Dunkerque,Bray-Dunes,15,1,race/4-jours-de-dunkerque/2010/stage-1,143.0
+171,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2010  Stage 2,2010-05-06,RR,Coulogne,Auby,15,2,race/4-jours-de-dunkerque/2010/stage-2,195.7
+172,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2010  Stage 3,2010-05-07,RR,Menin (Menen),Ypres (Ieper),15,3,race/4-jours-de-dunkerque/2010/stage-3,193.2
+173,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2010  Stage 4,2010-05-08,RR,Merville,Cassel,15,4,race/4-jours-de-dunkerque/2010/stage-4,181.3
+174,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2010  Stage 5,2010-05-09,RR,Ardres,Dunkerque,15,5,race/4-jours-de-dunkerque/2010/stage-5,179.5
+175,Circuit De Wallonie 2010,2010-05-09,RR,Start,Finish,16,0,race/circuit-de-wallonie/2010,0.0
+176,Royal Smilde Olympia’s Tour 2010  Prologue,2010-05-17,Prologue,Heerenveen,Heerenveen,17,1,race/olympias-tour/2010/prologue,10.0
+177,Royal Smilde Olympia’s Tour 2010  Stage 2,2010-05-18,RR,Heerenveen,Meppel,17,2,race/olympias-tour/2010/stage-2,156.1
+178,Royal Smilde Olympia’s Tour 2010  Stage 3,2010-05-19,RR,Meppel,Gendringen,17,3,race/olympias-tour/2010/stage-3,159.4
+179,Royal Smilde Olympia’s Tour 2010  Stage 4,2010-05-20,RR,Dinxperlo,Reuver,17,4,race/olympias-tour/2010/stage-4,178.7
+180,Royal Smilde Olympia’s Tour 2010  Stage 5,2010-05-21,RR,Reuver,Buchten,17,5,race/olympias-tour/2010/stage-5,224.3
+181,Royal Smilde Olympia’s Tour 2010  Stage 6,2010-05-22,RR,Hoofddorp,Hoofddorp,17,6,race/olympias-tour/2010/stage-6,105.4
+182,Royal Smilde Olympia’s Tour 2010  Stage 7 (ITT),2010-05-22,ITT,Hoofddorp,Hoofddorp,17,7,race/olympias-tour/2010/stage-7,9.5
+183, Ronde de l'Isard 2010  Stage 1,2010-05-20,RR,Toulouse,St Gaudens,18,1,race/ronde-de-l-isard/2010/stage-1,172.1
+184, Ronde de l'Isard 2010  Stage 2,2010-05-21,RR,Saverdun,Mazères,18,2,race/ronde-de-l-isard/2010/stage-2,175.5
+185, Ronde de l'Isard 2010  Stage 3,2010-05-22,RR,Start,Finish,18,3,race/ronde-de-l-isard/2010/stage-3,0.0
+186, Ronde de l'Isard 2010  Stage 4,2010-05-23,RR,Muret e,Saint-Girons,18,4,race/ronde-de-l-isard/2010/stage-4,163.8
+187,Grand Prix Criquielion 2010,2010-05-23,RR,Start,Finish,19,0,race/grand-prix-criquielion/2010,0.0
+188,National Championships Bulgaria - ITT 2010,2010-05-25,RR,Start,Finish,20,0,race/nc-bulgaria-itt/2010,0.0
+189,Bayern-Rundfahrt 2010  Stage 1,2010-05-26,RR,Erding,Viechtach,21,1,race/bayern-rundfarht/2010/stage-1,189.8
+190,Bayern-Rundfahrt 2010  Stage 2,2010-05-27,RR,Viechtach,Bayreuth,21,2,race/bayern-rundfarht/2010/stage-2,200.5
+191,Bayern-Rundfahrt 2010  Stage 3,2010-05-28,RR,Bayreuth,Hersbruck,21,3,race/bayern-rundfarht/2010/stage-3,175.1
+192,Bayern-Rundfahrt 2010  Stage 4 (ITT),2010-05-29,ITT,Berching,Berching,21,4,race/bayern-rundfarht/2010/stage-4,27.8
+193,Bayern-Rundfahrt 2010  Stage 5,2010-05-30,RR,Berching,Fürstenfeldbruck,21,5,race/bayern-rundfarht/2010/stage-5,156.2
+194,Boucles de l'Aulne - Châteaulin 2010,2010-05-30,RR,Châteaulin,Châteaulin,22,0,race/boucles-de-l-aulne/2010,0.0
+195,GP Industria e Commercio - Tr. Città di San Vendemiano 2010,2010-05-30,RR,San Vendemiano,San Vendemiano,23,0,race/gp-industria-e-commercio2/2010,0.0
+196,Paris-Roubaix Espoirs 2010,2010-05-30,RR,Start,Finish,24,0,race/paris-roubaix-espoirs/2010,178.9
+197,Rogaland Gp 2010,2010-05-30,RR,Start,Finish,25,0,race/tour-des-fjords/2010,0.0
+198,Skoda-Tour de Luxembourg 2010  Prologue,2010-06-02,Prologue,Luxembourg-Ville,Luxembourg-Ville,26,1,race/tour-de-luxembourg/2010/prologue,2.6
+199,Skoda-Tour de Luxembourg 2010  Stage 1,2010-06-03,RR,Luxembourg,Hesperange,26,2,race/tour-de-luxembourg/2010/stage-1,179.7
+200,Skoda-Tour de Luxembourg 2010  Stage 2,2010-06-04,RR,Schifflange,Differdange,26,3,race/tour-de-luxembourg/2010/stage-2,202.7
+201,Skoda-Tour de Luxembourg 2010  Stage 3,2010-06-05,RR,Eschweiler,Diekirch,26,4,race/tour-de-luxembourg/2010/stage-3,191.5
+202,Skoda-Tour de Luxembourg 2010  Stage 4,2010-06-06,RR,Mersch,Luxembourg,26,5,race/tour-de-luxembourg/2010/stage-4,149.5
+203,Ster Elektrotoer 2010  Prologue,2010-06-16,Prologue,Gemert,Gemert,27,1,race/ster-elektro-tour/2010/prologue,6.8
+204,Ster Elektrotoer 2010  Stage 2,2010-06-17,RR,Eindhoven,Sittard-Geleen,27,2,race/ster-elektro-tour/2010/stage-2,136.3
+205,Ster Elektrotoer 2010  Stage 3,2010-06-18,RR,Schimmert,Schimmert,27,3,race/ster-elektro-tour/2010/stage-3,178.8
+206,Ster Elektrotoer 2010  Stage 4,2010-06-19,RR,Verviers,La Gileppe (Jalhay),27,4,race/ster-elektro-tour/2010/stage-4,185.1
+207,Ster Elektrotoer 2010  Stage 5,2010-06-20,RR,Arcen (Venlo),Helmond,27,5,race/ster-elektro-tour/2010/stage-5,174.1
+208,Route du Sud - la Depêche du Midi 2010  Stage 1,2010-06-18,RR,Carmaux,Saint-Gaudens,28,1,race/la-route-d-occitanie/2010/stage-1,211.6
+209,Route du Sud - la Depêche du Midi 2010  Stage 2,2010-06-19,RR,Izaourt,Saint-Gaudens,28,2,race/la-route-d-occitanie/2010/stage-2,82.8
+210,Route du Sud - la Depêche du Midi 2010  Stage 3,2010-06-20,RR,Loudenvielle,Peyragudes,28,3,race/la-route-d-occitanie/2010/stage-3,0.0
+211,Route du Sud - la Depêche du Midi 2010  Stage 4,2010-06-20,RR,Lavaur,Castres,28,4,race/la-route-d-occitanie/2010/stage-4,0.0
+212,Flèche Ardennaise 2010,2010-06-20,RR,Start,Finish,29,0,race/fleche-ardennaise/2010,0.0
+213,National Championships Sweden Itt 2010,2010-06-23,RR,Start,Finish,30,0,race/nc-sweden-itt/2010,0.0
+214,National Championships Switserland Itt 2010,2010-06-23,RR,Kriegstetten,Kriegstetten,31,0,race/nc-switzerland-itt/2010,0.0
+215,National Championships Czech Republic - ITT 2010,2010-06-24,RR,Start,Finish,32,0,race/nc-czech-republic-itt/2010,0.0
+216,National Championships France - ITT 2010,2010-06-24,RR,Chantonnay,Chantonnay,33,0,race/nc-france-itt/2010,49.9
+217,National Championships Hungary - ITT 2010,2010-06-24,RR,Felsözsolca,Felsözsolca,34,0,race/nc-hungary-itt/2010,0.0
+218,National Championships Ireland - ITT 2010,2010-06-24,RR,Start,Finish,35,0,race/nc-ireland-itt/2010,0.0
+219,National Championships Latvia - ITT 2010,2010-06-24,RR,Start,Finish,36,0,race/nc-latvia-itt/2010,0.0
+220,National Championships Luxembourg - ITT 2010,2010-06-24,RR,Start,Finish,37,0,race/nc-luxembourg-itt/2010,0.0
+221,National Championships Poland I.t.t. 2010,2010-06-24,RR,Start,Finish,38,0,race/nc-poland-itt/2010,0.0
+222,National Championships Russia - ITT 2010,2010-06-24,RR,Start,Finish,39,0,race/nc-russia-itt/2010,0.0
+223,National Championships Slovakia - ITT 2010,2010-06-24,RR,Start,Finish,40,0,race/nc-slovakia2/2010,0.0
+224,National Championships Slovenia - ITT 2010,2010-06-24,RR,Start,Finish,41,0,race/nc-slovenia-itt/2010,0.0
+225,National TT Championships Portugal 2010,2010-06-24,RR,Start,Finish,42,0,race/nc-portugal/2010,0.0
+226,National Championships Belarus - ITT 2010,2010-06-25,RR,Start,Finish,43,0,race/nc-belarus-itt/2010,0.0
+227,National Championships Estonia - ITT 2010,2010-06-25,RR,Start,Finish,44,0,race/nc-estonia-itt/2010,0.0
+228,National Championships Greece - ITT 2010,2010-06-25,RR,Start,Finish,45,0,race/nc-greece-itt/2010,0.0
+229,National Championships Lithuania - ITT 2010,2010-06-25,RR,Start,Finish,46,0,race/nc-lithuania-itt/2010,0.0
+230,National Championships Moldova - ITT 2010,2010-06-25,RR,Start,Finish,47,0,race/nc-moldova-itt/2010,0.0
+231,National Championships Serbia - ITT 2010,2010-06-25,RR,Start,Finish,48,0,race/nc-serbia-itt/2010,0.0
+232,National Championships Turkey - ITT 2010,2010-06-25,RR,Start,Finish,49,0,race/nc-turkey-itt/2010,0.0
+233,National Championships Ukraine - ITT 2010,2010-06-25,RR,Start,Finish,50,0,race/nc-ukraine-itt/2010,0.0
+234,National TT Championships Romania 2010,2010-06-25,RR,Start,Finish,51,0,race/nc-romania-itt/2010,0.0
+235,National Championships Sweden - Road Race 2010,2010-06-26,RR,Start,Finish,52,0,race/nc-sweden/2010,0.0
+236,National Championship Austria - Road Race 2010,2010-06-27,RR,Start,Finish,53,0,race/nc-austria/2010,0.0
+237,National Championships Albania - Road Race 2010,2010-06-27,RR,Start,Finish,54,0,race/nc-albania/2010,0.0
+238,National Championships Belarus - Road Race 2010,2010-06-27,RR,Start,Finish,55,0,race/nc-belarus/2010,200.0
+239,National Championships Belgium - Road Race 2010,2010-06-27,RR,Leuven,Leuven,56,0,race/nc-belgium/2010,0.0
+240,National Championships Brazil - Road Race 2010,2010-06-27,RR,Start,Finish,57,0,race/nc-brazil/2010,0.0
+241,National Championships Bulgaria - Road Race 2010,2010-06-27,RR,Start,Finish,58,0,race/nc-bulgaria/2010,0.0
+242,National Championships Czech Republic - Road Race 2010,2010-06-27,RR,Start,Finish,59,0,race/nc-czech-republic/2010,0.0
+243,National Championships Finland - Road Race 2010,2010-06-27,RR,Start,Finish,60,0,race/nc-finland/2010,195.0
+244,National Championships France - Road Race 2010,2010-06-27,RR,Chantonnay,Chantonnay,61,0,race/nc-france/2010,239.7
+245,National Championships Greece - Road Race 2010,2010-06-27,RR,Start,Finish,62,0,race/nc-greece/2010,0.0
+246,National Championships Hungary - Road Race 2010,2010-06-27,RR,Start,Finish,63,0,race/nc-hungary/2010,0.0
+247,National Championships Italy - ITT 2010,2010-06-27,RR,Start,Finish,64,0,race/nc-italy-itt/2010,37.3
+248,National Championships Latvia - Road Race 2010,2010-06-27,RR,Start,Finish,65,0,race/nc-latvia/2010,0.0
+249,National Championships Lithuania - Road Race 2010,2010-06-27,RR,Start,Finish,66,0,race/nc-lithuania/2010,0.0
+250,National Championships Macedonia - Road Race 2010,2010-06-27,RR,Start,Finish,67,0,race/nc-macedonia/2010,0.0
+251,National Championships Moldavie - Road Race 2010,2010-06-27,RR,Start,Finish,68,0,race/nc-moldova/2010,0.0
+252,National Championships Romania - Road Race 2010,2010-06-27,RR,Start,Finish,69,0,race/nc-romania/2010,0.0
+253,National Championships Russia - Road Race 2010,2010-06-27,RR,Start,Finish,70,0,race/nc-russia/2010,0.0
+254,National Championships Serbia - Road Race 2010,2010-06-27,RR,Start,Finish,71,0,race/nc-serbia/2010,0.0
+255,National Championships Turkey - Road Race 2010,2010-06-27,RR,Start,Finish,72,0,race/nc-turkey/2010,0.0
+256,National Championships Ukraine - Road Race 2010,2010-06-27,RR,Start,Finish,73,0,race/nc-ukraine/2010,0.0
+257,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2010  Prologue,2010-07-07,Prologue,Lisboa,Lisboa,74,1,race/gp-int-torres-vedras/2010/prologue,5.3
+258,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2010  Stage 2,2010-07-08,RR,Samora Correia,Manique do Intendente,74,2,race/gp-int-torres-vedras/2010/stage-2,166.0
+259,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2010  Stage 3,2010-07-09,RR,Sobral de Monte Agraço,Carvoeira,74,3,race/gp-int-torres-vedras/2010/stage-3,148.2
+260,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2010  Stage 4,2010-07-10,RR,Mafra,Vimeiro,74,4,race/gp-int-torres-vedras/2010/stage-4,170.0
+261,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2010  Stage 5,2010-07-11,RR,Torres Vedras,Torres Vedras,74,5,race/gp-int-torres-vedras/2010/stage-5,104.0
+262,National Championships Macedonia - ITT 2010,2010-07-11,RR,Start,Finish,75,0,race/nc-macedonia-itt/2010,0.0
+263,GP van de Stad Geel 2010,2010-07-11,RR,Start,Finish,76,0,race/gp-van-de-stad-geel/2010,0.0
+264,U23 European Championship Tt 2010,2010-07-16,RR,Ankara,Ankara,77,0,race/european-championships-itt-u23/2010,25.6
+265,Tour de Wallonie 2010  Stage 1,2010-07-24,RR,Mouscron,Lessines,78,1,race/tour-de-wallonie/2010/stage-1,184.4
+266,Tour de Wallonie 2010  Stage 2,2010-07-25,RR,Braine-Le-Comte,Saintes,78,2,race/tour-de-wallonie/2010/stage-2,201.8
+267,Tour de Wallonie 2010  Stage 3,2010-07-26,RR,Andenne,Hotton,78,3,race/tour-de-wallonie/2010/stage-3,180.2
+268,Tour de Wallonie 2010  Stage 4,2010-07-27,RR,Vielsalm,Villers-Le-Bouillet,78,4,race/tour-de-wallonie/2010/stage-4,0.0
+269,Tour de Wallonie 2010  Stage 5,2010-07-28,RR,Chaufontaine,Lontzen,78,5,race/tour-de-wallonie/2010/stage-5,0.0
+270,Paris - Corrèze  2010  Stage 1,2010-08-04,RR,Contres,St Léonard de Noblat,79,1,race/paris-correze/2010/stage-1,206.5
+271,Paris - Corrèze  2010  Stage 2,2010-08-05,RR,Malemort,Chaumeil,79,2,race/paris-correze/2010/stage-2,157.3
+272,Sparkassen Giro Bochum 2010,2010-08-08,RR,Bochem,Bochem,80,0,race/sparkassen-giro-bochum/2010,180.0
+273,National Championships Iceland - Road Race 2010,2010-08-14,RR,Start,Finish,81,0,race/national-championships-iceland---road-race/2010,107.0
+274,Gp Di Poggiana 2010,2010-08-14,RR,Start,Finish,82,0,race/gp-di-poggiana/2010,0.0
+275,National Championships France U23 - Road Race 2010,2010-08-22,RR,Start,Finish,83,0,race/nc-france-u23/2010,165.0
+276,Grand Prix Des Marbriers 2010,2010-08-24,RR,Bellignies,Bellignies,84,0,race/grand-prix-des-marbriers/2010,160.0
+277,Ronde van Midden-Nederland 2010,2010-08-29,RR,Utrecht,Utrecht,85,0,race/ronde-van-midden-nederland/2010,206.2
+278,Schaal Sels 2010,2010-08-29,RR,Merksem,Merksem,86,0,race/81st-schaal-schels/2010,203.1
+279,National Championships Finland - ITT 2010,2010-09-04,RR,Start,Finish,87,0,race/nc-finland-itt/2010,48.0
+280,Memorial Davide Fardelli 2010,2010-09-05,RR,Start,Finish,88,0,race/memorial-davide-fardelli-cronometro-individuale/2010,25.0
+281,Tour de l'Avenir 2010  Prologue,2010-09-05,Prologue,Vierzon,Vierzon,89,1,race/tour-de-l-avenir/2010/prologue,7.0
+282,Tour de l'Avenir 2010  Stage 2,2010-09-06,RR,Vierzon,Saint-Amand-Montrond,89,2,race/tour-de-l-avenir/2010/stage-2,144.5
+283,Tour de l'Avenir 2010  Stage 3,2010-09-07,RR,Saint-Amand-Montrond,Cusset,89,3,race/tour-de-l-avenir/2010/stage-3,148.5
+284,Tour de l'Avenir 2010  Stage 4,2010-09-08,RR,Saint-Pourçain-sur-Sioule,Col du Béal,89,4,race/tour-de-l-avenir/2010/stage-4,157.0
+285,Tour de l'Avenir 2010  Stage 5,2010-09-09,RR,Ambert,Vals-les-Bains,89,5,race/tour-de-l-avenir/2010/stage-5,183.0
+286,Tour de l'Avenir 2010  Stage 6,2010-09-10,RR,Vals-les-Bains,Loriol-sur-Drôme,89,6,race/tour-de-l-avenir/2010/stage-6,153.0
+287,Tour de l'Avenir 2010  Stage 7,2010-09-11,RR,Saillans,Risoul,89,7,race/tour-de-l-avenir/2010/stage-7,204.0
+288,Tour de l'Avenir 2010  Stage 8 (ITT),2010-09-12,ITT,Guillestre,Risoul,89,8,race/tour-de-l-avenir/2010/stage-8,14.0
+289,Tour of Britain 2010  Stage 1,2010-09-11,RR,Rochdale,Blackpool,90,1,race/tour-of-brittain/2010/stage-1,132.6
+290,Tour of Britain 2010  Stage 2,2010-09-12,RR,Stoke-on-Trent,Stoke-on-Trent,90,2,race/tour-of-brittain/2010/stage-2,160.5
+291,Tour of Britain 2010  Stage 3,2010-09-13,RR,Newtown,Swansea,90,3,race/tour-of-brittain/2010/stage-3,149.7
+292,Tour of Britain 2010  Stage 4,2010-09-14,RR,Minehead,Teignmouth,90,4,race/tour-of-brittain/2010/stage-4,171.3
+293,Tour of Britain 2010  Stage 5,2010-09-15,RR,Tavistock,Glastonbury,90,5,race/tour-of-brittain/2010/stage-5,176.0
+294,Tour of Britain 2010  Stage 6,2010-09-16,RR,King\'s Lynn,Great Yarmouth,90,6,race/tour-of-brittain/2010/stage-6,190.0
+295,Tour of Britain 2010  Stage 7,2010-09-17,RR,Bury St. Edmunds,Colchester,90,7,race/tour-of-brittain/2010/stage-7,152.3
+296,Tour of Britain 2010  Stage 8,2010-09-18,RR,London,London,90,8,race/tour-of-brittain/2010/stage-8,96.0
+297,Duo Normand 2010,2010-09-19,RR,Marigny,Marigny,91,0,race/duo-normand/2010,54.3
+298,Tour de Vendée 2010,2010-09-26,RR,La Ferrière,La Roche Sur Yon,92,0,race/tour-de-vendee/2010,206.0
+299,Memorial Frank Vandenbroucke 2010,2010-10-05,RR,Binche,Binche,93,0,race/memorial-frank-vandenbroucke/2010,200.0
+300,Gran Premio Bruno Beghelli 2010,2010-10-10,RR,Monteveglio,Monteveglio,94,0,race/gp-bruno-beghelli/2010,191.5
+301,Paris - Tours U23 2010,2010-10-10,RR,Start,Finish,95,0,race/paris-tours-u23/2010,0.0
+302,Nationale Sluitingprijs Putte - Kapellen 2010,2010-10-12,RR,Putte,Kapellen,96,0,race/nationale-sluitingsprijs-putte-kapellen/2010,183.6
+303,Chrono Des Herbiers 2010,2010-10-17,RR,Start,Finish,97,0,race/chrono-des-nations/2010,48.0
+304,National TT Championships New Zealand 2010,2010-01-08,RR,Christchurch,Christchurch,0,0,race/nc-new-zealand-itt-u23/2010,40.0
+305,National Championships New Zealand - Road Race 2010,2010-01-10,RR,Start,Finish,1,0,race/nc-new-zealand/2010,186.0
+306,National Championships Ecuador - ITT 2010,2010-03-06,RR,Start,Finish,0,0,race/nc-ecuador-itt/2010,0.0
+307,National Championships Ecuador - Road Race 2010,2010-03-07,RR,Start,Finish,1,0,race/nc-ecuador/2010,0.0
+308,National Championships Argentina - ITT 2010,2010-04-03,RR,Start,Finish,2,0,race/nc-argentina-itt/2010,0.0
+309,National Championships Argentina - Road Race 2010,2010-04-04,RR,Start,Finish,3,0,race/nc-argentina/2010,198.0
+310,Tour of the Battenkill 2010,2010-04-18,RR,Cambridge,Cambridge,4,0,race/tour-of-the-battenkill/2010,200.0
+311,National Championships Cuba - ITT 2010,2010-05-25,RR,Start,Finish,5,0,race/nc-cuba-itt/2010,0.0
+312,National Championships Cuba - Road Race 2010,2010-05-27,RR,Start,Finish,6,0,race/nc-cuba/2010,0.0
+313,National Championships Brazil - ITT 2010,2010-06-25,RR,Start,Finish,7,0,race/nc-brazil-itt/2010,0.0
+314,National TT Championships Canada 2010,2010-06-25,RR,Start,Finish,8,0,race/nc-canada-itt/2010,0.0
+315,National Championships Canada - Road Race 2010,2010-06-27,RR,Start,Finish,9,0,race/nc-canada/2010,0.0
+316,National Championships Costa Rica - Road Race 2010,2010-06-27,RR,Start,Finish,10,0,race/nc-costa-rica/2010,0.0
+317,National Championships Venezuela - Road Race 2010,2010-06-27,RR,Start,Finish,11,0,race/nc-venezuela/2010,0.0
+318,Tour Of Utah 2010  Prologue,2010-08-17,Prologue,Utah State Capitol,Utah State Capitol,12,1,race/tour-of-utah/2010/prologue,4.5
+319,Tour Of Utah 2010  Stage 1,2010-08-18,RR,Ogden,Salt Lake City,12,2,race/tour-of-utah/2010/stage-1,137.0
+320,Tour Of Utah 2010  Stage 2,2010-08-19,RR,Thanksgiving Point,Mount Nebo,12,3,race/tour-of-utah/2010/stage-2,126.3
+321,Tour Of Utah 2010  Stage 3 (ITT),2010-08-20,ITT,Miller Motorsports Park,Miller Motorsports Park,12,4,race/tour-of-utah/2010/stage-3,14.8
+322,Tour Of Utah 2010  Stage 4,2010-08-21,RR,Start,Finish,12,5,race/tour-of-utah/2010/stage-4,0.0
+323,Tour Of Utah 2010  Stage 5,2010-08-22,RR,Park City,Snowbird,12,6,race/tour-of-utah/2010/stage-5,164.0
+324,National Championships Mexico - ITT 2010,2010-08-21,RR,Start,Finish,13,0,race/nc-mexico-itt/2010,0.0
+325,National Championships Mexico Road Race 2010,2010-08-22,RR,Hermosillo,Hermosillo,14,0,race/nc-mexico/2010,173.0
+326,National Championships United States - ITT 2010,2010-09-18,RR,Greenville,Greenville,15,0,race/nc-usa-itt/2010,33.3
