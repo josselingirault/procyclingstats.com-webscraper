@@ -26,6 +26,12 @@ You can also download the python code and adapt it for yourself. Because procycl
 | 94 | Tour de France 2015  Stage 9 (TTT) | 2015-07-12 | TTT | Vannes | Plumelec | 17 | 9 | 28.0
 | 130 | Vuelta a España 2015  Stage 9 | 2015-08-30 | RR | Torrevieja | Cumbre del Sol. Benitachell | 21 | 9 | 168.3
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## todo-list
 - [x] Repair stage data
 
