@@ -1,8 +1,16 @@
-# procyclingstats.com-webscraper
+# Procyclingstats.com-webscraper
 
-This repository contains datasets scraped from the procycling stats.com website, as well as the python code used to retrieve them. The data contains base informations about riders and urls used to retrieve those informations. 
+This repo contains data about pro cycling races and cyclists, as well as the python code to retrieve it.
+
+The data is scraped from the procyclingstats.com website. The data contains base informations about riders and urls used to retrieve those informations. 
+
+## Usage
+
+Feel free to download the datasets.
+
+You can also download the python code and adapt it for yourself. Because procyclingstats.com often changes its html layout, you'll potentially have to adapt the beautifulsoup parsing. To avoid getting blocked by the pcs server, the scraper spends a lot of time waiting, making the execution really long. 
  
-## Examples of the data you can find
+## Examples of the data
  
 ##Rider data
 
