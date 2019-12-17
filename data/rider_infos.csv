@@ -1,0 +1,2277 @@
+,fullname,team,birthdate,country,height,weight,rider_url
+0,Romain Bardet,AG2R La Mondiale,1990-11-09,France,1.84,65.0,romain-bardet
+1,Manuel Belletti,Androni Giocattoli - Sidermec,1985-10-14,Italy,1.75,72.0,manuel-belletti
+2,Julien Bérard,noteam,1987-07-27,France,1.85,70.0,julien-berard
+3,Guillaume Bonnafond,noteam,1987-06-23,France,1.84,68.0,guillaume-bonnafond
+4,Maxime Bouet,Team Arkéa Samsic,1986-11-03,France,1.84,67.0,maxime-bouet
+5,Jimmy Casper,noteam,1978-05-28,France,0.0,0.0,jimmy-casper
+6,Gabriel Chavanne,noteam,1992-01-20,Switzerland,0.0,0.0,gabriel-chavanne
+7,Mickaël Cherel,AG2R La Mondiale,1986-03-17,France,1.85,65.0,mikael-cherel
+8,Hubert Dupont,AG2R La Mondiale,1980-11-13,France,1.74,57.0,hubert-dupont
+9,Martin Elmiger,noteam,1978-09-23,Switzerland,1.82,73.0,martin-elmiger
+10,John Gadret,noteam,1979-04-22,France,1.7,58.0,john-gadret
+11,Ben Gastauer,AG2R La Mondiale,1987-11-14,Luxembourg,1.9,73.0,ben-gastauer
+12,Gregor Gazvoda,noteam,1981-10-15,Slovenia,1.87,72.0,gregor-gazvoda
+13,Sylvain Georges,noteam,1984-05-01,France,0.0,0.0,sylvain-georges
+14,Kristof Goddaert,noteam,1986-11-21,Belgium,0.0,0.0,kristof-goddaert
+15,Sébastien Hinault,noteam,1974-02-11,France,1.75,63.0,sebastien-hinault
+16,Steve Houanard,noteam,1986-04-02,France,0.0,0.0,steve-houanard
+17,Blel Kadri,noteam,1986-09-03,France,1.76,66.0,blel-kadri
+18,Romain Lemarchand,noteam,1987-07-26,France,1.78,0.0,romain-lemarchand
+19,Sébastien Minard,noteam,1982-06-12,France,1.77,65.0,sebastien-minard
+20,Lloyd Mondory,noteam,1982-04-26,France,1.75,66.0,lloyd-mondory
+21,Matteo Montaguti,Androni Giocattoli - Sidermec,1984-01-06,Italy,1.81,65.0,matteo-montaguti
+22,Rinaldo Nocentini,Sporting Clube de Portugal/Tavira,1977-09-25,Italy,1.73,60.0,rinaldo-nocentini
+23,Jean-Christophe Peraud,noteam,1977-05-22,France,1.72,62.0,jean-christophe-peraud
+24,Mathieu Perget,noteam,1984-09-18,France,0.0,0.0,mathieu-perget
+25,Jimmy Raibaud,noteam,1991-11-13,France,1.72,59.0,jimmy-raibaud
+26,Anthony Ravard,noteam,1983-09-28,France,0.0,0.0,anthony-ravard
+27,Christophe Riblon,noteam,1981-01-17,France,1.8,65.0,christophe-riblon
+28,Nicolas Roche,Team Sunweb,1984-07-03,Ireland,1.78,70.0,nicolas-roche
+29,Boris Shpilevsky,noteam,1982-08-20,Russia,0.0,0.0,boris-shpilevsky
+30,Mathieu Teychenne,noteam,1989-03-18,France,0.0,0.0,mathieu-teychenne
+31,Amir Zargari,noteam,1980-07-31,Iran,0.0,0.0,amir-zargari
+32,Fabio Aru,UAE-Team Emirates,1990-07-03,Italy,1.83,66.0,fabio-aru
+33,Assan Bazayev,noteam,1981-02-22,Kazakhstan,1.77,62.0,assan-bazayev
+34,Borut Božič,noteam,1980-08-08,Slovenia,1.8,67.0,borut-bozic
+35,Janez Brajkovič,Adria Mobil,1983-12-18,Slovenia,1.75,65.0,janez-brajkovic
+36,Alexandr Dyachenko,noteam,1983-10-17,Kazakhstan,1.79,65.0,alexandr-dyachenko
+37,Dmitriy Fofonov,noteam,1976-08-15,Kazakhstan,1.75,65.0,dmitriy-fofonov
+38,Enrico Gasparotto,Team Dimension Data,1982-03-22,Italy,1.74,65.0,enrico-gasparotto
+39,Francesco Gavazzi,Androni Giocattoli - Sidermec,1984-08-01,Italy,1.73,65.0,francesco-gavazzi
+40,Andrey Grivko,noteam,1983-08-07,Ukraine,1.81,70.0,andrei-grivko
+41,Dmitriy Gruzdev,Astana Pro Team,1986-03-13,Kazakhstan,1.83,72.0,dmitriy-gruzdev
+42,Jacopo Guarnieri,Groupama - FDJ,1987-08-14,Italy,1.89,78.0,jacopo-guarnieri
+43,Valentin Iglinskiy,noteam,1984-05-12,Kazakhstan,0.0,0.0,valentin-iglinskiy
+44,Maxim Iglinskiy,noteam,1981-04-18,Kazakhstan,1.71,67.0,maxim-iglinskiy
+45,Tanel Kangert,EF Education First,1987-03-11,Estonia,1.78,65.0,tanel-kangert
+46,Andrey Kashechkin,noteam,1980-03-21,Kazakhstan,1.85,70.0,andrey-kashechkin
+47,Fredrik Kessiakoff,noteam,1980-05-17,Sweden,1.75,61.0,fredrik-kessiakoff
+48,Robert Kišerlovski,noteam,1986-08-09,Croatia,1.8,72.0,robert-kiserlovski
+49,Roman Kreuziger,Team Dimension Data,1986-05-06,Czech Republic,1.83,65.0,roman-kreuziger-1
+50,Francesco Masciarelli,noteam,1986-05-05,Italy,0.0,0.0,francesco-masciarelli
+51,Dmitriy Muravyev,noteam,1979-11-02,Kazakhstan,1.89,75.0,dmitriy-muravyev
+52,Yevgeniy Nepomnyachshiy,noteam,1987-03-12,Kazakhstan,0.0,0.0,yevgeniy-nepomnyachshiy
+53,Evgeni Petrov,noteam,1978-05-25,Russia,1.81,70.0,evgeni-petrov
+54,Simone Ponzi,noteam,1987-01-17,Italy,1.78,63.0,simone-ponzi
+55,Sergey Renev,noteam,1985-01-03,Kazakhstan,1.84,68.0,sergey-renev
+56,Kevin Seeldraeyers,noteam,1986-09-12,Belgium,1.74,60.0,kevin-seeldraeyers
+57,Egor Silin,noteam,1988-05-25,Russia,1.77,61.0,egor-silin
+58,Paolo Tiralongo,noteam,1977-07-08,Italy,1.78,63.0,paolo-tiralongo
+59,Alexandre Vinokourov,noteam,1973-09-16,Kazakhstan,1.77,68.0,alexandre-vinokourov
+60,Andrey Zeits,Astana Pro Team,1986-12-14,Kazakhstan,1.89,73.0,andrey-zeits
+61,Alessandro Ballan,noteam,1979-11-06,Italy,0.0,0.0,alessandro-ballan
+62,Adam Blythe,Lotto Soudal,1989-10-01,Great Britain,1.75,68.0,adam-blythe
+63,Brent Bookwalter,Mitchelton-Scott,1984-02-16,United States,1.8,70.0,brent-bookwalter
+64,Marcus Burghardt,BORA - hansgrohe,1983-06-30,Germany,1.89,75.0,marcus-burghardt
+65,Steve Cummings,Team Dimension Data,1981-03-19,Great Britain,1.89,73.0,stephen-cummings
+66,Yannick Eijssen,noteam,1989-06-26,Belgium,1.74,60.0,yannick-eijssen
+67,Cadel Evans,noteam,1977-02-14,Australia,1.74,64.0,cadel-evans
+68,Mathias Flückiger,noteam,1988-09-27,Switzerland,0.0,0.0,mathias-fluckiger
+69,Mathias Frank,AG2R La Mondiale,1986-12-09,Switzerland,1.76,64.0,mathias-frank
+70,Philippe Gilbert,Deceuninck - Quick Step,1982-07-05,Belgium,1.79,69.0,philippe-gilbert
+71,George Hincapie,noteam,1973-06-29,United States,1.91,83.0,george-hincapie
+72,Thor Hushovd,noteam,1978-01-18,Norway,1.83,83.0,thor-hushovd
+73,Martin Kohler,noteam,1985-07-17,Switzerland,1.78,69.0,martin-kohler
+74,Klaas Lodewyck,noteam,1988-03-24,Belgium,1.8,70.0,klaas-lodewyck
+75,Amaël Moinard,noteam,1982-02-02,France,1.8,69.0,amael-moinard
+76,Steve Morabito,Groupama - FDJ,1983-01-30,Switzerland,1.86,74.0,steve-morabito
+77,Taylor Phinney,EF Education First,1990-06-27,United States,1.97,82.0,taylor-phinney
+78,Marco Pinotti,noteam,1976-02-25,Italy,1.76,67.0,marco-pinotti
+79,Manuel Quinziato,noteam,1979-10-30,Italy,1.85,74.0,manuel-quinziato
+80,Timothy Roe,noteam,1989-10-28,Australia,1.82,68.0,timothy-roe
+81,Mauro Santambrogio,noteam,1984-10-07,Italy,0.0,0.0,mauro-santambrogio
+82,Ivan Santaromita,Nippo Vini Fantini Faizanè,1984-04-30,Italy,1.76,58.0,ivan-santaromita
+83,Michael Schär,CCC Team,1986-09-29,Switzerland,1.96,74.0,michael-schar
+84,Johann Tschopp,noteam,1982-07-01,Switzerland,0.0,0.0,johann-tschopp
+85,Greg Van Avermaet,CCC Team,1985-05-17,Belgium,1.81,74.0,greg-van-avermaet
+86,Tejay van Garderen,EF Education First,1988-08-12,United States,1.86,72.0,tejay-van-garderen
+87,Larry Warbasse,AG2R La Mondiale,1990-06-28,United States,1.83,67.0,lawrence-warbasse
+88,Danilo Wyss,Team Dimension Data,1985-08-26,Switzerland,1.76,65.0,danilo-wyss
+89,Igor Antón,noteam,1983-03-02,Spain,1.73,64.0,igor-anton
+90,Mikel Astarloza,noteam,1979-11-17,Spain,1.85,72.0,mikel-astarloza
+91,Jorge Azanza,noteam,1982-06-16,Spain,1.85,68.0,jorge-azanza
+92,Pello Bilbao,Astana Pro Team,1990-02-25,Spain,1.74,60.0,pello-bilbao
+93,Víctor Cabedo,noteam,1989-06-15,Spain,0.0,0.0,victor-cabedo
+94,Pierre Cazaux,noteam,1984-06-07,France,0.0,0.0,pierre-cazaux
+95,Ricardo García,noteam,1988-02-26,Spain,1.83,68.0,ricardo-garcia-ambroa
+96,Ion Izagirre,Astana Pro Team,1989-02-04,Spain,1.73,60.0,ion-izagirre
+97,Gorka Izagirre,Astana Pro Team,1987-10-07,Spain,1.76,66.5,gorka-izagirre
+98,Mikel Landa,Movistar Team,1989-12-13,Spain,1.73,60.0,mikel-landa
+99,Egoi Martínez,noteam,1978-05-15,Spain,1.81,70.0,egoi-martinez
+100,Miguel Mínguez,noteam,1988-08-30,Spain,0.0,0.0,miguel-minguez
+101,Mikel Nieve,Mitchelton-Scott,1984-05-26,Spain,1.73,62.0,mikel-nieve
+102,Juan José Oroz,noteam,1980-07-11,Spain,1.87,71.0,juan-jose-oroz
+103,Alan Pérez,noteam,1982-07-15,Spain,0.0,0.0,alan-lezaun-perez
+104,Rubén Pérez,noteam,1981-10-30,Spain,1.73,65.0,ruben-perez
+105,Adrián Sáez,noteam,1986-03-17,Spain,0.0,0.0,adrian-saez-de-arregi
+106,Samuel Sánchez,noteam,1978-02-05,Spain,1.75,65.0,samuel-sanchez
+107,Romain Sicard,Team Total Direct Energie,1988-01-01,France,1.77,64.0,romain-sicard
+108,Amets Txurruka,noteam,1982-11-10,Spain,1.71,58.0,amets-txurruka
+109,Pablo Urtasun,noteam,1980-03-29,Spain,1.76,69.0,pablo-urtasun
+110,Iván Velasco,noteam,1980-02-08,Spain,1.77,65.0,ivan-velasco
+111,Gorka Verdugo,noteam,1978-11-04,Spain,1.81,71.0,gorka-verdugo
+112,Sébastien Bergeret,noteam,1992-01-22,France,0.0,0.0,sebastien-bergeret
+113,William Bonnet,Groupama - FDJ,1982-06-25,France,1.85,78.0,william-bonnet
+114,David Boucher,Tarteletto - Isorex,1980-03-17,Belgium,1.88,78.0,david-boucher
+115,Nacer Bouhanni,"Cofidis, Solutions Crédits",1990-07-25,France,1.75,66.0,nacer-bouhanni
+116,Sandy Casar,noteam,1979-02-02,France,1.79,63.0,sandy-casar
+117,Steve Chainel,noteam,1983-09-06,France,1.8,69.0,steve-chainel
+118,Arnaud Courteille,Vital Concept - B&B Hotels,1989-03-13,France,1.76,62.0,arnaud-courteille
+119,Mickaël Delage,Groupama - FDJ,1985-08-06,France,1.8,70.0,mickael-delage
+120,Arnaud Démare,Groupama - FDJ,1991-08-26,France,1.82,78.0,arnaud-demare
+121,Kenny Elissonde,Team INEOS,1991-07-22,France,1.69,52.0,kenny-elissonde
+122,Pierrick Fédrigo,noteam,1978-11-30,France,1.72,66.0,pierrick-fedrigo
+123,Arnaud Gérard,noteam,1984-10-06,France,1.84,70.0,arnaud-gerard
+124,Anthony Geslin,noteam,1980-06-09,France,1.8,68.0,anthony-geslin
+125,Frédéric Guesdon,noteam,1971-10-14,France,0.0,0.0,frederic-guesdon
+126,Yauheni Hutarovich,noteam,1983-11-29,Belarus,1.78,71.0,yauheni-hutarovich
+127,Arnold Jeannesson,noteam,1986-01-16,France,1.82,65.0,arnold-jeannesson
+128,Matthieu Ladagnous,Groupama - FDJ,1984-12-12,France,1.82,73.0,matthieu-ladagnous
+129,Francis Mourey,noteam,1980-12-08,France,1.71,62.0,francis-mourey
+130,Yoann Offredo,Wanty - Gobert Cycling Team,1986-11-12,France,1.89,68.0,yoann-offredo
+131,Rémi Pauriol,noteam,1982-04-04,France,0.0,0.0,remi-pauriol
+132,Cédric Pineau,noteam,1985-05-08,France,1.77,68.0,cedric-pineau
+133,Thibaut Pinot,Groupama - FDJ,1990-05-29,France,1.8,63.0,thibaut-pinot
+134,Gabriel Rasch,noteam,1976-04-08,Norway,0.0,0.0,gabriel-rasch
+135,Dominique Rollin,noteam,1982-10-29,Canada,1.88,83.0,dominique-rollin
+136,Anthony Roux,Groupama - FDJ,1987-04-18,France,1.89,70.0,anthony-roux
+137,Jérémy Roy,noteam,1983-06-22,France,1.86,70.0,jeremy-roy
+138,Eduardo Sepúlveda,Movistar Team,1991-06-13,Argentina,1.73,61.0,eduardo-sepulveda
+139,Geoffrey Soupe,"Cofidis, Solutions Crédits",1988-03-22,France,1.77,70.0,geoffrey-soupe
+140,Benoît Vaugrenard,Groupama - FDJ,1982-01-05,France,1.85,72.0,benoit-vaugrenard
+141,Jussi Veikkanen,noteam,1981-03-29,Finland,1.78,66.0,jussi-veikkanen
+142,Arthur Vichot,Vital Concept - B&B Hotels,1988-11-26,France,1.84,69.0,arthur-vichot
+143,Emilien Viennet,noteam,1992-02-06,France,0.0,0.0,emilien-viennet
+144,Winner Anacona,Movistar Team,1988-08-11,Colombia,1.79,65.0,winner-anacona
+145,Leonardo Bertagnolli,noteam,1978-01-08,Italy,1.74,63.0,leonardo-bertagnolli
+146,Grega Bole,Bahrain Merida,1985-08-13,Slovenia,1.77,68.0,grega-bole
+147,Matteo Bono,noteam,1983-11-11,Italy,1.71,60.0,matteo-bono
+148,Vitaliy Buts,Kyiv Capital Team,1986-10-24,Ukraine,0.0,0.0,vitaliy-buts
+149,Mattia Cattaneo,Androni Giocattoli - Sidermec,1990-10-25,Italy,1.84,68.0,mattia-cattaneo
+150,Davide Cimolai,Israel Cycling Academy,1989-08-13,Italy,1.85,69.0,davide-cimolai
+151,Damiano Cunego,noteam,1981-09-19,Italy,1.69,58.0,damiano-cunego
+152,Massimo Graziato,noteam,1988-09-25,Italy,0.0,0.0,massimo-graziato
+153,Danilo Hondo,noteam,1974-01-04,Germany,1.84,73.0,danilo-hondo
+154,Denys Kostyuk,noteam,1982-03-13,Ukraine,1.76,66.0,denys-kostyuk
+155,Dmytro Krivtsov,noteam,1985-04-03,Ukraine,1.83,72.0,dmitro-krivtsov
+156,Yuriy Krivtsov,noteam,1979-02-07,Ukraine,1.78,72.0,yuriy-krivtsov
+157,Oleksandr Kvachuk,noteam,1983-07-23,Ukraine,0.0,0.0,oleksandr-kvachuk
+158,Matthew Lloyd,noteam,1983-05-24,Australia,1.71,62.0,matthew-lloyd
+159,Adriano Malori,noteam,1988-01-28,Italy,1.82,68.0,adriano-malori
+160,Marco Marzano,noteam,1980-06-10,Italy,1.71,58.0,marco-marzano
+161,Manuele Mori,UAE-Team Emirates,1980-08-09,Italy,1.72,62.0,manuele-mori
+162,Przemysław Niemiec,noteam,1980-04-11,Poland,1.84,62.0,przemyslaw-niemiec
+163,Alessandro Petacchi,noteam,1974-01-03,Italy,1.85,70.0,alessandro-petacchi
+164,Daniele Pietropolli,noteam,1980-07-11,Italy,0.0,0.0,daniele-pietropolli
+165,Morris Possoni,noteam,1984-07-01,Italy,0.0,0.0,morris-possoni
+166,Daniele Righi,noteam,1976-03-28,Italy,0.0,0.0,daniele-righi
+167,Michele Scarponi,noteam,1979-09-25,Italy,1.74,62.0,michele-scarponi
+168,Oleksandr Sheydyk,noteam,1980-09-13,Ukraine,0.0,0.0,oleksandr-sheydyk
+169,Alessandro Spezialetti,noteam,1975-01-14,Italy,0.0,0.0,alessandro-spezialetti
+170,Simone Stortoni,noteam,1985-07-07,Italy,1.69,59.0,simone-stortoni
+171,Diego Ulissi,UAE-Team Emirates,1989-07-15,Italy,1.75,61.0,diego-ulissi
+172,Davide Viganò,noteam,1984-06-12,Italy,1.82,67.0,davide-vigano
+173,Michele Viola,noteam,1992-03-24,Italy,0.0,0.0,michele-viola
+174,Luca Wackermann,noteam,1992-03-13,Italy,1.88,68.0,luca-wackermann
+175,Valerio Agnoli,Bahrain Merida,1985-01-06,Italy,1.78,72.0,valerio-agnoli
+176,Stefano Agostini,noteam,1989-01-03,Italy,0.0,0.0,stefano-agostini
+177,Daniele Aldegheri,noteam,1990-02-05,Italy,0.0,0.0,daniele-aldegheri
+178,Ivan Basso,noteam,1977-11-26,Italy,1.82,70.0,ivan-basso
+179,Marco Benfatto,Androni Giocattoli - Sidermec,1988-01-06,Italy,1.81,71.0,marco-benfatto
+180,Maciej Bodnar,BORA - hansgrohe,1985-03-07,Poland,1.86,77.0,maciej-bodnar
+181,Federico Canuti,noteam,1985-08-30,Italy,1.82,68.0,federico-canuti
+182,Eros Capecchi,Deceuninck - Quick Step,1986-06-13,Italy,1.83,65.0,eros-capecchi
+183,Damiano Caruso,Bahrain Merida,1987-10-12,Italy,1.79,67.0,damiano-caruso
+184,Mauro Da Dalto,noteam,1981-04-08,Italy,0.0,0.0,mauro-da-dalto
+185,Tiziano Dall'Antonia,noteam,1983-07-26,Italy,1.84,70.0,tiziano-dall-antonia
+186,Timothy Duggan,noteam,1982-11-14,United States,0.0,0.0,timothy-duggan
+187,Edward King,noteam,1983-01-31,United States,1.89,78.0,edward-king
+188,Kristijan Koren,Bahrain Merida,1986-11-25,Slovenia,1.83,72.0,kristijan-koren
+189,Matthias Krizek,Team Felbermayr - Simplon Wels ,1988-09-29,Austria,1.86,74.0,matthias-krizek
+190,Paolo Longo Borghini,noteam,1980-12-10,Italy,0.0,0.0,paolo-longo-borghini
+191,Alan Marangoni,noteam,1984-07-16,Italy,1.85,74.0,alan-marangoni
+192,Moreno Moser,noteam,1990-12-25,Italy,1.77,64.0,moreno-moser
+193,Dominik Nerz,noteam,1989-08-25,Germany,1.8,67.0,dominik-nerz
+194,Vincenzo Nibali,Bahrain Merida,1984-11-14,Italy,1.81,65.0,vincenzo-nibali
+195,Daniel Oss,BORA - hansgrohe,1987-01-13,Italy,1.9,75.0,daniel-oss
+196,Maciej Paterski,Wibatech Merx 7R,1986-09-12,Poland,1.86,71.0,maciej-paterski
+197,Daniele Ratto,noteam,1989-10-05,Italy,1.8,74.0,daniele-ratto
+198,Fabio Sabatini,Deceuninck - Quick Step,1985-02-18,Italy,1.87,74.0,fabio-sabatini
+199,Juraj Sagan,BORA - hansgrohe,1988-12-23,Slovakia,1.73,65.0,juraj-sagan
+200,Peter Sagan,BORA - hansgrohe,1990-01-26,Slovakia,1.84,78.0,peter-sagan
+201,Cristiano Salerno,noteam,1985-02-18,Italy,1.82,64.0,cristiano-salerno
+202,Cayetano José Sarmiento,EPM,1987-03-28,Colombia,1.68,58.0,cayetano-jose-sarmiento
+203,Sylwester Szmyd,noteam,1978-03-02,Poland,1.79,60.0,sylwester-szmyd
+204,Alessandro Vanotti,noteam,1980-09-16,Italy,1.85,70.0,alessandro-vanotti
+205,Elia Viviani,Deceuninck - Quick Step,1989-02-07,Italy,1.78,67.0,elia-viviani
+206,Lars Ytting Bak,Team Dimension Data,1980-01-16,Denmark,1.9,76.0,lars-ytting-bak
+207,Gaetan Bille,noteam,1988-04-06,Belgium,1.82,67.0,gaetan-bille
+208,Brian Bulgac,noteam,1988-04-07,Netherlands,1.89,68.0,brian-bulgac
+209,Sander Cordeel,noteam,1987-11-07,Belgium,1.87,80.0,sander-cordeel
+210,Bart De Clercq,Wanty - Gobert Cycling Team,1986-08-26,Belgium,1.83,67.0,bart-de-clercq
+211,Francis de Greef,noteam,1985-02-02,Belgium,1.92,77.0,francis-de-greef
+212,Jens Debusschere,Team Katusha Alpecin,1989-08-28,Belgium,1.83,78.0,jens-debusschere
+213,Kenny Dehaes,Wallonie-Bruxelles,1984-11-10,Belgium,1.88,73.0,kenny-dehaes
+214,Gert Dockx,noteam,1988-07-04,Belgium,1.75,64.0,gert-dockx
+215,André Greipel,Team Arkéa Samsic,1982-07-16,Germany,1.84,75.0,andre-greipel
+216,Adam Hansen,Lotto Soudal,1981-05-11,Australia,1.86,75.0,adam-hansen
+217,Gregory Henderson,noteam,1976-09-10,New Zealand,1.87,75.0,gregory-henderson
+218,Olivier Kaisen,noteam,1983-04-30,Belgium,0.0,0.0,olivier-kaisen
+219,Gianni Meersman,noteam,1985-12-05,Belgium,1.77,63.0,gianni-meersman
+220,Maarten Neyens,noteam,1985-03-01,Belgium,0.0,0.0,maarten-neyens
+221,Vicente Reynés,noteam,1981-07-30,Spain,1.75,69.0,vicente-reynes
+222,Fréderique Robert,noteam,1989-01-25,Belgium,1.76,68.0,frederique-robert
+223,Jürgen Roelandts,Movistar Team,1985-07-02,Belgium,1.84,78.0,jurgen-roelandts
+224,Marcel Sieberg,Bahrain Merida,1982-04-30,Germany,1.98,80.0,marcel-sieberg
+225,Mehdi Sohrabi,noteam,1981-10-12,Iran,0.0,0.0,mehdi-sohrabi
+226,Thomas Sprengers,Sport Vlaanderen - Baloise,1990-02-05,Belgium,1.77,60.0,thomas-sprengers
+227,Jurgen van de Walle,noteam,1977-02-09,Belgium,0.0,0.0,jurgen-van-de-walle
+228,Jurgen Van den Broeck,noteam,1983-02-01,Belgium,1.85,69.0,jurgen-van-den-broeck
+229,Tosh Van der Sande,Lotto Soudal,1990-11-28,Belgium,1.78,64.0,tosh-van-der-sande
+230,Jonas van Genechten,Vital Concept - B&B Hotels,1986-09-16,Belgium,1.76,67.0,jonas-van-genechten
+231,Joost van Leijen,noteam,1984-07-20,Netherlands,0.0,0.0,joost-van-leijen
+232,Dennis Vanendert,noteam,1988-06-27,Belgium,1.81,64.0,dennis-vanendert
+233,Jelle Vanendert,Lotto Soudal,1985-02-19,Belgium,1.84,62.0,jelle-vanendert
+234,Tim Wellens,Lotto Soudal,1991-05-10,Belgium,1.83,65.0,tim-wellens
+235,Frederik Willems,noteam,1979-09-08,Belgium,1.82,67.0,frederik-willems
+236,Wouter Wippert,EvoPro Racing,1990-08-14,Netherlands,1.78,75.0,wouter-wippert
+237,Andrey Amador,Movistar Team,1986-08-29,Costa Rica,1.81,73.0,andrey-amador
+238,Marvin Orlando Angarita,noteam,1989-04-11,Colombia,0.0,0.0,marvin-orlando-angarita
+239,David Arroyo,noteam,1980-01-07,Spain,1.74,63.0,david-arroyo
+240,Marzio Bruseghin,noteam,1974-06-15,Italy,0.0,0.0,marzio-bruseghin
+241,Jonathan Castroviejo,Team INEOS,1987-04-27,Spain,1.71,62.0,jonathan-castroviejo
+242,Juan José Cobo,noteam,1981-02-11,Spain,1.75,62.0,juan-jose-cobo
+243,Rui Costa,UAE-Team Emirates,1986-10-05,Portugal,1.83,69.0,rui-costa
+244,Imanol Erviti,Movistar Team,1983-11-15,Spain,1.89,75.0,imanol-erviti
+245,José Iván Gutiérrez,noteam,1978-11-27,Spain,1.81,71.0,ivan-gutierrez
+246,Jesús Herrada,"Cofidis, Solutions Crédits",1990-07-26,Spain,1.83,70.0,jesus-herrada-lopez
+247,José Herrada,"Cofidis, Solutions Crédits",1985-10-01,Spain,1.75,65.0,jose-herrada
+248,Beñat Intxausti,Euskadi Basque Country - Murias,1986-03-20,Spain,1.75,61.0,benat-intxausti
+249,Francisco Javier Iriarte Garro,noteam,1986-11-11,Spain,0.0,0.0,francisco-javier-iriarte-garro
+250,Vladimir Karpets,noteam,1980-09-20,Russia,1.9,79.0,vladimir-karpets
+251,Vasil Kiryienka,Team INEOS,1981-06-28,Belarus,1.82,69.0,vasil-kiryienka
+252,Ignatas Konovalovas,Groupama - FDJ,1985-12-08,Lithuania,1.9,75.0,ignatas-konovalovas
+253,Pablo Lastras,noteam,1976-01-20,Spain,1.83,68.0,pablo-lastras
+254,David López,noteam,1981-05-13,Spain,1.79,68.0,david-lopez
+255,Ángel Madrazo,Burgos-BH,1988-07-30,Spain,1.71,61.0,angel-madrazo
+256,Javier Moreno,Delko Marseille Provence,1984-07-18,Spain,1.81,63.0,javier-moreno
+257,Sergio Pardilla,Caja Rural - Seguros RGA,1984-01-16,Spain,1.7,65.0,sergio-pardilla
+258,Rubén Plaza,Israel Cycling Academy,1980-02-29,Spain,1.91,77.0,ruben-plaza
+259,Nairo Quintana,Movistar Team,1990-02-04,Colombia,1.67,59.0,nairo-quintana
+260,José Joaquín Rojas,Movistar Team,1985-06-08,Spain,1.79,69.0,jose-joaquin-rojas
+261,Branislau Samoilau,Minsk Cycling Club,1985-05-25,Belarus,1.88,75.0,branislau-samoilau
+262,Enrique Sanz,Euskadi Basque Country - Murias,1989-09-11,Spain,1.71,64.0,enrique-sanz
+263,Alejandro Valverde,Movistar Team,1980-04-25,Spain,1.78,61.0,alejandro-valverde
+264,Francisco José Ventoso,CCC Team,1982-05-06,Spain,1.8,76.0,fran-ventoso
+265,Giovanni Visconti,Neri Sottoli - Selle Italia - KTM,1983-01-13,Italy,1.75,63.0,giovanni-visconti
+266,Marco Bandiera,noteam,1984-06-12,Italy,1.74,68.0,marco-bandiera
+267,Tom Boonen,noteam,1980-10-15,Belgium,1.92,82.0,tom-boonen
+268,Matt Brammeier,noteam,1985-06-07,Ireland,1.81,72.0,matthew-brammeier
+269,Dario Cataldo,Astana Pro Team,1985-03-17,Italy,1.75,64.0,dario-cataldo
+270,Sylvain Chavanel,noteam,1979-06-30,France,1.81,73.0,sylvain-chavanel
+271,Francesco Chicchi,noteam,1980-11-27,Italy,1.76,76.0,francesco-chicchi
+272,Gerald Ciolek,noteam,1986-09-19,Germany,1.79,75.0,gerald-ciolek
+273,Kevin De Weert,noteam,1982-05-27,Belgium,1.82,70.0,kevin-de-weert
+274,Dries Devenyns,Deceuninck - Quick Step,1983-07-22,Belgium,1.76,64.0,dries-devenyns
+275,Andrew Fenn,noteam,1990-07-01,Great Britain,1.86,79.0,andrew-fenn
+276,Michał Gołaś,Team INEOS,1984-04-29,Poland,1.8,65.0,michal-golas
+277,Bert Grabsch,noteam,1975-06-19,Germany,1.79,78.0,bert-grabsch
+278,Jeroen Hoorne,noteam,1988-08-14,Belgium,0.0,0.0,jeroen-hoorne
+279,Iljo Keisse,Deceuninck - Quick Step,1982-12-21,Belgium,1.83,72.0,iljo-keisse
+280,Michał Kwiatkowski,Team INEOS,1990-06-02,Poland,1.76,68.0,michal-kwiatkowski
+281,Levi Leipheimer,noteam,1973-10-24,United States,1.7,62.0,levi-leipheimer
+282,Nikolas Maes,Lotto Soudal,1986-04-09,Belgium,1.9,78.0,nikolas-maes
+283,Tony Martin,Team Jumbo-Visma,1985-04-23,Germany,1.85,75.0,tony-martin
+284,Serge Pauwels,CCC Team,1983-11-21,Belgium,1.78,65.0,serge-pauwels
+285,Jérôme Pineau,noteam,1980-01-02,France,1.76,65.0,jerome-pineau
+286,František Raboň,noteam,1983-09-26,Czech Republic,0.0,0.0,frantisek-rabon
+287,Florian Sénéchal,Deceuninck - Quick Step,1993-07-10,France,1.79,76.0,florian-senechal
+288,Gert Steegmans,noteam,1980-09-30,Belgium,1.9,82.0,gert-steegmans
+289,Zdeněk Štybar,Deceuninck - Quick Step,1985-12-11,Czech Republic,1.83,71.0,zdenek-stybar
+290,Niki Terpstra,Team Total Direct Energie,1984-05-18,Netherlands,1.88,75.0,niki-terpstra
+291,Matteo Trentin,Mitchelton-Scott,1989-08-02,Italy,1.79,74.0,matteo-trentin
+292,Guillaume Van Keirsbulck,CCC Team,1991-02-14,Belgium,1.92,85.0,guillaume-van-keirsbulck
+293,Stijn Vandenbergh,AG2R La Mondiale,1984-04-25,Belgium,1.99,85.0,stijn-vandenbergh
+294,Kristof Vandewalle,noteam,1985-04-05,Belgium,1.8,74.0,kristof-vandewalle
+295,Martin Velits,noteam,1985-02-21,Slovakia,1.85,70.0,martin-velits
+296,Peter Velits,noteam,1985-02-21,Slovakia,1.81,63.0,peter-velits
+297,Julien Vermote,Team Dimension Data,1989-07-26,Belgium,1.79,71.0,julien-vermote
+298,Michael Albasini,Mitchelton-Scott,1980-12-20,Switzerland,1.72,65.0,michael-albasini
+299,Fumiyuki Beppu,Trek - Segafredo,1983-04-10,Japan,1.8,69.0,fumiyuki-beppu
+300,Sam Bewley,Mitchelton-Scott,1987-07-22,New Zealand,0.0,0.0,sam-bewley
+301,Jack Bobridge,noteam,1989-07-13,Australia,1.8,65.0,jack-bobridge
+302,Simon Clarke,EF Education First,1986-07-18,Australia,1.75,63.0,simon-clarke
+303,Baden Cooke,noteam,1978-10-12,Australia,1.78,73.0,baden-cooke
+304,Allan Howard Davis,noteam,1980-07-27,Australia,0.0,0.0,allan-davis
+305,Julian Dean,noteam,1975-01-28,New Zealand,0.0,0.0,julian-dean
+306,Mitchell Docker,EF Education First,1986-10-02,Australia,0.0,0.0,mitchell-docker
+307,Luke Durbridge,Mitchelton-Scott,1991-04-09,Australia,1.87,78.0,luke-durbridge
+308,Simon Gerrans,noteam,1980-05-16,Australia,1.69,62.0,simon-gerrans
+309,Matthew Goss,noteam,1986-11-05,Australia,1.78,70.0,matthew-goss
+310,Michael Hepburn,Mitchelton-Scott,1991-08-17,Australia,1.86,77.0,michael-hepburn
+311,Leigh Howard,Pro Racing Sunshine Coast,1989-10-18,Australia,1.79,72.0,leigh-howard
+312,Daryl Impey,Mitchelton-Scott,1984-12-06,South Africa,1.81,70.0,daryl-impey
+313,Jens Keukeleire,Lotto Soudal,1988-11-23,Belgium,1.85,69.0,jens-keukeleire
+314,Aidis Kruopis,noteam,1986-10-26,Lithuania,1.84,80.0,aidis-kruopis
+315,Brett Lancaster,noteam,1979-11-15,Australia,1.88,78.0,brett-lancaster
+316,Sebastian Langeveld,EF Education First,1985-01-17,Netherlands,1.78,67.0,sebastian-langeveld
+317,Robbie McEwen,noteam,1972-06-24,Australia,0.0,0.0,robbie-mcewen
+318,Christian Meier,noteam,1985-02-21,Canada,0.0,0.0,christian-meier
+319,Travis Meyer,noteam,1989-06-08,Australia,1.78,68.0,travis-meyer
+320,Cameron Meyer,Mitchelton-Scott,1988-01-11,Australia,1.81,70.0,cameron-meyer
+321,Jens Mouris,noteam,1980-03-12,Netherlands,1.97,91.0,jens-mouris
+322,Stuart O'Grady,noteam,1973-08-06,Australia,1.76,73.0,stuart-o-grady
+323,Wesley Sulzberger,noteam,1986-10-20,Australia,0.0,0.0,wesley-sulzberger
+324,Daniel Teklehaimanot,noteam,1988-11-10,Eritrea,1.88,70.0,daniel-teklehaimanot
+325,Svein Tuft,Rally UHC Cycling,1977-05-09,Canada,1.75,77.0,svein-tuft
+326,Tomas Vaitkus,noteam,1982-02-04,Lithuania,0.0,0.0,tomas-vaitkus
+327,Pieter Weening,Roompot - Charles,1981-04-05,Netherlands,1.86,66.0,pieter-weening
+328,Matthew Wilson,noteam,1977-10-01,Australia,0.0,0.0,matthew-wilson
+329,Carlos Barredo,noteam,1981-06-05,Spain,0.0,0.0,carlos-barredo
+330,Jetse Bol,Burgos-BH,1989-09-08,Netherlands,1.84,73.0,jetse-bol
+331,Lars Boom,Roompot - Charles,1985-12-30,Netherlands,1.91,72.0,lars-boom
+332,Theo Bos,noteam,1983-08-22,Netherlands,1.9,77.0,theo-bos
+333,Matti Breschel,EF Education First,1984-08-31,Denmark,1.81,70.0,matti-breschel
+334,Graeme Allen Brown,noteam,1979-04-09,Australia,1.78,77.0,graeme-brown
+335,Stef Clement,noteam,1982-09-24,Netherlands,1.81,67.0,stef-clement
+336,Rick Flens,noteam,1983-04-11,Netherlands,1.87,82.0,rick-flens
+337,Juan Manuel Garate,noteam,1976-04-24,Spain,0.0,0.0,juan-manuel-garate
+338,Robert Gesink,Team Jumbo-Visma,1986-05-31,Netherlands,1.89,70.0,robert-gesink
+339,Marc Goos,noteam,1990-11-30,Netherlands,1.78,65.0,marc-goos
+340,Wilco Kelderman,Team Sunweb,1991-03-25,Netherlands,1.85,65.0,wilco-kelderman
+341,Steven Kruijswijk,Team Jumbo-Visma,1987-06-07,Netherlands,1.78,63.0,steven-kruijswijk
+342,Tom Leezer,Team Jumbo-Visma,1985-12-26,Netherlands,1.85,76.0,tom-leezer
+343,Paul Martens,Team Jumbo-Visma,1983-10-26,Germany,1.78,69.0,paul-martens
+344,Michael Matthews,Team Sunweb,1990-09-26,Australia,1.8,0.0,michael-matthews
+345,Bauke Mollema,Trek - Segafredo,1986-11-26,Netherlands,1.81,64.0,bauke-mollema
+346,Grischa Niermann,noteam,1975-11-03,Germany,0.0,0.0,grischa-niermann
+347,Daan Olivier,noteam,1992-11-24,Netherlands,1.88,64.0,daan-olivier
+348,Mark Renshaw,Team Dimension Data,1982-10-22,Australia,1.79,74.0,mark-renshaw
+349,Luis León Sánchez,Astana Pro Team,1983-11-24,Spain,1.87,74.0,luis-leon-sanchez
+350,Tom-Jelte Slagter,Team Dimension Data,1989-07-01,Netherlands,1.69,58.0,tom-jelte-slagter
+351,Bram Tankink,noteam,1978-12-03,Netherlands,1.81,71.0,bram-tankink
+352,Laurens ten Dam,CCC Team,1980-11-13,Netherlands,1.84,69.0,laurens-ten-dam
+353,Maarten Tjallingii,noteam,1977-11-05,Netherlands,1.88,81.0,maarten-tjallingii
+354,Jos van Emden,Team Jumbo-Visma,1985-02-18,Netherlands,1.86,74.0,jos-van-emden
+355,Dennis van Winden,Israel Cycling Academy,1987-12-02,Netherlands,1.84,70.0,dennis-van-winden
+356,Coen Vermeltfoort,Alecto Cycling Team ,1988-04-11,Netherlands,1.9,85.0,coen-vermeltfoort
+357,Maarten Wynants,Team Jumbo-Visma,1982-05-13,Belgium,1.9,74.0,maarten-wynants
+358,Jan Bakelants,Team Sunweb,1986-02-14,Belgium,1.77,67.0,jan-bakelants
+359,Daniele Bennati,Movistar Team,1980-09-24,Italy,1.83,71.0,daniele-bennati
+360,George Bennett,Team Jumbo-Visma,1990-04-07,New Zealand,1.8,58.0,george-bennett
+361,Matthew Busche,noteam,1985-05-09,United States,1.74,69.0,matthew-busche
+362,Fabian Cancellara,noteam,1981-03-18,Switzerland,1.86,80.0,fabian-cancellara
+363,Laurent Didier,noteam,1984-07-19,Luxembourg,1.89,68.0,laurent-didier
+364,Jakob Fuglsang,Astana Pro Team,1985-03-22,Denmark,1.82,68.0,jakob-fuglsang
+365,Tony Gallopin,AG2R La Mondiale,1988-05-24,France,1.8,70.0,tony-gallopin
+366,Linus Gerdemann,noteam,1982-09-16,Germany,1.83,71.0,linus-gerdemann
+367,Ben Hermans,Israel Cycling Academy,1986-06-08,Belgium,1.86,72.0,ben-hermans
+368,Chris Horner,Team Illuminate,1971-10-23,United States,1.8,70.0,chris-horner
+369,Markel Irizar,noteam,1980-02-05,Spain,1.82,73.0,markel-irizar
+370,Ben King,Team Dimension Data,1989-03-22,United States,1.83,68.0,benjamin-king-1
+371,Andreas Klöden,noteam,1975-06-22,Germany,1.83,63.0,andreas-kloden
+372,Tiago Machado,Sporting Clube de Portugal/Tavira,1985-10-18,Portugal,1.78,63.0,tiago-machado
+373,Maxime Monfort,Lotto Soudal,1983-01-14,Belgium,1.81,66.0,maxime-monfort
+374,Giacomo Nizzolo,Team Dimension Data,1989-01-30,Italy,1.84,72.0,giacomo-nizzolo
+375,Nelson Oliveira,Movistar Team,1989-03-06,Portugal,1.8,67.0,nelson-oliveira
+376,Yaroslav Popovych,noteam,1980-01-04,Ukraine,1.75,64.0,yaroslav-popovych
+377,Joost Posthuma,noteam,1981-03-08,Netherlands,0.0,0.0,joost-posthuma
+378,Grégory Rast,noteam,1980-01-17,Switzerland,1.86,80.0,gregory-rast
+379,Thomas Rohregger,noteam,1982-12-23,Austria,0.0,0.0,thomas-rohregger
+380,Hayden Roulston,noteam,1981-01-10,New Zealand,1.86,81.0,hayden-roulston
+381,Andy Schleck,noteam,1985-06-10,Luxembourg,1.86,68.0,andy-schleck
+382,Fränk Schleck,noteam,1980-04-15,Luxembourg,1.86,65.0,frank-schleck
+383,Jesse Sergent,noteam,1988-07-08,New Zealand,1.89,76.0,jesse-sergent
+384,Jens Voigt,noteam,1971-09-17,Germany,1.89,76.0,jens-voigt
+385,Robert Wagner,noteam,1983-04-17,Germany,1.86,75.0,robert-wagner
+386,Oliver Zaugg,noteam,1981-05-09,Switzerland,1.67,58.0,oliver-zaugg
+387,Haimar Zubeldia,noteam,1977-04-01,Spain,1.79,68.0,haimar-zubeldia
+388,Davide Appollonio,Amore & Vita - Prodir,1989-06-02,Italy,1.7,67.0,davide-appollonio
+389,Michael Barry,noteam,1975-12-18,Canada,1.89,72.0,michael-barry
+390,Edvald Boasson Hagen,Team Dimension Data,1987-05-17,Norway,1.85,75.0,edvald-boasson-hagen
+391,Mark Cavendish,Team Dimension Data,1985-05-21,Great Britain,1.75,70.0,mark-cavendish
+392,Alex Dowsett,Team Katusha Alpecin,1988-10-03,Great Britain,1.82,75.0,alex-dowsett
+393,Bernhard Eisel,Team Dimension Data,1981-02-17,Austria,1.83,74.0,bernhard-eisel
+394,Juan Antonio Flecha,noteam,1977-09-17,Spain,1.81,72.0,juan-antonio-flecha
+395,Chris Froome,Team INEOS,1985-05-20,Great Britain,1.86,69.0,christopher-froome
+396,Mathew Hayman,noteam,1978-04-20,Australia,1.9,78.0,mathew-hayman
+397,Sergio Henao,UAE-Team Emirates,1987-12-10,Colombia,1.69,61.0,sergio-luis-henao
+398,Jeremy Hunt,noteam,1974-03-12,Great Britain,0.0,0.0,jeremy-hunt
+399,Peter Kennaugh,noteam,1989-06-15,Great Britain,1.73,66.0,peter-kennaugh
+400,Christian Knees,Team INEOS,1981-03-05,Germany,1.94,81.0,christian-knees
+401,Thomas Löfkvist,noteam,1984-04-04,Sweden,0.0,0.0,thomas-lofkvist
+402,Davide Martinelli,Deceuninck - Quick Step,1993-05-31,Italy,1.86,71.0,davide-martinelli
+403,Lars Petter Nordhaug,noteam,1984-05-14,Norway,1.76,65.0,lars-petter-nordhaug
+404,Danny Pate,noteam,1979-03-24,United States,1.85,73.0,danny-pate
+405,Richie Porte,Trek - Segafredo,1985-01-30,Australia,1.72,62.0,richie-porte
+406,Salvatore Puccio,Team INEOS,1989-08-31,Italy,1.82,68.0,salvatore-puccio
+407,Michael Rogers,noteam,1979-12-20,Australia,1.85,74.0,michael-rogers
+408,Luke Rowe,Team INEOS,1990-03-10,Great Britain,1.85,72.0,luke-rowe
+409,Kanstantsin Siutsou,noteam,1982-08-09,Belarus,1.83,68.0,kanstantsin-siutsou
+410,Ian Stannard,Team INEOS,1987-05-25,Great Britain,1.89,83.0,ian-stannard
+411,Chris Sutton,noteam,1984-09-10,Australia,1.76,67.0,chris-sutton
+412,Ben Swift,Team INEOS,1987-11-05,Great Britain,1.79,69.0,ben-swift
+413,Geraint Thomas,Team INEOS,1986-05-25,Great Britain,1.83,71.0,geraint-thomas
+414,Rigoberto Urán,EF Education First,1987-01-26,Colombia,1.73,63.0,rigoberto-uran
+415,Bradley Wiggins,noteam,1980-04-28,Great Britain,1.89,76.0,bradley-wiggins
+416,Xabier Zandio,noteam,1977-03-17,Spain,1.84,73.0,xabier-zandio
+417,Jack Bauer,Mitchelton-Scott,1985-04-07,New Zealand,1.91,74.0,jack-bauer
+418,Tom Danielson,noteam,1978-03-13,United States,1.77,58.5,thomas-danielson
+419,Thomas Dekker,noteam,1984-09-06,Netherlands,1.88,69.0,thomas-dekker
+420,Tyler Farrar,noteam,1984-06-02,United States,1.83,73.0,tyler-farrar
+421,Koldo Fernández,noteam,1981-09-13,Spain,0.0,0.0,koldo-fernandez
+422,Murilo Antonio Fischer,noteam,1979-06-16,Brazil,1.7,65.0,murilo-antonio-fischer
+423,Nathan Haas,Team Katusha Alpecin,1989-03-12,Australia,1.78,71.0,nathan-haas
+424,Heinrich Haussler,Bahrain Merida,1984-02-25,Australia,1.81,74.0,heinrich-haussler
+425,Ryder Hesjedal,noteam,1980-12-09,Canada,1.87,73.0,ryder-hesjedal
+426,Alex Howes,EF Education First,1988-01-01,United States,1.8,61.0,alex-howes
+427,Robert Hunter,noteam,1977-04-22,South Africa,1.78,72.0,robert-hunter
+428,Andreas Klier,noteam,1976-01-15,Germany,1.81,72.0,andreas-klier
+429,Michel Kreder,Ningxia Sports Lottery - Livall Cycling team,1987-08-15,Netherlands,1.8,67.0,michel-kreder
+430,Raymond Kreder,Team UKYO,1989-11-26,Netherlands,1.77,70.0,raymond-kreder
+431,Christophe Le Mével,noteam,1980-09-11,France,1.74,61.0,christophe-le-mevel
+432,Martijn Maaskant,noteam,1983-07-27,Netherlands,0.0,0.0,martijn-maaskant
+433,Dan Martin,UAE-Team Emirates,1986-08-20,Ireland,1.75,59.0,dan-martin
+434,David Millar,noteam,1977-01-04,Great Britain,1.9,77.0,david-millar
+435,Lachlan Morton,EF Education First,1992-01-02,Australia,1.8,62.0,lachlan-morton
+436,Ramūnas Navardauskas,Delko Marseille Provence,1988-01-30,Lithuania,1.9,77.0,ramunas-navardauskas
+437,Tom Peterson,noteam,1986-12-24,United States,0.0,0.0,tom-peterson
+438,Alex Rasmussen,noteam,1984-06-09,Denmark,0.0,0.0,alex-rasmussen
+439,Jacob Rathe,noteam,1991-03-13,United States,0.0,0.0,jacob-rathe
+440,Sébastien Rosseler,noteam,1981-07-15,Belgium,0.0,0.0,sebastien-rosseler
+441,Tom Scully,EF Education First,1990-01-14,New Zealand,1.88,85.0,thomas-scully
+442,Peter Stetina,Trek - Segafredo,1987-08-08,United States,1.8,63.0,peter-stetina
+443,Andrew Talansky,noteam,1988-11-23,United States,1.75,63.0,andrew-talansky
+444,Christian Vande Velde,noteam,1976-05-22,United States,1.8,69.0,christian-vande-velde
+445,Sep Vanmarcke,EF Education First,1988-07-28,Belgium,1.9,77.0,sep-vanmarcke
+446,Johan Vansummeren,noteam,1981-02-04,Belgium,1.97,79.0,johan-vansummeren
+447,Steele Von Hoff,noteam,1987-12-31,Australia,1.8,0.0,steele-von-hoff
+448,Fabian Wegmann,noteam,1980-06-20,Germany,0.0,0.0,fabian-wegmann
+449,David Zabriskie,noteam,1979-01-12,United States,1.83,67.0,david-zabriskie
+450,Maxim Belkov,noteam,1985-01-09,Russia,1.84,71.0,maxim-belkov
+451,Pavel Brutt,noteam,1982-01-29,Russia,1.78,70.0,pavel-brutt
+452,Giampaolo Caruso,noteam,1980-08-15,Italy,1.73,60.0,giampaolo-caruso
+453,Xavier Florencio,noteam,1979-12-26,Spain,0.0,0.0,xavier-florencio
+454,Óscar Freire,noteam,1976-02-15,Spain,1.71,63.0,oscar-freire
+455,Denis Galimzyanov,noteam,1987-03-07,Russia,0.0,0.0,denis-galimzyanov
+456,Vladimir Gusev,noteam,1982-07-04,Russia,1.76,67.0,vladimir-gusev
+457,Marco Haller,Team Katusha Alpecin,1991-04-01,Austria,1.78,72.0,marco-haller
+458,Joan Horrach,noteam,1974-03-27,Spain,1.79,70.0,joan-horrach
+459,Petr Ignatenko,noteam,1987-09-27,Russia,0.0,0.0,petr-ignatenko
+460,Mikhail Ignatiev,noteam,1985-05-07,Russia,0.0,0.0,mikhail-ignatiev
+461,Vladimir Isaychev,noteam,1986-04-21,Russia,1.88,80.0,vladimir-isaychev
+462,Alexandr Kolobnev,noteam,1981-05-04,Russia,1.74,64.0,alexandr-kolobnev
+463,Alexander Kristoff,UAE-Team Emirates,1987-07-05,Norway,1.81,78.0,alexander-kristoff
+464,Timofey Kritskiy,noteam,1987-01-24,Russia,1.9,81.0,timofey-kritskiy
+465,Aleksandr Kuschynski,noteam,1979-10-27,Belarus,1.82,65.0,aliaksandr-kuchynski
+466,Viacheslav Kuznetsov,Team Katusha Alpecin,1989-06-24,Russia,1.84,70.0,viacheslav-kuznetsov
+467,Alberto Losada,noteam,1982-02-28,Spain,1.8,69.0,alberto-losada
+468,Denis Menchov,noteam,1978-01-25,Russia,1.8,65.0,denis-menchov
+469,Daniel Moreno,noteam,1981-09-05,Spain,1.73,59.0,daniel-moreno
+470,Luca Paolini,noteam,1977-01-17,Italy,1.74,66.0,luca-paolini
+471,Alexander Porsev,Gazprom-RusVelo,1986-02-21,Russia,1.85,80.0,alexander-porsev
+472,Joaquim Rodríguez,noteam,1979-05-12,Spain,1.69,58.0,joaquim-rodriguez
+473,Rüdiger Selig,BORA - hansgrohe,1989-02-19,Germany,1.88,80.0,rudiger-selig
+474,Gatis Smukulis,noteam,1987-04-15,Latvia,1.83,72.0,gatis-smukulis
+475,Simon Špilak,Team Katusha Alpecin,1986-06-23,Slovenia,1.76,68.0,simon-spilak
+476,Yuri Trofimov,noteam,1984-01-26,Russia,1.69,59.0,yuri-trofimov
+477,Alexey Tsatevich,noteam,1989-07-05,Russia,1.69,64.0,alexey-tsatevich
+478,Maxime Vantomme,Tarteletto - Isorex,1986-03-08,Belgium,1.74,63.0,maxime-vantomme
+479,Ángel Vicioso,noteam,1977-04-13,Spain,1.7,60.0,angel-vicioso
+480,Eduard Vorganov,Minsk Cycling Club,1982-12-07,Russia,1.77,65.0,eduard-vorganov
+481,Anton Vorobyev,Gazprom-RusVelo,1990-10-12,Russia,1.8,74.0,anton-vorobyev
+482,Ilnur Zakarin,Team Katusha Alpecin,1989-09-15,Russia,1.87,67.0,ilnur-zakarin
+483,Jonas Aaen Jørgensen,Riwal Readynez Cycling Team,1986-04-20,Denmark,0.0,0.0,jonas-aaen-jorgensen
+484,Manuele Boaro,Astana Pro Team,1987-03-12,Italy,1.73,64.0,manuele-boaro
+485,Jonathan Cantwell,noteam,1982-01-08,Australia,1.74,69.0,jonathan-cantwell
+486,Mads Christensen,noteam,1984-04-06,Denmark,0.0,0.0,mads-christensen
+487,Alberto Contador,noteam,1982-12-06,Spain,1.76,61.0,alberto-contador
+488,Volodymyr Gustov,noteam,1977-02-15,Ukraine,1.79,64.0,volodymyr-gustov
+489,Juan José Haedo,noteam,1981-01-26,Argentina,1.8,73.0,juan-jose-haedo
+490,Lucas Sebastián Haedo,noteam,1983-04-18,Argentina,1.73,64.0,lucas-sebastian-haedo
+491,Jesús Hernández,noteam,1981-09-28,Spain,1.69,58.0,jesus-hernandez-3
+492,Christopher Juul-Jensen,Mitchelton-Scott,1989-07-06,Denmark,1.83,73.0,christopher-juul-jensen
+493,Kasper Klostergaard,noteam,1983-05-22,Denmark,0.0,0.0,kasper-klostergaard
+494,Karsten Kroon,noteam,1976-01-29,Netherlands,1.8,67.0,karsten-kroon
+495,Anders Lund,noteam,1985-02-14,Denmark,1.67,65.0,anders-lund-1
+496,Rafał Majka,BORA - hansgrohe,1989-09-12,Poland,1.73,62.0,rafal-majka
+497,Ran Margaliot,noteam,1988-07-18,Israel,0.0,0.0,ran-margaliot
+498,Jarosław Marycz,noteam,1987-04-17,Poland,1.82,69.0,jaroslaw-marycz
+499,Takashi Miyazawa,noteam,1978-02-27,Japan,1.64,61.0,takashi-miyazawa
+500,Michael Mørkøv,Deceuninck - Quick Step,1985-04-30,Denmark,1.83,69.0,michael-morkov
+501,Daniel Navarro,Team Katusha Alpecin,1983-07-18,Spain,1.75,60.0,daniel-navarro
+502,Benjamín Noval,noteam,1979-01-23,Spain,1.78,71.0,benjamin-gonzalez-noval
+503,Nick Nuyens,noteam,1980-05-05,Belgium,1.77,68.0,nick-nuyens
+504,Sérgio Miguel Paulinho,Efapel,1980-03-26,Portugal,1.72,64.0,sergio-paulinho
+505,Bruno Pires,noteam,1981-05-15,Portugal,1.74,63.0,bruno-manuel-silva-pires
+506,Luke Roberts,noteam,1977-01-25,Australia,0.0,0.0,luke-roberts-1
+507,Nicki Sørensen,noteam,1975-05-14,Denmark,1.82,71.0,nicki-sorensen
+508,Chris Anker Sørensen,noteam,1984-09-05,Denmark,1.85,64.0,chris-anker-sorensen
+509,David Tanner,noteam,1984-09-30,Australia,1.84,68.0,david-tanner
+510,Matteo Tosatto,noteam,1974-05-14,Italy,1.81,74.0,matteo-tosatto
+511,Troels Rønning Vinther,Riwal Readynez Cycling Team,1987-02-24,Denmark,1.82,68.0,troels-vinther
+512,Kris Boeckmans,Vital Concept - B&B Hotels,1987-02-13,Belgium,1.8,74.0,kris-boeckmans
+513,Matteo Carrara,noteam,1979-03-25,Italy,0.0,0.0,matteo-carrara
+514,Thomas De Gendt,Lotto Soudal,1986-11-06,Belgium,1.77,69.0,thomas-de-gendt
+515,Stefan Denifl,noteam,1987-09-20,Austria,1.79,65.0,stefan-denifl
+516,Stijn Devolder,Corendon - Circus,1979-08-29,Belgium,1.82,81.0,stijn-devolder
+517,Romain Feillu,St Michel - Auber93,1984-04-16,France,1.74,64.0,romain-feillu
+518,Jasper Hamelink,noteam,1990-01-12,Netherlands,0.0,0.0,jasper-hamelink
+519,Johnny Hoogerland,noteam,1983-05-13,Netherlands,1.79,70.0,johnny-hoogerland
+520,Martijn Keizer,noteam,1988-03-25,Netherlands,1.93,72.0,martijn-keizer
+521,Wesley Kreder,Wanty - Gobert Cycling Team,1990-11-04,Netherlands,1.83,70.0,wesley-kreder
+522,Sergey Lagutin,noteam,1981-01-14,Russia,1.82,63.0,sergey-lagutin
+523,Maurits Lammertink,Roompot - Charles,1990-08-31,Netherlands,1.7,59.0,maurits-lammertink
+524,Gustav Erik Larsson,noteam,1980-09-20,Sweden,1.95,77.0,gustav-larsson
+525,Björn Leukemans,noteam,1977-07-01,Belgium,1.77,67.0,bjorn-leukemans
+526,Pim Ligthart,Team Total Direct Energie,1988-06-16,Netherlands,1.81,72.0,pim-ligthart
+527,Bert-Jan Lindeman,Team Jumbo-Visma,1989-06-16,Netherlands,1.8,69.0,bert-jan-lindeman
+528,Marco Marcato,UAE-Team Emirates,1984-02-11,Italy,1.74,67.0,marco-marcato
+529,Tomasz Marczyński,Lotto Soudal,1984-03-06,Poland,1.8,69.0,tomasz-marczynski
+530,Barry Markus,noteam,1991-07-17,Netherlands,1.79,75.0,barry-markus
+531,Wouter Mol,noteam,1982-04-17,Netherlands,1.95,83.0,wouter-mol
+532,Jacek Morajko,noteam,1981-04-26,Poland,0.0,0.0,jacek-morajko
+533,Martin Mortensen,Team Waoo,1984-11-05,Denmark,1.8,70.0,martin-mortensen
+534,Nikita Novikov,noteam,1989-08-14,Russia,0.0,0.0,nikita-novikov
+535,Marcello Pavarin,noteam,1986-10-22,Italy,0.0,0.0,marcello-pavarin
+536,Wout Poels,Team INEOS,1987-10-01,Netherlands,1.83,66.0,wout-poels
+537,Rob Ruijgh,noteam,1986-11-12,Netherlands,1.75,63.0,rob-ruijgh
+538,Mirko Selvaggi,noteam,1985-02-11,Italy,1.95,74.0,mirko-selvaggi
+539,Rafael Valls,Movistar Team,1987-06-25,Spain,1.79,59.0,rafael-valls
+540,Kenny van Hummel,noteam,1982-09-30,Netherlands,1.76,64.0,kenny-van-hummel
+541,Kevin Van Impe,noteam,1981-04-19,Belgium,0.0,0.0,kevin-van-impe
+542,Frederik Veuchelen,noteam,1978-09-04,Belgium,1.83,75.0,frederik-veuchelen
+543,Willem Wauters,noteam,1989-11-10,Belgium,0.0,0.0,willem-wauters
+544,Lieuwe Westra,noteam,1982-09-11,Netherlands,1.85,74.0,lieuwe-westra
+545,Steven Caethoven,noteam,1981-05-09,Belgium,0.0,0.0,steven-caethoven
+546,Andy Cappelle,noteam,1979-04-30,Belgium,0.0,0.0,andy-cappelle
+547,Oleg Chuzhda,noteam,1985-05-08,Ukraine,0.0,0.0,oleg-chuzhda
+548,Tim De Troyer,noteam,1990-08-11,Belgium,1.78,72.0,tim-de-troyer
+549,Wim De Vocht,noteam,1982-04-29,Belgium,0.0,0.0,wim-de-vocht
+550,Sjef de Wilde,noteam,1981-05-03,Belgium,0.0,0.0,sjef-de-wilde
+551,Thomas Degand,Wanty - Gobert Cycling Team,1986-05-13,Belgium,1.76,63.0,thomas-degand
+552,Jempy Drucker,BORA - hansgrohe,1986-09-03,Luxembourg,1.82,75.0,jean-pierre-drucker
+553,Jérôme Gilbert,noteam,1984-01-22,Belgium,0.0,0.0,jerome-gilbert
+554,Rob Goris,noteam,1982-03-15,Belgium,0.0,0.0,rob-goris
+555,Grégory Habeaux,noteam,1982-10-20,Belgium,1.83,68.0,gregory-habeaux
+556,Leif Hoste,noteam,1977-07-17,Belgium,0.0,0.0,leif-hoste
+557,Kevyn Ista,Wallonie-Bruxelles,1984-11-22,Belgium,1.83,70.0,kevyn-ista
+558,Staf Scheirlinckx,noteam,1979-03-12,Belgium,0.0,0.0,staf-scheirlinckx
+559,Timothy Stevens,Cibel,1989-03-26,Belgium,0.0,0.0,timothy-stevens
+560,Stefan van Dijk,noteam,1976-01-22,Netherlands,0.0,0.0,stefan-van-dijk-1
+561,Jurgen Van Goolen,noteam,1980-11-28,Belgium,1.83,70.0,jurgen-van-goolen
+562,Arnoud van Groen,noteam,1983-12-11,Netherlands,1.83,69.0,arnoud-van-groen
+563,Kevin van Melsen,Wanty - Gobert Cycling Team,1987-04-01,Belgium,1.85,78.0,kevin-van-melsen
+564,James Vanlandschoot,noteam,1978-08-26,Belgium,1.66,67.0,james-vanlandschoot
+565,Evert Verbist,noteam,1984-06-27,Belgium,0.0,0.0,evert-verbist
+566,Benjamin Verraes,noteam,1987-02-21,Belgium,0.0,0.0,benjamin-verraes
+567,Steve Bekaert,noteam,1990-12-26,Belgium,0.0,0.0,steve-bekaert
+568,Carlos Betancur,Movistar Team,1989-10-13,Colombia,1.67,65.0,carlos-betancur
+569,Paolo Ciavatta,noteam,1984-11-06,Italy,0.0,0.0,paolo-ciavatta
+570,Massimo Codol,noteam,1973-02-27,Italy,0.0,0.0,massimo-codol
+571,Claudio Corioni,noteam,1982-12-26,Italy,1.8,67.0,claudio-corioni
+572,Stefano di Carlo,noteam,1987-08-15,Italy,0.0,0.0,stefano-di-carlo
+573,Danilo Di Luca,noteam,1976-01-02,Italy,0.0,0.0,danilo-di-luca
+574,Francesco Di Paolo,noteam,1982-04-18,Italy,0.0,0.0,francesco-di-paolo
+575,Alessandro Donati,noteam,1979-05-08,Italy,0.0,0.0,alessandro-donati
+576,Stefano Garzelli,noteam,1973-07-16,Italy,0.0,0.0,stefano-garzelli
+577,Francesco Ginanni,noteam,1985-10-06,Italy,0.0,0.0,francesco-ginanni
+578,Ruggero Marzoli,noteam,1976-04-02,Italy,0.0,0.0,ruggero-marzoli
+579,Simone Masciarelli,noteam,1980-01-02,Italy,0.0,0.0,simone-masciarelli
+580,Andrea Masciarelli,noteam,1982-09-02,Italy,0.0,0.0,andrea-masciarelli
+581,Vladimir Miholjević,noteam,1974-01-18,Croatia,1.8,68.0,vladimir-miholjevic
+582,Danilo Napolitano,noteam,1981-01-31,Italy,1.74,81.0,danilo-napolitano
+583,Francesco Reda,noteam,1982-11-19,Italy,0.0,0.0,francesco-reda
+584,Daniele Scampamorte,noteam,1986-07-15,Italy,0.0,0.0,daniele-scampamorte
+585,Fabio Taborre,noteam,1985-06-05,Italy,1.78,66.0,fabio-taborre
+586,Jose Aguilar Vega,noteam,1986-11-17,Spain,0.0,0.0,jose-aguilar-vega
+587,Antonio Cabello,noteam,1990-01-05,Spain,0.0,0.0,antonio-cabello-baena
+588,Jose Luis Cano,noteam,1988-04-28,Spain,0.0,0.0,jose-luis-cano
+589,Sergio Carrasco,noteam,1985-02-17,Spain,0.0,0.0,sergio-carrasco
+590,Gustavo César,W52 / FC Porto ,1980-01-29,Spain,1.82,69.0,gustavo-cesar-veloso
+591,Javier Chacon,noteam,1985-07-29,Spain,0.0,0.0,javier-quesada-chacon
+592,Francisco Clavijo,noteam,1992-01-25,Spain,0.0,0.0,francisco-clavijo
+593,Pablo Lechuga,noteam,1990-08-16,Spain,0.0,0.0,pablo-lechuga-rodriguez
+594,Juan José Lobato,Nippo Vini Fantini Faizanè,1988-12-30,Spain,1.73,64.0,juan-jose-lobato
+595,Román Osuna,noteam,1989-09-15,Spain,0.0,0.0,roman-osuna-montes
+596,Adrián Palomares,noteam,1976-02-18,Spain,0.0,0.0,adrian-palomares
+597,Javier Ramírez Abeja,noteam,1978-03-14,Spain,0.0,0.0,javier-ramirez
+598,Jose  Luis Roldan,noteam,1985-11-13,Spain,0.0,0.0,jose-luis-roldan
+599,Jesús Rosendo,noteam,1982-03-16,Spain,0.0,0.0,jesus-rosendo
+600,Jesús Alberto Rubio,Guerciotti - Kiwi Atlántico,1992-01-25,Spain,0.0,0.0,jesus-albert-rubio
+601,Eloy Ruiz Pinto,noteam,1989-01-07,Spain,0.0,0.0,eloy-ruiz-pinto
+602,Jordi Simón,noteam,1990-09-06,Spain,1.77,64.0,jordi-simon
+603,José Vicente Toribio,Matrix Powertag,1985-12-22,Spain,1.75,64.0,jose-vicente-toribio
+604,Andrés Vigil Vidal,noteam,1988-09-26,Spain,0.0,0.0,andres-vigil-vidal
+605,Omar Bertazzo,noteam,1989-01-07,Italy,0.0,0.0,omar-bertazzo
+606,Alessandro Bertolini,noteam,1971-07-27,Italy,0.0,0.0,alessandro-bertolini
+607,Riccardo Chiarini,noteam,1984-02-20,Italy,1.84,70.0,riccardo-chiarini
+608,Alessandro De Marchi,CCC Team,1986-05-19,Italy,1.8,65.0,alessandro-de-marchi
+609,Giairo Ermeti,noteam,1981-04-07,Italy,0.0,0.0,giairo-ermeti
+610,Fabio Felline,Trek - Segafredo,1990-03-29,Italy,1.75,68.0,fabio-felline
+611,Roberto Ferrari,UAE-Team Emirates,1983-03-09,Italy,1.73,73.0,roberto-ferrari
+612,Tomas Aurelio Gil,noteam,1977-05-23,Venezuela,0.0,0.0,tomas-aurelio-gil-martinez
+613,Salvatore Mancuso,noteam,1986-02-05,Italy,0.0,0.0,salvatore-mancuso
+614,Yonathan Monsalve,Tianyoude Hotel Cycling Team,1989-06-28,Venezuela,1.76,62.0,yonathan-monsalve
+615,Francisco Javier Moreno,noteam,1989-04-10,Spain,0.0,0.0,francisco-javier-moreno
+616,Carlos José Ochoa,noteam,1980-12-14,Venezuela,1.8,62.0,carlos-jose-ochoa
+617,Antonino Parrinello,noteam,1988-10-02,Italy,0.0,0.0,antonino-parrinello
+618,Franco Pellizotti,noteam,1978-01-15,Italy,1.75,64.0,franco-pellizotti
+619,Jonathan Perdiguero,noteam,1988-05-23,Spain,0.0,0.0,jonathan-perdiguero
+620,Jackson Rodríguez,noteam,1985-02-25,Venezuela,1.7,58.0,jackson-rodriguez
+621,Miguel Angel Rubiano,Coldeportes Zenu,1984-10-03,Colombia,1.7,58.0,miguel-angel-rubiano
+622,José Humberto Rujano,noteam,1982-02-18,Venezuela,1.62,48.0,jose-humberto-rujano
+623,Antonio Santoro,Monkey Town - à Bloc CT,1989-09-13,Italy,1.67,53.0,antonio-santoro
+624,Emanuele Sella,noteam,1981-01-09,Italy,1.65,54.0,emanuele-sella
+625,José Rodolfo Serpa,GW - Shimano,1979-04-17,Colombia,1.78,64.0,jose-rodolfo-serpa
+626,Albert Torres,noteam,1990-04-26,Spain,0.0,0.0,albert-torres
+627,Miguel Armando Ubeto,noteam,1976-09-02,Venezuela,1.68,60.0,miguel-armando-ubeto
+628,Jonas Ahlstrand,noteam,1990-02-16,Sweden,1.77,72.0,jonas-ahlstrand
+629,Warren Barguil,Team Arkéa Samsic,1991-10-28,France,1.83,60.0,warren-barguil
+630,Thomas Bonnin,noteam,1989-05-10,France,0.0,0.0,thomas-bonnin
+631,Ian Boswell,Team Katusha Alpecin,1991-02-07,United States,1.85,70.0,ian-boswell
+632,Roy Curvers,Team Sunweb,1979-12-27,Netherlands,1.88,73.0,roy-curvers
+633,Thomas Damuseau,noteam,1989-03-18,France,0.0,0.0,thomas-damuseau
+634,Bert de Backer,Vital Concept - B&B Hotels,1984-04-02,Belgium,1.83,79.0,bert-de-backer
+635,Koen de Kort,Trek - Segafredo,1982-09-08,Netherlands,1.79,69.0,koen-de-kort
+636,John Degenkolb,Trek - Segafredo,1989-01-07,Germany,1.8,77.0,john-degenkolb
+637,Yukihiro Doi,noteam,1983-09-18,Japan,0.0,0.0,yukihiro-doi
+638,Tom Dumoulin,Team Sunweb,1990-11-11,Netherlands,1.85,69.0,tom-dumoulin
+639,Johannes Fröhlinger,Team Sunweb,1985-06-09,Germany,1.73,62.0,johannes-frohlinger
+640,Alexandre Geniez,AG2R La Mondiale,1988-04-16,France,1.82,64.0,alexandre-geniez
+641,Simon Geschke,CCC Team,1986-03-13,Germany,1.7,64.0,simon-geschke
+642,Patrick Gretsch,noteam,1987-04-07,Germany,1.87,69.0,patrick-gretsch
+643,Feng Han,noteam,1985-12-14,China,0.0,0.0,feng-han
+644,Yann Huguet,noteam,1984-05-02,France,1.77,66.0,yann-huguet
+645,Thierry Hupond,noteam,1984-11-10,France,1.78,65.0,thierry-hupond
+646,Cheng Ji,noteam,1987-07-15,China,1.78,67.0,cheng-ji
+647,Marcel Kittel,noteam,1988-05-11,Germany,1.88,82.0,marcel-kittel
+648,Dominic Klemme,noteam,1986-10-31,Germany,0.0,0.0,dominic-klemme
+649,Roger Kluge,Lotto Soudal,1986-02-05,Germany,1.92,83.0,roger-kluge
+650,Tobias Ludvigsson,Groupama - FDJ,1991-02-22,Sweden,1.94,76.0,tobias-ludvigsson
+651,Ramon Sinkeldam,Groupama - FDJ,1989-02-09,Netherlands,1.93,77.0,ramon-sinkeldam
+652,Matthieu Sprick,noteam,1981-09-29,France,1.81,71.0,matthieu-sprick
+653,Tom Stamsnijder,noteam,1985-05-15,Netherlands,1.91,76.0,tom-stamsnijder
+654,Albert Timmer,noteam,1985-06-13,Netherlands,1.86,71.0,albert-timmer
+655,Ronan van Zandbeek,noteam,1988-09-27,Netherlands,1.84,72.0,ronan-van-zandbeek
+656,Tom Veelers,noteam,1984-09-14,Netherlands,1.84,75.0,tom-veelers
+657,Eric Berthou,noteam,1980-01-23,France,0.0,0.0,eric-berthou
+658,Jean Marc Bideau,noteam,1984-04-08,France,1.92,73.0,jean-marc-bideau
+659,Guillaume Blot,noteam,1985-03-28,France,0.0,0.0,guillaume-blot
+660,Dimitri Champion,noteam,1983-09-06,France,0.0,0.0,dimitri-champion
+661,Jean-Luc Delpech,noteam,1979-10-27,France,0.0,0.0,jean-luc-delpech
+662,Renaud Dion,noteam,1978-01-06,France,0.0,0.0,renaud-dion
+663,Sébastien Duret,noteam,1980-09-03,France,0.0,0.0,sebastien-duret
+664,Armindo Fonseca,noteam,1989-05-01,France,1.68,56.0,armindo-fonseca
+665,Florian Guillou,noteam,1982-12-29,France,1.96,71.0,florian-guillou
+666,Mathieu Halleguen,noteam,1988-10-11,France,0.0,0.0,mathieu-halleguen
+667,Romain Hardy,Team Arkéa Samsic,1988-08-24,France,1.72,62.0,romain-hardy
+668,Johan Le Bon,Vital Concept - B&B Hotels,1990-10-03,France,1.8,71.0,johan-le-bon
+669,Geoffroy Lequatre,noteam,1981-06-30,France,0.0,0.0,geoffroy-lequatre
+670,Gael Malacarne,noteam,1986-04-02,France,0.0,0.0,gael-malacarne
+671,Laurent Pichon,Team Arkéa Samsic,1986-07-19,France,1.78,69.0,laurent-pichon
+672,Florian Vachon,Team Arkéa Samsic,1985-01-02,France,1.79,65.0,florian-vachon
+673,Javier Aramendia,noteam,1986-12-05,Spain,1.87,72.0,javier-aramendia
+674,Garikoitz Bravo,Euskadi Basque Country - Murias,1989-07-31,Spain,1.74,62.0,garikoitz-bravo
+675,Hernâni Brôco,noteam,1981-06-13,Portugal,0.0,0.0,hernani-broco
+676,Manuel Antonio Leal Cardoso,noteam,1983-04-07,Portugal,0.0,0.0,manuel-cardoso
+677,André Cardoso,noteam,1984-09-03,Portugal,1.68,56.0,andre-cardoso
+678,David de la Cruz,Team INEOS,1989-05-06,Spain,1.82,66.0,david-de-la-cruz
+679,David de la Fuente,Ludofoods Louletano Aviludo,1981-05-04,Spain,1.75,67.0,david-de-la-fuente
+680,Jesus del Pino,Vito-Feirense-Pnb,1990-09-09,Spain,0.0,0.0,jesus-del-pino
+681,Karol Domagalski,Team Hurom,1989-08-09,Poland,1.92,77.0,karol-domagalski
+682,Ramon Domene,noteam,1990-01-02,Spain,0.0,0.0,ramon-domene-reyes
+683,Fabricio Ferrari,Efapel,1985-06-03,Uruguay,1.77,64.0,fabricio-ferrari
+684,Aitor Galdós,noteam,1979-11-08,Spain,0.0,0.0,aitor-galdos
+685,Marcos García,Kinan Cycling Team,1986-12-04,Spain,1.69,55.0,marcos-garcia
+686,Yelko Gómez,noteam,1989-03-09,Panama,0.0,0.0,yelko-gomez
+687,Anttón Ibarguren,noteam,1989-04-20,Spain,0.0,0.0,antton-ibarguren
+688,Francesco Lasca,noteam,1988-03-29,Italy,0.0,0.0,francesco-lasca
+689,Enzo Josué Moyano,Equipo Continental Municipalidad de Pocito,1989-02-15,Argentina,1.75,0.0,enzo-josue-moyano
+690,Danail Andonov Petrov,noteam,1978-02-05,Bulgaria,1.7,63.0,danail-andonov-petrov
+691,Antonio Piedra,noteam,1985-10-10,Spain,1.78,61.0,antonio-piedra
+692,Igor Romero,noteam,1986-07-11,Spain,0.0,0.0,igor-romero-etxebarria
+693,Alexander Ryabkin,noteam,1989-05-01,Russia,0.0,0.0,alexander-ryabkin
+694,Julián Sánchez,noteam,1980-02-26,Spain,0.0,0.0,julian-sanchez-pimienta
+695,Clinton Avery,noteam,1987-12-03,New Zealand,0.0,0.0,clinton-avery
+696,Joris Boillat,noteam,1983-01-23,Switzerland,0.0,0.0,joris-boillat
+697,Chris Butler,noteam,1988-02-16,United States,1.8,61.0,chris-butler
+698,Will Clarke,Trek - Segafredo,1985-04-11,Australia,1.92,81.0,william-clarke
+699,Matthias Friedemann,noteam,1984-08-17,Germany,0.0,0.0,matthias-friedemann
+700,Gorik Gardeyn,noteam,1980-03-17,Belgium,0.0,0.0,gorik-gardeyn
+701,Kun Jiang,noteam,1989-12-13,China,0.0,0.0,kun-jiang
+702,Pengda Jiao,noteam,1986-06-13,China,0.0,0.0,pengda-jiao
+703,Aaron Kemps,noteam,1983-09-10,Australia,0.0,0.0,aaron-kemps
+704,Jaan Kirsipuu,noteam,1969-07-17,Estonia,0.0,0.0,jaan-kirsipuu
+705,Craig Lewis,noteam,1985-01-10,United States,0.0,0.0,craig-lewis
+706,Biao Liu,noteam,1988-03-15,China,0.0,0.0,biao-liu
+707,Anuar Manan,noteam,1986-10-11,Malaysia,0.0,0.0,anuar-manan
+708,Mart Ojavee,noteam,1981-11-09,Estonia,0.0,0.0,mart-ojavee
+709,Muhamad Adiq Husaine Othman,noteam,1991-04-29,Malaysia,0.0,0.0,muhamad-adiq-husaine-othman
+710,Steven Wong,noteam,1988-04-28,China,0.0,0.0,steven-wong
+711,Kin San Wu,noteam,1985-05-04,Hongkong,1.75,68.0,kin-san-wu
+712,Cameron Wurf,noteam,1983-08-03,Australia,0.0,0.0,cameron-wurf
+713,Gang Xu,noteam,1984-01-28,China,1.87,69.0,gang-xu
+714,Yoann Bagot,Vital Concept - B&B Hotels,1987-09-06,France,1.82,65.0,yoann-bagot
+715,Florent Barle,noteam,1986-01-17,France,0.0,0.0,florent-barle
+716,Jérémy Bescond,noteam,1991-02-27,France,0.0,0.0,jeremy-bescond
+717,Mickaël Buffaz,noteam,1979-05-21,France,0.0,0.0,mickael-buffaz
+718,Edwig Cammaerts,noteam,1987-07-17,Belgium,1.83,74.0,edwig-cammaerts
+719,Erwann Corbel,noteam,1991-04-20,France,1.8,0.0,erwann-corbel
+720,Jean-Eudes Demaret,noteam,1984-07-25,France,0.0,0.0,jean-eudes-demaret
+721,Rémy Di Grégorio,noteam,1985-07-31,France,1.8,67.0,remy-di-gregorio
+722,Samuel Dumoulin,AG2R La Mondiale,1980-08-20,France,1.59,56.0,samuel-dumoulin
+723,Leonardo Fabio Duque,noteam,1980-04-10,Colombia,1.7,59.0,leonardo-duque
+724,Nicolas Edet,"Cofidis, Solutions Crédits",1987-12-02,France,1.76,60.0,nicolas-edet
+725,Julien Fouchard,noteam,1986-08-20,France,1.87,74.0,julien-fouchard
+726,Egoitz García,noteam,1986-03-31,Spain,1.8,70.0,egoitz-garcia
+727,Jan Ghyselinck,noteam,1988-02-24,Belgium,1.83,74.0,jan-ghyselinck
+728,Arnaud Labbé,noteam,1976-11-03,France,0.0,0.0,arnaud-labbe
+729,Luis Ángel Maté,"Cofidis, Solutions Crédits",1984-03-23,Spain,1.78,68.0,luis-angel-mate
+730,Rudy Molard,Groupama - FDJ,1989-09-17,France,1.78,62.0,rudy-molard
+731,David Moncoutié,noteam,1975-04-30,France,1.8,69.0,david-moncoutie
+732,Damien Monier,Aisan Racing Team,1982-08-27,France,0.0,0.0,damien-monier
+733,Adrien Petit,Team Total Direct Energie,1990-09-26,France,1.88,80.0,adrien-petit
+734,Aleksejs Saramotins,Interpro Cycling Academy,1982-04-08,Latvia,1.85,75.0,aleksejs-saramotins
+735,Nico Sijmens,noteam,1978-04-01,Belgium,0.0,0.0,nico-sijmens
+736,Rein Taaramäe,Team Total Direct Energie,1987-04-24,Estonia,1.84,66.0,rein-taaramae
+737,Jimmy Turgis,Vital Concept - B&B Hotels,1991-08-10,France,1.75,75.0,jimmy-turgis
+738,Tristan Valentin,noteam,1982-02-23,France,0.0,0.0,tristan-valentin
+739,Nicolas Vogondy,noteam,1977-08-08,France,0.0,0.0,nicolas-vogondy
+740,Romain Zingle,noteam,1987-01-29,Belgium,1.75,67.0,romain-zingle
+741,Enrico Barbin,Bardiani - CSF,1990-03-04,Italy,1.66,60.0,enrico-barbin
+742,Enrico Battaglin,Team Katusha Alpecin,1989-11-17,Italy,1.74,66.0,enrico-battaglin
+743,Nicola Boem,noteam,1989-09-27,Italy,1.87,75.0,nicola-boem
+744,Gianluca Brambilla,Trek - Segafredo,1987-08-22,Italy,1.7,57.0,gianluca-brambilla
+745,Marco Canola,Nippo Vini Fantini Faizanè,1988-12-26,Italy,1.8,66.0,marco-canola
+746,Sonny Colbrelli,Bahrain Merida,1990-05-17,Italy,1.76,74.0,sonny-colbrelli
+747,Marco Coledan,noteam,1988-08-22,Italy,1.9,83.0,marco-coledan
+748,Christian Delle Stelle,noteam,1989-02-04,Italy,1.7,65.0,christian-delle-stelle
+749,Andrea di Corrado,noteam,1988-08-13,Italy,0.0,0.0,andrea-di-corrado
+750,Roberto Giacobazzi,noteam,1991-03-13,Italy,0.0,0.0,roberto-giacobazzi
+751,Paolo Locatelli,noteam,1989-11-04,Italy,0.0,0.0,paolo-locatelli
+752,Stefano Locatelli,noteam,1989-02-26,Italy,1.76,60.0,stefano-locatelli
+753,Omar Lombardi,noteam,1989-09-16,Italy,0.0,0.0,omar-lombardi
+754,Sacha Modolo,EF Education First,1987-06-19,Italy,1.8,67.0,sacha-modolo
+755,Angelo Pagani,noteam,1988-08-04,Italy,0.0,0.0,angelo-pagani
+756,Andrea Pasqualon,Wanty - Gobert Cycling Team,1988-01-02,Italy,1.74,68.0,andrea-pasqualon
+757,Stefano Pirazzi,noteam,1987-03-11,Italy,1.8,62.0,stefano-pirazzi
+758,Domenico Pozzovivo,Bahrain Merida,1982-11-30,Italy,1.65,53.0,domenico-pozzovivo
+759,Filippo Savini,noteam,1985-05-02,Italy,1.78,0.0,filippo-savini
+760,Darwin Atapuma,"Cofidis, Solutions Crédits",1988-01-15,Colombia,1.68,59.0,darwin-atapuma
+761,Robinson Chalapud,Medellin,1984-03-08,Colombia,1.75,63.0,robinson-chalapud
+762,Esteban Chaves,Mitchelton-Scott,1990-01-17,Colombia,1.64,55.0,johan-esteban-chaves
+763,Fabio Duarte,Medellin,1986-06-11,Colombia,1.66,55.0,fabio-andres-duarte
+764,Juan Pablo Forero,noteam,1983-08-03,Colombia,0.0,0.0,juan-pablo-forero
+765,Javier Alberto Gonzalez,noteam,1979-11-13,Colombia,0.0,0.0,javier-gonzalez-barrera
+766,Luis Felipe Laverde,GW - Shimano,1979-07-06,Colombia,1.69,63.0,luis-felipe-laverde-jimenez
+767,Wilson Alexander Marentes,noteam,1985-08-08,Colombia,0.0,0.0,wilson-alexander-marentes
+768,Franck Osorio,Coldeportes Bicicletas Strongman,1987-08-28,Colombia,0.0,0.0,franck-osorio
+769,Dalivier Ospina,noteam,1985-10-09,Colombia,0.0,0.0,dalivier-ospina
+770,Jarlinson Pantano,noteam,1988-11-19,Colombia,1.73,61.0,jarlinson-pantano
+771,Victor Hugo Peña,noteam,1974-07-10,Colombia,0.0,0.0,victor-hugo-pena
+772,Dúber Quintero,noteam,1990-08-23,Colombia,1.75,0.0,duber-quintero
+773,Carlos Quintero,Ningxia Sports Lottery - Livall Cycling team,1986-03-05,Colombia,1.78,63.0,carlos-quintero
+774,Michael Rodriguez,noteam,1989-07-29,Colombia,0.0,0.0,michael-rodriguez
+775,Jeffry Romero,noteam,1989-10-04,Colombia,0.0,0.0,jeffry-romero
+776,Juan Pablo Suarez,GW - Shimano,1985-05-30,Colombia,0.0,0.0,juan-pablo-suarez
+777,Juan Pablo Valencia,noteam,1988-05-02,Colombia,1.78,71.0,juan-pablo-valencia
+778,Rafael Andriato,São Francisco Saùde / Klabin / SME Ribeirão Preto,1987-10-20,Brazil,1.77,67.0,rafael-andriato
+779,Luca Ascani,noteam,1983-06-29,Italy,0.0,0.0,luca-ascani
+780,Alfredo Balloni,noteam,1989-09-20,Italy,0.0,0.0,alfredo-balloni
+781,Cristian Benenati,noteam,1982-07-15,Italy,0.0,0.0,cristian-benenati
+782,Thomas Bertolini,noteam,1988-07-10,Italy,0.0,0.0,thomas-bertolini
+783,Stefano Borchi,noteam,1987-03-09,Italy,0.0,0.0,stefano-borchi
+784,Diego Caccia,noteam,1981-10-15,Italy,0.0,0.0,diego-caccia
+785,Pier Paolo De Negri,noteam,1986-06-05,Italy,1.7,61.0,pier-paolo-de-negri
+786,Roberto De Patre,noteam,1988-09-13,Italy,0.0,0.0,roberto-de-patre
+787,Francesco Failli,noteam,1983-12-16,Italy,0.0,0.0,francesco-failli
+788,Elia Favilli,noteam,1989-01-31,Italy,1.72,61.0,elia-favilli
+789,Oscar Gatto,BORA - hansgrohe,1985-01-01,Italy,1.74,67.0,oscar-gatto
+790,Leonardo Giordani,noteam,1977-05-27,Italy,0.0,0.0,leonardo-giordani
+791,Andrea Guardini,Bardiani - CSF,1989-06-12,Italy,1.75,66.0,andrea-guardini
+792,Kevin Hulsmans,noteam,1978-04-11,Belgium,0.0,0.0,kevin-hulsmans
+793,Luca Mazzanti,noteam,1974-02-04,Italy,0.0,0.0,luca-mazzanti
+794,Cristiano Monguzzi,noteam,1985-08-31,Italy,0.0,0.0,cristiano-monguzzi
+795,Umberto Nardecchia,noteam,1981-05-11,Italy,0.0,0.0,umberto-nardecchia
+796,Filippo Pozzato,noteam,1981-09-10,Italy,1.83,73.0,filippo-pozzato
+797,Alessandro Proni,noteam,1982-12-28,Italy,0.0,0.0,alessandro-proni
+798,Matteo Rabottini,Meridiana Kamen Team,1987-08-14,Italy,0.0,0.0,matteo-rabottini
+799,Davide Ricci Bitti,noteam,1984-02-12,Italy,0.0,0.0,davide-ricci-bitti
+800,Giuseppe Rufo,noteam,1987-11-05,Italy,0.0,0.0,giuseppe-rufo
+801,Sebastian Stamegna,noteam,1989-06-24,Italy,1.78,73.0,sebastian-stamegna
+802,Antonio Viola,noteam,1990-09-21,Italy,1.71,69.0,antonio-viola
+803,Frédéric Amorison,noteam,1978-02-16,Belgium,0.0,0.0,frederic-amorison
+804,Frederik Backaert,Wanty - Gobert Cycling Team,1990-03-13,Belgium,1.88,75.0,frederik-backaert
+805,Vincent Baestaens,noteam,1989-06-18,Belgium,0.0,0.0,vincent-baestaens
+806,Koen Barbé,noteam,1981-01-20,Belgium,0.0,0.0,koen-barbe
+807,Dirk Bellemakers,noteam,1984-01-19,Netherlands,0.0,0.0,dirk-bellemakers
+808,Jonathan Breyne,noteam,1991-01-04,Belgium,0.0,0.0,jonathan-breyne
+809,Joeri Bueken,noteam,1991-03-01,Belgium,0.0,0.0,joeri-bueken
+810,Kevin Claeys,noteam,1988-03-26,Belgium,0.0,0.0,kevin-claeys
+811,Stefan Cohnen,noteam,1982-12-04,Netherlands,0.0,0.0,stefan-cohnen
+812,Davy Commeyne,noteam,1980-05-14,Belgium,0.0,0.0,davy-commeyne
+813,Bert de Waele,noteam,1975-07-21,Belgium,0.0,0.0,bert-de-waele
+814,Sébastien Delfosse,noteam,1982-11-29,Belgium,1.87,73.0,sebastien-delfosse
+815,Gilles Devillers,noteam,1985-02-12,Belgium,0.0,0.0,gilles-devillers
+816,Matti Helminen,noteam,1975-08-14,Finland,0.0,0.0,matti-helminen
+817,Reinier Honig,noteam,1983-10-28,Netherlands,1.77,63.0,reinier-honig
+818,Kurt Hovelijnck,noteam,1981-06-02,Belgium,0.0,0.0,kurt-hovelijnck
+819,Egidijus Juodvalkis,noteam,1988-04-08,Lithuania,0.0,0.0,egidijus-juodvalkis
+820,Sven Nys,noteam,1976-06-17,Belgium,1.81,73.0,sven-nys
+821,Kevin Peeters,noteam,1987-02-05,Belgium,0.0,0.0,kevin-peeters
+822,Baptiste Planckaert,Wallonie-Bruxelles,1988-09-28,Belgium,1.76,66.0,baptiste-planckaert
+823,Joeri Stallaert,Corendon - Circus,1991-01-25,Belgium,1.81,70.0,joeri-stallaert
+824,Bobbie Traksel,noteam,1981-11-03,Netherlands,0.0,0.0,bobbie-traksel
+825,Kjell Van Driessche,noteam,1989-01-09,Belgium,0.0,0.0,kjell-van-driessche
+826,Sven Vanthourenhout,noteam,1981-01-14,Belgium,1.82,65.0,sven-vanthourenhout
+827,Arkimedes Arguelyes,noteam,1988-07-09,Russia,0.0,0.0,arkimedes-arguelyes
+828,Alexander Budaragin,noteam,1988-03-05,Russia,0.0,0.0,alexander-budaragin
+829,Artur Ershov,noteam,1990-03-07,Russia,1.85,70.0,artur-ershov
+830,Nikita Eskov,noteam,1983-01-23,Russia,0.0,0.0,nikita-eskov
+831,Sergey Firsanov,noteam,1982-07-03,Russia,1.72,58.0,sergey-firsanov
+832,Valery Kaikov,noteam,1988-05-07,Russia,0.0,0.0,valery-kaikov
+833,Alexander Khatuntsev,noteam,1985-02-11,Russia,0.0,0.0,alexander-khatuntsev
+834,Sergey Klimov,noteam,1980-07-07,Russia,0.0,0.0,sergey-klimov
+835,Evgeny Kovalev,noteam,1989-03-06,Russia,0.0,0.0,evgeny-kovalev
+836,Ivan Kovalev,noteam,1986-07-26,Russia,0.0,0.0,ivan-kovalev
+837,Dmitry Kozontchuk,noteam,1984-04-05,Russia,1.87,75.0,dmitry-kozonchuk
+838,Leonid Krasnov,noteam,1988-01-24,Russia,0.0,0.0,leonid-krasnov
+839,Roman Maikin,Minsk Cycling Club,1990-08-14,Russia,1.77,68.0,roman-maikin
+840,Victor Manakov,noteam,1992-06-09,Russia,0.0,0.0,victor-manakov
+841,Alexei Markov,noteam,1979-05-26,Russia,0.0,0.0,alexei-markov
+842,Alexander Mironov,noteam,1984-01-21,Russia,0.0,0.0,alexander-mironov
+843,Artem Ovechkin,Terengganu Cycling Team,1986-07-11,Russia,1.73,59.0,artem-ovechkin
+844,Ivan Rovny,Gazprom-RusVelo,1987-09-30,Russia,1.73,62.0,ivan-rovny
+845,Anton Samokhvalov,noteam,1986-11-18,Russia,0.0,0.0,anton-samokhvalov
+846,Ivan Savitskiy,noteam,1992-03-06,Russia,1.82,72.0,ivan-savitskiy
+847,Alexander Serov,noteam,1982-11-12,Russia,1.89,77.0,alexander-serov
+848,Nikolay Trusov,China Continental Team of Gansu Bank,1985-07-02,Russia,1.86,77.0,nikolay-trusov
+849,Valery Valynin,noteam,1986-12-10,Russia,0.0,0.0,valery-valynin
+850,Nikolay Zhurkin,noteam,1991-05-05,Russia,0.0,0.0,nikolay-zhurkin
+851,Matvey Zubov,noteam,1991-01-22,Russia,0.0,0.0,matvey-zubov
+852,Cyril Bessy,noteam,1986-05-29,France,0.0,0.0,cyril-bessy
+853,Jérôme Coppel,noteam,1986-08-06,France,1.78,64.0,jerome-coppel
+854,Arnaud Coyot,noteam,1980-10-06,France,0.0,0.0,arnaud-coyot
+855,Anthony Delaplace,Team Arkéa Samsic,1989-09-11,France,1.81,65.0,anthony-delaplace
+856,Jimmy Engoulvent,noteam,1979-12-07,France,1.87,82.0,jimmy-engoulvent
+857,Brice Feillu,noteam,1985-07-26,France,1.9,69.0,brice-feillu
+858,Jérémie Galland,noteam,1983-04-08,France,0.0,0.0,jeremie-galland
+859,Jonathan Hivert,Team Total Direct Energie,1985-03-23,France,1.7,62.0,jonathan-hivert
+860,Fabrice Jeandesboz,noteam,1984-12-04,France,1.79,69.0,fabrice-jeandesboz
+861,Emmanuel Keo,noteam,1991-01-30,France,0.0,0.0,emmanuel-keo
+862,Christophe Laborie,noteam,1986-08-05,France,1.81,67.0,christophe-laborie
+863,David Lelay,noteam,1979-12-30,France,0.0,0.0,david-lelay
+864,Cyril Lemoine,"Cofidis, Solutions Crédits",1983-03-03,France,1.82,73.0,cyril-lemoine
+865,Guillaume Levarlet,noteam,1985-07-25,France,1.83,67.0,guillaume-levarlet
+866,Laurent Mangel,noteam,1981-05-22,France,0.0,0.0,laurent-mangel
+867,Jean-Marc Marino,noteam,1983-08-15,France,1.77,65.0,jean-marc-marino
+868,Rony Martias,noteam,1980-08-04,France,0.0,0.0,rony-martias
+869,Maxime Méderel,noteam,1980-09-19,France,1.73,59.0,maxime-mederel
+870,Jean-lou Paiani,noteam,1988-12-23,France,0.0,0.0,jean-lou-paiani
+871,Stéphane Poulhiès,noteam,1985-06-26,France,1.85,77.0,stephane-poulhies
+872,Paul Poux,noteam,1984-09-07,France,1.81,70.0,paul-poux
+873,Maxime Renault,noteam,1990-01-02,France,0.0,0.0,maxime-renault
+874,Julien Simon,"Cofidis, Solutions Crédits",1985-10-04,France,1.76,65.0,julien-simon
+875,Yannick Talabardon,noteam,1981-07-06,France,0.0,0.0,yannick-talabardon
+876,Etienne Tortelier,noteam,1990-04-14,France,0.0,0.0,etienne-tortelier
+877,Alexis Vuillermoz,AG2R La Mondiale,1988-06-01,France,1.74,60.0,alexis-vuillermoz
+878,Ryan Anderson,Rally UHC Cycling,1987-07-22,Canada,1.77,66.0,ryan-anderson
+879,Zach Bell,noteam,1982-11-14,Canada,0.0,0.0,zach-bell
+880,David Boily,noteam,1990-04-28,Canada,0.0,0.0,david-boily
+881,Guillaume Boivin,Israel Cycling Academy,1989-05-25,Canada,1.8,78.0,guillaume-boivin
+882,Flavio De Luna,303Project,1990-01-26,Mexico,0.0,0.0,flavio-de-luna
+883,Antoine Duchesne,Groupama - FDJ,1991-09-12,Canada,1.9,75.0,antoine-duchesne
+884,Caleb Fairly,noteam,1987-02-19,United States,1.7,60.0,caleb-fairly
+885,Martin Gilbert,noteam,1982-10-30,Canada,0.0,0.0,martin-gilbert
+886,Hugo Houle,Astana Pro Team,1990-09-27,Canada,1.85,71.0,hugo-houle
+887,Raimond Künzli,noteam,1984-09-01,Switzerland,0.0,0.0,raimond-kunzli
+888,Keven Lacombe,noteam,1985-07-12,Canada,0.0,0.0,keven-lacombe
+889,Simon Lambert-Lemay,noteam,1990-07-16,Canada,0.0,0.0,simon-lambert-lemay
+890,Jonathan Patrick McCarty,noteam,1982-01-24,United States,1.78,68.0,jonathan-patrick-mccarty
+891,François Parisien,noteam,1982-04-27,Canada,0.0,0.0,francois-parisien
+892,Ryan Roth,X-Speed United,1983-01-10,Canada,0.0,0.0,ryan-roth
+893,Will Routley,noteam,1983-05-23,Canada,0.0,0.0,will-routley
+894,Bjorn Selander,noteam,1988-01-28,United States,0.0,0.0,bjorn-selander
+895,Brian Bach Vandborg,noteam,1981-12-04,Denmark,1.87,75.0,brian-vandborg
+896,Yukiya Arashiro,Bahrain Merida,1984-09-22,Japan,1.7,64.0,yukiya-arashiro
+897,Giovanni Bernaudeau,noteam,1983-08-25,France,1.75,62.0,giovanni-bernaudeau
+898,Franck Bouyer,noteam,1974-03-17,France,0.0,0.0,franck-bouyer
+899,Anthony Charteau,noteam,1979-06-04,France,0.0,0.0,anthony-charteau
+900,Sébastien Chavanel,noteam,1983-03-21,France,1.83,77.0,sebastien-chavanel
+901,Rafaâ Chtioui,VIB Sports,1986-01-26,Tunisia,1.9,82.0,rafaa-chtioui
+902,Mathieu Claude,noteam,1983-03-17,France,0.0,0.0,mathieu-claude
+903,Jérôme Cousin,Team Total Direct Energie,1989-06-05,France,1.8,74.0,jerome-cousin
+904,Damien Gaudin,Team Total Direct Energie,1986-08-20,France,1.9,82.0,damien-gaudin
+905,Cyril Gautier,Vital Concept - B&B Hotels,1987-09-26,France,1.68,64.0,cyril-gautier
+906,Yohann Gène,Team Total Direct Energie,1981-06-25,France,1.75,67.0,yohann-gene
+907,Romain Guillemois,noteam,1991-03-28,France,1.82,66.0,romain-guillemois
+908,Saïd Haddou,noteam,1982-11-23,France,1.9,80.0,said-haddou
+909,Tony Hurel,St Michel - Auber93,1987-11-01,France,1.69,66.0,tony-hurel
+910,Vincent Jérôme,noteam,1984-11-26,France,1.74,65.0,vincent-jerome
+911,Christophe Kern,noteam,1981-01-18,France,1.85,72.0,christophe-kern
+912,Pierre-Henri Lecuisinier,noteam,1993-06-30,France,1.76,65.0,pierre-henri-lecuisinier
+913,Davide Malacarne,noteam,1987-07-11,Italy,1.71,63.0,davide-malacarne
+914,Bryan Nauleau,Team Total Direct Energie,1988-03-17,France,1.81,67.0,bryan-nauleau
+915,Matteo Pelucchi,Androni Giocattoli - Sidermec,1989-01-21,Italy,1.82,74.0,matteo-pelucchi
+916,Alexandre Pichot,noteam,1983-01-06,France,1.83,72.0,alexandre-pichot
+917,Perrig Quéméneur,noteam,1984-04-26,France,1.81,67.0,perrig-quemeneur
+918,Kévin Reza,Vital Concept - B&B Hotels,1988-05-18,France,1.86,72.0,kevin-reza
+919,Pierre Rolland,Vital Concept - B&B Hotels,1986-10-10,France,1.84,67.0,pierre-rolland
+920,Björn Thurau,Vito-Feirense-Pnb,1988-07-23,Germany,1.94,73.0,bjorn-thurau
+921,Angélo Tulik,Team Total Direct Energie,1990-12-02,France,1.76,64.0,angelo-tulik
+922,Sébastien Turgot,noteam,1984-04-11,France,1.79,73.0,sebastien-turgot
+923,David Veilleux,noteam,1987-11-26,Canada,1.8,75.0,david-veilleux
+924,Thomas Voeckler,noteam,1979-06-22,France,1.74,71.0,thomas-voeckler
+925,Jan Bárta,Elkov - Author Cycling Team,1984-12-07,Czech Republic,1.84,75.0,jan-barta
+926,Jérôme Baugnies,Wanty - Gobert Cycling Team,1987-04-01,Belgium,1.81,68.0,jerome-baugnies
+927,Cesare Benedetti,BORA - hansgrohe,1987-08-03,Italy,1.7,63.0,cesare-benedetti
+928,Matthias Brändle,Israel Cycling Academy,1989-12-07,Austria,1.89,77.0,matthias-brandle
+929,Steven Cozza,noteam,1985-03-03,United States,0.0,0.0,steven-cozza
+930,Andreas Dietziker,noteam,1982-10-15,Switzerland,0.0,0.0,andreas-dietziker
+931,Markus Eichler,noteam,1982-02-18,Germany,0.0,0.0,markus-eichler
+932,Reto Hollenstein,Team Katusha Alpecin,1985-08-22,Switzerland,1.97,80.0,reto-hollenstein
+933,Bartosz Huzarski,noteam,1980-10-27,Poland,1.83,69.0,bartosz-huzarski
+934,Grischa Janorschke,noteam,1987-05-30,Germany,0.0,0.0,grischa-janorschke
+935,Blaž Jarc,noteam,1988-07-17,Slovenia,0.0,0.0,blaz-jarc
+936,Leopold König,BORA - hansgrohe,1987-11-15,Czech Republic,1.78,62.0,leopold-konig
+937,Andreas Schillinger,BORA - hansgrohe,1983-07-13,Germany,1.88,72.0,andreas-schillinger
+938,Daniel Schorn,noteam,1988-10-21,Austria,1.83,72.0,daniel-schorn
+939,André Schulze,noteam,1974-11-21,Germany,0.0,0.0,andre-schulze
+940,Michael Schwarzmann,BORA - hansgrohe,1991-01-07,Germany,1.74,69.0,michael-schwarzmann
+941,Timon Seubert,noteam,1987-04-23,Germany,0.0,0.0,timon-seubert
+942,Marcel Wyss,noteam,1986-06-25,Switzerland,1.77,63.0,marcel-wyss
+943,Julien Antomarchi,Natura4Ever - Roubaix Lille Métropole,1984-05-16,France,0.0,0.0,julien-antomarchi
+944,Alessandro Bazzana,noteam,1984-07-16,Italy,1.8,63.5,alessandro-bazzana
+945,Rubens Bertogliati,noteam,1979-05-09,Switzerland,0.0,0.0,rubens-bertogliati
+946,László Bodrogi,noteam,1976-12-11,France,1.87,79.0,laszlo-bodrogi
+947,Alex Bowden,noteam,1989-12-29,United States,0.0,0.0,alex-bowden
+948,Fabio Calabria,Team Novo Nordisk,1987-08-27,Australia,1.65,0.0,fabio-calabria
+949,Daniele Callegarin,noteam,1982-09-21,Italy,0.0,0.0,daniele-callegarin
+950,Daniele Colli,noteam,1982-04-19,Italy,1.79,73.0,daniele-colli
+951,Rémi Cusin,noteam,1986-02-03,France,0.0,0.0,remi-cusin
+952,William Dugan,noteam,1987-01-15,United States,0.0,0.0,william-dugan
+953,Alexander Efimkin,noteam,1981-12-02,Russia,1.82,70.0,alexander-efimkin
+954,Julien El Fares,Delko Marseille Provence,1985-06-01,France,1.73,62.0,julien-el-fares
+955,Joe Eldridge,noteam,1982-06-16,United States,0.0,0.0,joe-eldridge
+956,Filippo Fortin,"Cofidis, Solutions Crédits",1989-02-01,Italy,1.83,78.0,filippo-fortin
+957,Aldo Ino Ilešič,noteam,1984-09-01,Slovenia,0.0,0.0,aldo-ino-ilesic
+958,Jure Kocjan,noteam,1984-10-18,Slovenia,1.82,72.0,jure-kocjan
+959,Vegard Stake Laengen,UAE-Team Emirates,1989-02-07,Norway,1.95,80.0,vegard-stake-laengen
+960,David Lozano,Team Novo Nordisk,1988-12-21,Spain,1.78,63.0,david-lozano
+961,Javier Megías,noteam,1983-09-30,Spain,1.73,63.0,javier-megias
+962,Georg Preidler,noteam,1990-06-17,Austria,1.9,68.0,georg-preidler
+963,Kiel Reijnen,Trek - Segafredo,1986-06-01,United States,1.8,63.0,kiel-reijnen
+964,Joey Rosskopf,CCC Team,1989-09-05,United States,1.87,76.0,joey-rosskopf
+965,Alexander Serebryakov,noteam,1987-09-25,Russia,0.0,0.0,alexander-serebryakov
+966,Martijn Verschoor,noteam,1985-05-04,Netherlands,1.79,74.5,martijn-verschoor
+967,Sander Armée,Lotto Soudal,1985-12-10,Belgium,1.89,72.0,sander-armee
+968,Dominique Cornu,noteam,1985-10-10,Belgium,0.0,0.0,dominique-cornu
+969,Kevin De Jonghe,noteam,1991-12-04,Belgium,1.78,69.0,kevin-de-jonghe
+970,Kenny De Ketele,Sport Vlaanderen - Baloise,1985-06-05,Belgium,1.78,66.0,kenny-de-ketele
+971,Laurens De Vreese,Astana Pro Team,1988-09-29,Belgium,1.9,76.0,laurens-de-vreese
+972,Tim Declercq,Deceuninck - Quick Step,1989-03-21,Belgium,1.9,78.0,tim-declercq
+973,Pieter Jacobs,noteam,1986-06-06,Belgium,1.82,68.0,pieter-jacobs
+974,Sven Jodts,noteam,1988-10-14,Belgium,0.0,0.0,sven-jodts
+975,Eliot Lietaer,Wallonie-Bruxelles,1990-08-15,Belgium,1.88,69.0,eliot-lietaer
+976,Tim Mertens,noteam,1986-02-07,Belgium,0.0,0.0,tim-mertens
+977,Stijn Neirynck,noteam,1985-09-14,Belgium,0.0,0.0,stijn-neirynck
+978,Jarl Salomein,noteam,1989-01-27,Belgium,1.93,80.0,jarl-salomein
+979,Pieter Serry,Deceuninck - Quick Step,1988-11-21,Belgium,1.86,65.0,pieter-serry
+980,Tom Van Asbroeck,Israel Cycling Academy,1990-04-19,Belgium,1.82,69.0,tom-van-asbroeck
+981,Preben Van Hecke,Sport Vlaanderen - Baloise,1982-07-09,Belgium,1.79,69.0,preben-van-hecke
+982,Gijs Van Hoecke,CCC Team,1991-11-12,Belgium,1.86,77.0,gijs-van-hoecke
+983,Michael Van Staeyen,Roompot - Charles,1988-08-13,Belgium,1.67,62.0,michael-van-staeyen
+984,Steven van Vooren,noteam,1986-10-05,Belgium,0.0,0.0,steven-van-vooren
+985,Sven Vandousselaere,noteam,1988-08-29,Belgium,0.0,0.0,sven-vandousselaere
+986,Arthur Vanoverberghe,noteam,1990-02-07,Belgium,1.81,65.0,arthur-vanoverberghe
+987,Pieter Vanspeybrouck,Wanty - Gobert Cycling Team,1987-02-10,Belgium,1.86,72.0,pieter-vanspeybrouck
+988,Zico Waeytens,"Cofidis, Solutions Crédits",1991-09-29,Belgium,1.8,67.0,zico-waeytens
+989,Jelle Wallays,Lotto Soudal,1989-05-11,Belgium,1.85,77.0,jelle-wallays
+990,Jonathan Clarke,Floyd's Pro Cycling,1984-12-18,Australia,1.78,68.0,jonathan-clarke
+991,Hilton Clarke,noteam,1979-11-07,Australia,1.8,70.0,hilton-clarke
+992,Benjamin Day,noteam,1978-12-11,Australia,1.78,68.0,benjamin-day
+993,Marc de Maar,noteam,1984-02-15,Netherlands,1.83,69.0,marc-de-maar
+994,Philip Deignan,noteam,1983-09-07,Ireland,1.8,65.0,philip-deignan
+995,Robert Förster,noteam,1978-01-27,Germany,1.77,83.0,robert-forster
+996,Davide Frattini,noteam,1978-08-06,Italy,1.8,63.0,davide-frattini
+997,Adrian Hegyvary,noteam,1984-01-05,United States,1.91,78.0,adrian-hegyvary
+998,Chris Jones,noteam,1979-08-06,United States,1.8,64.0,chris-jones
+999,Jake Keough,noteam,1987-06-18,United States,0.0,0.0,jacobe-keough
+1000,Jeff Louder,noteam,1977-12-08,United States,1.83,73.0,jeff-louder
+1001,Jason McCartney,noteam,1973-09-03,United States,0.0,0.0,jason-mccartney
+1002,Karl Menzies,noteam,1977-06-17,Australia,1.85,86.0,karl-menzies
+1003,Kai Reus,noteam,1985-03-11,Netherlands,1.85,0.0,kai-reus
+1004,Daniel Summerhill,noteam,1989-02-13,United States,1.85,70.0,daniel-summerhill
+1005,Rory Sutherland,UAE-Team Emirates,1982-02-08,Australia,1.88,75.0,rory-sutherland
+1006,Jay Robert Thomson,Team Dimension Data,1986-04-12,South Africa,1.85,75.0,jay-robert-thomson
+1007,Boy van Poppel,Roompot - Charles,1988-01-18,Netherlands,1.85,74.0,boy-van-poppel
+1008,Bradley White,noteam,1982-01-15,United States,1.8,77.0,bradley-white
+1009,Simone Antonini,noteam,1991-02-12,Italy,1.88,75.0,simone-antonini
+1010,John-Lee Augustyn,noteam,1986-08-10,South Africa,0.0,0.0,john-lee-augustyn
+1011,Filippo Baggio,noteam,1988-06-05,Italy,0.0,0.0,filippo-baggio
+1012,Paolo Bailetti,noteam,1980-07-15,Italy,0.0,0.0,paolo-bailetti
+1013,Oleg Berdos,noteam,1987-06-09,Romania,0.0,0.0,oleg-berdos
+1014,Gabriele Bosisio,noteam,1980-08-06,Italy,0.0,0.0,gabriele-bosisio
+1015,Stiven Fanelli,noteam,1987-12-30,Italy,0.0,0.0,stiven-fanelli
+1016,Matteo Fedi,noteam,1988-11-11,Italy,0.0,0.0,matteo-fedi
+1017,Edoardo Girardi,noteam,1985-10-22,Italy,0.0,0.0,edoardo-girardi
+1018,Adrian Kurek,Team Hurom,1988-03-29,Poland,1.94,80.0,adrian-kurek
+1019,Sergio Lagana,noteam,1982-11-04,Italy,0.0,0.0,sergio-lagana
+1020,Gianluca Maggiore,noteam,1985-02-21,Italy,0.0,0.0,gianluca-maggiore
+1021,Davide Mucelli,noteam,1986-11-19,Italy,0.0,0.0,davide-mucelli
+1022,Fabio Piscopiello,noteam,1985-02-16,Italy,0.0,0.0,fabio-piscopiello
+1023,Federico Rocchetti,noteam,1986-01-14,Italy,0.0,0.0,frederico-rocchetti
+1024,Francisco Javier Vila,noteam,1975-10-11,Spain,0.0,0.0,francisco-javier-patxi-vila
+1025,Gianfranco Visconti,noteam,1983-02-18,Italy,0.0,0.0,gianfranco-visconti
+1026,Marco Zanotti,noteam,1988-09-10,Italy,0.0,0.0,marco-zanotti
+1027,Gediminas Bagdonas,AG2R La Mondiale,1985-12-26,Lithuania,1.85,78.0,gediminas-bagdonas
+1028,Frederic Brun,noteam,1988-08-18,France,1.89,73.0,frederic-brun-2
+1029,Axel Domont,AG2R La Mondiale,1990-08-07,France,1.79,65.0,axel-domont
+1030,Julian Kern,noteam,1989-12-28,Germany,0.0,0.0,julian-kern
+1031,Pierre Latour,AG2R La Mondiale,1993-10-12,France,1.8,64.0,pierre-latour
+1032,Evan Huffman,Rally UHC Cycling,1990-01-07,United States,0.0,0.0,evan-huffman
+1033,Arman Kamyshev,noteam,1991-03-14,Kazakhstan,1.82,67.0,arman-kamyshev
+1034,Alexey Lutsenko,Astana Pro Team,1992-09-07,Kazakhstan,1.75,70.0,aleksey-lutsenko
+1035,Ruslan Tleubayev,noteam,1987-03-07,Kazakhstan,1.78,70.0,ruslan-tleubayev
+1036,Moreno Hofland,EF Education First,1991-08-31,Netherlands,1.79,71.0,moreno-hofland
+1037,Ivar Slik,Monkey Town - à Bloc CT,1993-05-27,Netherlands,1.87,71.0,ivar-slik
+1038,Silvan Dillier,AG2R La Mondiale,1990-08-03,Switzerland,1.83,75.0,silvan-dillier
+1039,Sebastian Lander,noteam,1991-03-11,Denmark,1.75,0.0,sebastian-lander
+1040,Jakub Novák,noteam,1990-12-30,Czech Republic,0.0,0.0,jakub-novak
+1041,Julien Taramarcaz,noteam,1987-11-12,Switzerland,0.0,0.0,julien-taramarcaz
+1042,Michel Koch,noteam,1991-10-15,Germany,1.81,69.0,michel-koch
+1043,Nicolo Martinello,noteam,1989-11-01,Italy,0.0,0.0,nicolo-martinello
+1044,Nariyuki Masuda,Utsunomiya Blitzen,1983-10-23,Japan,1.76,61.0,nariyuki-masuda
+1045,Davide Villella,Astana Pro Team,1991-06-27,Italy,1.82,66.0,davide-villella
+1046,Jon Aberasturi,Caja Rural - Seguros RGA,1989-03-28,Spain,1.73,69.0,jon-aberasturi
+1047,Tarik Chaoufi,noteam,1986-02-26,Morocco,1.74,65.0,tarik-chaoufi
+1048,Ricardo Mestre,W52 / FC Porto ,1983-09-11,Portugal,1.7,58.0,ricardo-mestre
+1049,Steffen Radochla,noteam,1978-10-19,Germany,0.0,0.0,steffen-radochla
+1050,Ioannis Tamouridis,noteam,1980-06-03,Greece,1.8,70.0,ioannis-tamouridis
+1051,Robert Vrečer,noteam,1980-10-08,Slovenia,0.0,0.0,robert-vrecer
+1052,Alexis Guerin,Delko Marseille Provence,1992-06-06,France,0.0,0.0,alexis-guerin
+1053,Olivier Le Gac,Groupama - FDJ,1993-08-27,France,1.8,70.0,olivier-le-gac
+1054,Benoit Poitevin,noteam,1991-05-05,France,1.74,63.0,benoit-poitevin
+1055,Rohan Dennis,noteam,1990-05-28,Australia,1.82,72.0,rohan-dennis
+1056,Glenn O'Shea,noteam,1989-06-14,Australia,0.0,0.0,glenn-o-shea
+1057,Niccolò Bonifazio,Team Total Direct Energie,1993-10-29,Italy,1.72,68.0,niccolo-bonifazio
+1058,Enea Cambianica,noteam,1989-11-21,Switzerland,1.76,64.0,enea-cambianica
+1059,Valerio Conti,UAE-Team Emirates,1993-03-30,Italy,1.72,60.0,valerio-conti
+1060,Luca Dodi,noteam,1987-05-26,Italy,0.0,0.0,luca-dodi
+1061,Andrea Palini,noteam,1989-06-16,Italy,1.75,67.0,andrea-palini
+1062,Jan Polanc,UAE-Team Emirates,1992-05-06,Slovenia,1.72,59.0,jan-polanc
+1063,Maximiliano Richeze,Deceuninck - Quick Step,1983-03-07,Argentina,1.75,68.0,ariel-maximiliano-richeze
+1064,Kristijan Đurasek,UAE-Team Emirates,1987-07-26,Croatia,1.7,56.0,kristijan-durasek
+1065,Stig Broeckx,noteam,1990-05-10,Belgium,1.88,73.0,stig-broeckx
+1066,Jorne Carolus,noteam,1992-02-22,Belgium,0.0,0.0,jorne-carolus
+1067,Argiro Ospina,noteam,1991-09-03,Colombia,0.0,0.0,argiro-ospina
+1068,Eloy Teruel,noteam,1982-11-20,Spain,0.0,0.0,eloy-teruel
+1069,Carlos Verona,Movistar Team,1992-11-04,Spain,1.86,68.0,carlos-verona
+1070,Damien Howson,Mitchelton-Scott,1992-08-13,Australia,1.88,68.0,damien-howson
+1071,Jiyong Kang,noteam,1988-02-19,South Korea,0.0,0.0,jiyong-kang
+1072,Bob Jungels,Deceuninck - Quick Step,1992-09-22,Luxembourg,1.89,72.0,bob-jungels
+1073,Joe Dombrowski,EF Education First,1991-05-12,United States,1.86,63.0,joe-dombrowski
+1074,Joshua Edmondson,noteam,1992-07-06,Great Britain,1.81,62.0,joshua-edmondson
+1075,Jonathan Tiernan-Locke,noteam,1984-12-26,Great Britain,0.0,0.0,jonathan-tiernan-locke
+1076,Nikias Arndt,Team Sunweb,1991-11-18,Germany,1.88,77.5,nikias-arndt
+1077,Nikodemus Holler,Bike Aid,1991-05-04,Germany,0.0,0.0,nikodemus-holler
+1078,Reinardt Janse van Rensburg,Team Dimension Data,1989-02-03,South Africa,1.82,74.0,reinardt-janse-van-rensburg
+1079,Quentin Jauregui,AG2R La Mondiale,1994-04-22,France,1.76,60.0,quentin-jauregui
+1080,Luka Mezgec,Mitchelton-Scott,1988-06-27,Slovenia,1.83,72.0,luka-mezgec
+1081,Michael Olsson,noteam,1986-03-04,Sweden,0.0,0.0,michael-olsson
+1082,Yan Dong Xing,noteam,1985-03-20,China,0.0,0.0,yan-dong-xing
+1083,Mikhail Antonov,noteam,1986-01-04,Russia,0.0,0.0,mikhail-antonov
+1084,Sergei Chernetski,Caja Rural - Seguros RGA,1990-04-09,Russia,1.76,63.0,sergei-chernetski
+1085,Sergey Nikolaev,China Continental Team of Gansu Bank,1988-02-05,Russia,1.73,66.0,sergey-nikolaev
+1086,Maxim Razumov,noteam,1990-04-12,Russia,0.0,0.0,maxim-razumov
+1087,Jesper Hansen,"Cofidis, Solutions Crédits",1990-10-23,Denmark,1.72,60.0,jesper-hansen-1
+1088,Marko Kump,Adria Mobil,1988-09-09,Slovenia,1.8,69.0,marko-kump
+1089,Jay McCarthy,BORA - hansgrohe,1992-09-08,Australia,1.74,63.0,jay-mccarthy
+1090,Paweł Poljański,BORA - hansgrohe,1990-05-06,Poland,1.82,63.0,pawel-poljanski
+1091,Danny van Poppel,Team Jumbo-Visma,1993-07-26,Netherlands,1.83,80.0,danny-van-poppel
+1092,Roy Jans,Corendon - Circus,1990-09-15,Belgium,1.78,68.0,roy-jans
+1093,Stefano Nardelli,noteam,1993-11-29,Italy,1.78,62.0,stefano-nardelli
+1094,Lander Seynaeve,noteam,1992-05-29,Belgium,1.78,67.0,lander-seynaeve
+1095,Matteo Di Serafino,noteam,1986-08-27,Italy,0.0,0.0,matteo-di-serafino
+1096,Patrick Facchini,noteam,1988-01-28,Italy,0.0,0.0,patrick-facchini
+1097,Marco Frapporti,Androni Giocattoli - Sidermec,1985-03-30,Italy,1.79,69.0,marco-frapporti
+1098,Mattia Gavazzi,noteam,1983-06-14,Italy,0.0,0.0,mattia-gavazzi
+1099,Yonder Godoy,noteam,1993-04-19,Venezuela,1.67,64.0,yonder-godoy
+1100,Ilia Koshevoy,noteam,1991-03-20,Belarus,1.81,62.5,ilia-koshevoy
+1101,Alessandro Malaguti,noteam,1987-09-22,Italy,1.74,67.0,alessandro-malaguti
+1102,Diego Rosa,Team INEOS,1989-03-27,Italy,1.78,65.0,diego-rosa
+1103,Gianfranco Zilioli,noteam,1990-03-05,Italy,1.76,61.0,gianfranco-zilioli
+1104,Andrea Zordan,noteam,1991-08-15,Italy,1.76,65.0,andrea-zordan
+1105,Francesco Manuel Bongiorno,Neri Sottoli - Selle Italia - KTM,1990-09-01,Italy,1.72,56.0,francesco-manuel-bongiorno
+1106,Donato De Ieso,noteam,1989-02-27,Italy,1.73,62.0,donato-de-ieso
+1107,Nicola Ruffoni,noteam,1990-12-14,Italy,1.73,70.0,nicola-ruffoni
+1108,Edoardo Zardini,Neri Sottoli - Selle Italia - KTM,1989-11-02,Italy,1.73,62.0,edoardo-zardini
+1109,Benoît Jarrier,Team Arkéa Samsic,1989-02-01,France,1.79,69.0,benoit-jarrier
+1110,Clément Koretzky,noteam,1990-10-30,France,0.0,0.0,clement-koretzky
+1111,Merhawi Kudus,Astana Pro Team,1994-01-23,Eritrea,1.73,58.0,merhawi-kudus
+1112,Benjamin Le Montagner,noteam,1986-04-02,France,0.0,0.0,benjamin-le-montagner
+1113,Pierre-Luc Périchon,"Cofidis, Solutions Crédits",1987-01-04,France,1.82,69.0,pierre-luc-perichon
+1114,Fabrice Seigneur,noteam,1990-08-03,France,0.0,0.0,fabrice-seigneur
+1115,Rubén Fernández,Movistar Team,1991-03-01,Spain,1.77,60.0,ruben-fernandez
+1116,Omar Fraile,Astana Pro Team,1990-07-17,Spain,1.84,69.0,omar-fraile
+1117,Ruben Martinez,noteam,1991-02-23,Spain,0.0,0.0,ruben-martinez-gonzalez
+1118,Diego Rubio,Burgos-BH,1991-06-13,Spain,1.93,81.0,diego-rubio
+1119,Ibai Salas,noteam,1991-07-04,Spain,0.0,0.0,ibai-salas
+1120,Josef Černý,CCC Team,1993-05-11,Czech Republic,1.88,77.0,josef-cerny
+1121,Pawel Charucki,noteam,1988-10-14,Poland,1.78,64.0,pawel-charucki
+1122,Piotr Gawronski,noteam,1990-03-25,Poland,0.0,0.0,piotr-gawronski
+1123,Adrian Honkisz,noteam,1988-02-27,Poland,1.76,61.0,adrian-honkisz
+1124,Tomasz Kiendyś,noteam,1977-06-23,Poland,1.85,78.0,tomasz-kiendys
+1125,Bartłomiej Matysiak,noteam,1984-09-11,Poland,1.84,71.0,bartlomiej-matysiak
+1126,Nikolay Mihaylov,Efapel,1988-04-08,Bulgaria,1.83,70.0,nikolay-mihaylov
+1127,Mateusz Nowak,noteam,1992-07-15,Poland,0.0,0.0,mateusz-nowak-1
+1128,Łukasz Owsian,CCC Team,1990-02-24,Poland,1.81,66.0,lukasz-owsian
+1129,Davide Rebellin,Meridiana Kamen Team,1971-08-09,Italy,1.71,63.0,davide-rebellin
+1130,Marek Rutkiewicz,Wibatech Merx 7R,1981-05-08,Poland,1.82,66.0,marek-rutkiewicz
+1131,Grzegorz Stępniak,Wibatech Merx 7R,1989-03-24,Poland,1.76,73.0,grzegorz-stepniak
+1132,Mateusz Taciak,Voster ATS Team,1984-06-19,Poland,1.78,68.0,mateusz-taciak
+1133,Chad Beyer,noteam,1986-08-15,United States,0.0,0.0,chad-beyer
+1134,Gregory Brenes,noteam,1988-04-21,Costa Rica,0.0,0.0,gregory-brenes
+1135,Fu Shiu Cheung,noteam,1992-01-15,Hongkong,0.0,0.0,fu-shiu-cheung
+1136,Chun Kai Feng,Bahrain Merida,1988-11-02,Taiwan,1.7,68.0,chun-kai-feng
+1137,Chan Jae Jang,noteam,1989-01-06,South Korea,0.0,0.0,chan-jae-jang
+1138,Ryota Nishizono,noteam,1987-09-01,Japan,0.0,0.0,ryota-nishizono
+1139,Fabian Schnaidt,noteam,1990-10-27,Germany,0.0,0.0,fabian-schnaidt
+1140,Dion Smith,Mitchelton-Scott,1993-03-03,New Zealand,1.79,67.0,dion-smith
+1141,Wang Yip Tang,noteam,1984-06-05,Hongkong,0.0,0.0,wang-yip-tang
+1142,Gert Jõeäär,noteam,1987-07-09,Estonia,1.91,84.0,gert-joeaar
+1143,Philip Lavery,noteam,1990-08-17,Ireland,0.0,0.0,philip-lavery
+1144,Clément Venturini,AG2R La Mondiale,1993-10-16,France,1.65,60.0,clement-venturini
+1145,Louis Verhelst,noteam,1990-08-28,Belgium,1.82,71.0,louis-verhelst
+1146,Frans Claes,noteam,1983-06-28,Belgium,0.0,0.0,frans-claes
+1147,Tom David,noteam,1990-03-31,New Zealand,0.0,0.0,tom-david
+1148,Christophe Premont,noteam,1989-11-22,Belgium,1.78,69.0,christophe-premont
+1149,Stijn Steels,Roompot - Charles,1989-08-21,Belgium,1.82,78.0,stijn-steels
+1150,Klaas Sys,noteam,1986-11-30,Belgium,0.0,0.0,klaas-sys
+1151,Pieter Vanherck,noteam,1991-09-08,Belgium,0.0,0.0,pieter-vanherck
+1152,Kevin Verwaest,noteam,1989-01-06,Belgium,0.0,0.0,kevin-verwaest
+1153,Marcel Aregger,noteam,1990-08-25,Switzerland,1.83,70.0,marcel-aregger
+1154,Jonathan Fumeaux,noteam,1988-03-07,Switzerland,1.78,61.0,jonathan-fumeaux
+1155,Pirmin Lang,noteam,1984-11-25,Switzerland,1.83,73.0,pirmin-lang
+1156,Alexandr Pliușchin,noteam,1987-01-13,Moldova,1.8,66.0,alexandr-pliuschin
+1157,Sébastien Reichenbach,Groupama - FDJ,1989-05-28,Switzerland,1.78,64.0,sebastien-reichenbach
+1158,Patrick Schelling,Team Vorarlberg Santic,1990-05-01,Switzerland,1.73,61.0,patrick-schelling
+1159,Frekalsi Debesay,noteam,1986-06-10,Eritrea,0.0,0.0,frekalsi-debesay
+1160,Tsgabu Grmay,Mitchelton-Scott,1991-08-25,Ethiopia,1.75,63.0,tsgabu-gebremaryam-grmay
+1161,Jacques Janse van Rensburg,Team Dimension Data,1987-09-06,South Africa,1.75,63.0,jacques-janse-van-rensburg
+1162,Songezo Jim,noteam,1990-09-17,South Africa,1.76,66.0,songezo-jim
+1163,Louis Meintjes,Team Dimension Data,1992-02-21,South Africa,1.73,61.0,louis-meintjes
+1164,Adrien Niyonshuti,noteam,1987-01-02,Rwanda,1.75,63.0,adrien-niyonshuti
+1165,Bradley Potgieter,noteam,1989-05-11,South Africa,0.0,0.0,bradley-potgieter
+1166,Youcef Reguigui,Terengganu Cycling Team,1990-01-09,Algeria,1.72,69.0,youcef-reguigui
+1167,Martin Reimer,noteam,1987-06-14,Germany,1.8,69.0,martin-reimer
+1168,Meron Russom,noteam,1987-03-12,Eritrea,0.0,0.0,meron-russom
+1169,Kristian Sbaragli,Israel Cycling Academy,1990-05-08,Italy,1.75,70.0,kristian-sbaragli
+1170,Andreas Stauff,noteam,1987-01-22,Germany,1.92,82.0,andreas-stauff
+1171,Jani Tewelde,noteam,1990-10-01,Eritrea,0.0,0.0,jani-tewelde
+1172,Dennis Van Niekerk,noteam,1984-10-19,South Africa,0.0,0.0,dennis-van-niekerk
+1173,Johann van Zyl,303Project,1991-02-02,South Africa,1.9,72.0,johann-van-zyl
+1174,Jaco Venter,Team Dimension Data,1987-02-13,South Africa,1.89,70.0,jaco-venter
+1175,Martin Wesemann,noteam,1984-03-19,South Africa,0.0,0.0,martin-wesemann
+1176,Mikhail Akimov,noteam,1992-04-17,Russia,0.0,0.0,mikhail-akimov
+1177,Igor Boev,Gazprom-RusVelo,1989-11-22,Russia,1.86,74.0,igor-boev
+1178,Alexander Foliforov,noteam,1992-03-08,Russia,1.8,61.0,alexander-foliforov
+1179,Pavel Kochetkov,Team Katusha Alpecin,1986-03-07,Russia,1.84,72.0,pavel-kochetkov
+1180,Sergey Pomoshnikov,noteam,1990-07-17,Russia,0.0,0.0,sergey-pomoshnikov
+1181,Alexander Rybakov,noteam,1988-05-17,Russia,1.81,65.0,alexander-rybakov
+1182,Andrei Solomennikov,noteam,1987-06-10,Russia,1.78,72.0,andrei-solomennikov
+1183,Gennadiy Tatarinov,noteam,1991-04-20,Russia,0.0,0.0,gennadiy-tatarinov
+1184,Maxime Daniel,Team Arkéa Samsic,1991-06-05,France,1.86,74.0,maxime-daniel
+1185,Julien Guay,noteam,1986-10-09,France,0.0,0.0,julien-guay
+1186,Fabien Schmidt,Delko Marseille Provence,1989-03-23,France,1.77,63.0,fabien-schmidt
+1187,Evaldas Šiškevičius,Delko Marseille Provence,1988-12-30,Lithuania,1.81,76.0,edvaldas-siskevicius
+1188,Juan Esteban Arango,noteam,1986-10-09,Colombia,0.0,0.0,juan-esteban-arango
+1189,Edwin Ávila,Israel Cycling Academy,1989-11-21,Colombia,1.67,63.0,edwin-avila
+1190,Julio Alexis Camacho,Coldeportes Zenu,1990-06-20,Colombia,0.0,0.0,julio-alexis-camacho
+1191,Marco Corti,noteam,1986-04-02,Italy,0.0,0.0,marco-corti
+1192,Natnael Berhane,"Cofidis, Solutions Crédits",1991-01-05,Eritrea,1.82,66.0,natnael-berhane
+1193,Bryan Coquard,Vital Concept - B&B Hotels,1992-04-25,France,1.69,58.0,bryan-coquard
+1194,Morgan Lamoisson,noteam,1988-09-07,France,1.78,69.0,morgan-lamoisson
+1195,Julien Morice,Vital Concept - B&B Hotels,1991-07-20,France,1.9,80.0,julien-morice
+1196,Iker Camaño,noteam,1979-03-14,Spain,0.0,0.0,iker-camano
+1197,Zak Dempster,Israel Cycling Academy,1987-09-27,Australia,1.9,77.0,zakkari-dempster
+1198,Russell Downing,noteam,1978-08-23,Great Britain,0.0,0.0,russell-downing
+1199,Ralf Matzka,noteam,1989-08-24,Germany,1.77,69.0,ralf-matzka
+1200,Jonathan McEvoy,Madison Genesis ,1989-08-02,Great Britain,0.0,0.0,jonathan-mcevoy
+1201,José Mendes,Sporting Clube de Portugal/Tavira,1985-04-24,Portugal,1.81,64.0,jose-mendes
+1202,Erick Rowsell,Madison Genesis ,1990-07-29,Great Britain,0.0,0.0,erick-rowsell
+1203,Scott Thwaites,Vitus Pro Cycling,1990-02-12,Great Britain,1.78,69.0,scott-thwaites
+1204,Paul Voss,noteam,1986-03-26,Germany,1.78,66.0,paul-voss
+1205,Alexander Wetterhall,noteam,1986-04-12,Sweden,0.0,0.0,alexander-wetterhall
+1206,Andrea Ciacchini,noteam,1990-06-26,Italy,0.0,0.0,andrea-ciacchini
+1207,Stephen Clancy,Team Novo Nordisk,1992-07-19,Ireland,1.71,63.0,stephen-clancy
+1208,Paolo Cravanzola,noteam,1986-03-10,Italy,0.0,0.0,paolo-cravanzola
+1209,Kevin De Mesmaeker,noteam,1991-07-24,Belgium,1.76,68.0,kevin-de-mesmaeker
+1210,Joonas Henttala,Team Novo Nordisk,1991-09-17,Finland,1.87,73.0,joonas-henttala
+1211,Justin Stuart Morris,noteam,1986-06-19,Australia,0.0,0.0,justin-stuart-morris
+1212,Andrea Peron,Team Novo Nordisk,1988-10-28,Italy,1.76,70.0,andrea-peron
+1213,Aaron Perry,noteam,1987-11-06,New Zealand,0.0,0.0,aaron-perry
+1214,Thomas Raeymaekers,noteam,1993-05-22,Belgium,0.0,0.0,thomas-raeymaekers
+1215,Branden Russell,noteam,1992-03-15,United States,0.0,0.0,branden-russell
+1216,Andrei Strelkov,noteam,1994-06-21,Russia,0.0,0.0,andrei-strelkov
+1217,Christopher Williams,Futuro - Maxxis Pro Cycling,1981-11-10,Australia,1.81,75.0,christopher-williams
+1218,Jasper de Buyst,Lotto Soudal,1993-11-24,Belgium,1.78,69.0,jasper-de-buyst
+1219,Sander Helven,noteam,1990-05-30,Belgium,1.97,74.0,sander-helven
+1220,Yves Lampaert,Deceuninck - Quick Step,1991-04-10,Belgium,1.8,75.0,yves-lampaert
+1221,Kenneth Vanbilsen,"Cofidis, Solutions Crédits",1990-06-01,Belgium,1.84,73.0,kenneth-van-bilsen
+1222,Carlos Alzate,GW - Shimano,1983-03-23,Colombia,1.8,74.0,carlos-eduardo-alzate
+1223,Lucas Euser,noteam,1983-12-05,United States,1.7,56.0,lucas-euser
+1224,Martyn Irvine,noteam,1985-06-06,Ireland,1.79,0.0,martyn-irvine
+1225,Luke Keough,noteam,1991-08-10,United States,1.75,68.0,luke-keough
+1226,John Murphy,Rally UHC Cycling,1984-12-15,United States,1.86,81.0,john-murphy
+1227,Ramon Carretero,noteam,1990-11-26,Panama,1.76,62.0,ramon-carretero
+1228,Airán Fernández,Matrix Powertag,1988-10-30,Spain,0.0,0.0,airan-fernandez
+1229,Mauro Finetto,Delko Marseille Provence,1985-05-10,Italy,1.77,65.0,mauro-finetto
+1230,Michele Merlo,noteam,1984-08-07,Italy,0.0,0.0,michele-merlo
+1231,Luigi Miletta,noteam,1988-08-09,Italy,0.0,0.0,luigi-miletta
+1232,Mattia Pozzo,noteam,1989-01-26,Italy,1.72,68.0,mattia-pozzo
+1233,Junya Sano,Matrix Powertag,1982-01-09,Japan,1.78,76.0,junya-sano
+1234,Riccardo Stacchiotti,Giotti Victoria - Palomar,1991-11-08,Italy,1.79,70.0,riccardo-stacchiotti
+1235,Luca Sterbini,noteam,1992-11-12,Italy,1.87,72.0,luca-sterbini
+1236,François Bidard,AG2R La Mondiale,1992-03-19,France,1.8,65.0,francois-bidard
+1237,Nico Denz,AG2R La Mondiale,1994-02-15,Germany,1.83,71.0,nico-denz
+1238,Alexis Gougeard,AG2R La Mondiale,1993-03-05,France,1.76,66.0,alexis-gougeard
+1239,Maxat Ayazbayev,noteam,1992-01-27,Kazakhstan,1.89,75.0,maxat-ayazbayev
+1240,Ilya Davidenok,Shenzhen Xidesheng Cycling Team,1992-04-19,Kazakhstan,0.0,0.0,ilya-davidenok
+1241,Daniil Fominykh,Astana Pro Team,1991-08-28,Kazakhstan,1.82,70.0,daniil-fominykh
+1242,Bakhtiyar Kozhatayev,noteam,1992-03-28,Kazakhstan,1.72,62.0,bakhtiyar-kozhatayev
+1243,Martijn Tusveld,Team Sunweb,1993-09-09,Netherlands,1.87,70.0,martijn-tusveld
+1244,Nick van der Lijke,Roompot - Charles,1991-09-23,Netherlands,1.76,61.0,nick-van-der-lijke
+1245,Luke Davison,noteam,1990-05-08,Australia,0.0,0.0,luke-davison
+1246,Dylan Teuns,Bahrain Merida,1992-03-01,Belgium,1.81,64.0,dylan-teuns
+1247,Loïc Vliegen,Wanty - Gobert Cycling Team,1993-12-20,Belgium,1.83,66.0,loic-vliegen
+1248,Rick Zabel,Team Katusha Alpecin,1993-12-07,Germany,1.84,72.0,rick-zabel
+1249,Alberto Bettiol,EF Education First,1993-10-29,Italy,1.8,69.0,alberto-bettiol
+1250,Davide Formolo,BORA - hansgrohe,1992-10-25,Italy,1.81,62.0,davide-formolo
+1251,Matej Mohorič,Bahrain Merida,1994-10-19,Slovenia,1.85,72.0,matej-mohoric
+1252,Lorrenzo Manzin,Vital Concept - B&B Hotels,1994-07-26,France,1.75,70.0,lorrenzo-manzin
+1253,Guillaume Martin,Wanty - Gobert Cycling Team,1993-06-09,France,1.73,55.0,guillaume-martin
+1254,Marc Sarreau,Groupama - FDJ,1993-06-10,France,1.82,74.0,marc-sarreau
+1255,Janier Acevedo,EPM,1985-12-06,Colombia,1.75,63.0,janier-alexis-acevedo
+1256,Nathan Brown,EF Education First,1991-07-07,United States,1.82,65.0,nathan-brown
+1257,Phillip Gaimon,noteam,1986-01-28,United States,1.85,67.0,phillip-gaimon
+1258,Dylan Girdlestone,noteam,1989-10-11,South Africa,1.85,66.0,dylan-girdlestone
+1259,Lasse Norman Hansen,Corendon - Circus,1992-02-11,Denmark,1.8,75.0,lasse-norman-hansen
+1260,Gavin Mannion,Rally UHC Cycling,1991-08-24,United States,1.75,58.0,gavin-mannion
+1261,Dylan van Baarle,Team INEOS,1992-05-21,Netherlands,1.87,78.0,dylan-van-baarle
+1262,Andrea Vaccher,noteam,1988-12-21,Italy,0.0,0.0,andrea-vaccher
+1263,Tiesj Benoot,Lotto Soudal,1994-03-11,Belgium,1.9,72.0,tiesj-benoot
+1264,Vegard Breen,noteam,1990-02-08,Norway,1.87,74.0,vegard-breen
+1265,Sean De Bie,Roompot - Charles,1991-10-03,Belgium,1.73,65.0,sean-de-bie
+1266,Xandro Meurisse,Wanty - Gobert Cycling Team,1992-01-31,Belgium,1.81,0.0,xandro-meurisse
+1267,Oliver Naesen,AG2R La Mondiale,1990-09-16,Belgium,1.84,71.0,oliver-naesen
+1268,Boris Vallée,Wanty - Gobert Cycling Team,1993-06-03,Belgium,1.88,79.0,boris-vallee
+1269,Louis Vervaeke,Team Sunweb,1993-10-06,Belgium,1.8,65.0,louis-vervaeke
+1270,Dayer Quintana,Neri Sottoli - Selle Italia - KTM,1992-08-10,Colombia,1.67,58.0,dayer-quintana-rojas
+1271,Jasha Sütterlin,Movistar Team,1992-11-04,Germany,1.84,78.0,jasha-sutterlin
+1272,Julian Alaphilippe,Deceuninck - Quick Step,1992-06-11,France,1.73,62.0,julian-alaphilippe
+1273,Petr Vakoč,Deceuninck - Quick Step,1992-07-11,Czech Republic,1.8,68.0,petr-vakoc
+1274,Magnus Cort,Astana Pro Team,1993-01-16,Denmark,0.0,68.0,magnus-cort-nielsen
+1275,Caleb Ewan,Lotto Soudal,1994-07-11,Australia,1.65,67.0,caleb-ewan
+1276,Nino Schurter,noteam,1986-05-13,Switzerland,0.0,0.0,nino-schurter
+1277,Simon Yates,Mitchelton-Scott,1992-08-07,Great Britain,1.72,58.0,simon-yates
+1278,Adam Yates,Mitchelton-Scott,1992-08-07,Great Britain,1.73,58.0,adam-yates
+1279,Romain Cardis,Team Total Direct Energie,1992-08-12,France,1.8,72.0,romain-cardis
+1280,Jérémy Cornu,noteam,1991-08-07,France,1.78,66.0,jeremy-cornu
+1281,Dan Craven,noteam,1983-02-01,Namibia,1.84,75.0,dan-craven
+1282,Taruia Krainer,noteam,1991-06-01,France,0.0,0.0,taruia-krainer
+1283,Yannick Martinez,noteam,1988-05-04,France,1.76,69.0,yannick-martinez
+1284,Lawson Craddock,EF Education First,1992-02-20,United States,1.78,69.0,lawson-craddock
+1285,Chad Haga,Team Sunweb,1988-08-26,United States,1.91,71.5,chad-haga
+1286,Steven Lammertink,Vital Concept - B&B Hotels,1993-12-04,Netherlands,1.76,68.0,steven-lammertink
+1287,Sea Keong Loh,Thailand Continental Cycling Team,1986-11-02,Malaysia,0.0,0.0,sea-keong-loh
+1288,Fredrik Ludvigsson,Memil - CCN Pro Cycling,1994-04-28,Sweden,1.89,71.0,fredrik-ludvigsson
+1289,Sven Erik Bystrøm,UAE-Team Emirates,1992-01-21,Norway,1.89,72.0,sven-erik-bystrom
+1290,Nathan Earle,Israel Cycling Academy,1988-06-04,Australia,1.8,70.0,nathan-earle
+1291,Sebastián Henao,Team INEOS,1993-08-05,Colombia,1.71,57.0,sebastian-henao
+1292,Edward Beltrán,Medellin,1990-01-18,Colombia,1.73,59.0,edward-beltran
+1293,Rasmus Guldhammer,Team Waoo,1989-03-09,Denmark,1.83,66.0,rasmus-guldhammer
+1294,Michael Kolář,noteam,1992-12-21,Slovakia,0.0,0.0,michael-kolar
+1295,Michael Valgren,Team Dimension Data,1992-02-07,Denmark,1.79,71.0,michael-valgren-andersen
+1296,Eugenio Alafaci,EvoPro Racing,1990-08-09,Italy,1.87,77.0,eugenio-alafaci
+1297,Julián David Arredondo,noteam,1988-07-30,Colombia,1.64,58.0,julian-david-arredondo
+1298,Clément Chevrier,AG2R La Mondiale,1992-06-29,France,1.77,56.0,clement-chevrier
+1299,Ryan Eastman,noteam,1992-07-28,United States,0.0,0.0,ryan-eastman
+1300,Alex Kirsch,Trek - Segafredo,1992-06-12,Luxembourg,1.94,75.0,alex-kirsch
+1301,Fábio Silvestre,noteam,1990-01-25,Portugal,1.84,78.0,fabio-silvestre
+1302,Jasper Stuyven,Trek - Segafredo,1992-04-17,Belgium,1.86,78.0,jasper-stuyven
+1303,Calvin Watson,noteam,1993-01-06,Australia,1.92,72.0,calvin-watson
+1304,Riccardo Zoidl,CCC Team,1988-04-08,Austria,1.77,63.0,riccardo-zoidl
+1305,Carlos Johan Gálviz,noteam,1989-10-27,Venezuela,1.75,65.0,carlos-galviz
+1306,Marcin Mrozek,noteam,1990-02-26,Poland,1.76,66.0,marcin-mrosek
+1307,Angelo Raffaele,D'Amico - UM Tools ,1991-04-20,Italy,0.0,0.0,angelo-raffaele
+1308,Alessio Taliani,noteam,1990-10-11,Italy,1.8,60.0,alessio-taliani
+1309,Nicola Testi,noteam,1990-04-29,Italy,0.0,0.0,nicola-testi
+1310,Paolo Colonna,noteam,1987-03-24,Italy,1.76,65.0,paolo-colonna
+1311,Andrea Manfredi,noteam,1992-02-10,Italy,1.72,54.0,andrea-manfredi
+1312,Dario Mantelli,noteam,1990-07-19,Italy,0.0,0.0,dario-mantelli
+1313,Andrea Piechele,noteam,1987-06-29,Italy,1.8,71.0,andrea-piechele
+1314,Paolo Simion,Bardiani - CSF,1992-10-10,Italy,1.85,79.0,paolo-simion
+1315,Simone Sterbini,Giotti Victoria - Palomar,1993-12-11,Italy,1.92,67.0,simone-sterbini
+1316,Franck Bonnamour,Team Arkéa Samsic,1995-06-20,France,1.8,70.0,franck-bonnamour
+1317,Axel Journiaux,Team Total Direct Energie,1995-05-20,France,1.72,63.0,axel-journiaux
+1318,Kévin Ledanois,Team Arkéa Samsic,1993-07-13,France,1.81,67.0,kevin-ledanois
+1319,Miguel Ángel Benito,noteam,1993-09-21,Spain,1.81,67.0,miguel-angel-benito
+1320,Fernando Grijalba,noteam,1991-01-14,Spain,1.76,61.0,fernando-grijalba
+1321,Lluís Mas,Movistar Team,1989-10-15,Spain,1.81,69.0,lluis-guillermo-mas
+1322,Antonio Molina,Caja Rural - Seguros RGA,1991-01-04,Spain,1.69,57.0,antonio-molina
+1323,Heiner Rodrigo Parra,GW - Shimano,1991-10-09,Colombia,1.6,51.0,heiner-rodrigo-parra
+1324,Arnau Sole,noteam,1992-03-19,Spain,1.84,67.0,arnau-sole
+1325,Loïc Chetout,"Cofidis, Solutions Crédits",1992-09-23,France,1.78,70.0,loic-chetout
+1326,Dylan Kowalski,noteam,1994-01-26,France,0.0,0.0,dylan-kowalski
+1327,Christophe Laporte,"Cofidis, Solutions Crédits",1992-12-11,France,1.89,76.0,christophe-laporte
+1328,Anthony Turgis,Team Total Direct Energie,1994-05-16,France,1.79,69.0,anthony-turgis
+1329,Jack Anderson,noteam,1987-06-02,Australia,1.83,68.0,jack-anderson
+1330,Brendan Canty,noteam,1992-01-17,Australia,1.7,60.0,brendan-canty
+1331,Jai Crawford,noteam,1983-08-04,Australia,1.72,59.0,jai-crawford
+1332,Floris Goesinnen,noteam,1983-10-30,Netherlands,0.0,0.0,floris-goesinnen
+1333,Robbie Hucker,Team UKYO,1990-03-13,Australia,1.81,68.0,robbie-hucker
+1334,Benjamin Johnson,noteam,1983-01-07,Australia,0.0,0.0,benjamin-johnson
+1335,Jordan Kerby,noteam,1992-08-15,New Zealand,1.79,71.0,jordan-kerby
+1336,Darren Lapthorne,noteam,1983-03-04,Australia,1.82,70.0,darren-lapthorne
+1337,Lachlan Norris,noteam,1987-01-21,Australia,1.77,67.0,lachlan-norris
+1338,Thomas Palmer,noteam,1990-06-28,Australia,0.0,0.0,thomas-palmer
+1339,Adam Phelan,noteam,1991-08-23,Australia,1.82,73.0,adam-phelan
+1340,Malcolm Rudolph,noteam,1989-01-04,Australia,1.8,69.0,malcolm-rudolph
+1341,Bernard Sulzberger,noteam,1983-12-05,Australia,1.77,67.0,bernard-sulzberger
+1342,Sondre Holst Enger,Israel Cycling Academy,1993-12-17,Norway,1.71,69.0,sondre-holst-enger
+1343,Claudio Imhof,AKROS - Thömus,1990-09-26,Switzerland,0.0,0.0,claudio-imhof
+1344,Simon Pellaud,IAM Excelsior,1992-11-06,Switzerland,1.79,70.0,simon-pellaud
+1345,Nic Dougall,noteam,1992-11-21,South Africa,1.9,72.0,nick-dougall
+1346,Karel Hník,Elkov - Author Cycling Team,1991-08-09,Czech Republic,1.73,54.0,karel-hnik
+1347,Gianni Bellini,noteam,1992-02-07,Italy,0.0,0.0,gianni-bellini
+1348,Giorgio Cecchinel,noteam,1989-06-24,Italy,1.76,69.0,giorgio-cecchinel
+1349,Samuele Conti,noteam,1991-09-14,Italy,1.87,68.0,samuele-conti
+1350,Andrea Dal Col,noteam,1991-04-30,Italy,1.85,80.0,andrea-dal-col
+1351,Andrea Fedi,noteam,1991-05-29,Italy,1.84,70.0,andrea-fedi
+1352,Giuseppe Fonzi,Neri Sottoli - Selle Italia - KTM,1991-08-02,Italy,1.8,63.0,giuseppe-fonzi
+1353,Mirko Tedeschi,noteam,1989-01-05,Italy,1.8,69.0,mirko-tedeschi
+1354,Ivan Balykin,noteam,1990-11-26,Russia,1.79,68.0,ivan-balykin
+1355,Kirill Pozdnyakov,noteam,1989-01-20,Azerbaijan,1.76,67.0,kirill-pozdnyakov
+1356,Edward Fabián Díaz,noteam,1994-08-19,Colombia,1.73,68.0,edward-fabian-diaz
+1357,Luis Alberto Largo,noteam,1990-04-14,Colombia,0.0,0.0,luis-alberto-largo
+1358,Darwin Ferney Pantoja,noteam,1990-09-25,Colombia,1.65,59.0,darwin-ferney-pantoja
+1359,Jonathan Paredes,noteam,1989-04-04,Colombia,0.0,0.0,jonathan-paredes
+1360,Rodolfo Andrés Torres,Team Illuminate,1987-03-21,Colombia,1.69,56.0,rodolfo-andres-torres
+1361,Sam Bennett,BORA - hansgrohe,1990-10-16,Ireland,1.78,69.0,sam-bennett
+1362,Patrick Konrad,BORA - hansgrohe,1991-10-13,Austria,1.8,65.0,patrick-konrad
+1363,Alexander Krieger,Leopard Pro Cycling ,1991-11-28,Germany,0.0,0.0,alexander-krieger
+1364,Gregor Mühlberger,BORA - hansgrohe,1994-04-04,Austria,1.8,64.0,gregor-muhlberger
+1365,František Paďour,noteam,1988-01-19,Czech Republic,1.77,59.0,frantisek-padour
+1366,Scott Ambrose,noteam,1995-01-23,New Zealand,1.77,66.0,scott-ambrose
+1367,Ruud Cremers,noteam,1992-01-02,Netherlands,1.93,76.0,ruud-cremers
+1368,Benjamin Dilley,noteam,1991-09-18,United States,1.75,72.0,benjamin-dilley
+1369,Nicolas Lefrancois,noteam,1987-04-27,France,1.83,82.0,nicolas-lefrancois
+1370,Charles Planet,Team Novo Nordisk,1993-10-30,France,1.79,71.0,charles-planet
+1371,Victor Campenaerts,Lotto Soudal,1991-10-28,Belgium,1.73,72.5,victor-campenaerts
+1372,Moreno De Pauw,Sport Vlaanderen - Baloise,1991-08-12,Belgium,1.81,72.0,moreno-de-pauw
+1373,Jonas Rickaert,Corendon - Circus,1994-02-07,Belgium,1.87,83.5,jonas-rickaert
+1374,Edward Theuns,Trek - Segafredo,1991-04-30,Belgium,1.83,72.0,edward-theuns
+1375,Otto Vergaerde,Corendon - Circus,1994-07-15,Belgium,1.8,74.0,otto-vergaerde
+1376,Isaac Bolivar,noteam,1991-05-09,Colombia,1.78,64.0,isaac-bolivar
+1377,Ken Hanson,noteam,1982-04-14,United States,1.77,74.0,ken-hanson
+1378,Federico Zurlo,Giotti Victoria - Palomar,1994-02-25,Italy,1.78,70.0,federico-zurlo
+1379,Alexander Maes,Cibel,1993-06-20,Belgium,1.8,72.0,alexander-maes
+1380,Marco Minnaard,Wanty - Gobert Cycling Team,1989-04-11,Netherlands,1.78,65.0,marco-minnaard
+1381,Romain Campistrous,noteam,1992-07-16,France,0.0,0.0,romain-campistrous
+1382,Florent Pereira,noteam,1993-10-19,France,0.0,0.0,florent-pereira
+1383,Miguel Ángel López,Astana Pro Team,1994-02-04,Colombia,1.7,65.0,miguel-angel-lopez
+1384,Tom Bohli,UAE-Team Emirates,1994-01-17,Switzerland,1.83,71.0,tom-bohli
+1385,Campbell Flakemore,noteam,1992-08-06,Australia,1.86,72.0,campbell-flakemore
+1386,Kilian Frankiny,Groupama - FDJ,1994-01-26,Switzerland,1.88,68.0,kilian-frankiny
+1387,Floris Gerts,noteam,1992-05-03,Netherlands,1.82,71.5,floris-gerts
+1388,Stefan Küng,Groupama - FDJ,1993-11-16,Switzerland,1.93,83.0,stefan-kung
+1389,Manuel Senni,Bardiani - CSF,1992-03-11,Italy,1.81,64.0,manuel-senni
+1390,Rodrigo Contreras,Astana Pro Team,1994-06-02,Colombia,1.8,68.0,rodrigo-contreras
+1391,Fernando Gaviria,UAE-Team Emirates,1994-08-19,Colombia,1.8,71.0,fernando-gaviria
+1392,Łukasz Wiśniowski,CCC Team,1991-12-07,Poland,1.9,79.0,lukasz-wisniowski
+1393,Fabien Doubey,Wanty - Gobert Cycling Team,1993-10-21,France,1.74,62.0,fabien-doubey
+1394,Marc Fournier,Vital Concept - B&B Hotels,1994-11-12,France,1.83,71.0,marc-fournier
+1395,Élie Gesbert,Team Arkéa Samsic,1995-07-01,France,1.81,63.0,elie-gesbert
+1396,Mário Costa,noteam,1985-11-15,Portugal,0.0,0.0,mario-costa
+1397,Filippo Ganna,Team INEOS,1996-07-25,Italy,1.93,76.0,filippo-ganna
+1398,Luca Pacioni,Neri Sottoli - Selle Italia - KTM,1993-08-13,Italy,0.0,0.0,luca-pacioni
+1399,Luka Pibernik,Bahrain Merida,1993-10-23,Slovenia,1.77,60.0,luka-pibernik
+1400,Edward Ravasi,UAE-Team Emirates,1994-06-05,Italy,1.81,62.0,edward-ravasi
+1401,Frederik Frison,Lotto Soudal,1992-07-28,Belgium,1.94,79.0,frederik-frison
+1402,Dries Van Gestel,Sport Vlaanderen - Baloise,1994-09-30,Belgium,1.88,69.0,dries-van-gestel
+1403,Kenneth Van Rooy,Sport Vlaanderen - Baloise,1993-10-08,Belgium,1.78,70.0,kenneth-van-rooy
+1404,Jack Haig,Mitchelton-Scott,1993-09-06,Australia,1.9,67.0,jack-haig
+1405,Jasper Bovenhuis,Vlasman CT,1991-07-27,Netherlands,0.0,0.0,jasper-bovenhuis
+1406,Ryan Mullen,Trek - Segafredo,1994-08-07,Ireland,1.89,77.0,ryan-mullen
+1407,Kristoffer Skjerping,Uno-X Norwegian Development Team,1993-05-04,Norway,1.82,71.0,kristoffer-skjerping
+1408,Ruben Zepuntke,noteam,1993-01-29,Germany,1.84,76.0,ruben-zepuntke
+1409,Carter Jones,noteam,1989-02-27,United States,1.83,64.0,carter-jones
+1410,Lars van der Haar,Telenet Fidea Lions,1991-07-23,Netherlands,1.69,58.5,lars-van-der-haar
+1411,Max Walscheid,Team Sunweb,1993-06-13,Germany,1.99,92.0,max-walscheid
+1412,Nils Politt,Team Katusha Alpecin,1994-03-06,Germany,1.92,80.0,nils-politt
+1413,Jhonatan Restrepo,noteam,1994-11-28,Colombia,1.71,69.0,jhonatan-restrepo
+1414,Koen Bouwman,Team Jumbo-Visma,1993-12-02,Netherlands,1.78,60.0,koen-bouwman
+1415,Twan Castelijns,noteam,1989-01-23,Netherlands,1.8,70.0,twan-castelijns
+1416,Timo Roosen,Team Jumbo-Visma,1993-01-11,Netherlands,1.94,75.0,timo-roosen
+1417,Mike Teunissen,Team Jumbo-Visma,1992-08-25,Netherlands,1.84,73.0,mike-teunissen
+1418,Tao Geoghegan Hart,Team INEOS,1995-03-30,Great Britain,1.83,0.0,tao-geoghegan-hart
+1419,Alex Peters,noteam,1994-03-31,Great Britain,0.0,0.0,alex-peters
+1420,Michael Gogl,Trek - Segafredo,1993-11-04,Austria,1.86,70.0,michael-gogl
+1421,Felix Großschartner,BORA - hansgrohe,1993-12-23,Austria,1.84,64.0,felix-grossschartner
+1422,Antwan Tolhoek,Team Jumbo-Visma,1994-04-29,Netherlands,1.78,61.0,antwan-tolhoek
+1423,Leonardo Basso,Team INEOS,1993-12-25,Italy,1.78,63.0,leonardo-basso
+1424,Julien Bernard,Trek - Segafredo,1992-03-17,France,1.76,60.0,julien-bernard
+1425,Daniel McConnell,noteam,1985-08-09,Australia,1.81,67.0,daniel-mcconnell
+1426,Szymon Rekita,Leopard Pro Cycling ,1994-01-05,Poland,0.0,0.0,szymon-rekita
+1427,Massimiliano Barbero Piantino,noteam,"[' -', <br/>, <b>Nationality:</b>]",Italy,1.79,65.0,massimiliano-barbero-piantino
+1428,John Ebsen,noteam,1988-11-15,Denmark,1.76,58.0,john-ebsen
+1429,Carlos Gimenez,noteam,1995-05-07,Venezuela,1.64,53.0,carlos-gimenez
+1430,Alberto Nardin,noteam,1990-04-30,Italy,1.8,63.5,alberto-nardin
+1431,Serghei Țvetcov,Floyd's Pro Cycling,1988-12-29,Romania,1.78,69.0,serghei-tvetcov
+1432,Mattia Viel,Androni Giocattoli - Sidermec,1995-04-22,Italy,1.8,72.0,mattia-viel
+1433,Simone Andreetta,noteam,1993-08-30,Italy,1.83,69.0,simone-andreetta
+1434,Luca Chirico,noteam,1992-07-16,Italy,1.67,53.0,luca-chirico
+1435,Alessandro Tonelli,Bardiani - CSF,1992-05-29,Italy,1.76,64.0,alessandro-tonelli
+1436,Shane Archbold,BORA - hansgrohe,1989-02-02,New Zealand,1.82,80.0,shane-archbold
+1437,Phil Bauhaus,Bahrain Merida,1994-07-08,Germany,1.84,71.0,phil-bauhaus
+1438,Emanuel Buchmann,BORA - hansgrohe,1992-11-18,Germany,1.81,59.0,emanuel-buchmann
+1439,Christoph Pfingsten,BORA - hansgrohe,1987-11-20,Germany,1.79,69.0,christoph-pfingsten
+1440,Lukas Pöstlberger,BORA - hansgrohe,1992-01-10,Austria,1.82,70.0,lukas-postlberger
+1441,Matthieu Boulo,noteam,1989-05-11,France,1.72,62.0,matthieu-boulo
+1442,Maxime Cam,Vital Concept - B&B Hotels,1992-07-09,France,1.69,62.0,maxime-cam
+1443,Valentin Madouas,Groupama - FDJ,1996-07-12,France,1.74,59.0,valentin-madouas
+1444,Daniel McLay,EF Education First,1992-01-03,Great Britain,1.85,72.0,daniel-mclay
+1445,Caio Godoy Ormenese,noteam,1995-04-24,Brazil,0.0,0.0,caio-godoy-ormenese
+1446,Carlos Barbero,Movistar Team,1991-04-29,Spain,1.78,66.0,carlos-barbero
+1447,Hugh Carthy,EF Education First,1994-07-09,Great Britain,1.93,69.0,hugh-carthy
+1448,José Gonçalves,Team Katusha Alpecin,1989-02-13,Portugal,1.85,70.0,jose-goncalves
+1449,Carlos Jimenez,noteam,1992-02-02,Spain,1.72,64.0,carlos-jimenez-esp
+1450,Kyle Murphy,Rally UHC Cycling,1991-10-05,United States,1.85,67.0,kyle-murphy
+1451,Eduard Prades,Movistar Team,1987-08-09,Spain,1.78,63.0,eduard-prades
+1452,Jaime Rosón,Movistar Team,1993-01-13,Spain,1.79,62.0,jaime-roson
+1453,Héctor Sáez,Euskadi Basque Country - Murias,1993-11-06,Spain,1.85,75.0,hector-saez
+1454,Ricardo Vilela,Burgos-BH,1987-12-18,Portugal,1.7,57.0,ricardo-vilela
+1455,Piotr Brożyna,CCC Development Team,1995-02-17,Poland,1.9,71.0,piotr-brozyna
+1456,Jan Hirt,Astana Pro Team,1991-01-21,Czech Republic,1.81,60.0,jan-hirt
+1457,Jakub Kaczmarek,Team Hurom,1993-09-27,Poland,1.82,66.0,jakub-kaczmarek
+1458,Eryk Latoń,noteam,1993-08-22,Poland,1.84,76.0,eryk-laton
+1459,Kamil Małecki,CCC Development Team,1996-01-02,Poland,1.74,69.0,kamil-malecki
+1460,Michał Paluta,CCC Development Team,1995-10-04,Poland,1.74,65.0,michal-paluta
+1461,Leszek Pluciński,Voster ATS Team,1990-06-03,Poland,1.75,59.0,leszek-plucinski
+1462,Stefan Schumacher,noteam,1981-07-21,Germany,1.83,71.0,stefan-schumacher
+1463,Patryk Stosz,CCC Development Team,1994-07-15,Poland,1.78,68.0,patryk-stosz
+1464,Rayane Bouhanni,"Cofidis, Solutions Crédits",1996-02-24,France,1.84,70.0,rayane-bouhanni
+1465,Hugo Hofstetter,"Cofidis, Solutions Crédits",1994-02-13,France,1.7,65.0,hugo-hofstetter
+1466,Stéphane Rossetto,"Cofidis, Solutions Crédits",1987-04-06,France,1.8,68.0,stephane-rossetto
+1467,Xabier San Sebastian,noteam,1995-11-13,Spain,0.0,0.0,xabier-san-sebastian
+1468,Michael Carbel,Team Waoo,1995-02-07,Denmark,1.8,73.0,michael-carbel
+1469,Christian Mager,noteam,1992-04-08,Germany,1.72,60.0,christian-mager
+1470,Mads Pedersen,Trek - Segafredo,1995-12-18,Denmark,1.79,70.0,mads-pedersen
+1471,Rasmus Quaade,Riwal Readynez Cycling Team,1990-01-07,Denmark,1.88,77.0,rasmus-quaade
+1472,Michael Reihs,noteam,1979-04-25,Denmark,1.89,75.0,michael-reihs
+1473,Joel Zangerle,noteam,1988-10-11,Luxembourg,0.0,0.0,joel-zangerle
+1474,Brad Evans,noteam,1992-05-08,New Zealand,1.78,70.0,brad-evans
+1475,Brenton Jones,Delko Marseille Provence,1991-12-12,Australia,1.82,79.0,brenton-jones
+1476,Peter Koning,EvoPro Racing,1990-12-03,Netherlands,1.9,77.0,peter-koning
+1477,Cameron Peterson,noteam,1983-12-04,Australia,1.8,67.0,cameron-peterson
+1478,Samuel Spokes,noteam,1992-04-16,Australia,1.81,63.0,samuel-spokes
+1479,Jayde Julius,ProTouch,1993-08-27,South Africa,0.0,0.0,jayde-julius
+1480,Giacomo Berlato,noteam,1992-02-05,Italy,1.69,60.0,giacomo-berlato
+1481,Alessandro Bisolti,Androni Giocattoli - Sidermec,1985-03-07,Italy,1.75,58.0,alessandro-bisolti
+1482,Didier Chaparro,Orgullo Paisa,1987-07-07,Colombia,1.65,54.0,didier-chaparro
+1483,Iuri Filosi,Delko Marseille Provence,1992-01-17,Italy,1.84,70.0,iuri-filosi
+1484,Eduard-Michael Grosu,Delko Marseille Provence,1992-09-04,Romania,1.73,67.0,eduard-michael-grosu
+1485,Manabu Ishibashi,Team Bridgestone Cycling,1992-11-30,Japan,1.77,68.0,manabu-ishibashi
+1486,Shiki Kuroeda,Team Bridgestone Cycling,1992-01-08,Japan,0.0,0.0,shiki-kuroeda
+1487,Nicolas Marini,Tianyoude Hotel Cycling Team,1993-07-29,Italy,1.72,72.0,nicolas-marini
+1488,Antonio Nibali,Bahrain Merida,1992-09-23,Italy,1.8,65.0,antonio-nibali
+1489,Emanuele Onesti,Giotti Victoria - Palomar,1995-06-21,Italy,1.84,71.0,emanuele-onesti
+1490,Genki Yamamoto,Kinan Cycling Team,1991-11-19,Japan,1.63,62.0,genki-yamamoto
+1491,Jesper Asselman,Roompot - Charles,1990-03-12,Netherlands,1.84,69.0,jesper-asselman
+1492,Berden de Vries,noteam,1989-03-10,Netherlands,1.86,70.0,berden-de-vries
+1493,Huub Duijn,Roompot - Charles,1984-09-01,Netherlands,1.84,73.0,huub-duijn
+1494,Dylan Groenewegen,Team Jumbo-Visma,1993-06-21,Netherlands,1.77,70.0,dylan-groenewegen
+1495,Tim Kerkhof,noteam,1993-11-13,Netherlands,1.9,76.0,tim-kerkhof
+1496,André Looij,Taiyuan Miogee Cycling Team,1995-05-25,Netherlands,1.77,75.0,andre-looij
+1497,Mike Terpstra,noteam,1987-04-24,Netherlands,1.89,64.0,mike-terpstra
+1498,Etienne van Empel,Neri Sottoli - Selle Italia - KTM,1994-04-14,Netherlands,1.86,64.0,etienne-van-empel
+1499,Sjoerd van Ginneken,Roompot - Charles,1992-11-06,Netherlands,1.85,72.0,sjoerd-van-ginneken
+1500,Brian van Goethem,Lotto Soudal,1991-04-16,Netherlands,1.86,77.0,brian-van-goethem
+1501,Ildar Arslanov,Gazprom-RusVelo,1994-04-06,Russia,1.85,63.0,ildar-arslanov
+1502,Alexander Evtushenko,noteam,1993-06-30,Russia,1.85,72.0,alexander-evtushenko
+1503,Aleksandr Komin,noteam,1995-04-12,Russia,1.83,63.0,aleksandr-komin
+1504,Alexey Kurbatov,noteam,1994-05-09,Russia,1.85,73.0,alexey-kurbatov
+1505,Roman Kustadinchev,D'Amico - UM Tools ,1995-08-03,Russia,1.84,66.0,roman-kustadinchev
+1506,Artem Nych,Gazprom-RusVelo,1995-03-21,Russia,1.93,74.0,artem-nych
+1507,Mamyr Stash,Gazprom-RusVelo,1993-05-04,Russia,1.86,77.0,mamyr-stash
+1508,Julen Amezqueta,Caja Rural - Seguros RGA,1993-08-12,Spain,1.74,63.0,julen-amezqueta
+1509,Liam Bertazzo,Neri Sottoli - Selle Italia - KTM,1992-02-17,Italy,1.8,75.0,liam-bertazzo
+1510,Matteo Busato,Androni Giocattoli - Sidermec,1987-12-20,Italy,1.79,67.0,matteo-busato
+1511,Jakub Mareczko,CCC Team,1994-04-30,Italy,1.69,68.0,jakub-mareczko
+1512,Cristián Rodríguez,Caja Rural - Seguros RGA,1995-03-03,Spain,1.77,60.0,cristian-rodriguez
+1513,Eugert Zhupa,EvoPro Racing,1990-04-04,Albania,1.83,78.0,eugert-zhupa
+1514,Félix Alejandro Barón,Team Illuminate,1991-11-07,Colombia,0.0,0.0,felix-alejandro-baron
+1515,Alex Cano,Coldeportes Zenu,1983-03-13,Colombia,0.0,0.0,alex-cano-ardila
+1516,Jorge Camilo Castiblanco,Team Illuminate,1987-11-24,Colombia,0.0,0.0,camilo-jorge-castiblanco
+1517,Daniel Felipe Martínez,EF Education First,1996-04-25,Colombia,1.74,63.0,daniel-felipe-martinez
+1518,Juan Sebastián Molano,UAE-Team Emirates,1994-11-04,Colombia,1.8,72.0,juan-sebastian-molano
+1519,Wálter Fernando Pedraza,GW - Shimano,1981-11-27,Colombia,0.0,0.0,walter-fernando-pedraza-morales
+1520,Carlos Mario Ramirez,EPM,1994-10-26,Colombia,0.0,0.0,carlos-mario-ramirez
+1521,Brayan Steven Ramirez,Coldeportes Zenu,1992-11-20,Colombia,0.0,0.0,brayan-stiven-ramirez-chacon
+1522,Thomas Boudat,Team Total Direct Energie,1994-02-24,France,1.75,67.0,thomas-boudat
+1523,Romain Guyot,noteam,1992-10-09,France,0.0,0.0,romain-guyot
+1524,Simon Sellier,Team Total Direct Energie,1995-01-04,France,0.0,0.0,simon-sellier
+1525,Guillaume Thevenot,noteam,1993-09-13,France,1.89,69.0,guillaume-thevenot
+1526,Corentin Cherhal,noteam,1994-01-19,France,1.75,60.0,corentin-cherhal
+1527,Gerd De Keijzer,noteam,1994-01-18,Netherlands,1.83,72.6,gerd-de-keijzer
+1528,James Glasspool,noteam,1991-06-08,Australia,1.77,73.9,james-glasspool
+1529,Brian Kamstra,Team Novo Nordisk,1993-07-05,Netherlands,1.84,65.0,brian-kamstra
+1530,Simon Strobel,noteam,1986-10-08,Germany,1.76,71.0,simon-strobel
+1531,Amaury Capiot,Sport Vlaanderen - Baloise,1993-06-25,Belgium,1.87,69.0,amaury-capiot
+1532,Floris De Tier,Team Jumbo-Visma,1992-01-20,Belgium,1.72,59.0,floris-de-tier
+1533,Bert Van Lerberghe,"Cofidis, Solutions Crédits",1992-09-29,Belgium,1.9,84.0,bert-van-lerberghe
+1534,Jef Van Meirhaeghe,noteam,1992-01-21,Belgium,1.78,71.0,jef-van-meirhaeghe
+1535,Jens Wallays,noteam,1992-09-15,Belgium,1.76,64.0,jens-wallays
+1536,Tanner Putt,Arapahoe - Hincapie p/b BMC,1992-04-21,United States,1.78,75.0,tanner-putt
+1537,Romain Barroso,noteam,1993-01-18,France,0.0,0.0,romain-barroso
+1538,Kevin Callebaut,noteam,1991-10-16,Belgium,0.0,0.0,kevin-callebaut
+1539,Tom Devriendt,Wanty - Gobert Cycling Team,1991-10-29,Belgium,1.76,70.0,tom-devriendt
+1540,Boris Dron,noteam,1988-03-17,Belgium,1.83,72.0,boris-dron
+1541,Robin Stenuit,noteam,1990-06-16,Belgium,1.85,77.0,robin-stenuit
+1542,Benoît Cosnefroy,AG2R La Mondiale,1995-10-17,France,1.76,64.0,benoit-cosnefroy
+1543,Etienne Fabre,noteam,1996-08-05,France,0.0,0.0,etienne-fabre
+1544,Rémy Rochas,Delko Marseille Provence,1996-05-18,France,1.64,51.0,remy-rochas
+1545,Zhandos Bizhigitov,Astana Pro Team,1991-06-10,Kazakhstan,1.93,76.0,zhandos-bizhigitov
+1546,Nurbolat Kulimbetov,noteam,1992-05-09,Kazakhstan,0.0,0.0,nurbolat-kulimbetov
+1547,Dias Omirzakov,noteam,1992-07-13,Kazakhstan,0.0,0.0,dias-omirzakov
+1548,Artyom Zakharov,Astana Pro Team,1991-10-27,Kazakhstan,1.8,70.0,artyom-zakharov
+1549,Taylor Eisenhart,Arapahoe - Hincapie p/b BMC,1994-06-14,United States,0.0,0.0,taylor-eisenhart
+1550,Fabian Lienhard,IAM Excelsior,1993-09-03,Switzerland,0.0,0.0,fabian-lienhard
+1551,Patrick Bevin,CCC Team,1991-02-15,New Zealand,1.8,75.0,patrick-bevin
+1552,Jonathan Dibben,Madison Genesis ,1994-02-12,Great Britain,1.9,78.0,jonathan-dibben
+1553,Toms Skujiņš,Trek - Segafredo,1991-06-15,Latvia,1.78,70.0,toms-skujins
+1554,Michael Woods,EF Education First,1986-10-12,Canada,1.75,64.0,michael-woods
+1555,Adrien Costa,noteam,1997-08-19,United States,1.83,0.0,adrien-costa
+1556,Laurens De Plus,Team Jumbo-Visma,1995-09-04,Belgium,1.89,67.0,laurens-de-plus
+1557,Iván García Cortina,Bahrain Merida,1995-11-20,Spain,1.83,77.0,ivan-garcia-cortina
+1558,Hamish Schreurs,Israel Cycling Academy,1994-01-23,New Zealand,1.79,69.0,hamish-schreurs
+1559,František Sisr,Elkov - Author Cycling Team,1993-03-17,Czech Republic,1.8,71.0,frantisek-sisr
+1560,Odd Christian Eiking,Wanty - Gobert Cycling Team,1994-12-28,Norway,1.8,65.0,odd-christian-eiking
+1561,David Gaudu,Groupama - FDJ,1996-10-10,France,1.73,53.0,david-gaudu
+1562,Daniel Hoelgaard,Groupama - FDJ,1993-07-01,Norway,1.83,77.0,daniel-hoelgaard
+1563,Jérémy Maison,Team Arkéa Samsic,1993-07-21,France,1.8,61.0,jeremy-maison
+1564,Léo Vincent,Groupama - FDJ,1995-11-06,France,1.77,62.0,leo-vincent
+1565,Fausto Masnada,Androni Giocattoli - Sidermec,1993-11-06,Italy,1.81,65.0,fausto-masnada
+1566,Simone Petilli,UAE-Team Emirates,1993-05-04,Italy,1.78,63.0,simone-petilli
+1567,Oliviero Troia,UAE-Team Emirates,1994-09-01,Italy,1.91,72.0,oliviero-troia
+1568,Kevin Deltombe,Sport Vlaanderen - Baloise,1994-02-27,Belgium,1.78,66.0,kevin-deltombe
+1569,Michael Goolaerts,noteam,1994-07-24,Belgium,1.86,80.0,michael-goolaerts
+1570,James Shaw,SwiftCarbon Pro Cycling,1996-06-13,Great Britain,1.79,63.0,james-shaw
+1571,King Lok Cheung,HKSI Pro Cycling Team,1991-02-08,Hongkong,1.72,59.0,king-lok-cheung
+1572,Alex Edmondson,Mitchelton-Scott,1993-12-22,Australia,0.0,0.0,alexander-edmondson
+1573,Robert Power,Team Sunweb,1995-05-11,Australia,1.84,68.0,robert-power
+1574,Nick Schultz,Mitchelton-Scott,1994-09-13,Australia,1.8,68.0,nick-schultz
+1575,Mekseb Debesay,Bike Aid,1991-06-16,Eritrea,1.82,64.0,mekseb-debesay
+1576,Metkel Eyob,Terengganu Cycling Team,1993-09-04,Eritrea,0.0,0.0,metkel-eyob
+1577,Amanuel Ghebreigzabhier,Team Dimension Data,1994-08-17,Eritrea,1.87,0.0,amanuel-ghebreigzabhier
+1578,Ryan Gibbons,Team Dimension Data,1994-08-13,South Africa,1.81,0.0,ryan-gibbons
+1579,Jochem Hoekstra,noteam,1992-10-21,Netherlands,0.0,0.0,jochem-hoekstra
+1580,Max Kanter,Team Sunweb,1997-10-22,Germany,1.76,68.0,max-kanter
+1581,Søren Kragh Andersen,Team Sunweb,1994-08-10,Denmark,1.78,73.0,soren-kragh-andersen
+1582,Sindre Lunke,Riwal Readynez Cycling Team,1993-04-17,Norway,0.0,0.0,sindre-skjoestad-lunke
+1583,Sam Oomen,Team Sunweb,1995-08-15,Netherlands,0.0,0.0,sam-oomen
+1584,Matvey Mamykin,China Continental Team of Gansu Bank,1994-10-31,Russia,1.79,62.0,matvey-mamykin
+1585,Zhi Hui Jiang,Mitchelton - BikeExchange,1994-03-03,China,0.0,0.0,zhi-hui-jiang
+1586,Primož Roglič,Team Jumbo-Visma,1989-10-29,Slovenia,1.77,65.0,primoz-roglic
+1587,Alexey Vermeulen,noteam,1994-12-16,United States,1.78,62.0,alexey-vermeulen
+1588,Owain Doull,Team INEOS,1993-05-02,Great Britain,1.81,71.0,owain-doull
+1589,Gianni Moscon,Team INEOS,1994-04-20,Italy,1.82,70.0,gianni-moscon
+1590,Davide Ballerini,Astana Pro Team,1994-09-21,Italy,1.83,78.0,davide-ballerini
+1591,Erik Baška,BORA - hansgrohe,1994-01-12,Slovakia,1.82,74.0,erik-baska
+1592,Lorenzo Fortunato,Neri Sottoli - Selle Italia - KTM,1996-05-09,Italy,1.7,60.0,lorenzo-fortunato
+1593,Andrea Montagnoli,noteam,1995-07-27,Italy,0.0,0.0,andrea-montagnoli
+1594,Piet Allegaert,Sport Vlaanderen - Baloise,1995-01-20,Belgium,1.81,70.0,piet-allegaert
+1595,Jacopo Mosca,Trek - Segafredo,1993-08-29,Italy,0.0,0.0,jacopo-mosca
+1596,Jose Luis Rodriguez,noteam,1994-06-01,Chile,0.0,0.0,jose-luis-rodriguez
+1597,Egan Bernal,Team INEOS,1997-01-13,Colombia,1.74,60.0,egan-bernal
+1598,Raffaello Bonusi,noteam,1992-01-31,Italy,0.0,0.0,raffaello-bonusi
+1599,Mattia De Marchi,noteam,1991-06-03,Italy,1.74,63.0,mattia-de-marchi
+1600,Rino Gasparrini,noteam,1992-04-08,Italy,0.0,0.0,rino-gasparrini
+1601,Giulio Ciccone,Trek - Segafredo,1994-12-20,Italy,1.76,58.0,giulio-ciccone
+1602,Mirco Maestri,Bardiani - CSF,1991-10-26,Italy,0.0,0.0,mirco-maestri
+1603,Lorenzo Rota,Bardiani - CSF,1995-05-23,Italy,1.72,59.0,lorenzo-rota
+1604,Simone Velasco,Neri Sottoli - Selle Italia - KTM,1995-12-02,Italy,0.0,0.0,simone-velasco
+1605,Silvio Herklotz,noteam,1994-05-06,Germany,1.9,68.0,silvio-herklotz
+1606,Iker Azkarate,noteam,1994-04-20,Spain,0.0,0.0,iker-azkarate
+1607,Alberto Gallego,noteam,1990-11-25,Spain,0.0,0.0,alberto-gallego
+1608,Domingos Gonçalves,Caja Rural - Seguros RGA,1989-02-13,Portugal,1.84,70.0,domingos-goncalves
+1609,Jon Irisarri,Caja Rural - Seguros RGA,1995-11-09,Spain,1.75,66.0,jon-irisarri
+1610,Jonathan Lastra,Caja Rural - Seguros RGA,1993-06-03,Spain,1.72,64.0,jonathan-lastra
+1611,Josu Zabala,UD Oliveirense/InOutbuild,1993-04-11,Spain,1.7,61.0,josu-zabala
+1612,Alan Banaszek,Caja Rural - Seguros RGA,1997-10-30,Poland,1.77,69.0,alan-banaszek
+1613,Víctor de la Parte,CCC Team,1986-06-22,Spain,1.81,64.0,victor-de-la-parte
+1614,Dorian Godon,AG2R La Mondiale,1996-05-25,France,1.89,73.0,dorian-godon
+1615,Mathias Le Turnier,"Cofidis, Solutions Crédits",1995-03-14,France,1.8,65.0,mathias-le-turnier
+1616,Anthony Perez,"Cofidis, Solutions Crédits",1991-04-22,France,1.9,70.0,anthony-perez
+1617,Mikel Aristi,Euskadi Basque Country - Murias,1993-05-28,Spain,1.8,72.0,mikel-aristi
+1618,Romain Combaud,Delko Marseille Provence,1991-04-01,France,1.75,64.0,romain-combaud
+1619,Lucas De Rossi,Delko Marseille Provence,1995-08-16,France,0.0,0.0,lucas-de-rossi
+1620,Daniel Diaz,Equipo Continental Municipalidad de Pocito,1989-07-07,Argentina,1.7,61.0,daniel-diaz
+1621,Delio Fernández,Delko Marseille Provence,1986-02-17,Spain,1.78,69.0,delio-fernandez
+1622,Fredrik Strand Galta,noteam,1992-10-19,Norway,1.92,78.0,fredrik-strand-galta
+1623,Benjamin Giraud,noteam,1986-01-23,France,1.76,71.0,benjamin-giraud
+1624,Asbjørn Kragh Andersen,Team Sunweb,1992-04-09,Denmark,1.82,72.0,asbjorn-kragh-andersen
+1625,Martin Laas,Team Illuminate,1993-09-15,Estonia,1.76,72.0,martin-laas
+1626,Sofiane Mérignat,noteam,1997-04-29,France,0.0,0.0,sofiane-merignat
+1627,Quentin Pacher,Vital Concept - B&B Hotels,1992-01-06,France,1.79,63.0,quentin-pacher
+1628,Thomas Vaubourzeix,Natura4Ever - Roubaix Lille Métropole,1989-06-16,France,1.78,70.0,thomas-vaubourzeix
+1629,Lilian Calmejane,Team Total Direct Energie,1992-12-06,France,1.84,69.0,lilian-calmejane
+1630,Marlon Gaillard,noteam,1996-05-09,France,0.0,0.0,marlon-gaillard
+1631,Fabien Grellier,Team Total Direct Energie,1994-10-31,France,1.8,64.0,fabien-grellier
+1632,Paul Ourselin,Team Total Direct Energie,1994-04-13,France,1.85,70.0,paul-ourselin
+1633,Jason Lowndes,noteam,1994-12-14,Australia,1.94,82.0,jason-lowndes
+1634,Camille Guerin,noteam,1994-10-02,France,1.78,63.0,camille-guerin
+1635,Julien Loubet,noteam,1985-01-11,France,1.8,66.0,julien-loubet
+1636,Justin Mottier,Vital Concept - B&B Hotels,1993-09-14,France,1.8,68.0,justin-mottier
+1637,Steven Tronet,noteam,1986-10-14,France,1.75,67.0,steven-tronet
+1638,Murilo Affonso,noteam,1991-06-19,Brazil,1.75,63.0,murilo-ferraz-affonso
+1639,Otavio Bulgarelli,noteam,1984-10-15,Brazil,1.8,69.0,otavio-didier-bulgarelli
+1640,Francisco Chamorro,noteam,1981-08-07,Argentina,0.0,0.0,francisco-chamorro
+1641,André de Souza Almeida,noteam,1992-12-16,Brazil,0.0,0.0,andre-de-souza-almeida
+1642,Alex Diniz,noteam,1985-10-20,Brazil,0.0,0.0,alex-diniz
+1643,João Gaspar,noteam,1992-02-19,Brazil,0.0,0.0,joo-gaspar
+1644,Gabriel Machado Silva,noteam,1997-05-06,Brazil,1.68,63.0,gabriel-machado-silva
+1645,Nathan Mahler,noteam,1996-01-17,Brazil,1.75,63.0,nathan-mahler
+1646,Carlos Manarelli,noteam,1989-02-13,Brazil,0.0,0.0,alexandre-carlos-manarelli
+1647,Luis Mendonça,Radio Popular Boavista,1986-01-16,Portugal,0.0,0.0,luis-mendonca
+1648,Magno Nazaret,Sindicato Empleados Públicos of San Juan,1986-01-17,Brazil,1.72,65.0,magno-prado
+1649,Pedro Nicácio,noteam,1981-10-13,Brazil,1.88,72.0,pedro-autran-dourado-dutra-nicacio
+1650,Rodrigo Quirino,noteam,1996-04-12,Brazil,0.0,0.0,rodrigo-quirino
+1651,Kléber Ramos,noteam,1985-08-24,Brazil,1.67,65.0,kleber-ramos
+1652,Wilson Ramiro Rincon Diaz,noteam,1987-03-17,Colombia,1.77,61.0,wilson-ramiro-rincon
+1653,Flavio Cardoso Santos,noteam,1980-10-12,Brazil,0.0,0.0,flavio-cardoso
+1654,Roberto Pinheiro Silva,noteam,1983-01-09,Brazil,0.0,0.0,roberto-pinheiro-silva
+1655,Aleksey Rybalkin,Gazprom-RusVelo,1993-11-16,Russia,0.0,0.0,aleksey-rybalkin
+1656,Evgeny Shalunov,Gazprom-RusVelo,1992-01-08,Russia,1.8,70.0,evgeny-shalunov
+1657,Kirill Sveshnikov,Lokosphinx,1992-02-10,Russia,1.82,0.0,kirill-sveshnikov
+1658,Aydar Zakarin,noteam,1994-04-19,Russia,1.87,65.0,aydar-zakarin
+1659,Nicola Bagioli,Nippo Vini Fantini Faizanè,1995-02-19,Italy,0.0,0.0,nicola-bagioli
+1660,David Gaona,noteam,1997-03-02,Mexico,0.0,0.0,david-gaona
+1661,Marino Kobayashi,Giotti Victoria - Palomar,1994-07-01,Japan,0.0,0.0,marino-kobayashi
+1662,Yuma Koishi,Team UKYO,1993-09-15,Japan,1.75,62.0,yuma-koishi
+1663,Kazushige Kuboki,Team Bridgestone Cycling,1989-06-06,Japan,1.73,68.0,kazushige-kuboki
+1664,Yanto Barker,noteam,1980-01-06,Great Britain,1.82,0.0,yanto-barker
+1665,Tom Baylis,noteam,1996-01-03,Great Britain,0.0,0.0,tom-baylis
+1666,Marcin Białobłocki,noteam,1983-09-02,Poland,1.97,79.0,marcin-bialoblocki
+1667,Richard Handley,Madison Genesis ,1990-09-01,Great Britain,0.0,0.0,richard-handley
+1668,George Harper,noteam,1992-07-10,Great Britain,0.0,0.0,george-harper
+1669,Kristian House,noteam,1979-10-06,Great Britain,0.0,0.0,kristian-house
+1670,Joshua Hunt,noteam,1991-04-03,Great Britain,0.0,0.0,joshua-hunt
+1671,Hayden Mccormick,Team BridgeLane,1994-01-01,New Zealand,1.82,72.5,hayden-mccormick
+1672,Chris Opie,noteam,1987-07-22,Great Britain,0.0,0.0,chris-opie
+1673,James Oram,Mitchelton - BikeExchange,1993-06-17,New Zealand,0.0,0.0,james-oram
+1674,Samuel Williams,noteam,1994-03-18,Great Britain,0.0,0.0,sam-williams
+1675,Peter Williams,SwiftCarbon Pro Cycling,1986-12-13,Great Britain,0.0,0.0,peter-williams-1
+1676,Moritz Backofen,noteam,1995-03-21,Germany,1.76,62.0,moritz-backofen
+1677,Lennard Kämna,Team Sunweb,1996-09-09,Germany,1.81,65.0,lennard-kamna
+1678,Alexander Kamp,Riwal Readynez Cycling Team,1993-12-14,Denmark,0.0,0.0,alexander-kamp
+1679,Thomas Koep,noteam,1990-09-15,Germany,1.89,78.0,thomas-koep
+1680,Sven Reutter,noteam,1996-08-13,Germany,1.8,72.0,sven-reutter
+1681,Jonas Tenbrock,noteam,1995-12-16,Germany,1.92,74.0,jonas-tenbrock
+1682,Alexander Weifenbach,noteam,1990-12-02,Germany,0.0,0.0,alexander-weifenbach
+1683,Willi Willwohl,noteam,1994-08-31,Germany,1.8,67.0,willi-willwohl
+1684,Mehdi Benhamouda,Team Novo Nordisk,1995-01-02,France,1.73,0.0,mehdi-benhamouda
+1685,Quentin Valognes,noteam,1996-06-19,France,1.75,0.0,quentin-valognes
+1686,Rik van IJzendoorn,noteam,1987-08-22,Netherlands,1.76,0.0,rik-van-ijzendoorn
+1687,Valentin Baillifard,noteam,1993-12-25,Switzerland,1.69,54.0,valentin-baillifard
+1688,Nicolas Baldo,St Michel - Auber93,1984-06-10,France,0.0,0.0,nicolas-baldo
+1689,David Belda,noteam,1983-03-18,Spain,1.63,53.0,david-belda
+1690,Nico Brüngger,noteam,1988-11-02,Switzerland,1.76,62.0,nico-brungger
+1691,Alberto Cecchin,noteam,1989-08-08,Italy,0.0,0.0,alberto-cecchin
+1692,Marco D'Urbano,noteam,1991-08-15,Italy,0.0,0.0,marco-d-urbano
+1693,Lucas Manuel Gaday,noteam,1993-02-20,Argentina,0.0,0.0,lucas-manuel-gaday
+1694,Lukas Jaun,noteam,1991-07-29,Switzerland,1.8,66.0,lukas-jaun
+1695,Tristan Marguet,noteam,1987-08-22,Switzerland,0.0,0.0,tristan-marguet
+1696,Dylan Page,IAM Excelsior,1993-11-05,Switzerland,1.75,64.0,dylan-page
+1697,Frank Pasche,noteam,1993-03-19,Switzerland,0.0,0.0,frank-pache
+1698,Colin Stüssi,Team Vorarlberg Santic,1993-06-04,Switzerland,1.87,68.0,colin-stussi
+1699,Roland Thalmann,Team Vorarlberg Santic,1993-08-05,Switzerland,1.78,62.0,roland-thalmann
+1700,Nicola Toffali,Sporting Clube de Portugal/Tavira,1992-10-20,Italy,1.86,75.0,nicola-toffali
+1701,Giacomo Tomio,noteam,1995-07-06,Italy,0.0,0.0,giacomo-tomio
+1702,Rino Zampilli,noteam,1984-03-07,Italy,0.0,0.0,rino-zampilli
+1703,Aimé De Gendt,Wanty - Gobert Cycling Team,1994-06-17,Belgium,1.82,75.0,aime-de-gendt
+1704,Maxime Farazijn,noteam,1994-06-02,Belgium,1.83,73.5,maxime-farazijn
+1705,Ruben Pols,noteam,1994-11-03,Belgium,1.78,0.0,ruben-pols
+1706,Daniel Eaton,noteam,1993-07-04,United States,0.0,0.0,daniel-eaton
+1707,Daniel Jaramillo,noteam,1991-01-15,Colombia,1.75,63.0,daniel-alexander-jaramillo-diez
+1708,Ty Magner,Rally UHC Cycling,1991-05-03,United States,0.0,0.0,ty-magner
+1709,Stanislaw Aniolkowski,CCC Development Team,1997-01-20,Poland,1.81,68.0,stanisaw-aniolkowski
+1710,Adrian Banaszek,Voster ATS Team,1993-10-21,Poland,1.85,79.0,adrian-banaszek
+1711,Norbert Banaszek,Team Hurom,1997-06-18,Poland,0.0,0.0,norbert-banaszek
+1712,Paweł Bernas,CCC Team,1990-05-24,Poland,1.9,77.0,pawel-bernas
+1713,Łukasz Bodnar,noteam,1982-05-10,Poland,1.76,68.0,lukasz-bodnar
+1714,Paweł Cieślik,Wibatech Merx 7R,1986-04-12,Poland,1.76,63.0,pawel-cieslik
+1715,Paweł Franczak,Voster ATS Team,1991-10-07,Poland,1.78,63.0,pawel-franczak
+1716,Kamil Gradek,CCC Team,1990-09-17,Poland,1.94,80.0,kamil-gradek
+1717,Jonas Koch,CCC Team,1993-06-25,Germany,1.87,75.0,jonas-koch
+1718,Michał Podlaski,Wibatech Merx 7R,1988-05-13,Poland,1.78,68.0,michal-podlaski
+1719,Jiří Polnický,noteam,1989-12-16,Czech Republic,1.83,68.0,jiri-polnicky
+1720,Adam Stachowiak,Voster ATS Team,1989-07-10,Poland,1.76,64.0,adam-stachowiak
+1721,Daniel Staniszewski,noteam,1997-05-05,Poland,0.0,0.0,daniel-staniszewski
+1722,Jenthe Biermans,Team Katusha Alpecin,1995-10-30,Belgium,1.84,78.0,jenthe-biermans
+1723,Dimitri Claeys,"Cofidis, Solutions Crédits",1987-06-18,Belgium,1.89,77.0,dimitri-claeys
+1724,Antoine Demoitie,noteam,1990-10-16,Belgium,0.0,0.0,antoine-demoitie
+1725,Mark McNally,noteam,1989-07-20,Great Britain,1.86,72.0,mark-mcnally
+1726,Miles Scotson,Groupama - FDJ,1994-01-18,Australia,1.89,74.0,miles-scotson
+1727,Johnatan Cañaveral,Coldeportes Bicicletas Strongman,1996-11-02,Colombia,0.0,0.0,johnatan-canaveral
+1728,Matteo Draperi,noteam,1991-01-17,Italy,0.0,0.0,matteo-draperi
+1729,Gilbert Ducournau,noteam,1992-09-25,Venezuela,0.0,0.0,gilbert-ducornau
+1730,Xuban Errazkin,Vito-Feirense-Pnb,1996-08-25,Spain,0.0,0.0,xuban-errazkin-perez
+1731,Cristian Raileanu,Team Sapura Cycling,1993-01-24,Moldova,1.76,63.0,cristian-raileanu
+1732,Mirko Trosino,noteam,1992-10-19,Italy,0.0,0.0,mirko-trosino
+1733,Rudy Barbier,Israel Cycling Academy,1992-12-18,France,1.79,0.0,rudy-barbier
+1734,Aurélien Doleatto,Team Arkéa Samsic,1997-03-20,France,1.8,61.0,aurelien-doleatto
+1735,Julien Duval,AG2R La Mondiale,1990-05-27,France,1.79,68.0,julien-duval
+1736,Kevin Geniets,Groupama - FDJ,1997-01-09,Luxembourg,1.93,70.0,kevin-geniets
+1737,Nans Peters,AG2R La Mondiale,1994-03-12,France,1.77,72.0,nans-peters
+1738,Clément Russo,Team Arkéa Samsic,1995-01-20,France,1.86,73.0,clement-russo
+1739,Yevgeniy Gidich,Astana Pro Team,1996-05-19,Kazakhstan,1.79,69.0,yevgeniy-gidich
+1740,Truls Engen Korsæth,noteam,1993-09-16,Norway,1.86,84.0,truls-korsaeth
+1741,Karl Patrick Lauk,Equipe continentale Groupama-FDJ,1997-01-09,Estonia,1.73,69.0,karl-patrick-lauk
+1742,Riccardo Minali,Israel Cycling Academy,1995-04-19,Italy,1.8,74.0,riccardo-minali
+1743,Nikita Stalnov,Astana Pro Team,1991-09-14,Kazakhstan,1.77,63.0,nikita-stalnov
+1744,Ondřej Cink,noteam,1990-12-07,Czech Republic,1.8,66.0,ondrej-cink
+1745,Andrea Garosio,Bahrain Merida,1993-12-06,Italy,1.75,58.0,andrea-garosio
+1746,Jon Ander Insausti,noteam,1992-12-13,Spain,1.87,89.0,jon-ander-insausti
+1747,Domen Novak,Bahrain Merida,1995-07-12,Slovenia,1.81,70.0,domen-novak
+1748,Mark Padun,Bahrain Merida,1996-07-06,Ukraine,1.82,64.0,mark-padun
+1749,David Per,Adria Mobil,1995-02-13,Slovenia,1.92,81.0,david-per
+1750,Andrea Toniatti,Team Colpack,1992-08-13,Italy,0.0,0.0,andrea-toniatti
+1751,Meiyin Wang,Bahrain Merida,1988-12-26,China,1.82,70.0,meiyin-wang
+1752,Patrick Müller,noteam,1996-04-18,Switzerland,1.92,74.0,patrick-muller
+1753,Nathan Van Hooydonck,CCC Team,1995-10-12,Belgium,1.93,78.0,nathan-van-hooydonck
+1754,Bram Welten,Team Arkéa Samsic,1997-03-29,Netherlands,1.88,81.0,bram-welten
+1755,Pascal Ackermann,BORA - hansgrohe,1994-01-17,Germany,1.8,78.0,pascal-ackermann
+1756,Cyrus Monk,EvoPro Racing,1996-11-07,Australia,0.0,0.0,cyrus-monk
+1757,Bruno Armirail,Groupama - FDJ,1994-04-11,France,1.9,69.0,bruno-armirail
+1758,Romain Seigle,Groupama - FDJ,1994-10-11,France,0.0,0.0,romain-seigle
+1759,Senne Leysen,Roompot - Charles,1996-03-18,Belgium,1.9,75.0,senne-leysen
+1760,Rémy Mertz,Lotto Soudal,1995-07-17,Belgium,1.75,70.0,remy-mertz
+1761,Emiel Planckaert,Sport Vlaanderen - Baloise,1996-10-22,Belgium,0.0,0.0,emiel-planckaert
+1762,Mathias Van Gompel,Sport Vlaanderen - Baloise,1995-09-24,Belgium,1.8,70.0,mathias-van-gompel
+1763,Enzo Wouters,Lotto Soudal,1996-03-21,Belgium,1.83,0.0,enzo-wouters
+1764,Rémi Cavagna,Deceuninck - Quick Step,1995-08-10,France,1.86,78.0,remi-cavagna
+1765,Álvaro José Hodeg,Deceuninck - Quick Step,1996-09-16,Colombia,1.86,76.0,alvaro-jose-hodeg
+1766,Przemysław Kasperkiewicz,Delko Marseille Provence,1994-03-01,Poland,1.82,71.0,przemyslaw-kasperkiewicz
+1767,Enric Mas,Deceuninck - Quick Step,1995-01-07,Spain,1.77,61.0,enric-mas
+1768,Maximilian Schachmann,BORA - hansgrohe,1994-01-09,Germany,1.83,70.0,maximilian-schachmann
+1769,Nic Dlamini,Team Dimension Data,1995-08-12,South Africa,1.77,66.0,nickolas-dlamini
+1770,Ben O'Connor,Team Dimension Data,1995-11-25,Australia,1.88,66.0,ben-o-connor
+1771,Piotr Havik,BEAT Cycling Club ,1994-07-07,Netherlands,1.85,73.0,piotr-havik
+1772,Marco Mathis,"Cofidis, Solutions Crédits",1994-04-07,Germany,1.86,0.0,marco-mathis
+1773,Mads Würtz Schmidt,Team Katusha Alpecin,1994-03-31,Denmark,1.76,62.0,mads-wurtz-schmidt
+1774,Amund Grøndahl Jansen,Team Jumbo-Visma,1994-02-11,Norway,1.87,83.0,amund-grondahl-jansen
+1775,Adriaan Janssen,Monkey Town - à Bloc CT,1995-12-12,Netherlands,1.95,76.0,adriaan-janssen
+1776,Chris Hamilton,Team Sunweb,1995-05-18,Australia,1.78,0.0,chris-hamilton
+1777,Lennard Hofstede,Team Jumbo-Visma,1994-12-29,Netherlands,0.0,0.0,lennard-hofstede
+1778,Leon Rohde,Heizomat Rad-Net,1995-05-10,Germany,1.87,72.0,leon-rohde
+1779,Nicola Conci,Trek - Segafredo,1997-01-05,Italy,0.0,0.0,nicola-conci
+1780,Gregory Daniel,DCBank Pro Cycling Team,1994-11-08,United States,1.78,64.0,gregory-daniel
+1781,Ruben Guerreiro,Team Katusha Alpecin,1994-07-06,Portugal,1.78,67.0,ruben-guerreiro
+1782,Matteo Moschetti,Trek - Segafredo,1996-08-14,Italy,0.0,0.0,matteo-moschetti
+1783,Ayden Toovey,Team BridgeLane,1995-11-08,Australia,0.0,0.0,ayden-toovey
+1784,Anass Aït El Abdia,VIB Sports,1993-03-21,Morocco,1.8,66.0,anass-ait-el-abdia
+1785,Simone Consonni,UAE-Team Emirates,1994-09-12,Italy,1.65,60.0,simone-consonni
+1786,Seid Lizde,EvoPro Racing,1995-07-08,Bosnia and Herzegovina,1.83,70.0,seid-lizde
+1787,Yousif Mirza,UAE-Team Emirates,1988-10-08,United Arab Emirates,1.76,73.0,yousef-mohamed-mirza
+1788,Alexandr Riabushenko,UAE-Team Emirates,1995-10-12,Belarus,1.78,61.0,alexandr-riabushenko
+1789,Francesco Romano,Bardiani - CSF,1997-07-09,Italy,0.0,0.0,francesco-romano
+1790,Mattia Frapporti,Androni Giocattoli - Sidermec,1994-07-02,Italy,1.82,74.0,mattia-frapporti
+1791,Matteo Malucelli,Caja Rural - Seguros RGA,1993-10-20,Italy,1.71,68.0,matteo-malucelli
+1792,Kevin Rivera,Androni Giocattoli - Sidermec,1998-06-28,Costa Rica,1.65,56.0,kevin-rivera
+1793,Iván Ramiro Sosa,Team INEOS,1997-10-31,Colombia,1.68,58.0,ivan-ramiro-sosa
+1794,Matteo Spreafico,Androni Giocattoli - Sidermec,1993-02-15,Italy,1.82,69.0,matteo-spreafico
+1795,Andrea Vendrame,Androni Giocattoli - Sidermec,1994-07-20,Italy,1.68,60.0,andrea-vendrame
+1796,Mark Christian,Team Wiggins Le Col,1990-11-20,Great Britain,1.85,72.0,mark-christian
+1797,Conor Dunne,Israel Cycling Academy,1992-01-22,Ireland,2.04,88.0,conor-dunne
+1798,Aaron Gate,EvoPro Racing,1990-11-26,New Zealand,1.8,71.0,aaron-gate
+1799,Daniel Pearson,Canyon dhb p/b Bloor Homes ,1994-02-26,Great Britain,1.65,53.0,daniel-pearson
+1800,Vincenzo Albanese,Bardiani - CSF,1996-11-12,Italy,1.75,70.0,vincenzo-albanese
+1801,Michael Bresciani,Bardiani - CSF,1994-12-20,Italy,0.0,0.0,michael-bresciani
+1802,Marco Maronese,Bardiani - CSF,1994-12-25,Italy,0.0,0.0,marco-maronese
+1803,Umberto Orsini,Bardiani - CSF,1994-12-06,Italy,0.0,0.0,umberto-orsini
+1804,Nicolò Pacinotti,noteam,1995-02-05,Italy,0.0,0.0,nicolo-pacinotti
+1805,Alex Aranburu,Caja Rural - Seguros RGA,1995-09-19,Spain,1.78,63.0,alex-aranburu
+1806,Danilo Celano,Amore & Vita - Prodir,1989-12-07,Italy,0.0,0.0,danilo-celano
+1807,Justin Oien,Arapahoe - Hincapie p/b BMC,1995-05-05,United States,1.79,68.0,justin-oien
+1808,Óscar Pelegrí,Vito-Feirense-Pnb,1994-05-30,Spain,1.75,62.0,oscar-pelegri
+1809,Rafael Reis,W52 / FC Porto ,1992-07-15,Portugal,1.9,72.0,rafael-reis
+1810,Gonzalo Serrano,Caja Rural - Seguros RGA,1994-08-17,Spain,0.0,0.0,gonzalo-serrano
+1811,Manuel Sola,noteam,1992-04-18,Spain,0.0,0.0,manuel-sola
+1812,Michal Schlegel,Elkov - Author Cycling Team,1995-05-31,Czech Republic,1.84,72.0,michal-schlegel
+1813,Jan Tratnik,Bahrain Merida,1990-02-23,Slovenia,1.73,67.0,jan-tratnik
+1814,Fernando Barceló,Euskadi Basque Country - Murias,1996-01-06,Spain,1.73,62.0,fernando-barcelo
+1815,Victor Lafay,"Cofidis, Solutions Crédits",1996-01-17,France,1.77,65.0,victor-lafay
+1816,Tanguy Turgis,noteam,1998-05-16,France,1.71,61.0,tanguy-turgis
+1817,Jonathan Couanon,noteam,1997-04-08,France,0.0,0.0,jonathan-couanon
+1818,Benjamin Dyball,Team Sapura Cycling,1989-04-20,Australia,1.83,63.0,benjamin-dyball
+1819,Emīls Liepiņš,Wallonie-Bruxelles,1992-10-29,Latvia,1.75,67.0,emils-liepins
+1820,Jhon Anderson Rodríguez,EPM,1996-10-12,Colombia,1.72,62.0,john-anderson-rodriguez
+1821,Mathieu Burgaudeau,Team Total Direct Energie,1998-11-17,France,1.65,62.0,mathieu-burgaudeau
+1822,Florian Maitre,noteam,1996-09-03,France,0.0,0.0,florian-maitre
+1823,Clément Orceau,Team Total Direct Energie,1995-07-01,France,0.0,0.0,clement-orceau
+1824,Thibault Guernalec,Team Arkéa Samsic,1997-07-31,France,1.85,71.0,thibault-guernalec
+1825,Kenny Molly,Wallonie-Bruxelles,1996-12-24,Belgium,1.71,63.0,kenny-molly
+1826,Alan Riou,Team Arkéa Samsic,1997-04-02,France,1.76,68.0,alan-riou
+1827,Nikolay Cherkasov,Gazprom-RusVelo,1996-09-26,Russia,0.0,0.0,nikolay-cherkasov
+1828,Evgeny Kobernyak,Gazprom-RusVelo,1995-01-24,Russia,1.7,59.0,evgeny-kobernyak
+1829,Stepan Kurianov,Gazprom-RusVelo,1996-12-07,Russia,0.0,0.0,stepan-kurianov
+1830,José Manuel Díaz,Team Vorarlberg Santic,1995-01-18,Spain,1.77,62.0,jose-manuel-diaz-gallego
+1831,Itamar Einhorn,Israel Cycling Academy,1997-09-20,Israel,0.0,0.0,itamar-einhorn
+1832,Roy Goldstein,Israel Cycling Academy,1993-05-20,Israel,1.74,63.0,roy-goldstein
+1833,Luis Lemus,noteam,1992-04-21,Mexico,1.73,61.0,luis-lemus
+1834,Krists Neilands,Israel Cycling Academy,1994-08-18,Latvia,1.89,69.0,krists-neilands
+1835,Guy Niv,Israel Cycling Academy,1994-03-08,Israel,1.68,58.0,guy-niv
+1836,Ben Perry,Israel Cycling Academy,1994-03-07,Canada,1.8,70.0,ben-perry
+1837,Mihkel Räim,Israel Cycling Academy,1993-07-03,Estonia,1.76,69.0,mihkel-raim
+1838,Guy Sagiv,Israel Cycling Academy,1994-12-05,Israel,1.79,68.0,guy-sagiv
+1839,Nícolas Sessler,Burgos-BH,1994-04-29,Brazil,0.0,0.0,nicolas-sessler
+1840,Daniel Turek,Israel Cycling Academy,1993-01-19,Czech Republic,1.83,72.0,daniel-turek
+1841,Tyler Williams,noteam,1994-11-17,United States,1.8,73.0,tyler-williams
+1842,Aviv Yechezkel,noteam,1994-04-21,Israel,1.75,70.0,aviv-yechezkel
+1843,Hernán Ricardo Aguirre,Interpro Cycling Academy,1995-12-13,Colombia,1.71,55.0,hernan-aguirre
+1844,Juan José Amador,noteam,1998-04-20,Colombia,1.79,63.0,juan-jose-amador-castano
+1845,Hernando Bohórquez,Astana Pro Team,1992-06-22,Colombia,1.78,68.0,hernando-bohorquez
+1846,Luis Carlos Chia,noteam,1997-02-18,Colombia,0.0,0.0,luis-carlos-chia-bermudez
+1847,Jhojan García,Medellin,1998-01-10,Colombia,1.68,55.0,jhojan-garcia
+1848,Sergio Higuita,EF Education First,1997-08-01,Colombia,1.66,57.0,sergio-higuita
+1849,Fernando Orjuela,noteam,1991-11-04,Colombia,1.68,60.0,fernando-orjuela
+1850,Juan Felipe Osorio,UD Oliveirense/InOutbuild,1995-01-30,Colombia,1.8,65.0,juan-felipe-osorio
+1851,Wilmar Paredes,noteam,1996-04-27,Colombia,1.79,66.0,wilmar-paredes
+1852,Aldemar Reyes,GW - Shimano,1995-04-22,Colombia,1.7,55.0,aldemar-reyes
+1853,Ever Alexander Rivera,noteam,1992-12-27,Colombia,0.0,0.0,ever-alexander-rivera
+1854,Cristian Stiven Ruiz Pelaez,Orgullo Paisa,1997-05-17,Colombia,0.0,0.0,cristian-stiven-ruiz-pelaez
+1855,Yecid Sierra,Tianyoude Hotel Cycling Team,1994-08-16,Colombia,1.84,66.0,yecid-sierra
+1856,Bernardo Suaza,noteam,1992-11-28,Colombia,1.74,66.0,bernardo-suaza
+1857,Juan Pablo Villegas,noteam,1987-10-15,Colombia,1.78,73.0,juan-villegas
+1858,Joan Bou,Nippo Vini Fantini Faizanè,1997-01-16,Spain,0.0,0.0,joan-bou
+1859,Damiano Cima,Nippo Vini Fantini Faizanè,1993-09-13,Italy,0.0,0.0,damiano-cima
+1860,Masakazu Ito,Nippo Vini Fantini Faizanè,1988-06-12,Japan,0.0,0.0,masakazu-ito
+1861,Hideto Nakane,Nippo Vini Fantini Faizanè,1990-05-02,Japan,0.0,0.0,hideto-nakane
+1862,Hiroki Nishimura,Nippo Vini Fantini Faizanè,1994-10-20,Japan,0.0,0.0,hiroki-nishimura
+1863,Kohei Uchima,Team UKYO,1988-11-08,Japan,1.7,63.0,kohei-uchima
+1864,Tim Ariesen,Taiyuan Miogee Cycling Team,1994-03-20,Netherlands,1.82,70.0,tim-ariesen
+1865,Martijn Budding,BEAT Cycling Club ,1995-08-31,Netherlands,1.87,73.0,martijn-budding
+1866,Jeroen Meijers,Taiyuan Miogee Cycling Team,1993-01-12,Netherlands,1.81,68.0,jeroen-meijers
+1867,Elmar Reinders,Roompot - Charles,1992-03-14,Netherlands,1.91,78.0,elmar-reinders
+1868,Oscar Riesebeek,Roompot - Charles,1992-12-23,Netherlands,1.91,75.0,oscar-riesebeek
+1869,Taco van der Hoorn,Team Jumbo-Visma,1993-12-04,Netherlands,1.87,75.0,taco-van-der-hoorn
+1870,Lauro Cesar Chaman Mouro,noteam,1987-06-25,Brazil,0.0,0.0,lauro-cesar-chaman
+1871,Andre  Eduardo Gohr,noteam,1996-08-15,Brazil,1.9,73.0,andre-eduardo-gohr
+1872,Breno Morais Santos,noteam,1997-03-16,Brazil,1.76,72.0,breno-morais-santos
+1873,Raphael Pires,noteam,1997-01-16,Brazil,1.78,63.0,raphael-pires
+1874,Victor Ranghetti,noteam,1998-12-28,Brazil,1.74,62.0,victor-ranghetti
+1875,Lincoln Do Vale Silva,noteam,1997-04-11,Brazil,1.68,0.0,lincoln-do-vale
+1876,Daniel Silva,Radio Popular Boavista,1985-06-08,Portugal,1.82,59.0,daniel-silva
+1877,Lindsay De Vylder,Sport Vlaanderen - Baloise,1995-05-30,Belgium,1.83,70.0,lindsay-de-vijlder
+1878,Benjamin Declercq,Sport Vlaanderen - Baloise,1994-02-04,Belgium,1.82,67.0,benjamin-declercq
+1879,Christophe Noppe,Sport Vlaanderen - Baloise,1994-11-29,Belgium,1.76,73.0,christophe-noppe
+1880,Edward Planckaert,Sport Vlaanderen - Baloise,1995-02-01,Belgium,1.75,67.0,edward-planckaert
+1881,Sam Brand,Team Novo Nordisk,1991-02-27,Great Britain,1.83,0.0,sam-brand
+1882,Romain Gioux,noteam,1986-09-06,France,1.6,0.0,romain-gioux
+1883,Reid McClure,noteam,1995-11-10,Canada,0.0,0.0,reid-mcclure
+1884,Umberto Poli,Team Novo Nordisk,1996-08-27,Italy,1.68,0.0,umberto-poli
+1885,Alexander Cataford,Israel Cycling Academy,1993-09-01,Canada,1.82,69.0,alexander-cataford
+1886,Travis McCabe,Floyd's Pro Cycling,1989-05-12,United States,0.0,0.0,travis-mccabe
+1887,Dries De Bondt,Corendon - Circus,1991-07-04,Belgium,1.84,72.0,dries-de-bondt
+1888,Timothy Dupont,Wanty - Gobert Cycling Team,1987-11-01,Belgium,1.79,71.0,timothy-dupont
+1889,Stan Godrie,noteam,1993-01-09,Netherlands,1.78,74.0,stan-godrie
+1890,Jappe Jaspers,noteam,1998-09-01,Belgium,1.74,64.0,jappe-jaspers
+1891,Arjen Livyns,Roompot - Charles,1994-09-01,Belgium,0.0,58.0,arjen-livyns
+1892,Tim Merlier,Corendon - Circus,1992-10-30,Belgium,1.85,74.0,tim-merlier
+1893,Lennert Teugels,Cibel,1993-04-09,Belgium,0.0,0.0,lennert-teugels
+1894,Wout van Aert,Team Jumbo-Visma,1994-09-15,Belgium,1.87,78.0,wout-van-aert
+1895,Elias Van Breussegem,Tarteletto - Isorex,1992-04-10,Belgium,1.79,70.0,elias-van-breussegem
+1896,Stef Van Zummeren,noteam,1991-12-20,Belgium,1.88,73.0,stef-van-zummeren
+1897,Jasper De Laat,noteam,1994-02-17,Netherlands,0.0,0.0,jasper-de-laat
+1898,Brecht Dhaene,noteam,1988-11-21,Belgium,0.0,0.0,brecht-dhaene
+1899,Thomas Gibbons,noteam,1989-12-06,United States,0.0,0.0,thomas-gibbons
+1900,Ludwig De Winter,Wanty - Gobert Cycling Team,1992-12-31,Belgium,1.87,80.0,ludwig-de-winter
+1901,Tom Dernies,Natura4Ever - Roubaix Lille Métropole,1990-11-22,Belgium,1.8,68.0,tom-dernies
+1902,Thomas Deruette,Team Differdange - GeBa,1995-07-06,Belgium,1.82,70.0,thomas-deruette
+1903,Jimmy Duquennoy,noteam,1995-06-09,Belgium,1.79,75.0,jimmy-duquennoy
+1904,Justin Jules,Wallonie-Bruxelles,1986-09-20,France,1.67,64.0,justin-jules
+1905,Christophe Masson,Natura4Ever - Roubaix Lille Métropole,1985-09-06,France,1.81,68.0,christophe-masson
+1906,Julien Mortier,Wallonie-Bruxelles,1997-07-20,Belgium,1.83,66.0,julien-mortier
+1907,Lawrence Naesen,Lotto Soudal,1992-08-28,Belgium,1.9,72.0,lawrence-naesen
+1908,Olivier Pardini,noteam,1985-07-30,Belgium,1.8,68.0,olivier-pardini
+1909,Dimitri Peyskens,Wallonie-Bruxelles,1991-11-26,Belgium,1.82,70.0,dimitri-peyskens
+1910,Ludovic Robeet,Wallonie-Bruxelles,1994-05-22,Belgium,1.94,75.0,ludovic-robeet
+1911,Lukas Spengler,noteam,1994-09-16,Switzerland,1.88,78.0,lukas-spengler
+1912,Julien Stassen,noteam,1988-10-20,Belgium,1.82,66.0,julien-stassen
+1913,Lionel Taminiaux,Wallonie-Bruxelles,1996-05-21,Belgium,1.73,72.0,lionel-taminiaux
+1914,Antoine Warnier,noteam,1993-06-24,Belgium,1.83,71.0,antoine-warnier
+1915,Yuri Colonna,noteam,1996-10-09,Italy,0.0,0.0,yuri-colonna
+1916,Miguel Eduardo Florez,Androni Giocattoli - Sidermec,1996-02-21,Colombia,1.74,57.0,miguel-eduardo-florez
+1917,Mattia Marcelli,noteam,1991-07-30,Italy,0.0,0.0,mattia-marcelli
+1918,Luca Raggio,Neri Sottoli - Selle Italia - KTM,1995-03-26,Italy,0.0,0.0,luca-raggio
+1919,Alex Turrin,noteam,1992-06-03,Italy,0.0,0.0,alex-turrin
+1920,Geoffrey Bouchard,AG2R La Mondiale,1992-04-01,France,1.77,64.0,geoffrey-bouchard
+1921,Clément Champoussin,AG2R La Mondiale,1998-05-29,France,1.8,60.0,clement-champoussin
+1922,Aurélien Paret-Peintre,AG2R La Mondiale,1996-02-27,France,1.84,64.0,aurelien-paret-peintre
+1923,Nicolas Prodhomme,noteam,1997-02-01,France,1.74,63.0,nicolas-prodhomme
+1924,Jonas Gregaard,Astana Pro Team,1996-07-30,Denmark,1.86,66.0,jonas-gregaard
+1925,Hermann Pernsteiner,Bahrain Merida,1990-08-07,Austria,1.68,65.0,hermann-pernsteiner
+1926,Maxim Pirard,noteam,1997-07-31,Belgium,0.0,0.0,maxim-pirard
+1927,Stephen Williams,Bahrain Merida,1996-06-09,Great Britain,1.83,59.0,stephen-williams
+1928,Alexander Evans,SEG Racing Academy,1997-01-28,Australia,1.83,63.0,alexander-evans
+1929,Freddy Ovett,Pro Racing Sunshine Coast,1994-01-16,Australia,0.0,0.0,freddy-ovett
+1930,Johannes Schinnagel,Maloja Pushbikers,1996-05-29,Germany,1.88,68.0,johannes-schinnagel
+1931,Alexys Brunel,Equipe continentale Groupama-FDJ,1998-10-10,France,1.9,80.0,alexys-brunel
+1932,Clément Davy,Equipe continentale Groupama-FDJ,1998-07-17,France,1.84,73.0,clement-davy
+1933,Benjamin Thomas,Groupama - FDJ,1995-09-12,France,1.79,68.0,benjamin-thomas-2
+1934,Stan Dewulf,Lotto Soudal,1997-12-20,Belgium,1.74,75.0,stan-dewulf
+1935,Bjorg Lambrecht,noteam,1997-04-02,Belgium,1.69,56.0,bjorg-lambrecht
+1936,Gerben Thijssen,Lotto Soudal,1998-06-21,Belgium,0.0,0.0,gerben-thijssen-bel
+1937,Brent Van Moer,Lotto Soudal,1998-01-12,Belgium,0.0,0.0,brent-van-moer
+1938,Harm Vanhoucke,Lotto Soudal,1997-06-17,Belgium,0.0,0.0,harm-vanhoucke
+1939,Brayan Chaves,Mitchelton - BikeExchange,1997-05-30,Colombia,0.0,0.0,brayan-chaves
+1940,Lucas Hamilton,Mitchelton-Scott,1996-02-12,Australia,0.0,0.0,lucas-hamilton
+1941,Robert Stannard,Mitchelton-Scott,1998-09-16,Australia,0.0,0.0,robert-stannard
+1942,Xiaolong Sun,noteam,1994-05-18,China,0.0,0.0,xiaolong-sun
+1943,Jorge Arcas,Movistar Team,1992-07-08,Spain,1.87,68.0,jorge-arcas
+1944,Nuno Bico,Burgos-BH,1994-07-03,Portugal,1.81,64.0,nuno-bico
+1945,Richard Carapaz,Movistar Team,1993-05-29,Ecuador,1.7,62.0,richard-carapaz
+1946,Héctor Carretero,Movistar Team,1995-05-28,Spain,1.83,67.0,hector-carretero
+1947,Jaime Castrillo,Movistar Team,1996-03-13,Spain,1.86,65.0,jaime-castrillo
+1948,Antonio Pedrero,Movistar Team,1991-10-23,Spain,1.77,60.0,antonio-pedrero
+1949,Marc Soler,Movistar Team,1993-11-22,Spain,1.86,68.0,marc-soler
+1950,Kasper Asgreen,Deceuninck - Quick Step,1995-02-08,Denmark,1.92,75.0,kasper-asgreen
+1951,Mikkel Frølich Honoré,Deceuninck - Quick Step,1997-01-21,Denmark,1.85,68.0,mikkel-honore
+1952,Fabio Jakobsen,Deceuninck - Quick Step,1996-08-31,Netherlands,1.81,78.0,fabio-jakobsen
+1953,James Knox,Deceuninck - Quick Step,1995-11-04,Great Britain,1.73,58.0,james-knox
+1954,Jhonatan Narváez,Team INEOS,1997-03-04,Ecuador,1.74,0.0,jhonatan-narvaez
+1955,Barnabás Peák,SEG Racing Academy,1998-11-29,Hungary,1.83,74.0,barnabas-peak
+1956,Scott Davies,Team Dimension Data,1995-08-05,Great Britain,1.84,66.0,scott-davies
+1957,Kent Main,ProTouch,1996-01-08,South Africa,0.0,0.0,kent-main
+1958,Matteo Sobrero,Dimension Data for Qhubeka,1997-05-14,Italy,0.0,0.0,matteo-sobrero
+1959,Connor Swift,Team Arkéa Samsic,1995-10-30,Great Britain,0.0,0.0,connor-swift
+1960,Julián Cardona,Androni Giocattoli - Sidermec,1997-01-19,Colombia,0.0,0.0,julian-cardona-tabares
+1961,Kim Magnusson,Riwal Readynez Cycling Team,1992-08-31,Sweden,0.0,0.0,kim-magnusson
+1962,José Carlos Prates Neves Fernandes,Burgos-BH,1995-10-30,Portugal,0.0,0.0,jose-fernandes
+1963,Logan Owen,EF Education First,1995-03-25,United States,1.8,67.0,logan-owen
+1964,Julius van den Berg,EF Education First,1996-10-23,Netherlands,1.89,78.0,julius-van-den-berg
+1965,James Whelan,EF Education First,1996-07-11,Australia,1.86,65.0,james-whelan
+1966,Steff Cras,Team Katusha Alpecin,1996-02-13,Belgium,1.83,64.0,steff-cras
+1967,Matteo Fabbro,Team Katusha Alpecin,1995-04-10,Italy,1.67,52.0,matteo-fabbro
+1968,Kenny Nijssen,noteam,1990-09-06,Netherlands,0.0,0.0,kenny-nijssen
+1969,Willie Smit,Team Katusha Alpecin,1992-12-29,South Africa,1.8,72.0,willie-smit
+1970,Dmitry Strakhov,Team Katusha Alpecin,1995-05-17,Russia,1.85,70.0,dmitry-strakhov
+1971,Pascal Eenkhoorn,Team Jumbo-Visma,1997-02-08,Netherlands,1.85,70.0,pascal-eenkhoorn
+1972,Sepp Kuss,Team Jumbo-Visma,1994-09-13,United States,1.8,64.0,sepp-kuss
+1973,Jan Maas,Leopard Pro Cycling ,1996-02-19,Netherlands,1.88,70.0,jan-maas
+1974,Neilson Powless,Team Jumbo-Visma,1996-09-03,United States,1.83,67.0,neilson-powless
+1975,Mark Donovan,Team Wiggins Le Col,1999-04-03,Great Britain,0.0,0.0,mark-donovan
+1976,Eddie Dunbar,Team INEOS,1996-09-01,Ireland,1.7,57.0,edward-irl-dunbar
+1977,Kristoffer Halvorsen,Team INEOS,1996-04-13,Norway,1.76,0.0,kristoffer-halvorsen
+1978,Ethan Hayter,noteam,1998-09-18,Great Britain,0.0,0.0,ethan-hayter
+1979,Chris Lawless,Team INEOS,1995-11-04,Great Britain,1.81,72.0,christopher-lawless
+1980,Pavel Sivakov,Team INEOS,1997-07-11,Russia,1.88,0.0,pavel-sivakov
+1981,Cees Bol,Team Sunweb,1995-07-27,Netherlands,1.94,0.0,cees-bol
+1982,Nils Eekhoff,Development Team Sunweb,1998-01-23,Netherlands,0.0,0.0,nils-eekhoff
+1983,Jai Hindley,Team Sunweb,1996-05-05,Australia,1.75,0.0,jai-hindley
+1984,Michael Storer,Team Sunweb,1997-02-28,Australia,0.0,0.0,michael-storer
+1985,Niklas Eg,Trek - Segafredo,1995-01-06,Denmark,0.0,0.0,niklas-eg
+1986,Alex Frame,Trek - Segafredo,1993-06-18,New Zealand,0.0,0.0,alex-frame
+1987,Michel Ries,Kometa Cycling Team,1998-03-11,Luxembourg,1.84,67.0,michel-ries
+1988,Andrea Bagioli,Team Colpack,1999-03-23,Italy,0.0,0.0,andrea-bagioli
+1989,Alessandro Covi,Team Colpack,1998-09-28,Italy,0.0,0.0,alessandro-covi
+1990,German Nicolás Tivani,Agrupacion Virgen De Fatima,1995-10-31,Argentina,1.76,67.0,german-nicolas-tivani-perez
+1991,Casper Pedersen,Team Sunweb,1996-03-15,Denmark,1.86,0.0,casper-pedersen
+1992,Giovanni Carboni,Bardiani - CSF,1995-08-31,Italy,1.77,61.0,giovanni-carboni
+1993,Daniel Savini,Bardiani - CSF,1997-09-26,Italy,0.0,0.0,daniel-savini
+1994,Óscar Cabedo,Burgos-BH,1994-11-12,Spain,0.0,0.0,oscar-cabedo
+1995,Jorge Cubero,Burgos-BH,1992-11-06,Spain,0.0,0.0,jorge-cubero
+1996,Jesús Ezquerra,Burgos-BH,1990-11-30,Spain,1.85,67.0,jesus-ezquerra-muela
+1997,Ángel Fuentes,Burgos-BH,1996-11-05,Spain,0.0,0.0,paniego-fuentes
+1998,Adrián González,noteam,1992-09-13,Spain,1.71,63.0,adrian-gonzalez
+1999,Victor Langellotti,Burgos-BH,1995-06-07,Monaco,0.0,0.0,victor-langellotti
+2000,Daniel López,Burgos-BH,1994-01-21,Spain,0.0,0.0,daniel-lopez
+2001,Igor Merino,noteam,1990-10-16,Spain,0.0,0.0,igor-merino
+2002,James Mitri,Burgos-BH,1999-02-28,New Zealand,0.0,0.0,james-mitri
+2003,Gabriel Pons,noteam,1997-09-04,Spain,0.0,0.0,gabriel-pons
+2004,Álvaro Robredo,Burgos-BH,1993-04-03,Spain,0.0,0.0,alvaro-robredo
+2005,Pablo Torres,Interpro Cycling Academy,1987-11-28,Spain,1.74,63.5,pablo-torres
+2006,Álvaro Cuadros,Caja Rural - Seguros RGA,1995-04-12,Spain,1.79,67.0,alvaro-cuadros
+2007,Mauricio Moreira,Caja Rural - Seguros RGA,1995-07-18,Uruguay,1.89,76.0,mauricio-moreira
+2008,Joaquim Silva,W52 / FC Porto ,1992-03-19,Portugal,1.85,67.0,joaquim-silva
+2009,Nelson Andrés Soto,Caja Rural - Seguros RGA,1994-06-19,Colombia,0.0,0.0,nelson-soto
+2010,Yannis Yssaad,noteam,1993-06-25,France,0.0,0.0,yannis-yssaad
+2011,Amaro Antunes,CCC Team,1990-11-27,Portugal,1.73,58.0,amaro-manuel-antunes
+2012,Szymon Sajnok,CCC Team,1997-08-24,Poland,1.84,75.0,szymon-sajnok
+2013,Emmanuel Morin,"Cofidis, Solutions Crédits",1995-03-13,France,1.78,72.0,emmanuel-morin
+2014,Antonio Puppio,Kometa Cycling Team,1999-04-28,Italy,0.0,0.0,antonio-puppio
+2015,Anders Skaarseth,Uno-X Norwegian Development Team,1995-05-07,Norway,0.0,0.0,anders-skaarseth
+2016,Joseph Areruya,Delko Marseille Provence,1996-01-01,Rwanda,1.76,74.0,joseph-areruya
+2017,Alessandro Fedeli,Delko Marseille Provence,1996-03-02,Italy,1.85,64.0,alessandro-fedeli
+2018,Jérémy Leveau,Delko Marseille Provence,1992-04-17,France,0.0,0.0,jeremy-leveau
+2019,Robin Meyer,noteam,1996-03-22,France,0.0,0.0,robin-meyer
+2020,Julien Trarieux,Delko Marseille Provence,1992-08-19,France,0.0,0.0,julien-trarieux
+2021,David Rivière,Vital Concept - B&B Hotels,1995-01-11,France,1.83,63.0,david-riviere
+2022,Aritz Bagües,Euskadi Basque Country - Murias,1989-08-19,Spain,1.77,67.0,aritz-bagues
+2023,Ander Barrenetxea,Euskadi Basque Country - Murias,1992-03-29,Spain,1.86,71.0,ander-barrenetxea
+2024,Cyril Barthe,Euskadi Basque Country - Murias,1996-02-14,France,1.84,69.0,cyril-barthe
+2025,Mikel Bizkarra,Euskadi Basque Country - Murias,1989-08-21,Spain,1.65,53.0,mikel-bizkarra
+2026,Aitor González Prieto,noteam,1990-11-05,Spain,1.8,69.0,aitor-gonzalez-prieto
+2027,Julen Irizar,Euskadi Basque Country - Murias,1995-03-26,Spain,1.78,67.0,julen-irizar
+2028,Mikel Iturria,Euskadi Basque Country - Murias,1992-03-16,Spain,1.85,67.0,mikel-iturria
+2029,Óscar Rodríguez,Euskadi Basque Country - Murias,1995-05-06,Spain,1.79,63.0,oscar-rodriguez
+2030,Sergio Rodríguez,Euskadi Basque Country - Murias,1992-02-22,Spain,1.8,70.0,sergio-rodriguez
+2031,Sergio Samitier,Euskadi Basque Country - Murias,1995-08-31,Spain,1.81,63.0,sergio-samitier
+2032,Beñat Txoperena,noteam,1991-12-08,Spain,1.8,67.0,benat-txoperena
+2033,Gotzon Udondo,Euskadi Basque Country - Murias,1993-12-01,Spain,1.79,69.0,gotzon-udondo
+2034,Vladislav Kulikov,Gazprom-RusVelo,1996-07-08,Russia,0.0,0.0,vladislav-kulikov
+2035,Alexandr Kulikovskiy,Gazprom-RusVelo,1997-01-02,Russia,0.0,0.0,alexandr-kulikovskiy
+2036,Denis Nekrasov,Gazprom-RusVelo,1997-02-19,Russia,0.0,0.0,denis-nekrasov
+2037,Sergey Shilov,Gazprom-RusVelo,1988-02-06,Russia,0.0,0.0,sergey-shilov
+2038,Aleksandr Vlasov,Gazprom-RusVelo,1996-04-23,Russia,1.86,68.0,aleksandr-vlasov
+2039,João Almeida,Hagens Berman Axeon,1998-08-05,Portugal,1.78,0.0,joao-almeida
+2040,Edward Anderson,Hagens Berman Axeon,1998-04-18,United States,1.88,0.0,edward-anderson
+2041,Will Barta,CCC Team,1996-01-04,United States,1.75,61.0,william-barta
+2042,Sean Bennett,EF Education First,1996-03-31,United States,1.78,66.0,sean-bennett
+2043,Mikkel Bjerg,Hagens Berman Axeon,1998-11-03,Denmark,1.91,0.0,mikkel-bjerg
+2044,Christopher Blevins,noteam,1998-03-14,United States,0.0,0.0,christopher-blevins
+2045,Jonny Brown,Hagens Berman Axeon,1997-04-20,United States,1.78,0.0,jonathan-brown
+2046,Cole Davis,Hagens Berman Axeon,1999-06-11,United States,1.78,0.0,cole-davis
+2047,Ian Garrison,Hagens Berman Axeon,1998-04-14,United States,1.93,0.0,ian-garrison
+2048,Zeke Mostov,Hagens Berman Axeon,1996-07-30,United States,1.75,0.0,zeke-mostov
+2049,Ivo Oliveira,UAE-Team Emirates,1996-09-05,Portugal,1.85,68.0,ivo-emanuel-alves
+2050,Rui Oliveira,UAE-Team Emirates,1996-09-05,Portugal,1.83,66.0,rui-oliveira
+2051,Jasper Philipsen,UAE-Team Emirates,1998-03-02,Belgium,1.76,69.0,jasper-philipsen
+2052,Thomas Revard,Hagens Berman Axeon,1997-10-20,United States,1.9,0.0,thomas-revard
+2053,Michael Rice,Hagens Berman Axeon,1996-01-25,Australia,1.78,0.0,michael-rice
+2054,Maikel Zijlaard,Hagens Berman Axeon,1999-06-01,Netherlands,1.84,0.0,maikel-zijlaard
+2055,Miguel Bryon,Arapahoe - Hincapie p/b BMC,1995-01-10,United States,0.0,0.0,miguel-bryon
+2056,Nicolai Brøchner,Riwal Readynez Cycling Team,1993-07-04,Denmark,0.0,0.0,nicolai-brochner
+2057,Evan Bybee,noteam,1989-03-13,United States,0.0,0.0,evan-bybee
+2058,Rubén Companioni,noteam,1990-05-18,Cuba,0.0,0.0,ruben-companioni
+2059,Andrew Dahlheim,Arapahoe - Hincapie p/b BMC,1988-06-09,United States,0.0,0.0,andrew-dahlheim
+2060,Andžs Flaksis,Arapahoe - Hincapie p/b BMC,1991-03-18,Latvia,0.0,0.0,andzs-flaksis
+2061,Bryan Gómez,noteam,1994-11-19,Colombia,0.0,0.0,bryan-gomez
+2062,Grant Koontz,noteam,1994-01-28,United States,0.0,0.0,grant-koontz
+2063,Andrei Krasilnikau,noteam,1989-04-25,Belarus,0.0,0.0,andrei-krasilnikau
+2064,Joe Lewis,noteam,1989-01-13,Australia,0.0,0.0,joe-lewis
+2065,Brendan Rhim,Arapahoe - Hincapie p/b BMC,1995-12-19,United States,0.0,0.0,brendan-rhim
+2066,Brayan Sánchez,Orgullo Paisa,1994-06-03,Colombia,0.0,0.0,brayan-sanchez
+2067,Morgan Schmitt,noteam,1985-01-03,United States,0.0,0.0,morgan-schmitt
+2068,Matteo Badilatti,Israel Cycling Academy,1992-07-30,Switzerland,1.78,62.0,matteo-badilatti
+2069,Clément Carisey,Israel Cycling Academy,1992-03-23,France,1.86,75.0,clement-carisey
+2070,Awet Gebremedhin,Israel Cycling Academy,1992-02-05,Sweden,1.76,58.5,awet-gebremedhin-andemeskel
+2071,Omer Goldstein,Israel Cycling Academy,1996-08-13,Israel,1.74,61.0,omer-goldstein
+2072,August Jensen,Israel Cycling Academy,1991-08-29,Norway,1.76,67.0,august-jensen
+2073,Jordan Parra,noteam,1994-04-19,Colombia,0.0,0.0,jordan-parra
+2074,Leonardo Bonifazio,Sangemini - Trevigiani - MG.Kvis  ,1991-03-20,Italy,0.0,0.0,leonardo-bonifazio
+2075,Imerio Cima,Nippo Vini Fantini Faizanè,1997-10-29,Italy,0.0,0.0,imerio-cima
+2076,Sho Hatsuyama,Nippo Vini Fantini Faizanè,1988-08-17,Japan,0.0,0.0,sho-hatsuyama
+2077,Hayato Okamoto,Aisan Racing Team,1995-06-01,Japan,0.0,0.0,hayato-okamoto
+2078,Miguel Ángel Reyes,EPM,1992-05-26,Colombia,0.0,0.0,miguel-reyes
+2079,Marco Tizza,Amore & Vita - Prodir,1992-02-06,Italy,1.73,58.0,marco-tizza
+2080,Hayato Yoshida,Nippo Vini Fantini Faizanè,1989-05-19,Japan,0.0,0.0,hayato-yoshida
+2081,Filippo Zaccanti,Nippo Vini Fantini Faizanè,1995-09-12,Italy,0.0,0.0,filippo-zaccanti
+2082,Jesse Anthony,noteam,1985-06-12,United States,0.0,0.0,jesse-anthony
+2083,Rob Britton,Rally UHC Cycling,1984-09-22,Canada,0.0,0.0,rob-britton
+2084,Robin Carpenter,Rally UHC Cycling,1992-06-20,United States,0.0,0.0,robin-carpenter
+2085,Matteo Dal-Cin,Rally UHC Cycling,1991-01-14,Canada,0.0,0.0,matteo-dal-cin
+2086,Adam de Vos,Rally UHC Cycling,1993-10-21,Canada,0.0,0.0,adam-de-vos
+2087,Nigel Ellsay,Rally UHC Cycling,1994-04-30,Canada,0.0,0.0,nigel-ellsay
+2088,Charles Bradley Huff,noteam,1979-02-05,United States,0.0,0.0,charles-bradley-huff
+2089,Colin Joyce,Rally UHC Cycling,1994-08-06,United States,0.0,0.0,colin-joyce
+2090,Brandon McNulty,Rally UHC Cycling,1998-04-02,United States,1.83,69.0,brandon-mcnulty
+2091,Emerson Oronte,Rally UHC Cycling,1990-01-29,United States,0.0,0.0,emerson-oronte
+2092,Eric Young,Elevate - KHS Pro Cycling,1989-02-26,United States,0.0,0.0,eric-young
+2093,Robbert de Greef,noteam,1991-08-27,Netherlands,1.79,65.0,robbert-de-greef
+2094,Kevin Inkelaar,Equipe continentale Groupama-FDJ,1997-07-08,Netherlands,1.81,64.0,kevin-inkelaar
+2095,Jan-Willem van Schip,Roompot - Charles,1994-08-20,Netherlands,1.94,84.0,jan-willem-van-schip
+2096,Robbe Ghys,Sport Vlaanderen - Baloise,1997-01-11,Belgium,1.82,72.0,robbe-ghys
+2097,Milan Menten,Sport Vlaanderen - Baloise,1996-10-31,Belgium,1.74,68.0,milan-menten
+2098,Aaron Verwilst,Sport Vlaanderen - Baloise,1997-05-02,Belgium,1.82,68.0,aaron-verwilst
+2099,Jordi Warlop,Sport Vlaanderen - Baloise,1996-06-04,Belgium,0.0,0.0,jordi-warlop
+2100,Sasha Weemaes,Sport Vlaanderen - Baloise,1998-02-09,Belgium,1.77,73.0,sasha-weemaes
+2101,Romain Le Roux,Team Arkéa Samsic,1992-07-03,France,0.0,0.0,romain-le-roux
+2102,Florentin Lecamus-Lambert,Team Arkéa Samsic,1999-05-13,France,0.0,0.0,florentin-lecamus-lambert
+2103,Oliver Behringer,Team Novo Nordisk,1996-03-20,Switzerland,1.74,0.0,oliver-behringer
+2104,Declan Irvine,Team Novo Nordisk,1999-03-11,Australia,1.78,0.0,declan-irvine
+2105,Emanuel Mini,Team Novo Nordisk,1986-06-14,Argentina,1.8,0.0,emanuel-mini
+2106,Eric Marcotte,noteam,1980-02-08,United States,0.0,0.0,eric-marcotte
+2107,Hugo Velázquez,noteam,1992-07-16,Argentina,0.0,0.0,hugo-angel-velazquez
+2108,Luuc Bugter,BEAT Cycling Club ,1993-07-10,Netherlands,1.89,81.0,luuc-bugter
+2109,Gil D'heygere,noteam,1998-03-30,Belgium,1.84,76.0,gil-d-heygere
+2110,Mathias De Witte,Roompot - Charles,1993-03-29,Belgium,1.78,61.0,mathias-de-witte
+2111,Guillaume Seye,BEAT Cycling Club ,1996-11-28,Belgium,1.88,77.0,guillaume-seye
+2112,Maxime Chevalier,Vital Concept - B&B Hotels,1999-05-16,France,0.0,60.0,maxime-chevalier
+2113,Corentin Ermenault,Vital Concept - B&B Hotels,1996-01-27,France,1.88,75.0,corentin-ermenault
+2114,Adrien Garel,Vital Concept - B&B Hotels,1996-03-12,France,1.87,76.0,adrien-garel
+2115,Jérémy Lecroq,Vital Concept - B&B Hotels,1995-04-07,France,1.85,75.0,jeremy-lecroq
+2116,Gaëtan Lemoine,noteam,1995-03-18,France,0.0,0.0,gaetan-lemoine
+2117,Alfdan De Decker,Wanty - Gobert Cycling Team,1996-09-09,Belgium,0.0,0.0,alfdan-de-decker
+2118,Pierre Goebeert,noteam,1997-01-28,Belgium,0.0,0.0,pierre-goebeert
+2119,Franklin Six,Wallonie-Bruxelles,1996-12-29,Belgium,1.9,72.0,franklin-six
+2120,Tom Wirtgen,Wallonie-Bruxelles,1996-03-04,Luxembourg,1.91,77.0,tom-wirtgen
+2121,Simone Bevilacqua,Neri Sottoli - Selle Italia - KTM,1997-02-22,Italy,0.0,0.0,simone-bevilacqua
+2122,Moreno Marchetti,noteam,1998-04-27,Italy,0.0,0.0,moreno-marchetti
+2123,Maxence Moncassin,noteam,1997-01-26,France,0.0,0.0,maxence-moncassin
+2124,Nicholas Rinaldi,Iseo Serrature - Rime - Carnovali,1997-01-07,Italy,1.77,65.0,nicholas-rinaldi
+2125,Massimo Rosa,Neri Sottoli - Selle Italia - KTM,1995-12-09,Italy,0.0,0.0,massimo-rosa
+2126,Sebastian Schönberger,Neri Sottoli - Selle Italia - KTM,1994-05-14,Austria,0.0,0.0,sebastian-schonberger
+2127,Jaakko Hänninen,AG2R La Mondiale,1997-04-16,Finland,1.77,59.0,jaakko-hanninen
+2128,Matteo Jorgenson,AG2R La Mondiale,1999-07-01,United States,0.0,0.0,matteo-jorgenson
+2129,Anthony Jullien,AG2R La Mondiale,1998-03-05,France,1.78,72.0,anthony-jullien
+2130,Yuriy Natarov,Astana Pro Team,1996-12-28,Kazakhstan,1.86,68.0,yuriy-natarov
+2131,Vadim Pronskiy,Vino - Astana Motors,1998-06-04,Kazakhstan,0.0,0.0,vadim-pronskiy
+2132,Alfred Wright,CCC Team,1999-06-13,Great Britain,0.0,0.0,alfred-wright
+2133,Georg Zimmermann,Tirol KTM Cycling Team,1997-10-11,Germany,0.0,0.0,georg-zimmermann
+2134,Remco Evenepoel,Deceuninck - Quick Step,2000-01-25,Belgium,1.71,61.0,remco-evenepoel
+2135,Samuel Gaze,Deceuninck - Quick Step,1995-12-12,New Zealand,0.0,0.0,samuel-gaze
+2136,Jannik Steimle,Team Vorarlberg Santic,1996-04-04,Germany,1.77,65.0,jannik-steimle
+2137,Jonathan Klever Caicedo,EF Education First,1993-04-28,Ecuador,1.64,62.0,jonathan-klever-caicedo
+2138,Luis Villalobos,EF Education First,1998-06-26,Mexico,1.8,66.0,luis-villalobos-hernandez
+2139,Matthew Walls,EF Education First,1998-04-20,Great Britain,0.0,0.0,matthew-walls
+2140,Žiga Jerman,Equipe continentale Groupama-FDJ,1998-06-26,Slovenia,1.78,68.0,ziga-jerman
+2141,Matis Louvel,Groupama - FDJ,1999-07-19,France,0.0,0.0,matis-louvel
+2142,Carl Fredrik Hagen,Lotto Soudal,1991-09-26,Norway,1.8,65.0,fredrik-hagen-carl
+2143,Rasmus Iversen,Lotto Soudal,1997-09-16,Denmark,0.0,0.0,rasmus-byriel-iversen
+2144,Edoardo Affini,Mitchelton-Scott,1996-06-24,Italy,1.92,67.0,edoardo-affini
+2145,James Fouché,Team Wiggins Le Col,1998-03-28,New Zealand,1.81,71.0,james-fouche
+2146,Kaden Groves,Mitchelton-Scott,1998-12-23,Australia,1.76,76.0,kaden-groves
+2147,Callum Scotson,Mitchelton-Scott,1996-08-10,Australia,1.84,77.0,callum-scotson
+2148,Stefan de Bod,Team Dimension Data,1996-11-17,South Africa,0.0,0.0,stefan-de-bod
+2149,Alexander Konychev,Dimension Data for Qhubeka,1998-07-25,Italy,0.0,0.0,alexander-konychev
+2150,Gino Mäder,Team Dimension Data,1997-01-04,Switzerland,0.0,0.0,gino-mader
+2151,Rasmus Tiller,Team Dimension Data,1996-07-28,Norway,0.0,0.0,rasmus-tiller
+2152,Stef Krul,Metec - TKH Continental Cyclingteam p/b Mantel,1995-07-15,Netherlands,1.86,68.0,stef-krul
+2153,Jonas Vingegaard,Team Jumbo-Visma,1996-12-10,Denmark,0.0,0.0,jonas-vingegaard-rasmussen
+2154,Dylan Bouwmans,Metec - TKH Continental Cyclingteam p/b Mantel,1997-01-16,Netherlands,0.0,0.0,dylan-boumans
+2155,Juri Hollmann,Heizomat Rad-Net,1999-08-30,Germany,1.85,70.0,juri-hollmann
+2156,Harry Tanfield,Team Katusha Alpecin,1994-11-17,Great Britain,1.9,79.5,harry-tanfield
+2157,Marc Hirschi,Team Sunweb,1998-08-24,Switzerland,1.74,61.0,marc-hirschi
+2158,Marten Kooistra,SEG Racing Academy,1997-10-18,Netherlands,1.83,74.0,marten-kooistra
+2159,Joris Nieuwenhuis,Team Sunweb,1996-02-11,Netherlands,0.0,0.0,joris-nieuwenhuis
+2160,Martin Salmon,Development Team Sunweb,1997-10-29,Germany,0.0,0.0,martin-salmon
+2161,Florian Stork,Team Sunweb,1997-04-27,Germany,0.0,0.0,florian-stork
+2162,Nicolas Debeaumarché,Trek - Segafredo,1998-02-24,France,0.0,0.0,nicolas-debeaumarche
+2163,Juan Pedro Lopez,Kometa Cycling Team,1997-07-31,Spain,1.7,60.0,juan-pedro-lopez
+2164,Charlie Quarterman,Trek - Segafredo,1998-09-06,Great Britain,0.0,0.0,charlie-quarterman
+2165,Matthew Beers,UAE-Team Emirates,1994-01-10,South Africa,0.0,0.0,matthew-beers
+2166,Nicolas Dalla Valle,Tirol KTM Cycling Team,1997-09-13,Italy,0.0,73.0,nicolas-dalla-valle
+2167,Cristian Camilo Muñoz,UAE-Team Emirates,1996-03-20,Colombia,1.79,63.0,cristian-munoz
+2168,Tadej Pogačar,UAE-Team Emirates,1998-09-21,Slovenia,1.76,66.0,tadej-pogacar
+2169,Mattia Bais,Cycling Team Friuli,1996-10-19,Italy,0.0,64.0,mattia-bais
+2170,Leonardo Fedrigo,noteam,1996-07-21,Italy,1.9,76.0,leonardo-fedrigo
+2171,Daniel Muñoz,Androni Giocattoli - Sidermec,1996-11-21,Colombia,1.74,57.0,daniel-munoz
+2172,Simone Ravanelli,Biesse Carrera,1995-07-04,Italy,0.0,0.0,simone-ravanelli
+2173,Josip Rumac,Androni Giocattoli - Sidermec,1994-10-26,Croatia,1.82,69.0,josip-rumac
+2174,Nicola Venchiarutti,Cycling Team Friuli,1998-10-07,Italy,0.0,0.0,nicola-venchiarutti
+2175,Luca Covili,Bardiani - CSF,1997-02-10,Italy,0.0,0.0,luca-covili
+2176,Alessandro Pessot,Bardiani - CSF,1995-07-01,Italy,0.0,0.0,alessandro-pessot
+2177,Matthew Gibson,Burgos-BH,1996-09-02,Great Britain,0.0,0.0,gibson-matthew
+2178,Manuel Peñalver,Burgos-BH,1998-12-10,Spain,1.78,66.0,manuel-penalver
+2179,Jaume Sureda,Burgos-BH,1996-07-25,Spain,0.0,0.0,jaume-sureda
+2180,Xavier Cañellas,Caja Rural - Seguros RGA,1997-03-16,Spain,1.75,66.0,sanchez-canellas
+2181,Jefferson Alveiro Cepeda,Caja Rural - Seguros RGA,1996-03-02,Ecuador,0.0,0.0,jefferson-cepeda-hernandez
+2182,David González,Caja Rural - Seguros RGA,1996-02-21,Spain,1.79,68.0,david-gonzalez-lopez
+2183,Oier Lazkano,Caja Rural - Seguros RGA,1999-11-07,Spain,1.89,74.0,oier-lazkano
+2184,Sergio Roman MartÍn,Caja Rural - Seguros RGA,1996-12-13,Spain,1.82,69.0,sergio-martin
+2185,Sebastián Mora,Caja Rural - Seguros RGA,1988-02-19,Spain,1.81,70.0,sebastian-mora-vedri
+2186,Joel Nicolau,Caja Rural - Seguros RGA,1997-12-23,Spain,1.76,76.0,joel-nicolau
+2187,Eusebio Pascual,Caja Rural - Seguros RGA,1995-05-18,Spain,1.82,66.0,eusebio-pascual
+2188,Eddy Finé,"Cofidis, Solutions Crédits",1997-11-20,France,1.8,70.0,eddy-fine
+2189,Pit Leyder,Leopard Pro Cycling ,1997-01-11,Luxembourg,0.0,0.0,pit-leyder
+2190,Damien Touze,"Cofidis, Solutions Crédits",1996-07-07,France,0.0,0.0,damien-touze
+2191,Attilio Viviani,"Cofidis, Solutions Crédits",1996-10-18,Italy,0.0,0.0,attilio-viviani
+2192,Antoine Benoist,Corendon - Circus,1999-08-06,France,0.0,0.0,antoine-benoist
+2193,Brent Cle,Corendon - Circus,1995-10-23,Belgium,0.0,0.0,brent-cle
+2194,Petter Fagerhaug,Corendon - Circus,1997-09-29,Norway,0.0,0.0,petter-fagerhaug
+2195,Jimmy Janssens,Corendon - Circus,1989-05-30,Belgium,1.83,70.0,jimmy-janssens
+2196,Tom Meeusen,Corendon - Circus,1988-11-07,Belgium,1.76,62.0,tom-meeusen
+2197,Marcel Meisen,Corendon - Circus,1989-01-08,Germany,0.0,0.0,marcel-meisen
+2198,Loris Rouiller,Corendon - Circus,2000-02-21,Switzerland,0.0,0.0,loris-rouiller
+2199,Mathieu van der Poel,Corendon - Circus,1995-01-19,Netherlands,1.84,75.0,mathieu-van-der-poel
+2200,David van der Poel,Corendon - Circus,1992-06-15,Netherlands,1.78,0.0,david-van-der-poel
+2201,Maarten van Trijp,Corendon - Circus,1993-10-06,Netherlands,1.87,0.0,maarten-van-trijp
+2202,Gianni Vermeersch,Corendon - Circus,1992-11-19,Belgium,1.73,65.0,gianni-vermeersch
+2203,Philipp Walsleben,Corendon - Circus,1987-11-19,Germany,1.76,66.0,philipp-walsleben
+2204,Simon Carr,Delko Marseille Provence,1998-08-29,Great Britain,0.0,0.0,simon-carr
+2205,Alexandre Delettre,Delko Marseille Provence,1997-10-25,France,1.71,62.0,alexandre-delettre
+2206,Mickaël Guichard,Delko Marseille Provence,1993-08-29,France,0.0,0.0,mickael-guichard
+2207,Urko Berrade,Euskadi Basque Country - Murias,1997-11-28,Spain,1.84,68.0,urko-berrade-fernandez
+2208,Mario González,Euskadi Basque Country - Murias,1992-06-06,Spain,1.82,65.0,mario-gonzalez-salas
+2209,Juan Antonio López-Cózar,Euskadi Basque Country - Murias,1994-08-20,Spain,0.0,0.0,juan-antonio-lopez-cozar-jaimez
+2210,José Daniel Viejo,Euskadi Basque Country - Murias,1997-12-08,Spain,1.79,75.0,jose-daniel-viejo
+2211,Marco Landi,Gazprom-RusVelo,1996-11-25,Italy,0.0,0.0,marco-landi
+2212,Anton Popov,Gazprom-RusVelo,1999-01-30,Russia,0.0,0.0,anton-popov-aleksandrovich
+2213,Petr Rikunov,Gazprom-RusVelo,1997-02-24,Russia,0.0,0.0,petr-rikunov
+2214,Anton Vtiurin,Gazprom-RusVelo,2000-12-26,Russia,0.0,0.0,anton-vtiurin
+2215,Andre Carvalho,Hagens Berman Axeon,1997-10-31,Portugal,0.0,0.0,andre-carvalho
+2216,Jakob Egholm,Hagens Berman Axeon,1998-04-27,Denmark,0.0,0.0,jakob-egholm
+2217,Liam Holowesko,Hagens Berman Axeon,2000-09-01,Bahamas,0.0,0.0,liam-holowesko
+2218,Sean Quinn,Hagens Berman Axeon,2000-05-10,United States,0.0,0.0,sean-quinn
+2219,Karel Vacek,Hagens Berman Axeon,2000-09-09,Czech Republic,0.0,60.0,karel-vacek
+2220,Kevin Vermaerke,Hagens Berman Axeon,2000-10-16,United States,1.79,67.0,kevin-vermaerke
+2221,Yuval Ben Moshe,Israel Cycling Academy,1999-04-06,Israel,0.0,0.0,yuval-ben-moshe
+2222,Alexis Renard,Israel Cycling Academy,1999-06-01,France,0.0,0.0,alexis-renard
+2223,Andrea Bartolozzi,Neri Sottoli - Selle Italia - KTM,1999-05-03,Italy,0.0,0.0,andrea-bartolozzi
+2224,Mattia Bevilacqua,Neri Sottoli - Selle Italia - KTM,1998-06-17,Italy,0.0,0.0,mattia-bevilacqua
+2225,Davide Gabburo,Neri Sottoli - Selle Italia - KTM,1993-04-01,Italy,0.0,0.0,davide-gabburo
+2226,Roberto Carlos González,Neri Sottoli - Selle Italia - KTM,1994-05-21,Panama,0.0,0.0,roberto-gonzalez
+2227,Alessandro Iacchi,Neri Sottoli - Selle Italia - KTM,1999-05-26,Italy,1.7,59.0,alessandro-iacchi
+2228,Umberto Marengo,Neri Sottoli - Selle Italia - KTM,1992-07-21,Italy,1.78,65.0,umberto-marengo
+2229,Ruben Dario Acosta,Nippo Vini Fantini Faizanè,1996-08-20,Colombia,0.0,0.0,ruben-mario-acosta
+2230,Filippo Fiorelli,Nippo Vini Fantini Faizanè,1994-11-19,Italy,0.0,0.0,filippo-fiorelli
+2231,Masahiro Ishigami,Nippo Vini Fantini Faizanè,1997-10-20,Japan,0.0,0.0,masahiro-ishigami
+2232,Keigo Kusaba,Aisan Racing Team,1996-09-08,Japan,0.0,0.0,keigo-kusaba
+2233,Giovanni Lonardi,Nippo Vini Fantini Faizanè,1996-11-09,Italy,0.0,0.0,giovanni-lonardi
+2234,Alejandro Osorio,Nippo Vini Fantini Faizanè,1998-05-28,Colombia,1.81,62.0,alejandro-osorio-carbajal
+2235,Pier-André Coté,Rally UHC Cycling,1997-04-24,Canada,0.0,0.0,pier-andre-cote
+2236,Lucas Eriksson,Riwal Readynez Cycling Team,1996-04-10,Sweden,0.0,0.0,lucas-eriksson
+2237,Krister Hagen,noteam,1989-01-12,Norway,0.0,0.0,krister-hagen
+2238,Tobias Kongstad,Riwal Readynez Cycling Team,1996-09-14,Denmark,0.0,0.0,tobias-kongstad
+2239,Andreas Kron,Riwal Readynez Cycling Team,1998-06-01,Denmark,0.0,0.0,andreas-kron
+2240,Mathias Norsgaard Jørgensen,Riwal Readynez Cycling Team,1997-05-05,Denmark,2.0,82.0,mathias-norsgaard
+2241,Andreas Stokbro,Riwal Readynez Cycling Team,1997-04-08,Denmark,1.83,70.0,andreas-stokbro
+2242,Torkil Veyhe,Riwal Readynez Cycling Team,1990-01-09,Denmark,0.0,0.0,torkil-veyhe
+2243,Emil Vinjebo,Riwal Readynez Cycling Team,1994-03-24,Denmark,0.0,0.0,emil-vinjebo
+2244,Rasmus Bøgh Wallin,Riwal Readynez Cycling Team,1996-01-02,Denmark,0.0,0.0,rasmus-bogh-wallin
+2245,Justin Timmermans,Roompot - Charles,1996-09-25,Netherlands,0.0,0.0,justin-timmermans
+2246,Aaron Van Poucke,Sport Vlaanderen - Baloise,1998-04-04,Belgium,1.77,68.0,aaron-van-poucke
+2247,Thimo Willems,Sport Vlaanderen - Baloise,1996-02-09,Belgium,1.75,67.0,thimo-willems
+2248,Maxime Jarnet,Team Arkéa Samsic,1998-09-06,France,0.0,0.0,maxime-jarnet
+2249,Péter Kusztor,Team Novo Nordisk,1984-12-27,Hungary,1.79,0.0,peter-kusztor
+2250,Samuel Munday,Team Novo Nordisk,1998-03-04,Australia,1.69,0.0,samuel-munday
+2251,Ulugbek Saidov,Team Novo Nordisk,1996-10-06,Uzbekistan,1.7,0.0,ulugbek-saidov
+2252,Enzo Bernard,Team Total Direct Energie,1997-10-19,France,0.0,0.0,enzo-bernard
+2253,Valentin Ferron,Team Total Direct Energie,1998-02-08,France,0.0,0.0,valentin-ferron
+2254,Alan Boileau,Vital Concept - B&B Hotels,1999-06-25,France,0.0,0.0,alan-boileau
+2255,Raúl Alarcón,W52 / FC Porto ,1986-03-25,Spain,1.89,72.0,raul-alarcon
+2256,Samuel José Caldeira,W52 / FC Porto ,1985-11-30,Portugal,1.8,76.0,samuel-caldeira
+2257,Francisco Campos,W52 / FC Porto ,1997-10-10,Portugal,1.69,60.0,francisco-campos
+2258,Antonio Carvalho,W52 / FC Porto ,1989-10-25,Portugal,1.76,62.0,antonio-carvalho
+2259,José Ferreira,W52 / FC Porto ,1994-08-09,Portugal,1.8,64.0,jose-ferreira
+2260,César Fonte,W52 / FC Porto ,1986-12-10,Portugal,1.7,60.0,cesar-fonte
+2261,Jorge Magalhães,W52 / FC Porto ,1997-02-10,Portugal,1.74,63.0,jorge-magalhaes
+2262,Daniel Mestre,W52 / FC Porto ,1986-04-01,Portugal,1.75,65.0,daniel-mestre
+2263,Edgar Pinto,W52 / FC Porto ,1985-08-27,Portugal,1.75,58.0,edgar-pinto
+2264,João Rodrigues,W52 / FC Porto ,1994-11-15,Portugal,1.75,60.0,joao-rodrigues
+2265,Ángel Sánchez,W52 / FC Porto ,1993-04-12,Spain,1.78,73.0,angel-sanchez-rebollido
+2266,Rui Vinhas,W52 / FC Porto ,1986-12-06,Portugal,1.71,59.0,rui-vinhas
+2267,Jonas Castrique,Wallonie-Bruxelles Development Team,1997-01-13,Belgium,1.87,81.0,jonas-castrique
+2268,Laurens Huys,Wallonie-Bruxelles,1998-09-24,Belgium,0.0,0.0,laurens-huys
+2269,Aksel Nõmmela,Wallonie-Bruxelles,1994-10-22,Estonia,1.76,69.0,aksel-nommela
+2270,Mathijs Paasschens,Wallonie-Bruxelles,1996-03-18,Netherlands,1.88,81.0,mathijs-paasschens
+2271,Tom Paquot,Wallonie-Bruxelles Development Team,1999-09-22,Belgium,1.84,71.0,tom-paquot
+2272,Luc Wirtgen,Wallonie-Bruxelles Development Team,1998-07-07,Luxembourg,1.79,63.0,luc-wirtgen
+2273,Cédric Beullens,Wanty - Gobert Cycling Team,1997-01-27,Belgium,0.0,0.0,cedric-beullens
+2274,Theo Delacroix,Wanty - Gobert Cycling Team,1999-02-21,France,0.0,0.0,theo-delacroix
+2275,Trond Trondsen,Team Coop ,1994-04-08,Norway,0.0,0.0,trond-trondsen

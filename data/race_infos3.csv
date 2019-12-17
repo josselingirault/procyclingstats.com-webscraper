@@ -1,0 +1,2634 @@
+,Race_Name,Category,Number_stages
+0,Tour Down Under 2014,2.UWT,6
+1,Paris - Nice 2014,2.UWT,8
+2,Tirreno-Adriatico 2014,2.UWT,7
+3,Milano-Sanremo 2014,1.UWT,1
+4,Volta Ciclista a Catalunya 2014,2.UWT,7
+5,E3 Harelbeke 2014,1.UWT,1
+6,Gent-Wevelgem In Flanders Fields 2014,1.UWT,1
+7,Ronde van Vlaanderen / Tour des Flandres 2014,1.UWT,1
+8,Vuelta Ciclista al Pais Vasco 2014,2.UWT,6
+9,Paris - Roubaix 2014,1.UWT,1
+10,Amstel Gold Race 2014,1.UWT,1
+11,La Flèche Wallonne 2014,1.UWT,1
+12,Liège - Bastogne - Liège 2014,1.UWT,1
+13,Tour de Romandie 2014,2.UWT,6
+14,Giro d'Italia 2014,2.UWT,21
+15,Critérium du Dauphiné 2014,2.UWT,8
+16,Tour de Suisse 2014,2.UWT,9
+17,Tour de France 2014,2.UWT,21
+18,Clasica Ciclista San Sebastian 2014,1.UWT,1
+19,Tour de Pologne 2014,2.UWT,7
+20,Eneco Tour 2014,2.UWT,7
+21,Vuelta a España 2014,2.UWT,21
+22,Vattenfall Cyclassics 2014,1.UWT,1
+23,GP Ouest France - Plouay 2014,1.UWT,1
+24,Grand Prix Cycliste de Québec 2014,1.UWT,1
+25,Grand Prix Cycliste de Montréal 2014,1.UWT,1
+26,Il Lombardia 2014,1.UWT,1
+27,Tour of Beijing 2014,2.UWT,5
+28,World Championships - TTT 2014,WC,1
+29,World Championships WE - TTT 2014,WC,1
+30,World Championships U23 - ITT 2014,WC,1
+31,World Championships MJ - ITT 2014,WC,1
+32,World Championships WE - ITT 2014,WC,1
+33,World Championships - ITT 2014,WC,1
+34,World Championships U23 - Road Race 2014,WC,1
+35,World Championships WJ - Road Race 2014,WC,1
+36,World Championships MJ - Road Race 2014,WC,1
+37,World Championships - Road Race 2014,WC,1
+38,La Tropicale Amissa Bongo 2014,2.1,7
+39,National Championships South Africa - ITT 2014,NC,1
+40,National Championships South Africa - Road Race 2014,NC,1
+41,Les Challenges de la Marche Verte - GP Sakia El Hamra 2014,1.2,1
+42,National Championships Namibia - ITT 2014,NC,1
+43,Les Challenges de la Marche Verte - GP Oued Eddahab 2014,1.2,1
+44,National Championships Namibia - Road Race 2014,NC,1
+45,Les Challenges de la Marche Verte - GP Al Massira 2014,1.2,1
+46,Criterium International de Blida 2014,1.2,1
+47,Tour d'Algérie 2014,2.2,5
+48,Tour du Cameroun 2014,2.2,8
+49,Grand Prix d\'Oran 2014,1.2,1
+50,Tour International de Blida 2014,2.2,3
+51,Tour International de Setif 2014,2.2,3
+52,Criterium International de Setif 2014,1.2,1
+53,Tour International de Constantine 2014,2.2,4
+54,Circuit International d\'Alger 2014,1.2,1
+55,Criterium International de Blida 2014,1.2,1
+56,Tour du Maroc 2014,2.2,10
+57,Mzansi Tour 2014,2.2,5
+58,Challenge du Prince - Trophée Princier 2014,1.2,1
+59,Challenge du Prince - Trophée de l'Anniversaire 2014,1.2,1
+60,Challenge du Prince - Trophée de la Maison Royale 2014,1.2,1
+61,National Championships Eritrea - ITT 2014,NC,1
+62,National Championships Eritrea - Road Race 2014,NC,1
+63,National Championships Benin - Road Race 2014,NC,1
+64,National Championships Ivory Coast - Road Race 2014,NC,1
+65,National Championships Tunisia - ITT 2014,NC,1
+66,National Championships Algeria - ITT 2014,NC,1
+67,National Championships Algeria - Road Race 2014,NC,1
+68,National Championships Morocco - ITT 2014,NC,1
+69,National Championships Mauritius - ITT 2014,NC,1
+70,National Championships Morocco - Road Race 2014,NC,1
+71,National Championships Tunisia - Road Race 2014,NC,1
+72,National Championships Ethiopia - ITT 2014,NC,1
+73,National Championships Angola - ITT 2014,NC,1
+74,National Championships Gabon - ITT 2014,NC,1
+75,National Championships Rwanda - ITT 2014,NC,1
+76,National Championships Zimbabwe - Road Race 2014,NC,1
+77,National Championships Burkina Faso - Road Race 2014,NC,1
+78,National Championships Ethiopia - Road Race 2014,NC,1
+79,National Championships Gabon - Road Race 2014,NC,1
+80,National Championships Mauritius - Road Race 2014,NC,1
+81,National Championships Rwanda - Road Race 2014,NC,1
+82,National Championships Uganda - Road Race 2014,NC,1
+83,National Championships Zimbabwe - ITT 2014,NC,1
+84,Grand Prix Chantal Biya 2014,2.2,4
+85,Tour of Rwanda 2014,2.2,8
+86,Dubai Tour 2014,2.1,4
+87,Tour of Qatar 2014,2.HC,6
+88,Tour of Oman 2014,2.HC,6
+89,Le Tour de Langkawi 2014,2.HC,10
+90,Tour de Taiwan 2014,2.1,5
+91,The Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2014,2.2,6
+92,Le Tour de Filipinas 2014,2.2,4
+93,Melaka Chief Minister\'s Cup 2014,1.2,1
+94,National Championships Iran - Road Race 2014,NC,1
+95,National Championships Iran - ITT 2014,NC,1
+96,Tour of Japan 2014,2.1,6
+97,Asian Cycling Championships - ITT 2014,CC,1
+98,Asian Cycling Championships - c.l.m. ind. / ind. TT - MU 2014,CC,1
+99,Tour de Kumano 2014,2.2,4
+100,Asian Cycling Championships - en ligne / ind. road race - MU 2014,CC,1
+101,Asian Cycling Championships - Road Race 2014,CC,1
+102,Tour of Singkarak 2014,2.2,9
+103,Tour de Korea 2014,2.1,8
+104,National Championships Libanon - ITT 2014,NC,1
+105,Tour of Iran (Azarbaijan) 2014,Azarbaijan),6
+106,National Championships Indonesia - Road Race 2014,NC,1
+107,National Championships Israel - ITT 2014,NC,1
+108,National Championships Syria WE - Road Race 2014,NC,1
+109,National Championships Kazakhstan - ITT 2014,NC,1
+110,National Championships Albania - ITT 2014,NC,1
+111,National Championships Japan - ITT 2014,NC,1
+112,National Championships South Korea - Road Race 2014,NC,1
+113,National Championships Japan U23 - ITT 2014,NC,1
+114,National Championships Hongkong - ITT 2014,NC,1
+115,National Championships Thailand - ITT 2014,NC,1
+116,National Championships Uzbekistan - ITT 2014,NC,1
+117,National Championships Hongkong U23 - ITT 2014,NC,1
+118,National Championships Japan U23 - Road Race 2014,NC,1
+119,National Championships Uzbekistan U23 - ITT 2014,NC,1
+120,National Championships Hongkong - Road Race 2014,NC,1
+121,National Championships Japan - Road Race 2014,NC,1
+122,National Championships Kazakhstan - Road Race 2014,NC,1
+123,National Championships Thailand - Road Race 2014,NC,1
+124,National Championships Uzbekistan - Road Race 2014,NC,1
+125,Tour of Qinghai Lake 2014,2.HC,13
+126,National Championships Mongolia - ITT 2014,NC,1
+127,National Championships Mongolia  - Road Race 2014,NC,1
+128,National Championships China - ITT 2014,NC,1
+129,National Championships China - Road Race 2014,NC,1
+130,Tour of China I 2014,2.1,7
+131,Tour of East Java 2014,2.2,2
+132,Tour of China II 2014,2.1,5
+133,Tour de Hokkaido 2014,2.2,3
+134,Tour of Almaty 2014,1.1,1
+135,International Tour de Banyuwangi Ijen 2014,2.2,4
+136,Japan Cup Cycle Road Race 2014,1.HC,1
+137,Tour of Hainan 2014,2.HC,9
+138,Tour of Taihu Lake 2014,2.1,9
+139,Tour de Okinawa 2014,1.2,1
+140,Tour of Yancheng Costal Wetlands 2014,1.2,1
+141,Tour of Fuzhou 2014,2.2,3
+142,National Championships Taiwan - Road Race 2014,NC,1
+143,Sharjah Tour 2014,2.2,4
+144,Jelajah Malaysia 2014,2.2,5
+145,Tour of Al Zubarah 2014,2.2,4
+146,National Championships India - ITT 2014,NC,1
+147,National Championships India - Road Race 2014,NC,1
+148,Gran Premio Costa degli Etruschi - Alta Maremma 2014,1.1,1
+149,Grand Prix Cycliste la Marseillaise 2014,1.1,1
+150,Etoile de Bessèges 2014,2.1,5
+151,Trofeo Palma 2014,1.1,1
+152,Trofeo Ses Salines 2014,1.1,1
+153,Trofeo Serra de Tramuntana 2014,1.1,1
+154,Trofeo Platja de Muro 2014,1.1,1
+155,Tour Méditerranéen Cycliste Professionnel 2014,2.1,5
+156,Volta ao Algarve 2014,2.1,5
+157,Vuelta a Andalucia Ruta Ciclista Del Sol 2014,2.1,5
+158,Trofeo Laigueglia 2014,1.1,1
+159,Tour Cycliste International du Haut Var Matin 2014,2.1,2
+160,GP Izola - Butan plin 2014,1.2,1
+161,Omloop Het Nieuwsblad Elite 2014,1.HC,1
+162,Classic Sud Ardèche - Souvenir Francis Delpech 2014,1.1,1
+163,Vuelta Ciclista a Murcia 2014,1.1,1
+164,Clasica de Almeria 2014,1.1,1
+165,G.P. Città di Lugano 2014,1.1,1
+166,Kuurne-Bruxelles-Kuurne 2014,1.1,1
+167,Valence Drôme Classic 2014,1.1,1
+168,Le Samyn 2014,1.1,1
+169,Trofej Umag - Umag Trophy 2014,1.2,1
+170,G.P. Camaiore 2014,1.1,1
+171,Driedaagse van West-Vlaanderen 2014,2.1,3
+172,Strade Bianche 2014,1.1,1
+173,Ster van Zwolle 2014,1.2,1
+174,Roma Maxima 2014,1.1,1
+175,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2014,1.2,1
+176,Porec Trophy - Trofej Porec 2014,1.2,1
+177,Rabobank Dorpenomloop Rucphen 2014,1.2,1
+178,Istarsko proljece - Istrian Spring Trophy 2014,2.2,4
+179,Albert Achterhes Pet Ronde van Drenthe 2014,1.1,1
+180,Energiewacht Dwars door Drenthe 2014,1.1,1
+181,Omloop van het Waasland 2014,1.2,1
+182,Paris-Troyes 2014,1.2,1
+183,Nokere Koerse - Danilith Classic 2014,1.1,1
+184,GP Nobili Rubinetterie-Coppa Papà Carlo-Coppa Città di Stresa 2014,1.1,1
+185,Handzame Classic 2014,1.1,1
+186,Classic Loire Atlantique 2014,1.1,1
+187,Cholet-Pays de Loire 2014,1.1,1
+188,Tour de Normandie 2014,2.2,7
+189,Dwars door Vlaanderen / A travers la Flandre 2014,1.HC,1
+190,Volta ao Alentejo/Crédito Agricola Costa Azul 2014,2.2,5
+191,Settimana Internazionale Coppi e Bartali 2014,2.1,5
+192,Critérium International 2014,2.HC,3
+193,VDK-Driedaagse De Panne-Koksijde 2014,2.HC,4
+194,Grand Prix of Sochi 2014,2.2,6
+195,Route Adélie de Vitré 2014,1.1,1
+196,Le Triptyque des Monts et Châteaux 2014,2.2,4
+197,Gran Premio Miguel Indurain 2014,1.1,1
+198,Volta Limburg Classic 2014,1.1,1
+199,Vuelta Ciclista a La Rioja 2014,1.1,1
+200,Trofeo PIVA Banca Popolare di Vicenza 2014,1.2U,1
+201,Circuit Cycliste Sarthe - Pays de la Loire 2014,2.1,5
+202,Scheldeprijs 2014,1.HC,1
+203,Circuit des Ardennes International 2014,2.2,4
+204,Grand Prix Cerami 2014,1.1,1
+205,Banja Luka Belgrade I 2014,1.2,1
+206,Ronde van Vlaanderen Beloften 2014,1.Ncup,1
+207,Trofeo Edil C 2014,1.2,1
+208,Klasika Primavera de Amorebieta 2014,1.1,1
+209,Banja Luka-Belgrade II 2014,1.2,1
+210,Paris-Camembert 2014,1.1,1
+211,De Brabantse Pijl - La Flèche Brabançonne 2014,1.HC,1
+212,Grand Prix of Adygeya 2014,2.2,5
+213,La Côte Picarde 2014,1.Ncup,1
+214,Tour du Loir et Cher E Provost 2014,2.2,5
+215,GP de Denain Porte du Hainaut 2014,1.1,1
+216,Tour du Finistère 2014,1.1,1
+217,Arno Wallaard Memorial 2014,1.2,1
+218,Liège - Bastogne - Liège U23 2014,1.2U,1
+219,ZLM tour 2014,1.Ncup,1
+220,Tro-Bro Léon 2014,1.1,1
+221,Rund um Köln 2014,1.1,1
+222,Giro del Belvedere 2014,1.2U,1
+223,Giro del Trentino 2014,2.HC,4
+224,G.P. Palio del Recioto 2014,1.2U,1
+225,Gran Premio della Liberazione 2014,1.2U,1
+226,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2014,2.2,7
+227,Zuid Oost Drenthe Classic I 2014,1.2,1
+228,Presidential Cycling Tour of Turkey 2014,2.HC,8
+229,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2014,1.1,1
+230,Gran Premio Industrie del Marmo 2014,1.2,1
+231,Paris - Mantes-en-Yvelines 2014,1.2,1
+232,Rutland - Melton International CiCLE Classic 2014,1.2,1
+233,Carpathian Couriers Race U-23 2014,2.2U,6
+234,Rund um den Finanzplatz Eschborn-Frankfurt 2014,1.HC,1
+235,National Championships Belgium - ITT 2014,NC,1
+236,Mayor Cup 2014,1.2,1
+237,Memorial Andrzeja Trochanowskiego 2014,1.2,1
+238,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2014,U23),1
+239,Memorial of Oleg Dyachenko 2014,1.2,1
+240,Skive-Løbet 2014,1.2,1
+241,Grand Prix of Moscow 2014,1.2,1
+242,Himmerland Rundt \'Made in Aars\' 2014,1.2,1
+243,Ronde van Overijssel 2014,1.2,1
+244,Grand Prix de la Somme « Conseil Général 80» 2014,1.1,1
+245,Circuito del Porto - Trofeo Arvedi 2014,1.2,1
+246,Destination Thy 2014,1.2,1
+247,Five rings of Moscow 2014,2.2,5
+248,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais 2014,2.HC,5
+249,Tour d'Azerbaïdjan 2014,2.1,5
+250,Szlakiem Grodòw Piastowskich 2014,2.1,3
+251,Berner Rundfahrt / Tour de Berne 2014,1.2,1
+252,Hadeland GP 2014,1.2,1
+253,Scandinavian Race in Uppsala 2014,1.2,1
+254,Circuit de Wallonie Ville de Fleurus 2014,1.2,1
+255,Ringerike GP 2014,1.2,1
+256,Royal Smilde Olympia's Tour 2014,2.2,7
+257,Visegrad 4 Bicycle Race - GP Polski Via Odra 2014,1.2,1
+258,Rhône-Alpes Isère Tour 2014,2.2,4
+259,Visegrad 4 Bicycle Race - GP Czech Republic 2014,1.2,1
+260,Tour de Picardie 2014,2.1,3
+261,Vuelta a Castilla y Leon 2014,2.1,3
+262,Visegrad 4 Bicycle Race - GP Slovakia 2014,1.2,1
+263,Grand Prix Criquielion 2014,1.2,1
+264,Visegrad 4 Bicycle Race - GP Hungary 2014,1.2,1
+265,Garmin Velothon Berlin 2014,1.1,1
+266,An Post Ras 2014,2.2,8
+267,Uno-X Tour of Norway 2014,2.HC,5
+268,Ronde de l\'Isard 2014,2.2U,5
+269,Paris-Arras Tour 2014,2.2,3
+270,World Ports Classic 2014,2.1,2
+271,Simac Omloop der Kempen 2014,1.2,1
+272,Baloise Belgium Tour 2014,2.HC,5
+273,Bayern Rundfahrt 2014,2.HC,5
+274,Tour des Fjords 2014,2.1,5
+275,Flèche du Sud 2014,2.2,5
+276,Tour de Berlin 2014,2.2U,5
+277,Tour de Gironde 2014,2.2,5
+278,Tour of Estonia 2014,2.1,2
+279,Course de la Paix U23 / Závod Míru U23 2014,2.2U,3
+280,Race Horizon Park 1 2014,1.2,1
+281,Grand Prix de Plumelec-Morbihan 2014,1.1,1
+282,National Championships Denmark U23 - ITT 2014,NC,1
+283,Race Horizon Park 2 2014,1.2,1
+284,Boucles de l'Aulne - Châteaulin 2014,1.1,1
+285,Grand Prix Südkärnten 2014,1.2,1
+286,National Championships Denmark U23 - Road Race 2014,NC,1
+287,Paris-Roubaix Espoirs 2014,1.2U,1
+288,Race Horizon Park 3 2014,1.2,1
+289,Tr. Città di San Vendemiano - GP Industria e Commercio 2014,1.2U,1
+290,Trofeo Alcide Degasperi 2014,1.2,1
+291,Okolo Slovenska 2014,2.2,5
+292,Skoda-Tour de Luxembourg 2014,2.HC,5
+293,Boucles de la Mayenne 2014,2.1,4
+294,National Championships Slovenia - ITT 2014,NC,1
+295,National Championships Slovenia MJ - ITT 2014,NC,1
+296,National Championships Slovenia U23 - ITT 2014,NC,1
+297,Ronde van Zeeland Seaports 2014,1.1,1
+298,National Championships Italy U23 - ITT 2014,NC,1
+299,Coppa della Pace - Trofeo F.lli Anelli 2014,1.2,1
+300,Memorial Philippe Van Coningsloo 2014,1.2,1
+301,Grand Prix 'Udmurtskaya Pravda' 2014,2.2,5
+302,GP du canton d'Argovie 2014,1.HC,1
+303,Ronde de l'Oise 2014,2.2,4
+304,Tour of Malopolska 2014,2.2,3
+305,National Championships Macedonia - ITT 2014,NC,1
+306,Ronde van Limburg 2014,1.1,1
+307,Int. Raiffeisen Grand Prix Judendorf/Straßengel 2014,1.2,1
+308,National Championships Germany U23 - Road Race 2014,NC,1
+309,Ster ZLM Toer GP Jan van Heeswijk 2014,2.1,5
+310,Tour de Slovénie 2014,2.1,4
+311,Tour de Serbie 2014,2.2,3
+312,Tour des Pays de Savoie 2014,2.2,5
+313,Route du Sud - la Depeche du Midi 2014,2.1,3
+314,Oberösterreichrundfahrt 2014,2.2,3
+315,Memorial im. J. Grundmanna J. Wizowskiego 2014,2.2,2
+316,Beaumont Trophy 2014,1.2,1
+317,Flèche Ardennaise 2014,1.2,1
+318,Grand Prix Sarajevo 2014,1.2,1
+319,National Championships Norway U23 - Road Race 2014,NC,1
+320,Giro dell'Appennino 2014,1.1,1
+321,National Championships Turkey - ITT 2014,NC,1
+322,Halle-Ingooigem 2014,1.1,1
+323,National Championships Netherlands - ITT 2014,NC,1
+324,National Championships Poland - ITT 2014,NC,1
+325,National Championships Switzerland - ITT 2014,NC,1
+326,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2014,1.2,1
+327,National Championships Netherlands U23 - ITT 2014,NC,1
+328,National Championships Poland U23 - ITT 2014,NC,1
+329,National Championships Switzerland U23 - ITT 2014,NC,1
+330,National Championships Czech Republic - ITT 2014,NC,1
+331,National Championships Czech Republic U23 - ITT 2014,NC,1
+332,National Championships Denmark - ITT 2014,NC,1
+333,National Championships France - ITT 2014,NC,1
+334,National Championships Great Britain - ITT 2014,NC,1
+335,National Championships Ireland - ITT 2014,NC,1
+336,National Championships Luxembourg - ITT 2014,NC,1
+337,National Championships Norway - ITT 2014,NC,1
+338,National Championships Slovakia - ITT 2014,NC,1
+339,National Championships Sweden - ITT 2014,NC,1
+340,National Championships Turkey - Road Race 2014,NC,1
+341,National Championships Great Britain U23 - ITT 2014,NC,1
+342,National Championships Ireland U23 - ITT 2014,NC,1
+343,National Championships Russia U23 - ITT 2014,NC,1
+344,National Championships Slovakia U23 - ITT 2014,NC,1
+345,National Championships Ukraine U23 - ITT 2014,NC,1
+346,National Championships Austria - ITT 2014,NC,1
+347,National Championships Azerbaijan - ITT 2014,NC,1
+348,National Championships Belarus - ITT 2014,NC,1
+349,National Championships Croatia - ITT 2014,NC,1
+350,National Championships Estonia - ITT 2014,NC,1
+351,National Championships Finland - ITT 2014,NC,1
+352,National Championships Germany - ITT 2014,NC,1
+353,National Championships Greece - ITT 2014,NC,1
+354,National Championships Hungary - ITT 2014,NC,1
+355,National Championships Latvia - ITT 2014,NC,1
+356,National Championships Lithuania - ITT 2014,NC,1
+357,National Championships Portugal - ITT 2014,NC,1
+358,National Championships Romania - ITT 2014,NC,1
+359,National Championships Romania U23 - ITT 2014,NC,1
+360,National Championships Russia - ITT 2014,NC,1
+361,National Championships Serbie - ITT 2014,NC,1
+362,National Championships Spain - ITT 2014,NC,1
+363,National Championships Ukraine - ITT 2014,NC,1
+364,National Championships Belarus U23 - ITT 2014,NC,1
+365,National Championships Finland U23 - ITT 2014,NC,1
+366,National Championships Germany U23 - ITT 2014,NC,1
+367,National Championships Hungary U23 - ITT 2014,NC,1
+368,National Championships Latvia U23 - ITT 2014,NC,1
+369,National Championships Portugal U23 - ITT 2014,NC,1
+370,National Championships Spain U23 - ITT 2014,NC,1
+371,National Championships Albania - Road Race 2014,NC,1
+372,National Championships Bulgaria - ITT 2014,NC,1
+373,National Championships Bulgaria - Road Race 2014,NC,1
+374,National Championships Ecuador - Road Race 2014,NC,1
+375,National Championships Georgia - ITT 2014,NC,1
+376,National Championships Israel - Road Race 2014,NC,1
+377,National Championships Italy - Road Race 2014,NC,1
+378,National Championships Moldava - ITT 2014,NC,1
+379,National Championships Finland U23 - Road Race 2014,NC,1
+380,National Championships Greece U23 - Road Race 2014,NC,1
+381,National Championships Netherlands U23 - Road Race 2014,NC,1
+382,National Championships Poland U23 - Road Race 2014,NC,1
+383,National Championships Portugal U23 - Road Race 2014,NC,1
+384,National Championships Russia U23 - Road Race 2014,NC,1
+385,National Championships Spain U23 - Road Race 2014,NC,1
+386,National Championships Ukraine U23 - Road Race 2014,NC,1
+387,National Championships Austria - Road Race 2014,NC,1
+388,National Championships Azerbaijan - Road Race 2014,NC,1
+389,National Championships Belarus - Road Race 2014,NC,1
+390,National Championships Belgium - Road Race 2014,NC,1
+391,National Championships Bosnia and Herzegovina - Road Race 2014,NC,1
+392,National Championships Croatia - Road Race 2014,NC,1
+393,National Championships Czech Republic - Road Race 2014,NC,1
+394,National Championships Denmark - Road Race 2014,NC,1
+395,National Championships Estonia - Road Race 2014,NC,1
+396,National Championships Finland - Road Race 2014,NC,1
+397,National Championships France - Road Race 2014,NC,1
+398,National Championships Georgia - Road Race 2014,NC,1
+399,National Championships Germany - Road Race 2014,NC,1
+400,National Championships Great Britain - Road Race 2014,NC,1
+401,National Championships Greece - Road Race 2014,NC,1
+402,National Championships Hungary - Road Race 2014,NC,1
+403,National Championships Ireland - Road Race 2014,NC,1
+404,National Championships Italy - ITT 2014,NC,1
+405,National Championships Latvia - Road Race 2014,NC,1
+406,National Championships Lithuania - Road Race 2014,NC,1
+407,National Championships Luxembourg - Road Race 2014,NC,1
+408,National Championships Macedonia - Road Race 2014,NC,1
+409,National Championships Moldova - Road Race 2014,NC,1
+410,National Championships Netherlands - Road Race 2014,NC,1
+411,National Championships Norway - Road Race 2014,NC,1
+412,National Championships Poland - Road Race 2014,NC,1
+413,National Championships Portugal - Road Race 2014,NC,1
+414,National Championships Romania - Road Race 2014,NC,1
+415,National Championships Russia - Road Race 2014,NC,1
+416,National Championships Serbie - Road Race 2014,NC,1
+417,National Championships Slovakia - Road Race 2014,NC,1
+418,National Championships Slovenia - Road Race 2014,NC,1
+419,National Championships Spain - Road Race 2014,NC,1
+420,National Championships Sweden - Road Race 2014,NC,1
+421,National Championships Switzerland - Road Race 2014,NC,1
+422,National Championships Ukraine - Road Race 2014,NC,1
+423,National Championships Austria U23 - Road Race 2014,NC,1
+424,National Championships Belarus U23 - Road Race 2014,NC,1
+425,National Championships Czech Republic U23 - Road Race 2014,NC,1
+426,National Championships Italy U23 - Road Race 2014,NC,1
+427,National Championships Slovakia U23 - Road Race 2014,NC,1
+428,Natonal Chamoionships Macedonia - Road Race 2014,NC,1
+429,Course Cycliste de Solidarnosc et des Champions Olympiques 2014,2.2,5
+430,Omloop Het Nieuwsblad Espoirs 2014,1.2,1
+431,Int. Österreich-Rundfahrt-Tour of Austria 2014,2.HC,8
+432,National Championships Bosnia and Herzegovina - ITT 2014,NC,1
+433,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2014,2.2,4
+434,European Championships U23 - ITT 2014,CC,1
+435,European Championships U23 - Road Race 2014,CC,1
+436,Giro del Medio Brenta 2014,1.2,1
+437,GP de Pont à Marcq - La Ronde Pévèloise 2014,1.2,1
+438,Giro Ciclistico della Valle d'Aosta Mont Blanc 2014,2.2U,5
+439,Sibiu Cycling Tour 2014,2.1,5
+440,Czech Cycling Tour 2014,2.2,4
+441,Volta a Portugal do Futuro 2014,2.2U,4
+442,National Championships Peru MJ - Road Race 2014,NC,1
+443,Prueba Villafranca-Ordiziako Klasika 2014,1.1,1
+444,Central-European Tour Kosice-Miskolc 2014,1.2,1
+445,Tour de Wallonie 2014,2.HC,5
+446,GP Industria & Artigianato 2014,1.1,1
+447,Central-European Tour Szerencs-Ibrany 2014,1.2,1
+448,Giro della Toscana 2014,1.1,1
+449,Central European Tour Isaszeg-Budapest 2014,1.2,1
+450,Grand Prix de la ville de Pérenchies 2014,1.2,1
+451,Dookola Mazowsza 2014,2.2,6
+452,Volta a Portugal em Bicicleta Liberty Seguros 2014,2.1,11
+453,Tour Alsace 2014,2.2,5
+454,Circuito de Getxo 2014,1.1,1
+455,Kreiz Breizh Elites 2014,2.2,4
+456,National Championships Switzerland U23 - Road Race 2014,NC,1
+457,La Poly Normande 2014,1.1,1
+458,Trofeo Internazionale Bastianelli 2014,1.2,1
+459,Post Danmark Rundt - Tour of Denmark 2014,2.HC,6
+460,Tour of Szeklerland 2014,2.2,4
+461,Prudential RideLondon Classic 2014,1.HC,1
+462,National Championships Iceland - Road Race 2014,NC,1
+463,Antwerpse Havenpijl 2014,1.2,1
+464,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara 2014,1.2U,1
+465,Tour de l\'Ain 2014,2.1,5
+466,Vuelta a Burgos 2014,2.HC,5
+467,Arctic Race of Norway 2014,2.1,4
+468,GP Capodarco - Comunità di Capodarco 2014,1.2,1
+469,Grand Prix Kralovehradeckeho kraje 2014,1.2,1
+470,Memorial Henryka Lasaka 2014,1.2,1
+471,Puchar Uzdrowisk Karpackich 2014,1.2,1
+472,GP Stad Zottegem 2014,1.1,1
+473,Tour du Limousin 2014,2.1,4
+474,Baltic Chain Tour 2014,2.2,5
+475,National Championships France U23 - ITT 2014,NC,1
+476,Arnhem Veenendaal Classic 2014,1.1,1
+477,Puchar Ministra Obrony Narodowej 2014,1.2,1
+478,Tour de l'Avenir 2014,2.Ncup,8
+479,Châteauroux Classic de l\'Indre Trophée Fenioux 2014,1.1,1
+480,National Championships Belgium U23 - Road Race 2014,NC,1
+481,National Championships France U23 - Road Race 2014,NC,1
+482,Tour du Poitou-Charentes 2014,2.1,5
+483,Grand Prix des Marbriers 2014,1.2,1
+484,Druivenkoers - Overijse 2014,1.1,1
+485,Top Compétition 2014,1.2,1
+486,Croatia-Slovenia 2014,1.2,1
+487,Ronde van Midden-Nederland 2014,1.2,1
+488,Giro della Regione Friuli 2014,2.2,6
+489,Okolo Jižních Čech 2014,2.2,4
+490,Brussels Cycling Classic 2014,1.HC,1
+491,GP de Fourmies / La Voix du Nord 2014,1.HC,1
+492,Tour of Britain 2014,2.HC,9
+493,Kernen Omloop Echt-Susteren 2014,1.2,1
+494,De Kustpijl 2014,1.2,1
+495,Tour Bohemia 2014,1.2,1
+496,Tour du Jura 2014,1.2,1
+497,Grote Prijs Jef Scherens - Rondom Leuven 2014,1.1,1
+498,Tour du Doubs - Conseil Général 2014,1.1,1
+499,Chrono Champenois Masculin International 2014,1.2,1
+500,GP Banca di Legnano - Coppa Bernocchi 2014,1.1,1
+501,Coppa Agostoni - Giro delle Brianze 2014,1.1,1
+502,Grand Prix de Wallonie 2014,1.1,1
+503,Tre Valli Varesine 2014,1.HC,1
+504,Kampioenschap van Vlaanderen 2014,1.1,1
+505,Memorial Marco Pantani 2014,1.1,1
+506,Primus Classic Impanis - Van Petegem 2014,1.1,1
+507,GP Industria & Commercio di Prato 2014,1.1,1
+508,Grand Prix d\'Isbergues - Pas de Calais 2014,1.1,1
+509,Rabo Baronie Breda Classic 2014,1.2,1
+510,Omloop van het Houtland Lichtervelde 2014,1.1,1
+511,Tour du Gévaudan Languedoc-Roussillon 2014,2.1,2
+512,Duo Normand 2014,1.1,1
+513,Gooikse Pijl 2014,1.2,1
+514,Ruota d'Oro - GP Festa del Perdono 2014,1.2U,1
+515,Milano-Torino 2014,1.HC,1
+516,Tour de l'Eurométropole 2014,2.1,4
+517,Tour of Kavkaz 2014,2.2,5
+518,Sparkassen Münsterland Giro 2014,1.1,1
+519,Piccolo Giro di Lombardia 2014,1.2U,1
+520,Tour de Vendée 2014,1.1,1
+521,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke 2014,1.1,1
+522,Gran Premio Città di Peccioli - Coppa Sabatini 2014,1.1,1
+523,Paris-Bourges 2014,1.1,1
+524,Giro dell'Emilia 2014,1.HC,1
+525,Gran Premio Bruno Beghelli 2014,1.HC,1
+526,Paris - Tours Elite 2014,1.HC,1
+527,Paris-Tours Espoirs 2014,1.2U,1
+528,Nationale Sluitingprijs - Putte - Kapellen 2014,1.1,1
+529,Chrono des Nations 2014,1.1,1
+530,National Championships Australia - ITT 2014,NC,1
+531,National Championships Australia U23 - ITT 2014,NC,1
+532,National Championships New Zealand - ITT 2014,NC,1
+533,National Championships New Zealand U23 - ITT 2014,NC,1
+534,National Championships Australia - Road Race 2014,NC,1
+535,National Championships New Zealand - Road Race 2014,NC,1
+536,National Championships New Zealand U23 - Road Race 2014,NC,1
+537,New Zealand Cycle Classic 2014,2.2,5
+538,Herald Sun Tour 2014,2.1,5
+539,Oceania Continental Championships U23 - ITT 2014,CC,1
+540,Oceania Cycling Championships - ITT 2014,CC,1
+541,Oceania Cycling Championships - Road Race 2014,CC,1
+542,National Championships Fiji - ITT 2014,NC,1
+543,National Championships Fiji - Road Race 2014,NC,1
+544,Vuelta al Tachira en Bicicleta 2014,2.2,10
+545,Tour de San Luis 2014,2.1,7
+546,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2014,2.2,8
+547,Vuelta Independencia Nacional 2014,2.2,9
+548,Vuelta Mexico 2014,2.2,6
+549,National Championships Uruguay - Road Race 2014,NC,1
+550,National Championships Paraguay - ITT 2014,NC,1
+551,Volta Ciclística Internacional do Rio Grande do Sul 2014,2.2,5
+552,National Championships Colombia - ITT 2014,NC,1
+553,National Championships Colombia U23 - ITT 2014,NC,1
+554,National Championships Colombia U23 - Road Race 2014,NC,1
+555,National Championships Colombia  - Road Race 2014,NC,1
+556,Winston-Salem Cycling Classic 2014,1.2,1
+557,Volta Ciclistica internacional do Paraná 2014,2.2,5
+558,Tour of the Gila 2014,2.2,5
+559,National Championships Argentina - ITT 2014,NC,1
+560,National Championships Argentina - Road Race 2014,NC,1
+561,National Championchips Argentina U23 - Road Race 2014,NC,1
+562,Champ. Panaméricain c.l.m. ind. / Panamerican Champ. ind. TT 2014,CC,1
+563,Champ. Panaméricain c.l.m. ind. / Panamerican Champ. ind. TT - MU 2014,CC,1
+564,Champ. Panaméricain en ligne / Panamerican Champ. RR - MU 2014,CC,1
+565,Amgen Tour of California 2014,2.HC,8
+566,Champ. Panaméricain-en ligne / Panamerican Champ. ind. RR 2014,CC,1
+567,National Championships United States - ITT 2014,NC,1
+568,National Championships United States - Road Race 2014,NC,1
+569,The Philadelphia Cycling Classic 2014,1.1,1
+570,Grand Prix Cycliste Saguenay 2014,2.2,4
+571,National Championships Barbados - ITT 2014,NC,1
+572,Tour de Beauce 2014,2.2,5
+573,National Championships Costa Rica - ITT 2014,NC,1
+574,National Championships Suriname - ITT 2014,NC,1
+575,National Championships Bolivia - ITT 2014,NC,1
+576,National Championships Barbados - Road Race 2014,NC,1
+577,National Championships Bermuda - ITT 2014,NC,1
+578,National Championships Bolivia - Road Race 2014,NC,1
+579,National Championships Costa Rica - Road Race 2014,NC,1
+580,National Championships Curaçao - Road Race 2014,NC,1
+581,National Championships El Salvador - ITT 2014,NC,1
+582,National Championships Guatemala - ITT 2014,NC,1
+583,National Championships Nicaragua - ITT 2014,NC,1
+584,National Championships Suriname - Road Race 2014,NC,1
+585,National Championships Venezuela - Road Race 2014,NC,1
+586,National Championships Costa Rica U23 - Road Race 2014,NC,1
+587,National Championships El Salvador - ITT 2014,NC,1
+588,National Championships Guatemala U23 - ITT 2014,NC,1
+589,National Championships Venezuela - ITT 2014,NC,1
+590,National Championships Venezuela U23 - ITT 2014,NC,1
+591,National Championships Cuba - ITT 2014,NC,1
+592,National Championships Canada - ITT 2014,NC,1
+593,National Championships Brazil - ITT 2014,NC,1
+594,National Championships Dominican Republic - ITT 2014,NC,1
+595,National Championships Ecuador - ITT 2014,NC,1
+596,National Championships Panama - ITT 2014,NC,1
+597,National Championships Belize - ITT 2014,NC,1
+598,National Championships Canada - Road Race 2014,NC,1
+599,National Championships Cuba - Road Race 2014,NC,1
+600,National Championships Guyana - ITT 2014,NC,1
+601,National Championships Jamaica - ITT 2014,NC,1
+602,National Championships Mexico - ITT 2014,NC,1
+603,National Championships Guatemala U23 - Road Race 2014,NC,1
+604,National Championships Mexico U23 - ITT 2014,NC,1
+605,National Championships Belize - Road Race 2014,NC ,1
+606,National Championships Bermuda - Road Race 2014,NC,1
+607,National Championships Brazil - Road Race 2014,NC,1
+608,National Championships Dominican Republic - Road Race 2014,NC,1
+609,National Championships El Salvador - Road Race 2014,NC,1
+610,National Championships Guatemala - Road Race 2014,NC,1
+611,National Championships Guyana - Road Race 2014,NC,1
+612,National Championships Jamaica - Road Race 2014,NC,1
+613,National Championships Mexico - Road Race 2014,NC,1
+614,National Championships Panama - Road Race 2014,NC,1
+615,National Championships Puerto Rico - Road Race 2014,NC,1
+616,National Championships United States U23 - Road Race 2014,NC,1
+617,National Championships United States U23 - ITT 2014,NC,1
+618,Vuelta Ciclista a Venezuela 2014,2.2,10
+619,White Spot / Delta Road Race 2014,1.2,1
+620,Tour Cycliste International de la Guadeloupe 2014,2.2,11
+621,The Larry H.Miller Tour of Utah 2014,2.1,7
+622,Vuelta a Colombia 2014,2.2,11
+623,"Vuelta al Sur de Bolivia (Sucre, Potosi) 2014","Sucre, Potosi)",5
+624,USA Pro Challenge 2014,2.HC,7
+625,Tour do Rio 2014,2.2,6
+626,Tour of Alberta 2014,2.1,6
+627,Bucks County Classic 2014,1.2,1
+628,Tobago Cycling Classic 2014,1.2,1
+629,Vuelta a Guatemala 2014,2.2,9
+630,Central American and Caribbean Games - ITT 2014,JR,1
+631,Central American and Caribbean Games WE - ITT 2014,JR,1
+632,Central American and Caribbean Games 2014,JR,1
+633,Vuelta Kolbi a Costa Rica 2014,2.2,11
+634,Santos Tour Down Under 2015,2.UWT,6
+635,Paris - Nice 2015,2.UWT,8
+636,Tirreno-Adriatico 2015,2.UWT,7
+637,Milano-Sanremo 2015,1.UWT,1
+638,Volta Ciclista a Catalunya 2015,2.UWT,7
+639,E3 Harelbeke 2015,1.UWT,1
+640,Gent - Wevelgem 2015,1.UWT,1
+641,Ronde van Vlaanderen / Tour des Flandres 2015,1.UWT,1
+642,Vuelta Ciclista al Pais Vasco 2015,2.UWT,6
+643,Paris - Roubaix 2015,1.UWT,1
+644,Amstel Gold Race 2015,1.UWT,1
+645,La Flèche Wallonne 2015,1.UWT,1
+646,Liège - Bastogne - Liège 2015,1.UWT,1
+647,Tour de Romandie 2015,2.UWT,6
+648,Giro d'Italia 2015,2.UWT,21
+649,Critérium du Dauphiné 2015,2.UWT,8
+650,Tour de Suisse 2015,2.UWT,9
+651,Tour de France 2015,2.UWT,21
+652,Clasica Ciclista San Sebastian 2015,1.UWT,1
+653,Tour de Pologne 2015,2.UWT,7
+654,Eneco Tour 2015,2.UWT,7
+655,Vuelta a España 2015,2.UWT,21
+656,Vattenfall Cyclassics 2015,1.UWT,1
+657,GP Ouest France - Plouay 2015,1.UWT,1
+658,Grand Prix Cycliste de Québec 2015,1.UWT,1
+659,Grand Prix Cycliste de Montréal 2015,1.UWT,1
+660,Il Lombardia 2015,1.UWT,1
+661,World Championships - TTT 2015,WC,1
+662,World Championships - ITT 2015,WC,1
+663,World Championships U23 - Road Race 2015,WC,1
+664,World Championships WE - Road Race 2015,WC,1
+665,Tour of Egypt 2015,2.2,5
+666,National Championships Namibia - ITT 2015,NC,1
+667,National Championships Namibia - Road Race 2015,NC,1
+668,National Championships South Africa - ITT 2015,NC,1
+669,National Championships South Africa U23 - ITT 2015,NC,1
+670,National Championships South Africa - Road Race 2015,NC,1
+671,African Continental Championships - TTT 2015,CC,1
+672,African Continental Championships - ITT 2015,CC,1
+673,African Continental Championships - Road Race 2015,CC,1
+674,La Tropicale Amissa Bongo 2015,2.1,8
+675,Les Challenges de la Marche Verte - GP Sakia El Hamra 2015,1.2,1
+676,Les Challenges de la Marche Verte - GP Oued Eddahab 2015,1.2,1
+677,Les Challenges de la Marche Verte - GP Al Massira 2015,1.2,1
+678,Circuit International d\'Alger 2015,1.2,1
+679,Tour Internationale d'Oranie 2015,2.2,3
+680,Grand Prix de la Ville d\'Oran 2015,1.2,1
+681,Tour International de Blida 2015,2.2,3
+682,Tour du Cameroun 2015,2.2,8
+683,Criterium International de Setif 2015,1.2,1
+684,Tour International de Setif 2015,2.2,4
+685,Tour Internationale d'Annaba 2015,2.2,4
+686,Tour International de Constantine 2015,2.2,3
+687,Circuit International de Constantine 2015,1.2,1
+688,Criterium International de Blida 2015,1.2,1
+689,Tour du Maroc 2015,2.2,10
+690,National Championships Togo - Road Race 2015,NC,1
+691,PMB Road Classic 2015,1.2,1
+692,Mayday Classic 2015,1.2,1
+693,Hibiscus Cycle Classic 2015,1.2,1
+694,Challenge du Prince - Trophée Princier 2015,1.2,1
+695,Challenge du Prince - Trophée de l'Anniversaire 2015,1.2,1
+696,Challenge du Prince - Trophée de la Maison Royale 2015,1.2,1
+697,National championships Algeria - ITT 2015,NC,1
+698,National Championships Morocco  - ITT 2015,NC,1
+699,National Championships Tunisia - ITT 2015,NC,1
+700,National Championships Algeria - Road Race 2015,NC,1
+701,National Championships Morocco - Road Race 2015,NC,1
+702,National Championships Tunisia - Road Race 2015,NC,1
+703,National Championships Mauritius  - ITT 2015,NC,1
+704,National Championships Eritrea - ITT 2015,NC,1
+705,National Championships Ethiopia - ITT 2015,NC,1
+706,National Championships Ivory Coast - Road Race 2015,NC,1
+707,National Championships Rwanda - ITT 2015,NC,1
+708,National Championships Zimbabwe - Road Race 2015,NC,1
+709,National Championships Ethiopia U23 - ITT 2015,NC,1
+710,National Championships  Rwanda - Road Race 2015,NC,1
+711,National Championships Eritrea - Road Race 2015,NC,1
+712,National Championships Ethiopia - Road Race 2015,NC,1
+713,National Championships Mauritius  - Road Race 2015,NC,1
+714,National Championships Sao Tome and Principe - Road Race 2015,NC,1
+715,National Championships Zimbabwe - ITT 2015,NC,1
+716,National Championships Eritrea MJ - Road Race 2015,NC,1
+717,National Championships Uganda - Road Race 2015,NC,1
+718,National Championships Angola - ITT 2015,NC,1
+719,National Championships Angola - Road Race 2015,NC,1
+720,Jeux Africains 2015 de Brazzaville - TTT 2015,JR,1
+721,Jeux Africains 2015 de Brazzaville - ITT 2015,JR,1
+722,Jeux Africains 2015 de Brazzaville - Road Race 2015,JR,1
+723,Tour de Côte d'Ivoire-Tour de la Réconciliation 2015,2.2,6
+724,Grand Prix Chantal Biya 2015,2.2,4
+725,Tour du Faso 2015,2.2,10
+726,Tour of Rwanda 2015,2.2,8
+727,Challenge des phosphates-Grand prix de Khouribga 2015,1.2,1
+728,Challenge des phosphates-Grand Prix Fkih Ben Saleh 2015,1.2,1
+729,Challenge des phosphates-Grand prix de Ben Guerir 2015,1.2,1
+730,Tour of Egypt 2015,2.2,5
+731,Le Tour de Filipinas 2015,2.2,4
+732,Dubai Tour 2015,2.HC,4
+733,Tour of Qatar 2015,2.HC,6
+734,Asian Cycling Championships U23 - Road Race 2015,CC,1
+735,Asian Cycling Championships - Road Race 2015,CC,1
+736,Asian Cycling Championships - Road Race 2015 | ,CC,1
+737,Asian Cycling Championships - ITT 2015,CC,1
+738,Asian Continental Championships U23 - ITT 2015,CC,1
+739,Tour of Oman 2015,2.HC,6
+740,Le Tour de Langkawi 2015,2.HC,8
+741,Tour de Taiwan 2015,2.1,5
+742,The Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2015,2.2,6
+743,National Championships Kuwait - ITT 2015,NC,1
+744,National Championships Kuwait - Road Race 2015,NC,1
+745,National Championships United Arab Emirates - ITT 2015,NC,1
+746,National Championships United Arab Emirates - Road Race 2015,NC,1
+747,International Tour de Banyuwangi Ijen 2015,2.2,4
+748,National Championships Iran - ITT 2015,NC,1
+749,National Championships Iran - Road Race 2015,NC,1
+750,Tour of Japan 2015,2.1,7
+751,National Championships Malaysia - Road Race 2015,NC,1
+752,Tour of Iran (Azarbaijan) 2015,Azarbaijan),6
+753,Tour de Kumano 2015,2.2,4
+754,Tour de Korea 2015,2.1,8
+755,South East Asian Games - ITT 2015,JR,1
+756,South East Asian Games - Road Race 2015,JR,1
+757,National Championships Syria - Road Race 2015,NC,1
+758,National Championships Syria U23 - Road Race 2015,NC,1
+759,National Championships Syria - ITT 2015,NC,1
+760,National Championships Syria U23 - ITT 2015,NC,1
+761,National Championships Japan - ITT 2015,NC,1
+762,National Championships Japan U23 - ITT 2015,NC,1
+763,National Championships Libanon - ITT 2015,NC,1
+764,National Championships Uzbekistan - ITT 2015,NC,1
+765,National Championships Uzbekistan U23 - ITT 2015,NC,1
+766,National Championships Israel - ITT 2015,NC,1
+767,National Championships China - ITT 2015,NC,1
+768,National Championships Kazakhstan - ITT 2015,NC,1
+769,National Championships Mongolia - ITT 2015,NC,1
+770,National Championships South Korea - ITT 2015,NC,1
+771,National Championships Uzbekistan - Road Race 2015,NC,1
+772,National Championships Uzbekistan U23 - Road Race 2015,NC,1
+773,National Championships Kyrgyzstan - Road Race 2015,NC,1
+774,National Championships South Korea - Road Race 2015,NC,1
+775,National Championships China - Road Race 2015,NC,1
+776,National Championships Hong Kong - ITT 2015,NC,1
+777,National Championships Israel - Road Race 2015,NC,1
+778,National Championships Mongolia  - Road Race 2015,NC,1
+779,National Championships Philippines - Road Race 2015,NC,1
+780,National Championships Thailand - ITT 2015,NC,1
+781,National Championships Japan U23 - Road Race 2015,NC,1
+782,National Championships Hong Kong - Road Race 2015,NC,1
+783,National Championships Japan - Road Race 2015,NC,1
+784,National Championships Kazakhstan - Road Race 2015,NC,1
+785,National Championships Kyrgyzstan - ITT 2015,NC,1
+786,National Championships Libanon - Road Race 2015,NC,1
+787,National Championships Philippines - ITT 2015,NC,1
+788,National Championships Thailand - Road Race 2015,NC,1
+789,Tour of Qinghai Lake 2015,2.HC,13
+790,Tour de Hokkaido 2015,2.2,3
+791,Tour of China I 2015,2.1,6
+792,Tour of Singkarak 2015,2.2,9
+793,Tour of Almaty 2015,1.1,1
+794,Abu Dhabi Tour 2015,2.1,4
+795,Tour of China II 2015,2.1,6
+796,Japan Cup Cycle Road Race 2015,1.HC,1
+797,Tour of Hainan 2015,2.HC,9
+798,Tour of Taihu Lake 2015,2.1,9
+799,Tour of Borneo 2015,2.2,5
+800,Tour de Okinawa 2015,1.2,1
+801,Tour of Yancheng Coastal Wetlands 2015,2.2,2
+802,Tour of Fuzhou 2015,2.2,3
+803,National Championships Taiwan - Road Race 2015,NC,1
+804,Sharjah International Cycling Tour 2015,2.2,4
+805,National Championships Taiwan - ITT 2015,NC,1
+806,UAE Cup 2015,1.2,1
+807,Jelajah Malaysia 2015,2.2,5
+808,Tour of Al Zubarah 2015,2.2,4
+809,Trofeo Santanyi-Ses Salines-Campos 2015,1.1,1
+810,Trofeo Andratx-Mirador d\'Es Colomer 2015,1.1,1
+811,Trofeo Serra de Tramuntana 2015,1.1,1
+812,Grand Prix Cycliste la Marseillaise 2015,1.1,1
+813,Trofeo Playa de Palma-Palma 2015,1.1,1
+814,Etoile de Bessèges 2015,2.1,5
+815,G.P. Costa degli Etruschi 2015,1.1,1
+816,Vuelta Ciclista a Murcia 2015,1.1,1
+817,Clasica de Almeria 2015,1.1,1
+818,GP Laguna 2015,1.2,1
+819,Volta ao Algarve em Bicicleta 2015,2.1,5
+820,Vuelta a Andalucia Ruta Ciclista Del Sol 2015,2.1,6
+821,Trofeo Laigueglia 2015,1.HC,1
+822,Tour Cycliste International du Haut Var Matin 2015,2.1,2
+823,Omloop Het Nieuwsblad Elite 2015,1.HC,1
+824,Classic Sud Ardèche - Souvenir Francis Delpech 2015,1.1,1
+825,Ster van Zwolle 2015,1.2,1
+826,SuisseGas Gran Premio Città di Lugano 2015,1.HC,1
+827,Kuurne-Bruxelles-Kuurne 2015,1.1,1
+828,La Drome Classic 2015,1.1,1
+829,Clássica Internacional Loulé Capital Europeia do Desporto 2015,1.2,1
+830,GP Izola 2015,1.2,1
+831,Le Samyn 2015,1.1,1
+832,Trofej Umag - Umag Trophy 2015,1.2,1
+833,Driedaagse van West-Vlaanderen 2015,2.1,3
+834,Strade Bianche 2015,1.HC,1
+835,Porec Trophy - Trofej Porec 2015,1.2,1
+836,Troféu Alpendre Internacional do Guadiana 2015,2.2,2
+837,Rabobank Dorpenomloop Rucphen 2015,1.2,1
+838,Istarsko proljece - Istrian Spring Trophy 2015,2.2,4
+839,Albert Achterhes Pet Ronde van Drenthe 2015,1.1,1
+840,Energiewacht Dwars door Drenthe 2015,1.1,1
+841,Omloop van het Waasland 2015,1.2,1
+842,Paris-Troyes 2015,1.2,1
+843,Sochi Cup 2015,1.2,1
+844,Nokere Koerse - Danilith Classic 2015,1.1,1
+845,Grand Prix of Sochi Mayor 2015,1.2,1
+846,GP Nobili Rubinetterie-Coppa Papa Carlo-Coppa Cittá  di Stresa 2015,1.HC,1
+847,Grand Prix of Sochi 2015,2.2,4
+848,Handzame Classic 2015,1.1,1
+849,Classic Loire Atlantique 2015,1.1,1
+850,Ronde van Zeeland Seaports 2015,1.1,1
+851,GP Liberty Seguros-Troféu Sudoeste Alentejano e Costa Vicentina 2015,2.2,2
+852,Cholet-Pays de Loire 2015,1.1,1
+853,Tour de Normandie 2015,2.2,7
+854,Tour of Çanakkale 2015,2.2,4
+855,Dwars door Vlaanderen / A travers la Flandre 2015,1.HC,1
+856,Volta ao Alentejo / Liberty Seguros 2015,2.2,5
+857,Classica Corsica 2015,1.1,1
+858,Settimana Internazionale Coppi e Bartali 2015,2.1,5
+859,Critérium International 2015,2.HC,3
+860,Driedaagse De Panne-Koksijde 2015,2.HC,4
+861,Krasnodar - Anapa 2015,1.2,1
+862,Tour of Kuban 2015,2.2,4
+863,Route Adélie de Vitré 2015,1.1,1
+864,Le Triptyque des Monts et Châteaux 2015,2.2,4
+865,Gran Premio Miguel Indurain 2015,1.1,1
+866,Volta Limburg Classic 2015,1.1,1
+867,Paris-Camembert 2015,1.1,1
+868,Vuelta Ciclista a La Rioja 2015,1.1,1
+869,GP Adria Mobil 2015,1.2,1
+870,Trofeo Piva 2015,1.2U,1
+871,Giro Belvedere di Villa di Cordignano 2015,1.2U,1
+872,Circuit Cycliste Sarthe - Pays de la Loire 2015,2.1,5
+873,Scheldeprijs 2015,1.HC,1
+874,Tour of Mersin 2015,2.2,4
+875,Circuit des Ardennes 2015,2.2,4
+876,Ronde van Vlaanderen Beloften 2015,1.Ncup,1
+877,Trofeo Edil C 2015,1.2,1
+878,Klasika Primavera de Amorebieta 2015,1.1,1
+879,De Brabantse Pijl - La Flèche Brabançonne 2015,1.HC,1
+880,La Côte Picarde 2015,1.Ncup,1
+881,Maykop - Ulyap - Maykop 2015,1.2,1
+882,Tour du Loir et Cher E Provost 2015,2.2,5
+883,GP de Denain Porte du Hainaut 2015,1.1,1
+884,Grand Prix of Adygeya 2015,2.2,4
+885,Vuelta a Castilla y Leon 2015,2.1,3
+886,ZLM Roompot Tour 2015,2.Ncup,3
+887,Tour du Finistère 2015,1.1,1
+888,Arno Wallaard Memorial 2015,1.2,1
+889,Belgrade Banjaluka I 2015,1.2,1
+890,Liège - Bastogne - Liège U23 2015,1.2U,1
+891,Tro-Bro Léon 2015,1.1,1
+892,Belgrade Banjaluka II 2015,1.2,1
+893,Profronde van Noord-Holland 2015,1.2,1
+894,Giro del Trentino-Melinda 2015,2.HC,4
+895,Tour of Croatia 2015,2.1,5
+896,Gran Premio della Liberazione 2015,1.2U,1
+897,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2015,2.2,7
+898,Zuid Oost Drenthe Classic I 2015,1.2,1
+899,Presidential Cycling Tour of Turkey 2015,2.HC,8
+900,Giro dell'Appennino 2015,1.1,1
+901,La Roue Tourangelle Région Centre - Trophée Harmonie Mutuelle 2015,1.1,1
+902,Paris - Mantes-en-Yvelines 2015,1.2,1
+903,Rutland - Melton International CiCLE Classic 2015,1.2,1
+904,Carpathian Couriers Race U-23 2015,2.2U,6
+905,Tour de Yorkshire 2015,2.1,3
+906,GP Viborg 2015,1.2,1
+907,Memorial Andrzeja Trochanowskiego 2015,1.2,1
+908,Moscow Cup 2015,1.2,1
+909,National Championships Belgium U23 - ITT 2015,NC,1
+910,Vuelta Asturias Julio Alvarez Mendo 2015,2.1,2
+911,Himmerland Rundt 2015,1.2,1
+912,Memorial of Oleg Dyachenko 2015,1.2,1
+913,Memoriał Romana Siemińskiego 2015,1.2,1
+914,Ronde van Overijssel 2015,1.2,1
+915,Grand Prix de la Somme « Conseil Général 80» 2015,1.1,1
+916,Circuito del Porto - Trofeo Arvedi 2015,1.2,1
+917,Grand Prix of Moscow 2015,1.2,1
+918,Skive-Løbet 2015,1.2,1
+919,Five rings of Moscow 2015,2.2,5
+920,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais 2015,2.HC,5
+921,Tour d'Azerbaïdjan 2015,2.1,5
+922,Szlakiem Grodòw Piastowskich 2015,2.2,4
+923,National Championships Cyprus - ITT 2015,NC,1
+924,Vuelta Ciclista Comunidad de Madrid 2015,2.1,2
+925,Berner Rundfahrt / Tour de Berne 2015,1.2,1
+926,Hadeland GP 2015,1.2,1
+927,Scandinavian Race in Uppsala 1909-2015 2015,1.2,1
+928,National Championships Cyprus - Road Race 2015,NC,1
+929,Flèche Ardennaise 2015,1.2,1
+930,Grand Prix de la Ville de Nogent-sur-Oise 2015,1.2,1
+931,Ringerike GP 2015,1.2,1
+932,Tr. Città di San Vendemiano - 55° GP Industria & Commercio 2015,1.2U,1
+933,Olympia's 3M Tour 2015,2.2,8
+934,Bayern Rundfahrt 2015,2.HC,5
+935,National Championships Azerbaijan - ITT 2015,NC,1
+936,Flèche du Sud 2015,2.2,5
+937,Rhône-Alpes Isère Tour 2015,2.2,4
+938,Tour de Berlin 2015,2.2U,4
+939,Tour de Picardie 2015,2.1,3
+940,National Championships Azerbaijan - Road Race 2015,NC,1
+941,Tour of Black Sea 2015,2.2,4
+942,Visegrad 4 Bicycle Race - GP Czech Republic 2015,1.2,1
+943,An Post Rás 2015,2.2,8
+944,Gran Premio Industrie del Marmo 2015,1.2,1
+945,Grand Prix Criquielion 2015,1.2,1
+946,Visegrad V4 Race - GP Polski 2015,1.2,1
+947,Tour of Norway 2015,2.HC,5
+948,Bałtyk - Karkonosze Tour 2015,2.2,6
+949,Ronde de l'Isard 2015,2.2U,4
+950,Paris-Arras Tour 2015,2.2,3
+951,World Ports Classic 2015,2.1,2
+952,Visegrad 4 Bicycle Race - GP Hungary - EYOF Test Race 2015,1.2,1
+953,Visegrad 4 Bicycle Race - GP Slovakia 2015,1.2,1
+954,Baloise Belgium Tour 2015,2.HC,5
+955,Tour des Fjords 2015,2.1,5
+956,Tour of Estonia 2015,2.1,2
+957,Course de la Paix U23 / Závod Míru U23 2015,2.Ncup,3
+958,Horizon Park Race for Peace 2015,1.2,1
+959,Tour de Gironde 2015,2.2,3
+960,Grand Prix de Plumelec-Morbihan 2015,1.1,1
+961,Horizon Park Race Maidan 2015,1.2,1
+962,Boucles de l'Aulne - Châteaulin 2015,1.1,1
+963,Garmin Velothon Berlin 2015,1.1,1
+964,Horizon Park Classic 2015,1.2,1
+965,Paris-Roubaix Espoirs 2015,1.2U,1
+966,Trofeo Alcide Degasperi 2015,1.2,1
+967,Skoda-Tour de Luxembourg 2015,2.HC,5
+968,Boucles de la Mayenne 2015,2.1,4
+969,National Championships Denmark U23 - ITT 2015,NC,1
+970,Grand Prix of Vinnytsia 2015,1.2,1
+971,National Championships Macedonia - ITT 2015,NC,1
+972,Coppa della Pace - Trofeo F.lli Anelli 2015,1.2,1
+973,Grand Prix of ISD 2015,1.2,1
+974,Memorial Philippe Van Coningsloo 2015,1.2,1
+975,National Championships Denmark U23 - Road Race 2015,NC,1
+976,Okolo Slovenska 2015,2.2,5
+977,Tour of Ankara 2015,2.2,4
+978,GP du canton d'Argovie 2015,1.HC,1
+979,Ronde de l'Oise 2015,2.2,4
+980,National Championships Slovenia - ITT 2015,NC,1
+981,Tour of Malopolska 2015,2.2,3
+982,GP Horsens 2015,1.2,1
+983,Ronde van Limburg 2015,1.1,1
+984,Rund um Köln 2015,1.1,1
+985,Velothon Wales 2015,1.1,1
+986,Fyen Rundt - Tour of Fyen 2015,1.2,1
+987,Grand Prix Sarajevo 2015,1.2,1
+988,Int. Raiffeisen Grand Prix Judendorf/Straßengel 2015,1.2,1
+989,Ster ZLM Toer GP Jan van Heeswijk 2015,2.1,5
+990,Route du Sud - la Depeche du Midi 2015,2.1,4
+991,Tour de Slovénie 2015,2.1,4
+992,European Games - ITT 2015,JR,1
+993,Oberösterreichrundfahrt 2015,2.2,4
+994,Tour de Serbie 2015,2.2,4
+995,Tour des Pays de Savoie 2015,2.2,5
+996,Korona Kocich Gor 2015,1.2,1
+997,Beaumont Trophy 2015,1.2,1
+998,Circuit de Wallonie Ville de Fleurus 2015,1.2,1
+999,European Games - Road Race 2015,JR,1
+1000,Memorial im. J. Grundmanna and J. Wizowskiego 2015,1.2,1
+1001,National Championships Norway U23 - Road Race 2015,NC,1
+1002,Halle Ingooigem 2015,1.1,1
+1003,National Championships Finland - ITT 2015,NC,1
+1004,National Championships Italy - ITT 2015,NC,1
+1005,National Championships Netherlands - ITT 2015,NC,1
+1006,National Championships Poland - ITT 2015,NC,1
+1007,National Championships Switzerland - ITT 2015,NC,1
+1008,National Championships Turkey - ITT 2015,NC,1
+1009,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2015,1.2,1
+1010,National Championships Finland U23 - ITT 2015,NC,1
+1011,National Championships Netherlands U23 - ITT 2015,NC,1
+1012,National Championships Poland U23 - ITT 2015,NC,1
+1013,National Championships Switzerland U23 - ITT 2015,NC,1
+1014,National Championships Denmark - ITT 2015,NC,1
+1015,National Championships Estonia - ITT 2015,NC,1
+1016,National Championships France - ITT 2015,NC,1
+1017,National Championships Great Britain - ITT 2015,NC,1
+1018,National Championships Hungary - ITT 2015,NC,1
+1019,National Championships Ireland - ITT 2015,NC,1
+1020,National Championships Luxembourg - ITT 2015,NC,1
+1021,National Championships Norway - ITT 2015,NC,1
+1022,National Championships Sweden - ITT 2015,NC,1
+1023,National Championships Great Britain U23 - ITT 2015,NC,1
+1024,National Championships Hungary - ITT 2015,NC,1
+1025,National Championships Luxembourg U23 - ITT 2015,NC,1
+1026,National Championships  Portugal - ITT 2015,NC,1
+1027,National Championships Albania - ITT 2015,NC,1
+1028,National Championships Austria - ITT 2015,NC,1
+1029,National Championships Belarus - ITT 2015,NC,1
+1030,National Championships Belgium - ITT 2015,NC,1
+1031,National Championships Czech Republic - ITT 2015,NC,1
+1032,National Championships Czech Republic U23 - ITT 2015,NC,1
+1033,National Championships Germany - ITT 2015,NC,1
+1034,National Championships Greece - ITT 2015,NC,1
+1035,National Championships Latvia - ITT 2015,NC,1
+1036,National Championships Lithuania - ITT 2015,NC,1
+1037,National Championships Russia - ITT 2015,NC,1
+1038,National Championships Serbia - ITT 2015,NC,1
+1039,National Championships Slovakia - ITT 2015,NC,1
+1040,National Championships Spain - ITT 2015,NC,1
+1041,National Championships Turkey - Road Race 2015,NC,1
+1042,National Championships Ukraine - ITT 2015,NC,1
+1043,National Championships Albania U23 - ITT 2015,NC,1
+1044,National Championships Belarus U23 - ITT 2015,NC,1
+1045,National Championships Germany U23 - ITT 2015,NC,1
+1046,National Championships Latvia U23 - ITT 2015,NC,1
+1047,National Championships Portugal U23 - ITT 2015,NC,1
+1048,National Championships Russia U23 - ITT 2015,NC,1
+1049,National Championships Serbia U23 - ITT 2015,NC,1
+1050,National Championships Slovakia U23 - ITT 2015,NC,1
+1051,National Championships Spain U23 - ITT 2015,NC,1
+1052,National Championships Ukraine U23 - ITT 2015,NC,1
+1053,National Championships Bulgaria - ITT 2015,NC,1
+1054,National Championships Croatia - ITT 2015,NC,1
+1055,National Championships Georgia - ITT 2015,NC,1
+1056,National Championships Italy - Road Race 2015,NC,1
+1057,National Championships Moldova - ITT 2015,NC,1
+1058,National Championships Romania - ITT 2015,NC,1
+1059,National Championships Romania U23 - ITT 2015,NC,1
+1060,National Championships Netherlands U23 - Road Race 2015,NC,1
+1061,National Championships Poland U23 - Road Race 2015,NC,1
+1062,National Championships Portugal U23 - Road Race 2015,NC,1
+1063,National Championships Russia U23 - Road Race 2015,NC,1
+1064,National Championships Spain U23 - Road Race 2015,NC,1
+1065,National Championships Ukraine U23 - Road Race 2015,NC,1
+1066,National Championships  Portugal - Road Race 2015,NC,1
+1067,National Championships Albania - Road Race 2015,NC,1
+1068,National Championships Austria - Road Race 2015,NC,1
+1069,National Championships Belarus - Road Race 2015,NC,1
+1070,National Championships Belgium - Road Race 2015,NC,1
+1071,National Championships Bosnia and Herzegovina - Road Race 2015,NC,1
+1072,National Championships Bulgaria - Road Race 2015,NC,1
+1073,National Championships Croatia - Road Race 2015,NC,1
+1074,National Championships Czech Republic - Road Race 2015,NC,1
+1075,National Championships Denmark - Road Race 2015,NC,1
+1076,National Championships Estonia  - Road Race 2015,NC,1
+1077,National Championships Finland - Road Race 2015,NC,1
+1078,National Championships France - Road Race 2015,NC,1
+1079,National Championships Georgia - Road Race 2015,NC,1
+1080,National Championships Germany - Road Race 2015,NC,1
+1081,National Championships Great Britain - Road Race 2015,NC,1
+1082,National Championships Greece - Road Race 2015,NC,1
+1083,National Championships Hungary - Road Race 2015,NC,1
+1084,National Championships Ireland - Road Race 2015,NC,1
+1085,National Championships Latvia - Road Race 2015,NC,1
+1086,National Championships Lithuania - Road Race 2015,NC,1
+1087,National Championships Luxembourg - Road Race 2015,NC,1
+1088,National Championships Macedonia - Road Race 2015,NC,1
+1089,National Championships Moldova - Road Race 2015,NC,1
+1090,National Championships Montenegro - Road Race 2015,NC,1
+1091,National Championships Netherlands - Road Race 2015,NC,1
+1092,National Championships Norway - Road Race 2015,NC,1
+1093,National Championships Poland - Road Race 2015,NC,1
+1094,National Championships Romania - Road Race 2015,NC,1
+1095,National Championships Russia - Road Race 2015,NC,1
+1096,National Championships Serbia - Road Race 2015,NC,1
+1097,National Championships Slovakia - Road Race 2015,NC,1
+1098,National Championships Slovenia - Road Race 2015,NC,1
+1099,National Championships Spain - Road Race 2015,NC,1
+1100,National Championships Sweden - Road Race 2015,NC,1
+1101,National Championships Switzerland - Road Race 2015,NC,1
+1102,National Championships Ukraine - Road Race 2015,NC,1
+1103,National Championships Albania U23 - Road Race 2015,NC,1
+1104,National Championships Belarus U23 - Road Race 2015,NC,1
+1105,National Championships Italy U23 - Road Race 2015,NC,1
+1106,National Championships Romania U23 - Road Race 2015,NC,1
+1107,Sibiu Cycling Tour 2015,2.1,5
+1108,Course Cycliste de Solidarnosc et des Champions Olympiques 2015,2.2,5
+1109,Int. Österreich-Rundfahrt-Tour of Austria 2015,2.HC,9
+1110,Grand Prix Minsk 2015,1.2,1
+1111,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2015,1.2,1
+1112,Minsk Cup 2015,1.2,1
+1113,National Championships Germany U23 - Road Race 2015,NC,1
+1114,National Championships Switzerland U23 - Road Race 2015,NC,1
+1115,Paris-Chauny (classique) 2015,classique),1
+1116,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2015,2.2,4
+1117,Giro del Medio Brenta 2015,1.2,1
+1118,Giro Ciclistico della Valle d'Aosta Mont Blanc 2015,2.2U,6
+1119,Volta a Portugal do Futuro / Liberty Seguros 2015,2.2U,4
+1120,Trofeo Matteotti 2015,1.1,1
+1121,Dwars door de Vlaamse Ardennen 2015,1.2,1
+1122,Grand Prix Cerami 2015,1.1,1
+1123,Podlasie Tour 2015,2.2,3
+1124,Tour de Wallonie 2015,2.HC,5
+1125,Prueba Villafranca-Ordiziako Klasika 2015,1.1,1
+1126,National Championships Italy U23 - ITT 2015,NC,1
+1127,Coppa dei Laghi - Trofeo Almar 2015,1.Ncup,1
+1128,Grand Prix de la ville de Pérenchies 2015,1.2,1
+1129,Dookola Mazowsza 2015,2.2,5
+1130,Volta a Portugal em Bicicleta / Liberty Seguros 2015,2.1,11
+1131,Tour Alsace 2015,2.2,5
+1132,Circuito de Getxo 2015,1.1,1
+1133,National Championships Belgium U23 - Road Race 2015,NC,1
+1134,Kreiz Breizh Elites 2015,2.2,4
+1135,Odessa Grand Prix - 2 2015,1.2,1
+1136,Tour Cycliste International de la Guadeloupe 2015,2.2,11
+1137,Prudential RideLondon & Surrey Classic 2015,1.HC,1
+1138,La Poly Normande 2015,1.1,1
+1139,Odessa Grand Prix - 2 2015,1.2,1
+1140,Trofeo Internazionale Bastianelli 2015,1.2,1
+1141,Post Danmark Rundt - Tour of Denmark 2015,2.HC,6
+1142,Vuelta a Burgos 2015,2.HC,5
+1143,Tour de Hongrie 2015,2.2,6
+1144,Tour of Szeklerland 2015,2.2,4
+1145,UEC Road European Championships U23 - ITT 2015,CC,1
+1146,Memorial Henryka Lasaka 2015,1.2,1
+1147,UEC Road European Championships U23 - Road Race 2015,CC,1
+1148,National Championships Iceland - Road Race 2015,NC,1
+1149,Antwerpse Havenpijl 2015,1.2,1
+1150,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara 2015,1.2U,1
+1151,Puchar Uzdrowisk Karpackich 2015,1.2,1
+1152,Tour de l'Ain 2015,2.1,5
+1153,Arctic Race of Norway 2015,2.HC,4
+1154,Czech Cycling Tour 2015,2.1,4
+1155,GP Capodarco - Comunità di Capodarco 2015,1.2U,1
+1156,GP Stad Zottegem 2015,1.1,1
+1157,Tour du Limousin 2015,2.1,4
+1158,Baltic Chain Tour 2015,2.2,3
+1159,National Championships France U23 - ITT 2015,NC,1
+1160,Arnhem-Veenendaal Classic 2015,1.1,1
+1161,Puchar Ministra Obrony Narodowej 2015,1.2,1
+1162,Tour de l'Avenir 2015,2.Ncup,8
+1163,Grote Prijs Jef Scherens - Rondom Leuven 2015,1.1,1
+1164,National Championships France U23 - Road Race 2015,NC,1
+1165,Tour du Poitou Charentes 2015,2.1,5
+1166,Grand Prix des Marbriers 2015,1.2,1
+1167,Druivenkoers - Overijse 2015,1.1,1
+1168,Ronde van Midden-Nederland 2015,2.2,2
+1169,Schaal Sels 2015,1.1,1
+1170,Croatia-Slovenia 2015,1.2,1
+1171,Tour of Bulgaria 2015,2.2,5
+1172,Brussels Cycling Classic 2015,1.HC,1
+1173,Black Sea Cycling Tour 2015,2.2,2
+1174,GP de Fourmies / La Voix du Nord 2015,1.HC,1
+1175,Tour of Britain 2015,2.HC,8
+1176,Kernen Omloop Echt-Susteren 2015,1.2,1
+1177,Giro della Regione Friuli Venezia Giulia 2015,2.2,3
+1178,East Bohemia Tour 2015,2.2,3
+1179,De Kustpijl 2015,1.2,1
+1180,Tour du Doubs - Conseil Général 2015,1.1,1
+1181,Velothon Stockholm 2015,1.1,1
+1182,Chrono Champenois Masculin International 2015,1.2,1
+1183,Coppa Agostoni - Giro delle Brianze 2015,1.1,1
+1184,Grand Prix de Wallonie 2015,1.1,1
+1185,Coppa Bernocchi 2015,1.1,1
+1186,Kampioenschap van Vlaanderen 2015,1.1,1
+1187,Primus Classic Impanis - Van Petegem 2015,1.HC,1
+1188,Memorial Marco Pantani 2015,1.1,1
+1189,GP Industria & Commercio di Prato 2015,1.1,1
+1190,Grand Prix d'Isbergues - Pas de Calais 2015,1.1,1
+1191,Rund um Sebnitz 2015,1.2,1
+1192,Omloop van het Houtland Lichtervelde 2015,1.1,1
+1193,Tour du Gévaudan Languedoc-Roussillon 2015,2.1,2
+1194,Duo Normand 2015,1.1,1
+1195,Gooikse Pijl 2015,1.2,1
+1196,Ruota d'Oro - GP Festa del Perdono 2015,1.2U,1
+1197,Tre Valli Varesine 2015,1.HC,1
+1198,Tour de l'Eurométropole 2015,2.1,5
+1199,Milano-Torino 2015,1.HC,1
+1200,Giro del Piemonte 2015,1.HC,1
+1201,Sparkassen Münsterland Giro 2015,1.HC,1
+1202,Piccolo Giro di Lombardia 2015,1.2U,1
+1203,Tour de Vendée 2015,1.1,1
+1204,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke 2015,1.1,1
+1205,International Tour of Torku Mevlana 2015,2.2,4
+1206,Gran Premio Città di Peccioli - Coppa Sabatini 2015,1.1,1
+1207,Paris-Bourges 2015,1.1,1
+1208,Giro dell'Emilia 2015,1.HC,1
+1209,Gran Premio Bruno Beghelli 2015,1.HC,1
+1210,Paris - Tours Elite 2015,1.HC,1
+1211,Paris-Tours Espoirs 2015,1.2U,1
+1212,Nationale Sluitingprijs - Putte - Kapellen 2015,1.1,1
+1213,Chrono des Nations 2015,1.1,1
+1214,Tour of Aegean 2015,2.2,4
+1215,National Championships Australia - ITT 2015,NC,1
+1216,National Championships Australia U23 - ITT 2015,NC,1
+1217,National Championships New Zealand - ITT 2015,NC,1
+1218,National Championships New Zealand U23 - ITT 2015,NC,1
+1219,National Championships Australia U23 - Road Race 2015,NC,1
+1220,National Championships Australia - Road Race 2015,NC,1
+1221,National Championships New Zealand - Road Race 2015,NC,1
+1222,New Zealand Cycle Classic 2015,2.2,5
+1223,Cadel Evans Great Ocean Road Race 2015,1.1,1
+1224,Herald Sun Tour 2015,2.1,5
+1225,Oceania Continental Championships - ITT 2015,CC,1
+1226,Oceania Continental Championships U23 - ITT 2015,CC,1
+1227,Oceania Continental Championships - Road Race 2015,CC,1
+1228,The REV Classic 2015,1.2,1
+1229,Vuelta al Tachira en Bicicleta 2015,2.2,10
+1230,Tour de San Luis 2015,2.1,7
+1231,National Championships Colombia - ITT 2015,NC,1
+1232,National Championships Colombia - Road Race 2015,NC,1
+1233,Vuelta Independencia Nacional Republica Dominicana 2015,2.2,8
+1234,National Championships Chile - ITT 2015,NC,1
+1235,National Championships Chile U23 - ITT 2015,NC,1
+1236,National Championships Chile - Road Race 2015,NC,1
+1237,National Championships Uruguay - Road Race 2015,NC,1
+1238,Vuelta Ciclista del Uruguay 2015,2.2,10
+1239,Volta Ciclística Internacional do Rio Grande do Sul 2015,2.2,5
+1240,National Championships Argentina - ITT 2015,NC,1
+1241,national Championships Argentina U23 - ITT 2015,NC,1
+1242,National Championships Argentina - Road Race 2015,NC,1
+1243,National Championships Argentina U23 - Road Race 2015,NC,1
+1244,Joe Martin Stage Race p/b Nature Valley 2015,2.2,9
+1245,Vuelta Mexico 2015,2.2,6
+1246,Silver City's Tour of the Gila 2015,2.2,5
+1247,Panamerican Games - ITT 2015,JR,1
+1248,Panamerican Championships U23 - ITT 2015,CC,1
+1249,Panamerican Championships U23 - Road Race 2015,CC,1
+1250,Amgen Tour of California 2015,2.HC,8
+1251,National Championships Antigua and Barbuda - ITT 2015,NC,1
+1252,Panamerican Championships - Road Race 2015,CC,1
+1253,Copa Federacion Venezolana de Ciclismo 2015,1.2,1
+1254,Clasico FVCiclismo Corre Por la VIDA 2015,1.2,1
+1255,National Championships United States - ITT 2015,NC,1
+1256,National Championships United States - Road Race 2015,NC,1
+1257,Volta Ciclistica internacional do Paraná 2015,2.2,5
+1258,Grand Prix Cycliste de Saguenay 2015,2.2,4
+1259,Winston Salem Cycling Classic 2015,1.2,1
+1260,The Parx Casino Philly Cycling Classic 2015,1.2,1
+1261,Tour de Beauce 2015,2.2,6
+1262,Vuelta Ciclista a Venezuela 2015,2.2,10
+1263,National Championships Bermuda - ITT 2015,NC,1
+1264,National Championships Bolivia - ITT 2015,NC,1
+1265,National Championships Bolivia U23 - ITT 2015,NC,1
+1266,National Championships Cuba - ITT 2015,NC,1
+1267,National Championships Aruba - ITT 2015,NC,1
+1268,National Championships Bolivia - Road Race 2015,NC,1
+1269,National Championships Bolivia U23 - Road Race 2015,NC,1
+1270,National Championships Aruba - Road Race 2015,NC,1
+1271,National Championships Bermuda - Road Race 2015,NC,1
+1272,National Championships Cuba - Road Race 2015,NC,1
+1273,National Championships Guatemala - ITT 2015,NC,1
+1274,National Championships Nicaragua 2015,NC,1
+1275,National Championships Guatemala U23 - ITT 2015,NC,1
+1276,National Championships Ecuador - ITT 2015,NC,1
+1277,National Championships United States U23 - Road Race 2015,NC,1
+1278,National Championships Canada - ITT 2015,NC,1
+1279,National Championships Costa Rica - ITT 2015,NC,1
+1280,National Championships Ecuador - Road Race 2015,NC,1
+1281,National Championships Belize - ITT 2015,NC,1
+1282,National Championships Brazil - ITT 2015,NC,1
+1283,National Championships Dominican Republic - ITT 2015,NC,1
+1284,National Championships Mexico - ITT 2015,NC,1
+1285,National Championships Panama - ITT 2015,NC,1
+1286,National Championships United States U23 - ITT 2015,NC,1
+1287,National Championships Venezuela - ITT 2015,NC,1
+1288,National Championships Dominican Republic U23 - Road Race 2015,NC,1
+1289,National Championships Mexico U23 - ITT 2015,NC,1
+1290,National Championships Canada - Road Race 2015,NC,1
+1291,National Championships El Salvador - ITT 2015,NC,1
+1292,National Championships Puerto Rico - ITT 2015,NC,1
+1293,National Championships Guatemala U23 - Road Race 2015,NC,1
+1294,National Championships Antigua and Barbuda - Road Race 2015,NC,1
+1295,National Championships Belize - Road Race 2015,NC,1
+1296,National Championships Brazil - Road Race 2015,NC,1
+1297,National Championships Costa Rica - Road Race 2015,NC,1
+1298,National Championships Dominican Republic - Road Race 2015,NC,1
+1299,National Championships El Salvador - Road Race 2015,NC,1
+1300,National Championships Guatemala - Road Race 2015,NC,1
+1301,National Championships Mexico - Road Race 2015,NC,1
+1302,National Championships Panama - Road Race 2015,NC,1
+1303,National Championships Puerto Rico - Road Race 2015,NC,1
+1304,National Championships Venezuela - Road Race 2015,NC,1
+1305,White Spot / Delta Road Race 2015,1.2,1
+1306,National Championships Peru - ITT 2015,NC,1
+1307,National Championships Peru - Road Race 2015,NC,1
+1308,Panamerican Games - ITT 2015,JR,1
+1309,Panamerican Games - Road Race 2015,JR,1
+1310,Vuelta a Colombia 2015,2.2,13
+1311,The Larry H.Miller Tour of Utah 2015,2.HC,7
+1312,Aquece Rio - International Road Cycling Challenge 2015,1.2,1
+1313,USA Pro Challenge 2015,2.HC,7
+1314,Tour do Rio 2015,2.2,5
+1315,Tour of Alberta 2015,2.1,6
+1316,The Reading 120 2015,1.2,1
+1317,World Championships U23 - ITT 2015,WC,1
+1318,World Championships - Road Race 2015,WC,1
+1319,Tobago Cycling Classic 2015,1.2,1
+1320,Vuelta a Guatemala 2015,2.2,7
+1321,Copa América de Ciclismo 2015,1.2,1
+1322,Vuelta Kölbi a Costa Rica 2015,2.2,11
+1323,Santos Tour Down Under 2016,2.UWT,6
+1324,Paris - Nice 2016,2.UWT,8
+1325,Tirreno - Adriatico 2016,2.UWT,7
+1326,Milano - Sanremo 2016,1.UWT,1
+1327,Volta Ciclista a Catalunya 2016,2.UWT,7
+1328,E3 Harelbeke 2016,1.UWT,1
+1329,Gent - Wevelgem in Flanders Fields 2016,1.UWT,1
+1330,Ronde van Vlaanderen / Tour des Flandres 2016,1.UWT,1
+1331,Vuelta Ciclista al Pais Vasco 2016,2.UWT,6
+1332,Paris - Roubaix 2016,1.UWT,1
+1333,Amstel Gold Race 2016,1.UWT,1
+1334,La Flèche Wallonne 2016,1.UWT,1
+1335,Liège - Bastogne - Liège 2016,1.UWT,1
+1336,Tour de Romandie 2016,2.UWT,6
+1337,Giro d'Italia 2016,2.UWT,21
+1338,Criterium du Dauphiné 2016,2.UWT,8
+1339,Tour de Suisse 2016,2.UWT,9
+1340,Tour de France 2016,2.UWT,21
+1341,Tour de Pologne 2016,2.UWT,7
+1342,Clasica Ciclista San Sebastian 2016,1.UWT,1
+1343,Vuelta a España 2016,2.UWT,21
+1344,Cyclassics Hamburg 2016,1.UWT,1
+1345,Bretagne Classic - Ouest-France 2016,1.UWT,1
+1346,Grand Prix Cycliste de Quebec 2016,1.UWT,1
+1347,Grand Prix Cycliste de Montréal 2016,1.UWT,1
+1348,Eneco Tour 2016,2.UWT,7
+1349,Il Lombardia 2016,1.UWT,1
+1350,World Championships - TTT 2016,WC,1
+1351,World Championships WE - TTT 2016,WC,1
+1352,World Championships U23 - ITT 2016,WC,1
+1353,World Championships WJ - ITT 2016,WC,1
+1354,World Championships MJ - ITT 2016,WC,1
+1355,World Championships WE - ITT 2016,WC,1
+1356,World Championships U23 - Road Race 2016,WC,1
+1357,World Championships MJ - Road Race 2016,WC,1
+1358,World Championships WJ - Road Race 2016,WC,1
+1359,World Championships WE - Road Race 2016,WC,1
+1360,La Tropicale Amissa Bongo 2016,2.1,7
+1361,National Championships Namibia -  ITT 2016,NC,1
+1362,National Championships Namibia - Road Race 2016,NC,1
+1363,National Championships South Africa - ITT 2016,NC,1
+1364,National Championships South Africa - Road Race 2016,NC,1
+1365,African Continental Championships - ITT 2016,CC,1
+1366,African Continental Championships - Road Race 2016,CC,1
+1367,Circuit International d'Alger 2016,1.2,1
+1368,Tour Internationale d'Oranie 2016,2.2,3
+1369,Grand Prix de la Ville d'Oran 2016,1.2,1
+1370,Tour International de Blida 2016,2.2,3
+1371,Tour du Cameroun 2016,2.2,8
+1372,Tour International de Setif 2016,2.2,4
+1373,National Championships Egypt - Road Race 2016,NC,1
+1374,Criterium International de Setif 2016,1.2,1
+1375,Tour Internationale d'Annaba 2016,2.2,4
+1376,Tour International de Constantine 2016,2.2,3
+1377,Circuit International de Constantine 2016,1.2,1
+1378,Criterium International de Blida 2016,1.2,1
+1379,Tour du Maroc 2016,2.2,10
+1380,Fenkil Northen Red Sea Challenge 2016,1.2,1
+1381,Massawa Circuit 2016,1.2,1
+1382,Tour Eritrea 2016,2.2,5
+1383,Tour du Sénégal 2016,2.2,7
+1384,Asmara Circuit 2016,1.2,1
+1385,Challenge du Prince - Trophée Princier 2016,1.2,1
+1386,Challenge du Prince - Trophée de l'Anniversaire 2016,1.2,1
+1387,Challenge du Prince - Trophée de la Maison Royale 2016,1.2,1
+1388,Tour de Tunisie 2016,2.2,4
+1389,National Championships Tunisia - ITT 2016,NC,1
+1390,National Championships Tunisia - Road Race 2016,NC,1
+1391,National Championships Ethiopia - ITT 2016,NC,1
+1392,National Championships Ethiopia - Road Race 2016,NC,1
+1393,National Championships Mauritius - ITT 2016,NC,1
+1394,National Championships Mauritius MJ - ITT 2016,NC,1
+1395,National Championships Eritrea - ITT 2016,NC,1
+1396,National Championships Angola - Road Race 2016,NC,1
+1397,National Championships Rwanda - ITT 2016,NC,1
+1398,National Championships Eritrea - Road Race 2016,NC,1
+1399,National Championships Mauritius - Road Race 2016,NC,1
+1400,National Championships Rwanda - Road Race 2016,NC,1
+1401,National Championships Algeria - ITT 2016,NC,1
+1402,National Championships Morocco - ITT 2016,NC,1
+1403,National Championships Algeria - Road Race 2016,NC,1
+1404,National Championships Morocco - Road Race 2016,NC,1
+1405,Tour Ethiopian Meles Zenawi 2016,2.2,5
+1406,Tour de Côte d'Ivoire-Tour de la Réconciliation 2016,2.2,7
+1407,Grand Prix Chantal Biya 2016,2.2,4
+1408,Tour du Faso 2016,2.2,10
+1409,Tour of Rwanda 2016,2.2,8
+1410,Asian Cycling Championships U23 - ITT 2016,CC,1
+1411,Asian Cycling Championships - ITT 2016,CC,1
+1412,Asian Cycling Championships U23 - Road Race 2016,CC,1
+1413,Asian Cycling Championships - Road Race 2016,CC,1
+1414,Dubai Tour 2016,2.HC,4
+1415,Tour of Qatar 2016,2.HC,5
+1416,Tour of Oman 2016,2.HC,6
+1417,Le Tour de Filipinas 2016,2.2,4
+1418,Le Tour de Langkawi 2016,2.HC,8
+1419,National Championships India - ITT 2016,NC,1
+1420,National Championships India - ITT 2016,NC,1
+1421,National Championships India - Road Race 2016,NC,1
+1422,Tour de Taiwan 2016,2.1,5
+1423,National Championships Kuwait - ITT 2016,NC,1
+1424,National Championships Kuwait - Road Race 2016,NC,1
+1425,The Princess Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2016,2.2,6
+1426,National Championships United Arab Emirates - Road Race 2016,NC,1
+1427,National Championships Iran - ITT 2016,NC,1
+1428,National Championships Iran - Road Race 2016,NC,1
+1429,International Tour de Banyuwangi Ijen 2016,2.2,4
+1430,Tour of Iran (Azarbaijan) 2016,Azarbaijan),6
+1431,Tour de Flores 2016,2.2,5
+1432,National Championships Singapore - ITT 2016,NC,1
+1433,National Championships Singapore - Road Race 2016,NC,1
+1434,Tour of Japan 2016,2.1,8
+1435,National Championships Malaysia - Road Race 2016,NC,1
+1436,National Championships Malaysia - ITT 2016,NC,1
+1437,Tour de Korea 2016,2.1,8
+1438,Tour de Kumano 2016,2.2,4
+1439,National Championships Israel - ITT 2016,NC,1
+1440,National Championships Libanon - ITT 2016,NC,1
+1441,National Championships Kazakhstan - ITT 2016,NC,1
+1442,National Championships South Korea - ITT 2016,NC,1
+1443,National Championships Japan - ITT 2016,NC,1
+1444,National Championships Mongolia - ITT 2016,NC,1
+1445,National Championships South Korea - Road Race 2016,NC,1
+1446,National Championships Japan U23 - ITT 2016,NC,1
+1447,National Championships Hong Kong - ITT 2016,NC,1
+1448,National Championships Israel - Road Race 2016,NC,1
+1449,National Championships Japan U23 - Road Race 2016,NC,1
+1450,National Championships Hong Kong - Road Race 2016,NC,1
+1451,National Championships Japan - Road Race 2016,NC,1
+1452,National Championships Kazakhstan - Road Race 2016,NC,1
+1453,National Championships Libanon - Road Race 2016,NC,1
+1454,National Championships Macau 2016,NC,1
+1455,National Championships Mongolia - Road Race 2016,NC,1
+1456,National Championships Mongolia WE - Road Race 2016,NC,1
+1457,National Championships Uzbekistan - Road Race 2016,NC,1
+1458,National Championships Uzbekistan - ITT 2016,NC,1
+1459,Tour of Qinghai Lake 2016,2.HC,13
+1460,Tour de Jakarta 2016,1.2,1
+1461,Tour de Singkarak 2016,2.2,8
+1462,Tour de Hokkaido 2016,2.2,4
+1463,Tour of China I 2016,2.1,6
+1464,Tour of China II 2016,2.1,6
+1465,Tour of Almaty 2016,1.1,1
+1466,World Championships - ITT 2016,WC,1
+1467,World Championships - Road Race 2016,WC,1
+1468,Jelajah Malaysia 2016,2.2,5
+1469,Abu Dhabi Tour 2016,2.HC,4
+1470,Tour of Hainan 2016,2.HC,9
+1471,Japan Cup Cycle Road Race 2016,1.HC,1
+1472,Sharjah International Cycling Tour 2016,2.1,4
+1473,UAE Cup 2016,1.1,1
+1474,Tour of Yancheng Costal Wetlands 2016,1.2,1
+1475,Tour of Taihu Lake 2016,2.1,8
+1476,National Championships India - ITT 2016,NC,1
+1477,National Championships India - Road Race 2016,NC,1
+1478,Tour de Okinawa 2016,1.2,1
+1479,Tour of Fuzhou 2016,2.1,5
+1480,Trofeo Felanitx - Ses Salines - Campos - Porreres 2016,1.1,1
+1481,Trofeo Pollenca - Port de Andratx 2016,1.1,1
+1482,Trofeo Serra de Tramuntana 2016,1.1,1
+1483,Grand Prix Cycliste la Marseillaise 2016,1.1,1
+1484,Trofeo Playa de Palma - Palma 2016,1.1,1
+1485,Etoile de Bessèges 2016,2.1,5
+1486,Volta a la Comunitat Valenciana 2016,2.1,5
+1487,G.P. Costa degli Etruschi 2016,1.1,1
+1488,La Méditerranéenne 2016,2.1,4
+1489,Vuelta Ciclista a la Region de Murcia 'Costa Calida' 2016,1.1,1
+1490,Trofeo Laigueglia 2016,1.HC,1
+1491,Clasica de Almeria 2016,1.1,1
+1492,GP Laguna Poreč 2016,1.2,1
+1493,Volta ao Algarve em Bicicleta 2016,2.1,5
+1494,Vuelta a Andalucia Ruta Ciclista Del Sol 2016,2.1,5
+1495,Tour Cycliste International du Haut Var Matin 2016,2.1,2
+1496,Tour Cycliste International La Provence 2016,2.1,3
+1497,Omloop Het Nieuwsblad Elite 2016,1.HC,1
+1498,Classic Sud Ardèche - Souvenir Francis Delpech 2016,1.1,1
+1499,Gran Premio Città di Lugano 2016,1.HC,1
+1500,Kuurne-Bruxelles-Kuurne 2016,1.HC,1
+1501,Royal Bernard Drôme Classic 2016,1.1,1
+1502,GP Izola 2016,1.2,1
+1503,Le Samyn 2016,1.1,1
+1504,Trofej Umag - Umag Trophy 2016,1.2,1
+1505,Driedaagse van West-Vlaanderen 2016,2.1,3
+1506,Strade Bianche 2016,1.HC,1
+1507,Craft Ster van Zwolle 2016,1.2,1
+1508,Porec Trophy - Trofej Porec 2016,1.2,1
+1509,GP Industria & Artigianato 2016,1.1,1
+1510,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2016,1.2,1
+1511,Istarsko proljece - Istrian Spring Trophy 2016,2.2,4
+1512,Energiewacht Ronde van Drenthe 2016,1.1,1
+1513,GP Liberty Seguros - Troféu Alpendre 2016,2.2,2
+1514,Paris-Troyes 2016,1.2,1
+1515,Rabobank Dorpenomloop Rucphen 2016,1.2,1
+1516,Nokere Koerse - Danilith Classic 2016,1.HC,1
+1517,Volta ao Alentejo 2016,2.2,5
+1518,Handzame Classic 2016,1.1,1
+1519,Classic Loire Atlantique 2016,1.1,1
+1520,Cholet-Pays de Loire 2016,1.1,1
+1521,Tour de Normandie 2016,2.2,7
+1522,Dwars door Vlaanderen / A travers la Flandre 2016,1.HC,1
+1523,Settimana Internazionale Coppi e Bartali 2016,2.1,5
+1524,Critérium International 2016,2.HC,3
+1525,Giro del Belvedere 2016,1.2U,1
+1526,Driedaagse De Panne-Koksijde 2016,2.HC,4
+1527,G.P. Palio del Recioto - 34th Memorial cav. Sante Carradori 2016,1.2U,1
+1528,Route Adélie de Vitré 2016,1.1,1
+1529,Le Triptyque des Monts et Châteaux 2016,2.2,4
+1530,Gran Premio Miguel Indurain 2016,1.1,1
+1531,Volta Limburg Classic 2016,1.1,1
+1532,Paris-Camembert 2016,1.1,1
+1533,Vuelta Ciclista a La Rioja 2016,1.1,1
+1534,GP Adria Mobil 2016,1.2,1
+1535,Trofeo Piva 2016,1.2U,1
+1536,Circuit Cycliste Sarthe - Pays de la Loire 2016,2.1,5
+1537,Scheldeprijs 2016,1.HC,1
+1538,Circuit des Ardennes International 2016,2.2,4
+1539,Ronde van Vlaanderen Beloften 2016,1.Ncup,1
+1540,Klasika Primavera de Amorebieta 2016,1.1,1
+1541,De Brabantse Pijl - La Flèche Brabançonne 2016,1.HC,1
+1542,Tour du Loir et Cher E Provost 2016,2.2,5
+1543,GP de Denain - Porte du Hainaut / Valenciennes Métropole 2016,1.HC,1
+1544,Tour of Mersin 2016,2.2,4
+1545,Vuelta a Castilla y Leon 2016,2.1,3
+1546,ZLM-Roompot tour 2016,2.Ncup,3
+1547,Tour du Finistère 2016,1.1,1
+1548,Liège - Bastogne - Liège U23 2016,1.2U,1
+1549,Trofeo Edil C 2016,1.2,1
+1550,Giro dell'Appennino 2016,1.1,1
+1551,Tro-Bro Léon 2016,1.1,1
+1552,Profronde van Noord-Holland 2016,1.2,1
+1553,Giro del Trentino 2016,2.HC,4
+1554,Tour of Croatia 2016,2.1,6
+1555,Arno Wallaard Memorial 2016,1.2,1
+1556,Belgrade - Banjaluka I 2016,1.2,1
+1557,Visegrad 4 Kerékpárverseny 2016,1.2,1
+1558,Presidential Cycling Tour of Turkey 2016,2.HC,8
+1559,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle 2016,1.1,1
+1560,Belgrade Banjaluka II 2016,1.2,1
+1561,Paris - Mantes-en-Yvelines 2016,1.2,1
+1562,Rutland - Melton International Cicle Classic 2016,1.2,1
+1563,Visegrad 4 Bicycle Race - GP Slovakia 2016,1.2,1
+1564,Gran Premio della Liberazione 2016,1.2U,1
+1565,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2016,2.2,7
+1566,Tour de Yorkshire 2016,2.1,3
+1567,Carpathian Couriers Race U-23 2016,2.2U,5
+1568,Himmerland Rundt 2016,1.2,1
+1569,Vuelta Asturias Julio Alvarez Mendo 2016,2.1,3
+1570,GP Viborg 2016,1.2,1
+1571,ZODC Zuidenveld Tour 2016,1.2,1
+1572,Rund um den Finanzplatz Eschborn-Frankfurt 2016,1.HC,1
+1573,Circuito del Porto - Trofeo Arvedi 2016,1.2,1
+1574,Memorial Andrzeja Trochanowskiego 2016,1.2,1
+1575,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2016,U23),1
+1576,Skive-Løbet 2016,1.2,1
+1577,Memoriał Romana Siemińskiego 2016,1.2,1
+1578,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais 2016,2.HC,5
+1579,Tour d'Azerbaïdjan 2016,2.1,5
+1580,Flèche du Sud 2016,2.2,5
+1581,National Championships Cyprus - ITT 2016,NC,1
+1582,Dwars door de Vlaamse Ardennen 2016,1.2,1
+1583,CCC Tour - Grody Piastowskie 2016,2.2,3
+1584,National Championships Cyprus - Road Race 2016,NC,1
+1585,Vuelta Ciclista Comunidad de Madrid 2016,2.1,2
+1586,Sundvolden GP 2016,1.2,1
+1587,Flèche Ardennaise 2016,1.2,1
+1588,Ringerike GP 2016,1.2,1
+1589,Tr. Citta di San Vendemiano - 56th GP Industria & Commercio 2016,1.2U,1
+1590,Rhône-Alpes Isère Tour 2016,2.2,4
+1591,Grande Prémio Internacional Beiras e Serra da Estrela 2016,2.1,3
+1592,Tour de Picardie 2016,2.1,3
+1593,Tour de Berlin 2016,2.2U,5
+1594,Ronde van Overijssel 2016,1.2,1
+1595,Scandinavian Race in Uppsala 1909-2016 2016,1.2,1
+1596,Visegrad V4 Race - GP Polski 2016,1.2,1
+1597,Gran Premio Industrie del Marmo 2016,1.2,1
+1598,Grand Prix Criquielion 2016,1.2,1
+1599,Visegrad 4 Bicycle Race - GP Czech Republic 2016,1.2,1
+1600,Tour of Norway 2016,2.HC,5
+1601,Baltyk - Karkonosze Tour 2016,2.2,6
+1602,Ronde de l'Isard 2016,2.2U,4
+1603,Tour of Bihor - Bellotto 2016,2.2,4
+1604,Paris-Arras Tour 2016,2.2,3
+1605,Berner Rundfahrt / Tour de Berne 2016,1.2,1
+1606,Grand Prix de la Somme « Conseil Général 80» 2016,1.1,1
+1607,Velothon Wales 2016,1.1,1
+1608,An Post Ras 2016,2.2,8
+1609,SwissEver GP Cham - Hagendorn 2016,1.2,1
+1610,Baloise Belgium Tour 2016,2.HC,5
+1611,National Championships Denmark U23 - ITT 2016,NC,1
+1612,National Championships Kosovo - ITT 2016,NC,1
+1613,Tour of Estonia 2016,2.1,2
+1614,Horizon Park Race for Peace 2016,1.2,1
+1615,Tour de Gironde 2016,2.2,3
+1616,Grand Prix de Plumelec-Morbihan 2016,1.1,1
+1617,Horizon Park Race Maidan 2016,1.2,1
+1618,National Championships Denmark U23 - Road Race 2016,NC,1
+1619,Boucles de l'Aulne - Chateaulin 2016,1.1,1
+1620,National Championships Kosovo - Road Race 2016,NC,1
+1621,National Championships Macedonia - ITT 2016,NC,1
+1622,Horizon Park Classic 2016,1.2,1
+1623,Paris-Roubaix Espoirs 2016,1.2U,1
+1624,Tour of Ukraine 2016,2.2,4
+1625,Skoda-Tour de Luxembourg 2016,2.HC,5
+1626,Boucles de la Mayenne 2016,2.1,4
+1627,Course de la Paix U23 / Závod Míru U23 2016,2.Ncup,3
+1628,Heistse Pijl - Heist op den Berg 2016,1.1,1
+1629,Grand Prix of Vinnytsia 2016,1.2,1
+1630,Hets Hatsafon / Northern Arrow 2016,1.2,1
+1631,Coppa della Pace - Trofeo F.lli Anelli 2016,1.2,1
+1632,Grand Prix of ISD 2016,1.2,1
+1633,Memorial Philippe Van Coningsloo 2016,1.2,1
+1634,Okolo Slovenska 2016,2.2,6
+1635,GP du canton d'Argovie 2016,1.HC,1
+1636,Ronde de l'Oise 2016,2.2,4
+1637,National Championships Slovenia - ITT 2016,NC,1
+1638,Tour of Malopolska 2016,2.2,3
+1639,Fyen Rundt - Tour of Fyen 2016,1.2,1
+1640,Ronde van Limburg 2016,1.1,1
+1641,Rund um Köln 2016,1.1,1
+1642,GP Horsens Posten 2016,1.2,1
+1643,Tour de Serbia 2016,2.2,6
+1644,Ster ZLM Toer GP Jan van Heeswijk 2016,2.1,5
+1645,Route du Sud - la Depeche du Midi 2016,2.1,5
+1646,Tour de Slovénie 2016,2.1,4
+1647,Oberösterreichrundfahrt 2016,2.2,4
+1648,Tour de Savoie Mont Blanc 2016,2.2,5
+1649,Memorial Grundmanna I Wizowskiego	 2016,1.2,1
+1650,Beaumont Trophy 2016,1.2,1
+1651,Circuit de Wallonie 2016,1.2,1
+1652,Korona Kocich Gór I Dolina Baryczy Żmigród-Milicz 2016,1.2,1
+1653,National Championships Germany U23 - Road Race 2016,NC,1
+1654,National Championships Norway U23 - Road Race 2016,NC,1
+1655,National Championships Estonia - ITT 2016,NC,1
+1656,Halle Ingooigem 2016,1.1,1
+1657,National Championships Azerbaijan - ITT 2016,NC,1
+1658,National Championships Finland - ITT 2016,NC,1
+1659,National Championships Italy - ITT 2016,NC,1
+1660,National Championships Latvia - ITT 2016,NC,1
+1661,National Championships Netherlands - ITT 2016,NC,1
+1662,National Championships Poland - ITT 2016,NC,1
+1663,National Championships Switzerland - ITT 2016,NC,1
+1664,National Championships Finland U23 - ITT 2016,NC,1
+1665,National Championships Italy U23 - ITT 2016,NC,1
+1666,National Championships Latvia U23 - ITT 2016,NC,1
+1667,National Championships Netherlands U23- ITT 2016,NC,1
+1668,National Championships Poland U23 - ITT 2016,NC,1
+1669,National Championships Switzerland U23 - ITT 2016,NC,1
+1670,National Championships Ukraine U23 - ITT 2016,NC,1
+1671,National Championships France - ITT 2016,NC,1
+1672,National Championships Belarus - ITT 2016,NC,1
+1673,National Championships Belgium - ITT 2016,NC,1
+1674,National Championships Czech Republic - ITT 2016,NC,1
+1675,National Championships Czech Republic U23 - ITT 2016,NC,1
+1676,National Championships Denmark - ITT 2016,NC,1
+1677,National Championships Great Britain - ITT 2016,NC,1
+1678,National Championships Hungary - ITT 2016,NC,1
+1679,National Championships Ireland - ITT 2016,NC,1
+1680,National Championships Norway - ITT 2016,NC,1
+1681,National Championships Slovakia - ITT 2016,NC,1
+1682,National Championships Spain - ITT 2016,NC,1
+1683,National Championships Sweden - ITT 2016,NC,1
+1684,National Championships Ukraine - ITT 2016,NC,1
+1685,National Championships Great Britain U23 - ITT 2016,NC,1
+1686,National Championships Hungary U23 - ITT 2016,NC,1
+1687,National Championships Spain U23 - ITT 2016,NC,1
+1688,National Championships Albania - ITT 2016,NC,1
+1689,National Championships Azerbaijan - Road Race 2016,NC,1
+1690,National Championships Croatia - ITT 2016,NC,1
+1691,National Championships Germany - ITT 2016,NC,1
+1692,National Championships Greece - ITT 2016,NC,1
+1693,National Championships Lithuania - ITT 2016,NC,1
+1694,National Championships Luxembourg - ITT 2016,NC,1
+1695,National Championships Portugal - ITT 2016,NC,1
+1696,National Championships Romania - ITT 2016,NC,1
+1697,National Championships Romania U23 - ITT 2016,NC,1
+1698,National Championships Russia - ITT 2016,NC,1
+1699,National Championships Bosnia and Herzegovina - ITT 2016,NC,1
+1700,National Championships Croatia U23 - ITT 2016,NC,1
+1701,National Championships Germany U23 - ITT 2016,NC,1
+1702,National Championships Netherlands U23 - Road Race 2016,NC,1
+1703,National Championships Portugal U23 - ITT 2016,NC,1
+1704,National Championships Spain U23 - Road Race 2016,NC,1
+1705,National Championships Austria - ITT 2016,NC,1
+1706,National Championships Bulgaria - ITT 2016,NC,1
+1707,National Championships Georgia - ITT 2016,NC,1
+1708,National Championships Iceland - Road Race 2016,NC,1
+1709,National Championships Moldova - ITT 2016,NC,1
+1710,National Championships Netherlands - Road Race 2016,NC,1
+1711,National Championships Serbia - ITT 2016,NC,1
+1712,National Championships Spain - Road Race 2016,NC,1
+1713,National Championships Turkey - ITT 2016,NC,1
+1714,National Championships Italy U23 - Road Race 2016,NC,1
+1715,National Championships Poland U23 - Road Race 2016,NC,1
+1716,National Championships Portugal U23 - Road Race 2016,NC,1
+1717,National Championships Ukraine U23 - Road Race 2016,NC,1
+1718,National Championships Albania - Road Race 2016,NC,1
+1719,National Championships Austria - Road Race 2016,NC,1
+1720,National Championships Belarus - Road Race 2016,NC,1
+1721,National Championships Belgium - Road Race 2016,NC,1
+1722,National Championships Bosnia and Herzegovina - Road Race 2016,NC,1
+1723,National Championships Bulgaria - Road Race 2016,NC,1
+1724,National Championships Croatia - Road Race 2016,NC,1
+1725,National Championships Czech Republic - Road Race 2016,NC,1
+1726,National Championships Denmark - Road Race 2016,NC,1
+1727,National Championships Estonia - Road Race 2016,NC,1
+1728,National Championships France - Road Race 2016,NC,1
+1729,National Championships Georgia - Road Race 2016,NC,1
+1730,National Championships Germany - Road Race 2016,NC,1
+1731,National Championships Great Britain - Road Race 2016,NC,1
+1732,National Championships Greece - Road Race 2016,NC,1
+1733,National Championships Hungary - Road Race 2016,NC,1
+1734,National Championships Ireland - Road Race 2016,NC,1
+1735,National Championships Italy - Road Race 2016,NC,1
+1736,National Championships Latvia - Road Race 2016,NC,1
+1737,National Championships Lithuania - Road Race 2016,NC,1
+1738,National Championships Luxembourg - Road Race 2016,NC,1
+1739,National Championships Macedonia - Road Race 2016,NC,1
+1740,National Championships Moldova - Road Race 2016,NC,1
+1741,National Championships Montenegro - Road Race 2016,NC,1
+1742,National Championships Norway - Road Race 2016,NC,1
+1743,National Championships Poland - Road Race 2016,NC,1
+1744,National Championships Portugal - Road Race 2016,NC,1
+1745,National Championships Romania - Road Race 2016,NC,1
+1746,National Championships Russia - Road Race 2016,NC,1
+1747,National Championships Serbia - Road Race 2016,NC,1
+1748,National Championships Slovakia - Road Race 2016,NC,1
+1749,National Championships Slovenia - Road Race 2016,NC,1
+1750,National Championships Sweden - Road Race 2016,NC,1
+1751,National Championships Switzerland - Road Race 2016,NC,1
+1752,National Championships Turkey - Road Race 2016,NC,1
+1753,National Championships Ukraine - Road Race 2016,NC,1
+1754,National Championships Bulgaria U23 - ITT 2016,NC,1
+1755,National Championships Bulgaria U23 - Road Race 2016,NC,1
+1756,National Championships Czech Republic U23 - Road Race 2016,NC,1
+1757,National Championships Hungary U23 - Road Race 2016,NC,1
+1758,National Championships Lithuania U23 - Road Race 2016,NC,1
+1759,National Championships Romania U23 - Road Race 2016,NC,1
+1760,Tour de Hongrie 2016,2.2,6
+1761,Course Cycliste de Solidarnosc et des Champions Olympiques 2016,2.2,5
+1762,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2016,1.2,1
+1763,Int. Österreich-Rundfahrt-Tour of Austria 2016,2.1,8
+1764,National Championships Finland - Road Race 2016,NC,1
+1765,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2016,1.2,1
+1766,Balkan Elite Road Classics 2016,1.2,1
+1767,Paris-Chauny (classique) 2016,classique),1
+1768,Sibiu Cycling Tour 2016,2.1,5
+1769,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2016,2.2,4
+1770,Minsk Cup 2016,1.2,1
+1771,Grand Prix Minsk 2016,1.2,1
+1772,Grote Prijs Stad Sint-Niklaas 2016,1.2,1
+1773,Giro del Medio Brenta 2016,1.2,1
+1774,Giro Ciclistico della Valle d'Aosta Mont Blanc 2016,2.2U,5
+1775,Volta a Portugal do Futuro / Liberty Seguros 2016,2.2U,4
+1776,Trofeo Matteotti 2016,1.1,1
+1777,Grand Prix Cerami 2016,1.1,1
+1778,Tour de Wallonie 2016,2.HC,5
+1779,Grand Prix de la ville de Pérenchies 2016,1.2,1
+1780,Prueba Villafranca-Ordiziako Klasika 2016,1.1,1
+1781,PostNord Danmark Rundt - Tour of Denmark 2016,2.HC,5
+1782,Volta a Portugal em Bicicleta / Liberty Seguros 2016,2.1,11
+1783,Dookola Mazowsza 2016,2.2,4
+1784,Tour Alsace 2016,2.2,5
+1785,Kreiz Breizh Elites 2016,2.2,4
+1786,RideLondon Classic 2016,1.HC,1
+1787,Circuito de Getxo 'Memorial Ricardo Otxoa' 2016,1.1,1
+1788,La Poly Normande 2016,1.1,1
+1789,Rad am Ring 2016,1.1,1
+1790,Coppa dei Laghi - Trofeo Almar 2016,1.Ncup,1
+1791,GP Kranj 2016,1.2,1
+1792,Vuelta a Burgos 2016,2.HC,5
+1793,Dwars door het Hageland - Aarschot 2016,1.1,1
+1794,Tour de Ribas 2016,1.2,1
+1795,Antwerpse Havenpijl 2016,1.2,1
+1796,Odessa Grand Prix 2016,1.2,1
+1797,Tour de l'Ain 2016,2.1,4
+1798,Arctic Race of Norway 2016,2.HC,4
+1799,Czech Cycling Tour 2016,2.1,4
+1800,Tour of Szeklerland 2016,2.2,4
+1801,Memorial Henryka Lasaka 2016,1.2,1
+1802,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara 2016,1.2U,1
+1803,KOGA Slag om Norg 2016,1.2,1
+1804,National Championships Belgium U23 - Road Race 2016,NC,1
+1805,Puchar Uzdrowisk Karpackich 2016,1.2,1
+1806,Tour of Ankara 2016,2.2,4
+1807,Tour du Limousin 2016,2.1,4
+1808,GP Capodarco - Comunità di Capodarco 2016,1.2U,1
+1809,Trofeo Beato Bernardo - Coppa Citta' di Offida 2016,1.2U,1
+1810,National Championships France U23 - ITT 2016,NC,1
+1811,Arnhem-Veenendaal Classic 2016,1.1,1
+1812,Puchar Ministra Obrony Narodowej 2016,1.2,1
+1813,Tour de l'Avenir 2016,2.Ncup,8
+1814,Grote Prijs Jef Scherens - Rondom Leuven 2016,1.1,1
+1815,National Championships France U23 - Road Race 2016,NC,1
+1816,GP Stad Zottegem 2016,1.1,1
+1817,Tour du Poitou Charentes 2016,2.1,5
+1818,Grand Prix des Marbriers 2016,1.2,1
+1819,Druivenkoers - Overijse 2016,1.1,1
+1820,Baltic Chain Tour 2016,2.2,3
+1821,Omloop Mandel-Leie-Schelde Meulebeke 2016,1.2,1
+1822,Ronde van Midden Nederland 2016,2.2,2
+1823,Schaal Sels 2016,1.1,1
+1824,Croatia-Slovenia 2016,1.2,1
+1825,Tour of Bulgaria 2016,2.2,6
+1826,Tour des Fjords 2016,2.1,5
+1827,Brussels Cycling Classic 2016,1.HC,1
+1828,GP de Fourmies / La Voix du Nord 2016,1.HC,1
+1829,Tour of Britain 2016,2.HC,9
+1830,Kernen Omloop Echt-Susteren 2016,1.2,1
+1831,East Bohemia Tour 2016,2.2,2
+1832,De Kustpijl 2016,1.2,1
+1833,Tour du Doubs - Conseil Général 2016,1.1,1
+1834,Chrono Champenois Masculin International 2016,1.2,1
+1835,Grote Prijs Marcel Kint 2016,1.2,1
+1836,Coppa Bernocchi - G.P. BPM 2016,1.1,1
+1837,Grand Prix de Wallonie 2016,1.1,1
+1838,UEC Road European Championships U23 - ITT 2016,CC,1
+1839,Coppa Agostoni - Giro delle Brianze 2016,1.1,1
+1840,UEC Road European Championships - ITT 2016,CC,1
+1841,Kampioenschap van Vlaanderen 2016,1.1,1
+1842,UEC Road European Championships U23 - Road Race 2016,CC,1
+1843,Primus Classic Impanis - Van Petegem 2016,1.HC,1
+1844,Memorial Marco Pantani 2016,1.1,1
+1845,Grand Prix d'Isbergues - Pas de Calais 2016,1.1,1
+1846,UEC Road European Championships - Road Race 2016,CC,1
+1847,Giro della Toscana - Memorial Alfredo Martini 2016,2.1,2
+1848,Coppa Sabatini - Gran Premio citta di Peccioli 2016,1.1,1
+1849,Giro dell'Emilia 2016,1.HC,1
+1850,Gran Premio Bruno Beghelli 2016,1.HC,1
+1851,Duo Normand 2016,1.1,1
+1852,Gooikse Pijl 2016,1.2,1
+1853,Tre Valli Varesine 2016,1.HC,1
+1854,Olympia's Tour 2016,2.2U,7
+1855,Ruota d'Oro - GP Festa del Perdono 2016,1.2U,1
+1856,Milano-Torino 2016,1.HC,1
+1857,Giro del Piemonte 2016,1.HC,1
+1858,Tour de l'Eurométropole 2016,1.1,1
+1859,Tour de Vendée 2016,1.1,1
+1860,Piccolo Giro di Lombardia 2016,1.2U,1
+1861,Sparkassen Münsterland Giro 2016,1.HC,1
+1862,Binche - Chimay - Binche / Memorial Frank Vandenbroucke 2016,1.1,1
+1863,Paris-Bourges 2016,1.1,1
+1864,Paris - Tours Elite 2016,1.HC,1
+1865,Paris-Tours Espoirs 2016,1.2U,1
+1866,Nationale Sluitingprijs - Putte - Kapellen 2016,1.1,1
+1867,Chrono des Nations 2016,1.1,1
+1868,National Championships Australia - ITT 2016,NC,1
+1869,National Championships Australia U23 - ITT 2016,NC,1
+1870,National Championships New Zealand - ITT 2016,NC,1
+1871,National Championships New Zealand U23 - ITT 2016,NC,1
+1872,National Championships Australia U23 - Road Race 2016,NC,1
+1873,National Championships Australia - Road Race 2016,NC,1
+1874,National Championships New Zealand - Road Race 2016,NC,1
+1875,New Zealand Cycle Classic 2016,2.2,5
+1876,Cadel Evans Great Ocean Road Race 2016,1.HC,1
+1877,Herald Sun Tour 2016,2.1,5
+1878,REV Classic 2016,1.2,1
+1879,Oceania Continental Championships - ITT 2016,CC,1
+1880,Oceania Continental Championships U23 - ITT 2016,CC,1
+1881,Oceania Continental Championships - Road Race 2016,CC,1
+1882,Vuelta al Táchira en Bicicleta 2016,2.2,10
+1883,Tour de San Luis 2016,2.1,7
+1884,National Championships Colombia - TTT 2016,NC,1
+1885,National Championships Colombia - ITT 2016,NC,1
+1886,National Championships Colombia U23 - ITT 2016,NC,1
+1887,National Championships Colombia U23 - Road Race 2016,NC,1
+1888,National Championships Colombia - Road Race 2016,NC,1
+1889,National Championships Uruguay - ITT 2016,NC,1
+1890,Vuelta Independencia Nacional Republica Dominicana 2016,2.2,8
+1891,National Championships Uruguay - Road Race 2016,NC,1
+1892,Vuelta Ciclista del Uruguay 2016,2.2,11
+1893,National Championships Chile - ITT 2016,NC,1
+1894,National Championships Chile - Road Race 2016,NC,1
+1895,Volta Ciclistica Internacional do Rio Grande do Sul 2016,2.2,5
+1896,National Championships Argentina - ITT 2016,NC,1
+1897,National Championships Ecuador - ITT 2016,NC,1
+1898,National Championships Argentina U23 - ITT 2016,NC,1
+1899,National Championships Argentina U23 - Road Race 2016,NC,1
+1900,National Championships Argentina - Road Race 2016,NC,1
+1901,Joe Martin Stage Race p/b Nature Valley 2016,2.2,8
+1902,Silver City's Tour of the Gila 2016,2.2,5
+1903,National Championships Cuba U23 - ITT 2016,NC,1
+1904,National Championships Bolivia U23 - ITT 2016,NC,1
+1905,National Championships Bolivia - Road Race 2016,NC,1
+1906,National Championships Cuba - Road Race 2016,NC,1
+1907,National Championships Cuba U23 - Road Race 2016,NC,1
+1908,National Championships Bolivia U23 - Road Race 2016,NC,1
+1909,National Championships Bolivia - ITT 2016,NC,1
+1910,Amgen Tour of California 2016,2.HC,8
+1911,Campeonato Panamericano de Ruta - ME - TT 2016,CC,1
+1912,Campeonato Panamericano de Ruta ITT - U23 2016,CC,1
+1913,Campeonato Panamericano de Ruta - MU - RR 2016,CC,1
+1914,Campeonato Panamericano de Ruta - ME - RR 2016,CC,1
+1915,National Championships United States - ITT 2016,NC,1
+1916,National Championships United States - Road Race 2016,NC,1
+1917,Winston Salem Cycling Classic 2016,1.1,1
+1918,National Championships Antigua and Barbuda - ITT 2016,NC,1
+1919,Philadelphia International Cycling Classic 2016,1.1,1
+1920,Grand Prix Cycliste de Saguenay 2016,2.2,4
+1921,Vuelta a Colombia 2016,2.2,13
+1922,Tour de Beauce 2016,2.2,6
+1923,National Championships Guatemala - ITT 2016,NC,1
+1924,National Championship Dominican Republic - ITT 2016,NC,1
+1925,National Championships Costa Rica - ITT 2016,NC,1
+1926,National Championships Brazil - ITT 2016,NC,1
+1927,National Championships Panama - ITT 2016,NC,1
+1928,National Championships Venezuela - ITT 2016,NC,1
+1929,National Championships Dominican Republic U23 - ITT 2016,NC,1
+1930,National Championships Mexico U23 - ITT 2016,NC,1
+1931,National Championships Brazil WE - Road Race 2016,NC,1
+1932,National Championships El Salvador - ITT 2016,NC,1
+1933,National Championships Guyana - ITT 2016,NC,1
+1934,National Championships Mexico - ITT 2016,NC,1
+1935,National Championships Puerto Rico - ITT 2016,NC,1
+1936,National Championships El Salvador U23 - ITT 2016,NC,1
+1937,National Championships Antigua and Barbuda MJ - Road Race 2016,NC,1
+1938,National Championships Antigua and Barbuda - Road Race 2016,NC,1
+1939,National Championships Brazil - Road Race 2016,NC,1
+1940,National Championships Canada - Road Race 2016,NC,1
+1941,National Championships Costa Rica - Road Race 2016,NC,1
+1942,National Championships Dominican Republic - Road Race 2016,NC,1
+1943,National Championships El Salvador - Road Race 2016,NC,1
+1944,National Championships Guatemala - Road Race 2016,NC,1
+1945,National Championships Guyana - Road Race 2016,NC,1
+1946,National Championships Mexico - Road Race 2016,NC,1
+1947,National Championships Venezuela - Road Race 2016,NC,1
+1948,National Championships Canada - ITT 2016,NC,1
+1949,Vuelta Ciclista a Venezuela 2016,2.2,10
+1950,White Spot / Delta Road Race 2016,1.2,1
+1951,Tour Cycliste International de la Guadeloupe 2016,2.2,12
+1952,The Larry H.Miller Tour of Utah 2016,2.HC,7
+1953,Olympic Games Road Race 2016,Olympics,1
+1954,National Championships Puerto Rico - Road Race 2016,NC,1
+1955,Tour of Alberta 2016,2.1,5
+1956,The Reading 120 2016,1.2,1
+1957,Tobago Cycling Classic 2016,1.2,1
+1958,Vuelta a Guatemala 2016,2.2,9
+1959,Gran Premio de San José 2016,1.2,1
+1960,Vuelta Popular a Costa Rica 2016,2.2,12
+1961,Santos Tour Down Under 2017,2.UWT,6
+1962,Cadel Evans Great Ocean Road Race 2017,1.UWT,1
+1963,Abu Dhabi Tour 2017,2.UWT,4
+1964,Omloop Het Nieuwsblad 2017,1.UWT,1
+1965,Strade Bianche 2017,1.UWT,1
+1966,Paris - Nice 2017,2.UWT,8
+1967,Tirreno-Adriatico 2017,2.UWT,7
+1968,Milano-Sanremo 2017,1.UWT,1
+1969,Volta Ciclista a Catalunya 2017,2.UWT,7
+1970,Dwars door Vlaanderen / A travers la Flandre 2017,1.UWT,1
+1971,Record Bank E3 Harelbeke 2017,1.UWT,1
+1972,Gent-Wevelgem in Flanders Fields 2017,1.UWT,1
+1973,Ronde van Vlaanderen / Tour des Flandres 2017,1.UWT,1
+1974,Vuelta al Pais Vasco 2017,2.UWT,6
+1975,Paris-Roubaix 2017,1.UWT,1
+1976,Amstel Gold Race 2017,1.UWT,1
+1977,La Flèche Wallonne 2017,1.UWT,1
+1978,Liège - Bastogne - Liège 2017,1.UWT,1
+1979,Tour de Romandie 2017,2.UWT,6
+1980,Eschborn-Frankfurt 'Rund um den Finanzplatz' 2017,1.UWT,1
+1981,Giro d'Italia 2017,2.UWT,21
+1982,Amgen Tour of California 2017,2.UWT,7
+1983,Critérium du Dauphiné 2017,2.UWT,8
+1984,Tour de Suisse 2017,2.UWT,9
+1985,Tour de France 2017,2.UWT,21
+1986,Clásica Ciclista San Sebastian 2017,1.UWT,1
+1987,Tour de Pologne 2017,2.UWT,7
+1988,Prudential RideLondon-Surrey Classic 2017,1.UWT,1
+1989,BinckBank Tour 2017,2.UWT,7
+1990,Vuelta a España 2017,2.UWT,21
+1991,Cyclassics Hamburg 2017,1.UWT,1
+1992,Bretagne Classic - Ouest-France 2017,1.UWT,1
+1993,Grand Prix Cycliste de Québec 2017,1.UWT,1
+1994,Grand Prix Cycliste de Montréal 2017,1.UWT,1
+1995,Il Lombardia 2017,1.UWT,1
+1996,Presidential Cycling Tour of Turkey 2017,2.UWT,6
+1997,Gree - Tour of Guangxi 2017,2.UWT,6
+1998,World Championships - TTT 2017,WC,1
+1999,World Championships U23 - ITT 2017,WC,1
+2000,World Championships WE - ITT 2017,WC,1
+2001,World Championships - ITT 2017,WC,1
+2002,World Championships U23 - Road Race 2017,WC,1
+2003,World Championships WE - Road Race 2017,WC,1
+2004,World Championships - Road Race 2017,WC,1
+2005,National Championships Namibia - ITT 2017,NC,1
+2006,Les Challenges de la Marche Verte - GP Sakia El Hamra 2017,1.2,1
+2007,National Championships Namibia U23 - ITT 2017,NC,1
+2008,National Championships Namibia - Road Race 2017,NC,1
+2009,Les Challenges de la Marche Verte - GP Oued Eddahab 2017,1.2,1
+2010,Les Challenges de la Marche Verte - GP Al Massira 2017,1.2,1
+2011,National Championships South Africa - ITT 2017,NC,1
+2012,Challenge du Prince - Trophée Princier 2017,1.2,1
+2013,Challenge du Prince - Trophée de l'Anniversaire 2017,1.2,1
+2014,National Championships South Africa - Road Race 2017,NC,1
+2015,Challenge du Prince - Trophée de la Maison Royale 2017,1.2,1
+2016,African Continental Championships - TTT 2017,CC,1
+2017,African Continental Championships - ITT 2017,CC,1
+2018,African Continental Championships - Road Race 2017,CC,1
+2019,La Tropicale Amissa Bongo 2017,2.1,7
+2020,Tour du Cameroun 2017,2.2,8
+2021,Tour du Maroc 2017,2.2,10
+2022,Fenkil Northern Red Sea Challenge 2017,1.2,1
+2023,Massawa Circuit 2017,1.2,1
+2024,Tour Eritrea 2017,2.2,5
+2025,Tour du Senegal 2017,2.2,8
+2026,Asmara Circuit 2017,1.2,1
+2027,Tour de Tunisie 2017,2.2,5
+2028,National Championships Morocco - ITT 2017,NC,1
+2029,National Championships Morocco U23 - ITT 2017,NC,1
+2030,National Championships Morocco - Road Race 2017,NC,1
+2031,National Championships Morocco U23 - Road Race 2017,NC,1
+2032,National Championships Morocco WE - Road Race 2017,NC,1
+2033,National Championships Tunisia - Road Race 2017,NC,1
+2034,National Championships Angola - Road Race 2017,NC,1
+2035,National Championships Burkina Faso U23 - Road Race 2017,NC,1
+2036,National Championships Mauritius - ITT 2017,NC,1
+2037,National Championships Tunisia - ITT 2017,NC,1
+2038,National Championships Eritrea - ITT 2017,NC,1
+2039,National Championships Ethiopia - ITT 2017,NC,1
+2040,National Championships Ethiopia - Road Race 2017,NC,1
+2041,National Championships Rwanda - ITT 2017,NC,1
+2042,National Championships Eritrea - Road Race 2017,NC,1
+2043,National Championships Mauritius - Road Race 2017,NC,1
+2044,National Championships Rwanda - Road Race 2017,NC,1
+2045,National Championships Zimbabwe - ITT 2017,NC,1
+2046,National Championships Zimbabwe U23 - ITT 2017,NC,1
+2047,National Championships Zimbabwe - Road Race 2017,NC,1
+2048,National Championships Zimbabwe U23 - Road Race 2017,NC,1
+2049,National Championships Uganda - Road Race 2017,NC,1
+2050,National Championships Algeria - ITT 2017,NC,1
+2051,National Championships Algeria U23 - ITT 2017,NC,1
+2052,National Championships Algeria - Road Race 2017,NC,1
+2053,National Championships Algeria U23 - Road Race 2017,NC,1
+2054,Tour Meles Zenawi for Green Development 2017,2.2,5
+2055,Tour de Côte d'Ivoire-Tour de la Réconciliation 2017,2.2,7
+2056,Grand Prix Chantal Biya 2017,2.2,4
+2057,Tour du Faso 2017,2.2,10
+2058,Tour of Rwanda 2017,2.2,8
+2059,National Championships Benin - Road Race 2017,NC,1
+2060,Dubai Tour 2017,2.HC,5
+2061,Tour of Oman 2017,2.HC,6
+2062,Le Tour de Filipinas 2017,2.2,4
+2063,Le Tour de Langkawi 2017,2.HC,8
+2064,Asian Cycling Championships - TTT 2017,CC,1
+2065,Asian Cycling Championships - ITT 2017,CC,1
+2066,Asian Cycling Championships U23 - ITT 2017,CC,1
+2067,Asian Cycling Championships U23 - Road Race 2017,CC,1
+2068,Asian Cycling Championships - Road Race 2017,CC,1
+2069,Tour de Taiwan 2017,2.1,5
+2070,Tour de Tochigi 2017,2.2,3
+2071,The Princess Maha Chackri Sirindhorn's Cup 'Tour of Thailand' 2017,2.1,6
+2072,National Championships United Arab Emirates - ITT 2017,NC,1
+2073,National Championships United Arab Emirates - Road Race 2017,NC,1
+2074,Tour de Lombok 2017,2.2,4
+2075,National Championships Singapore - Road Race 2017,NC,1
+2076,Tour of Japan 2017,2.1,8
+2077,National Championships Uzbekistan - ITT 2017,NC,1
+2078,National Championships Uzbekistan U23 - ITT 2017,NC,1
+2079,Tour de Kumano 2017,2.2,4
+2080,National Championships Uzbekistan - Road Race 2017,NC,1
+2081,Tour de Korea 2017,2.1,5
+2082,National Championships Israel - ITT 2017,NC,1
+2083,National Championships Hong Kong - Road Race 2017,NC,1
+2084,National Championships Kazakhstan - ITT 2017,NC,1
+2085,National Championships Japan - ITT 2017,NC,1
+2086,National Championships Mongolia - ITT 2017,NC,1
+2087,National Championships Japan U23 - ITT 2017,NC,1
+2088,National Championships Hong Kong - ITT 2017,NC,1
+2089,National Championships Israel - Road Race 2017,NC,1
+2090,National Championships Hong Kong U23 - ITT 2017,NC,1
+2091,National Championships Japan U23 - Road Race 2017,NC,1
+2092,National Championships Japan - Road Race 2017,NC,1
+2093,National Championships Kazakhstan - Road Race 2017,NC,1
+2094,National Championships Mongolia - Road Race 2017,NC,1
+2095,National Championships South Korea - ITT 2017,NC,1
+2096,National Championships South Korea - Road Race 2017,NC,1
+2097,National Championships Iran - Road Race 2017,NC,1
+2098,National Championships Iran - ITT 2017,NC,1
+2099,National Championships Libanon - ITT 2017,NC,1
+2100,National Championships Libanon MJ - ITT 2017,NC,1
+2101,Tour de Flores 2017,2.2,6
+2102,Tour of Qinghai Lake 2017,2.HC,13
+2103,National Championships Lebanon - Road Race 2017,NC,1
+2104,South East Asian Games - Road Race 2017,JR,1
+2105,Tour of Xingtai 2017,2.2,3
+2106,Tour de Hokkaido 2017,2.2,3
+2107,Tour of China I 2017,2.1,5
+2108,Tour de Molvccas 2017,2.2,5
+2109,Tour of China II 2017,2.1,5
+2110,International Tour de Banyuwangi Ijen 2017,2.2,4
+2111,Tour of Almaty 2017,2.1,2
+2112,Jelajah Malaysia 2017,2.2,5
+2113,Sun Hung Kai Properties Hong Kong Challenge 2017,1.1,1
+2114,Tour of Iran (Azarbaijan) 2017,Azarbaijan),6
+2115,Tour of Taihu Lake 2017,2.1,8
+2116,Tour de Selangor 2017,2.2,5
+2117,Japan Cup Cycle Road Race 2017,1.HC,1
+2118,Tour of Hainan 2017,2.HC,9
+2119,National Championships India - ITT 2017,NC,1
+2120,National Championships India - Road Race 2017,NC,1
+2121,Tour of Fuzhou 2017,2.1,5
+2122,Tour de Okinawa 2017,1.2,1
+2123,Tour de Singkarak 2017,2.2,9
+2124,Tour of Quanzhou Bay 2017,2.2,3
+2125,"Trofeo Porreres, Felanitx, Ses Salines, Campos 2017",1.1,1
+2126,Trofeo Serra de Tramuntana 2017,1.1,1
+2127,Trofeo Andratx-Mirador des Colomer 2017,1.1,1
+2128,Grand Prix Cycliste la Marseillaise 2017 | ,1.1,1
+2129,Trofeo Palma 2017,1.1,1
+2130,Etoile de Bessèges 2017,2.1,5
+2131,Volta a la Comunitat Valenciana 2017,2.1,5
+2132,G.P. Costa degli Etruschi 2017,1.1,1
+2133,Vuelta Ciclista a la Region de Murcia 'Costa Calida' 2017,1.1,1
+2134,Trofeo Laigueglia 2017,1.HC,1
+2135,Clasica de Almeria 2017,1.1,1
+2136,Volta ao Algarve em Bicicleta 2017,2.HC,5
+2137,Vuelta a Andalucia Ruta Ciclista Del Sol 2017,2.1,5
+2138,Tour Cycliste International du Haut Var Matin 2017,2.1,2
+2139,GP Laguna Porec 2017,1.2,1
+2140,Tour Cycliste International La Provence 2017,2.1,3
+2141,Volta ao Alentejo 2017,2.1,5
+2142,Classic Sud Ardèche - Souvenir Francis Delpech 2017,1.1,1
+2143,Kuurne-Bruxelles-Kuurne 2017,1.HC,1
+2144,Royal Bernard Drome Classic 2017,1.1,1
+2145,GP Izola 2017,1.2,1
+2146,Le Samyn 2017,1.1,1
+2147,Trofej Umag - Umag Trophy 2017,1.2,1
+2148,Trofej Porec - Porec Trophy 2017,1.2,1
+2149,GP Industria & Artigianato 2017,1.HC,1
+2150,Dwars door West-Vlaanderen Johan Museeuw Classic 2017,1.1,1
+2151,Classica da Arrabida - Cylin'Portugal 2017,1.2,1
+2152,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2017,1.2,1
+2153,International Rhodes Grand Prix 2017,1.2,1
+2154,Istarsko Proljece - Istrian Spring Trophy 2017,2.2,4
+2155,International Tour of Rhodes 2017,2.2,3
+2156,Ronde van Drenthe 2017,1.1,1
+2157,Classica Aldeias do Xisto - Cylin'Portugal 2017,1.2,1
+2158,Paris-Troyes 2017,1.2,1
+2159,Rabobank Dorpenomloop Rucphen 2017,1.2,1
+2160,Danilith - Nokere Koerse 2017,1.HC,1
+2161,Handzame Classic 2017,1.1,1
+2162,Classic Loire Atlantique 2017,1.1,1
+2163,Popolarissima 2017,1.2,1
+2164,Tour de Normandie 2017,2.2,7
+2165,Settimana Internazionale Coppi e Bartali 2017,2.1,5
+2166,Driedaagse De Panne-Koksijde 2017,2.HC,4
+2167,Route Adélie de Vitré 2017,1.1,1
+2168,Le Triptyque des Monts et Chateaux 2017,2.2,4
+2169,Gran Premio Miguel Indurain 2017,1.1,1
+2170,Volta Limburg Classic 2017,1.1,1
+2171,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle 2017,1.1,1
+2172,Vuelta Ciclista a La Rioja 2017,1.1,1
+2173,GP Adria Mobil 2017,1.2,1
+2174,Trofeo Piva 2017,1.2U,1
+2175,Circuit Cycliste Sarthe - Pays de la Loire 2017,2.1,5
+2176,Scheldeprijs 2017,1.HC,1
+2177,Circuit des Ardennes International 2017,2.2,4
+2178,Trofeo Edil C 2017,1.2U,1
+2179,Giro dell'Appennino 2017,1.1,1
+2180,Klasika Primavera de Amorebieta 2017,1.1,1
+2181,Paris-Camembert 2017,1.1,1
+2182,De Brabantse Pijl - La Flèche Brabançonne 2017,1.HC,1
+2183,Tour du Loir et Cher 2017,2.2,5
+2184,GP de Denain - Porte du Hainaut / Valenciennes Métropole 2017,1.HC,1
+2185,Tour du Finistère 2017,1.1,1
+2186,Liège - Bastogne - Liège U23 2017,1.2U,1
+2187,ZLM Tour 2017,1.Ncup,1
+2188,Tour of the Alps 2017,2.HC,5
+2189,Tro-Bro Léon 2017,1.1,1
+2190,Giro del Belvedere 2017,1.2U,1
+2191,Tour of Croatia 2017,2.1,6
+2192,G.P. Palio del Recioto 2017,1.2U,1
+2193,Tour of Mersin 2017,2.2,4
+2194,Arno Wallaard Memorial 2017,1.2,1
+2195,Visegrad 4 Kerekparverseny 2017,1.2,1
+2196,Rutland - Melton Cicle Classic 2017,1.2,1
+2197,Tr. Città di S. Vendemiano - 57th GP Industria & Commercio 2017,1.2U,1
+2198,Visegrad 4 Bicycle Race -  GP Slovakia 2017,1.2,1
+2199,Gran Premio della Liberazione 2017,1.2U,1
+2200,Le Tour de Bretagne Cycliste 2017,2.2,7
+2201,Tour de Yorkshire 2017,2.1,3
+2202,GP Himmerland Rundt 2017,1.2,1
+2203,Toscana Terra di Ciclismo Eroica 2017,2.2U,3
+2204,Vuelta Asturias Julio Alvarez Mendo 2017,2.1,3
+2205,Beograd - Banjaluka I 2017,1.2,1
+2206,Carpathian Couriers Race U-23 2017,2.2U,4
+2207,GP Viborg 2017,1.2,1
+2208,ZODC Zuidenveld Tour 2017,1.2,1
+2209,Belgrade Banjaluka II 2017,1.2,1
+2210,Paris - Mantes-en-Yvelines 2017,1.2,1
+2211,Skive-Løbet 2017,1.2,1
+2212,Circuit de Wallonie 2017,1.2,1
+2213,Memorial Andrzeja Trochanowskiego 2017,1.2,1
+2214,National Championships Belgium U23 - ITT 2017,NC,1
+2215,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2017,U23),1
+2216,Memoriał Romana Siemińskiego 2017,1.2,1
+2217,Tour d'Azerbaïdjan 2017,2.1,5
+2218,Rhône-Alpes Isère Tour 2017,2.2,4
+2219,National Championships Cyprus - ITT 2017,NC,1
+2220,Vuelta Ciclista Comunidad de Madrid 2017,2.1,3
+2221,CCC Tour - Grody Piastowskie 2017,2.2,3
+2222,Five Rings of Moscow 2017,2.2,5
+2223,Ronde van Overijssel 2017,1.2,1
+2224,Sundvolden GP 2017,1.2,1
+2225,Gran Premio Città di Lugano 2017,1.HC,1
+2226,National Championships Cyprus - Road Race 2017,NC,1
+2227,Circuito del Porto - Trofeo Arvedi 2017,1.2,1
+2228,Flèche Ardennaise 2017,1.2,1
+2229,Ringerike GP 2017,1.2,1
+2230,4 Jours de Dunkerque / Tour des Hauts-de-France 2017,2.HC,6
+2231,National Championships Azerbaijan - ITT 2017,NC,1
+2232,Tour of Ankara 2017,2.2,4
+2233,National Championships Azerbaijan - Road Race 2017,NC,1
+2234,National Championships Denmark U23 - ITT 2017,NC,1
+2235,Scandinavian Race in Uppsala 1909-2017 2017,1.2,1
+2236,Gran Premio Industrie del Marmo 2017,1.2U,1
+2237,Grand Prix Criquielion 2017,1.2,1
+2238,National Championships Denmark U23 - Road Race 2017,NC,1
+2239,Profronde van Noord-Holland 2017,1.2,1
+2240,Tour of Norway 2017,2.HC,5
+2241,Baltyk - Karkonosze Tour 2017,2.2,6
+2242,Tour of Ukraine 2017,2.2,5
+2243,Ronde de l'Isard 2017,2.2U,4
+2244,Vuelta a Castilla y Leon 2017,2.1,3
+2245,A Travers Les Hauts De France - Trophee Paris-Arras Tour 2017,2.2,3
+2246,Berner Rundfahrt / Tour de Berne 2017,1.2,1
+2247,Tour of Albania 2017,2.2,5
+2248,Grand Prix de la Somme « Conseil Général 80» 2017,1.1,1
+2249,An Post Rás 2017,2.2,8
+2250,National Championships Germany U23 - Road Race 2017,NC,1
+2251,SwissEver GP Cham - Hagendorn 2017,1.2,1
+2252,Baloise Belgium Tour 2017,2.HC,5
+2253,Tour des Fjords 2017,2.1,5
+2254,Flèche du Sud 2017,2.2,5
+2255,Gemenc Grand Prix 2017,2.2,3
+2256,Tour of Estonia 2017,2.1,2
+2257,Horizon Park Race for Peace 2017,1.2,1
+2258,Grand Prix de Plumelec-Morbihan 2017,1.1,1
+2259,Horizon Park Race Maidan 2017,1.2,1
+2260,Tour de Gironde Cycliste International 2017,2.2,2
+2261,Tour du Jura Cycliste 2017,2.2,2
+2262,Boucles de l'Aulne - Chateaulin 2017,1.1,1
+2263,Horizon Park Classic 2017,1.2,1
+2264,Paris-Roubaix Espoirs 2017,1.2U,1
+2265,Games of the Small States of Europe 2017,JR,1
+2266,Skoda-Tour de Luxembourg 2017,2.HC,5
+2267,Boucles de la Mayenne 2017,2.1,4
+2268,Szlakiem Walk Majora Hubala 2017,2.1,5
+2269,Grand Prix Priessnitz spa 2017,2.Ncup,4
+2270,GP Beiras e Serra da Estrela 2017,2.1,3
+2271,Hammer Sportzone Limburg 2017,2.1,3
+2272,Tour of Bihor - Bellotto 2017,2.2,4
+2273,Trofeo Alcide Degasperi 2017,1.2,1
+2274,Carrefour Market Heistse Pijl 2017,1.1,1
+2275,Coppa della Pace - Trofeo F.lli Anelli 2017,1.2,1
+2276,Memorial Philippe Van Coningsloo 2017,1.2,1
+2277,Okolo Slovenska 2017,2.1,5
+2278,GP du canton d'Argovie 2017,1.HC,1
+2279,Oberösterreichrundfahrt 2017,2.2,4
+2280,Ronde de l'Oise 2017,2.2,4
+2281,National Championships Slovenia - ITT 2017,NC,1
+2282,Giro Ciclistico d'Italia 2017,2.2U,8
+2283,National Championships Slovenia U23 - ITT 2017,NC,1
+2284,Tour of Malopolska 2017,2.2,3
+2285,Dwars door de Vlaamse Ardennen 2017,1.2,1
+2286,Fyen Rundt - Tour of Fyen 2017,1.2,1
+2287,Ronde van Limburg 2017,1.1,1
+2288,Rund um Köln 2017,1.1,1
+2289,GP Horsens Posten 2017,1.2,1
+2290,Ster ZLM 2017,2.1,5
+2291,Route du Sud - la Depeche du Midi 2017,2.1,4
+2292,Tour of Slovenia 2017,2.1,4
+2293,Le Tour de Savoie Mont Blanc 2017,2.2,5
+2294,National Championships Finland - ITT 2017,NC,1
+2295,National Championships Finland U23 - ITT 2017,NC,1
+2296,Tour de Serbia 2017,2.2,3
+2297,Grand Prix Doliny Baryczy Xxvii Memorial Grundmanna I Wizowskiego 2017,1.2,1
+2298,National Championships Finland - Road Race 2017,NC,1
+2299,National Championships Montenegro - Road Race 2017,NC,1
+2300,Ride Bruges (Bruges Cycling Classic) 2017,Bruges Cycling Classic),1
+2301,Beaumont Trophy 2017,1.2,1
+2302,International Race Korona Kocich Gor 2017,1.2,1
+2303,National Championships Norway U23 - Road Race 2017,NC,1
+2304,National Championships Ukraine U23 - ITT 2017,NC,1
+2305,Halle Ingooigem 2017,1.1,1
+2306,National Championships Bulgaria - ITT 2017,NC,1
+2307,National Championships Estonia - ITT 2017,NC,1
+2308,National Championships Latvia - ITT 2017,NC,1
+2309,National Championships Luxembourg - ITT 2017,NC,1
+2310,National Championships Netherlands - ITT 2017,NC,1
+2311,National Championships Poland - ITT 2017,NC,1
+2312,National Championships Ukraine - ITT 2017,NC,1
+2313,National Championships Latvia U23 - ITT 2017,NC,1
+2314,National Championships Luxembourg U23 - ITT 2017,NC,1
+2315,National Championships Netherlands U23 - ITT 2017,NC,1
+2316,National Championships Poland U23 - ITT 2017,NC,1
+2317,National Championships Belarus - ITT 2017,NC,1
+2318,National Championships Belgium - ITT 2017,NC,1
+2319,National Championships Czech Republic - ITT 2017,NC,1
+2320,National Championships Denmark - ITT 2017,NC,1
+2321,National Championships France - ITT 2017,NC,1
+2322,National Championships Great Britain - ITT 2017,NC,1
+2323,National Championships Ireland - ITT 2017,NC,1
+2324,National Championships Norway - ITT 2017,NC,1
+2325,National Championships Sweden - ITT 2017,NC,1
+2326,National Championships Switzerland - ITT 2017,NC,1
+2327,National Championships Switzerland WE - ITT 2017,NC,1
+2328,National Championships Belarus U23 - ITT 2017,NC,1
+2329,National Championships Great Britain U23 - ITT 2017,NC,1
+2330,National Championships Switzerland U23 - ITT 2017,NC,1
+2331,National Championships Austria - ITT 2017,NC,1
+2332,National Championships Germany - ITT 2017,NC,1
+2333,National Championships Greece - ITT 2017,NC,1
+2334,National Championships Hungary - ITT 2017,NC,1
+2335,National Championships Italy - ITT 2017,NC,1
+2336,National Championships Kosovo - ITT 2017,NC,1
+2337,National Championships Kosovo U23 - ITT 2017,NC,1
+2338,National Championships Lithuania - ITT 2017,NC,1
+2339,National Championships Lithuania U23 - ITT 2017,NC,1
+2340,National Championships Portugal - ITT 2017,NC,1
+2341,National Championships Romania - Road Race 2017,NC,1
+2342,National Championships Romania U23 - ITT 2017,NC,1
+2343,National Championships Russia - ITT 2017,NC,1
+2344,National Championships Serbia - ITT 2017,NC,1
+2345,National Championships Slovakia - ITT 2017,NC,1
+2346,National Championships Spain - ITT 2017,NC,1
+2347,National Championships Germany U23 - ITT 2017,NC,1
+2348,National Championships Hungary U23 - ITT 2017,NC,1
+2349,National Championships Portugal U23 - ITT 2017,NC,1
+2350,National Championships Spain U23 - ITT 2017,NC,1
+2351,National Championships Ukraine U23 - Road Race 2017,NC,1
+2352,National Championships Bosnia and Herzegovina - Road Race 2017,NC,1
+2353,National Championships Croatia - ITT 2017,NC,1
+2354,National Championships Croatia U23 - ITT 2017,NC,1
+2355,National Championships Georgia - ITT 2017,NC,1
+2356,National Championships Kosovo - Road Race 2017,NC,1
+2357,National Championships Macedonia - ITT 2017,NC,1
+2358,National Championships Moldova - ITT 2017,NC,1
+2359,National Championships Moldova U23 - ITT 2017,NC,1
+2360,National Championships Netherlands U23 - Road Race 2017,NC,1
+2361,National Championships Poland U23 - Road Race 2017,NC,1
+2362,National Championships Portugal U23 - Road Race 2017,NC,1
+2363,National Championships Spain U23 - Road Race 2017,NC,1
+2364,National Championships Austria - Road Race 2017,NC,1
+2365,National Championships Belarus - Road Race 2017,NC,1
+2366,National Championships Belgium - Road Race 2017,NC,1
+2367,National Championships Bulgaria - Road Race 2017,NC,1
+2368,National Championships Croatia - Road Race 2017,NC,1
+2369,National Championships Czech Republic - Road Race 2017,NC,1
+2370,National Championships Denmark - Road Race 2017,NC,1
+2371,National Championships Estonia - Road Race 2017,NC,1
+2372,National Championships France - Road Race 2017,NC,1
+2373,National Championships Georgia - Road Race 2017,NC,1
+2374,National Championships Germany - Road Race 2017,NC,1
+2375,National Championships Great Britain - Road Race 2017,NC,1
+2376,National Championships Greece - Road Race 2017,NC,1
+2377,National Championships Hungary - Road Race 2017,NC,1
+2378,National Championships Iceland - ITT 2017,NC,1
+2379,National Championships Ireland - Road Race 2017,NC,1
+2380,National Championships Italy - Road Race 2017,NC,1
+2381,National Championships Latvia - Road Race 2017,NC,1
+2382,National Championships Lithuania - Road Race 2017,NC,1
+2383,National Championships Luxembourg - Road Race 2017,NC,1
+2384,National Championships Macedonia - Road Race 2017,NC,1
+2385,National Championships Moldova - Road Race 2017,NC,1
+2386,National Championships Netherlands - Road Race 2017,NC,1
+2387,National Championships Norway - Road Race 2017,NC,1
+2388,National Championships Poland - Road Race 2017,NC,1
+2389,National Championships Portugal - Road Race 2017,NC,1
+2390,National Championships Romania - ITT 2017,NC,1
+2391,National Championships Romania U23 - Road Race 2017,NC,1
+2392,National Championships Russia - Road Race 2017,NC,1
+2393,National Championships Serbia - Road Race 2017,NC,1
+2394,National Championships Slovakia - Road Race 2017,NC,1
+2395,National Championships Slovenia - Road Race 2017,NC,1
+2396,National Championships Spain - Road Race 2017,NC,1
+2397,National Championships Sweden - Road Race 2017,NC,1
+2398,National Championships Switzerland - Road Race 2017,NC,1
+2399,National Championships Ukraine - Road Race 2017,NC,1
+2400,National Championships Hungary U23 - Road Race 2017,NC,1
+2401,National Championships Kosovo U23 - Road Race 2017,NC,1
+2402,Tour de Hongrie 2017,2.2,6
+2403,Trofeo Citta di Brescia 2017,1.2,1
+2404,National Championships Albania - ITT 2017,NC,1
+2405,Course Cycliste de Solidarnosc et des Champions Olympiques 2017,2.2,5
+2406,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2017,1.2,1
+2407,National Championships Albania - Road Race 2017,NC,1
+2408,National Championships Turkey - ITT 2017,NC,1
+2409,Volta a Portugal do Futuro 2017,2.2U,4
+2410,National Championships Iceland - Road Race 2017,NC,1
+2411,National Championships Iceland U23 - Road Race 2017,NC,1
+2412,National Championships Turkey - Road Race 2017,NC,1
+2413,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2017,1.2,1
+2414,Int. Österreich-Rundfahrt-Tour of Austria 2017,2.1,7
+2415,KOGA Slag om Norg 2017,1.1,1
+2416,Sibiu Cycling Tour 2017,2.1,5
+2417,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2017,2.2,6
+2418,Grote Prijs Stad Sint-Niklaas 2017,1.2,1
+2419,Minsk Cup 2017,1.2,1
+2420,Grote prijs Jean-Pierre Monseré 2017,1.1,1
+2421,Grand Prix Minsk 2017,1.2,1
+2422,Velothon Wales 2017,1.1,1
+2423,Giro del Medio Brenta 2017,1.2,1
+2424,Midden Brabant-Poort Omloop 2017,1.2,1
+2425,Giro Ciclistico della Valle d'Aosta Mont Blanc 2017,2.2U,5
+2426,Trofeo Matteotti 2017,1.1,1
+2427,Grand Prix Cerami 2017,1.1,1
+2428,VOO-Tour de Wallonie 2017,2.HC,5
+2429,Grand Prix de la ville de Pérenchies 2017,1.2,1
+2430,Prueba Villafranca-Ordiziako Klasika 2017,1.1,1
+2431,Dookola Mazowsza 2017,2.2,5
+2432,Tour Alsace 2017,2.2,5
+2433,National Championships France U23 - ITT 2017,NC,1
+2434,National Championships Russia U23/MJ - ITT 2017,NC,1
+2435,Kreiz Breizh Elites 2017,2.2,4
+2436,La Poly Normande 2017,1.1,1
+2437,Rad am Ring 2017,1.1,1
+2438,GP Kranj 2017,1.2,1
+2439,National Championships France U23 - Road Race 2017,NC,1
+2440,National Championships Russia U23/MJ - Road Race 2017,NC,1
+2441,Circuito de Getxo 'Memorial Ricardo Otxoa' 2017,1.1,1
+2442,Vuelta a Burgos 2017,2.HC,5
+2443,European Continental Championships  - ITT 2017,CC,1
+2444,European Continental Championships U23 - ITT 2017,CC,1
+2445,Volta a Portugal em Bicicleta Santander Totta 2017,2.1,11
+2446,European Continental Championships U23 - Road Race 2017,CC,1
+2447,Dwars door het Hageland - Aarschot 2017,1.1,1
+2448,Hansa Bygg Kalmar Grand Prix Road Race 2017,1.2,1
+2449,Tour de Ribas 2017,1.2,1
+2450,European Continental Championships - Road Race 2017,CC,1
+2451,Antwerpse Havenpijl 2017,1.2,1
+2452,Odessa Grand Prix 2017,1.2,1
+2453,Tour de l'Ain 2017,2.1,5
+2454,Cycling Tour Of Szeklerland 2017,2.2,5
+2455,Arctic Race of Norway 2017,2.HC,4
+2456,Czech Cycling Tour 2017,2.1,4
+2457,Memorial Henryka Lasaka 2017,1.2,1
+2458,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran premio Pasta Zara 2017,1.2U,1
+2459,National Championships Belgium U23 - Road Race 2017,NC,1
+2460,Puchar Uzdrowisk Karpackich 2017,1.2,1
+2461,Tour du Limousin 2017,2.1,4
+2462,GP Capodarco - Comunità di Capodarco 2017,1.2U,1
+2463,Veenendaal Veenendaal Classic 2017,1.1,1
+2464,Tour de l'Avenir 2017,2.Ncup,9
+2465,Puchar Mon. 2017,1.2,1
+2466,Grote Prijs Jef Scherens - Rondom Leuven 2017,1.1,1
+2467,Szlakiem Wielkich Jezior 2017,1.2,1
+2468,GP Stad Zottegem 2017,1.1,1
+2469,Tour du Poitou Charentes 2017,2.1,5
+2470,Grand Prix des Marbriers 2017,1.2,1
+2471,Druivenkoers - Overijse 2017,1.1,1
+2472,Baltic Chain Tour 2017,2.2,4
+2473,PRO Ötztaler 5500 2017,1.1,1
+2474,Omloop Mandel-Leie-Schelde Meulebeke 2017,1.1,1
+2475,Ronde van Midden Nederland 2017,2.2,2
+2476,Schaal Sels 2017,1.1,1
+2477,Croatia-Slovenia 2017,1.2,1
+2478,Okolo Jižních Čech / Tour of South Bohemia 2017,2.2,5
+2479,Brussels Cycling Classic 2017,1.HC,1
+2480,GP de Fourmies / La Voix du Nord 2017,1.HC,1
+2481,OVO Energy Tour of Britain 2017,2.HC,8
+2482,International Cycling Tour of Bulgaria - North 2017,2.2,4
+2483,Kernen Omloop Echt-Susteren 2017,1.2,1
+2484,Olympia's Tour 2017,2.2U,6
+2485,International Cycling Tour of Bulgaria - South 2017,2.2,3
+2486,East Bohemia Tour 2017,2.2,2
+2487,De Kustpijl 2017,1.2,1
+2488,Tour du Jura 2017,1.2,1
+2489,Tour du Doubs 2017,1.1,1
+2490,Grand Prix de la Ville de Nogent-sur-Oise 2017,1.2,1
+2491,Int. Raiffeisen Grand Prix Judendorf/Straßengel 2017,1.2,1
+2492,Grote Prijs Marcel Kint 2017,1.2,1
+2493,PostNord Danmark Rundt - Tour of Denmark 2017,2.HC,5
+2494,Coppa Agostoni - Giro delle Brianze 2017,1.1,1
+2495,Grand Prix de Wallonie 2017,1.1,1
+2496,Coppa Bernocchi 2017,1.1,1
+2497,Kampioenschap van Vlaanderen 2017,1.1,1
+2498,Primus Classic 2017,1.HC,1
+2499,Memorial Marco Pantani 2017,1.1,1
+2500,Visegrad 4 Bicycle Race - GP Czech Republic 2017,1.2,1
+2501,Grand Prix d'Isbergues - Pas de Calais 2017,1.1,1
+2502,Visegrad 4 Bicycle Race Grand Prix Poland 2017,1.2,1
+2503,Omloop van het Houtland Lichtervelde 2017,1.1,1
+2504,Tour du Gévaudan Languedoc-Roussillon 2017,2.2,2
+2505,Duo Normand 2017,1.1,1
+2506,Gooikse Pijl 2017,1.2,1
+2507,Paris-Chauny (classique) 2017,classique),1
+2508,Giro della Toscana - Memorial Alfredo Martini 2017,2.1,2
+2509,Ruota d'Oro - GP Festa del Perdono 2017,1.2U,1
+2510,Coppa Sabatini - Gran Premio citta di Peccioli 2017,1.1,1
+2511,National Championships Albania U23 - Road Race 2017,NC,1
+2512,Giro dell'Emilia 2017,1.HC,1
+2513,Omloop Eurometropool 2017,1.1,1
+2514,Törökbálint GP - Memorial Imre Riczu 2017,1.2,1
+2515,Gran Premio Bruno Beghelli 2017,1.HC,1
+2516,Tour de l'Eurométropole 2017,1.HC,1
+2517,Tour de Vendée 2017,1.1,1
+2518,Piccolo Giro di Lombardia 2017,1.2U,1
+2519,Sparkassen Münsterland Giro 2017,1.HC,1
+2520,Tre Valli Varesine 2017,1.HC,1
+2521,Binche - Chimay - Binche 2017,1.1,1
+2522,Milano-Torino 2017,1.HC,1
+2523,Paris-Bourges 2017,1.1,1
+2524,Paris-Tours Elite 2017,1.HC,1
+2525,Paris-Tours Espoirs 2017,1.2U,1
+2526,Famenne Ardenne Classic 2017,1.1,1
+2527,Tacx Pro Classic 2017,1.1,1
+2528,Chrono des Nations 2017,1.1,1
+2529,Chrono des Nations U23 2017,1.2U,1
+2530,Sluitingsprijs Putte-Kapellen 2017,1.1,1
+2531,National Championships Australia - ITT 2017,NC,1
+2532,National Championships Australia U23 - ITT 2017,NC,1
+2533,National Championships New Zealand - ITT 2017,NC,1
+2534,National Championships New Zealand U23 - ITT 2017,NC,1
+2535,National Championships Australia U23 - Road Race 2017,NC,1
+2536,National Championships Australia - Road Race 2017,NC,1
+2537,National Championships New Zealand - Road Race 2017,NC,1
+2538,New Zealand Cycle Classic 2017,2.2,5
+2539,Herald Sun Tour 2017,2.1,5
+2540,Oceania Continental Championships - ITT 2017,CC,1
+2541,Oceania Continental Championships U23 - ITT 2017,CC,1
+2542,Oceania Continental Championships - Road Race 2017,CC,1
+2543,Vuelta al Táchira en Bicicleta 2017,2.2,10
+2544,Vuelta Ciclista a la Provincia de San Juan 2017,2.1,7
+2545,National Championships Uruguay - ITT 2017,NC,1
+2546,National Championships Uruguay - Road Race 2017,NC,1
+2547,National Championships Colombia - ITT 2017,NC,1
+2548,National Championships Colombia U23 - ITT 2017,NC,1
+2549,National Championships Colombia U23 - Road Race 2017,NC,1
+2550,National Championships Colombia - Road Race 2017,NC,1
+2551,Vuelta Independencia Nacional Republica Dominicana 2017,2.2,8
+2552,Joe Martin Stage Race 2017,2.2,8
+2553,Vuelta Ciclista del Uruguay 2017,2.2,11
+2554,National Championships Chile - ITT 2017,NC,1
+2555,National Championships Chile U23 - ITT 2017,NC,1
+2556,National Championships Mexico - ITT 2017,NC,1
+2557,National Championships Mexico U23 - ITT 2017,NC,1
+2558,National Championships Chile - Road Race 2017,NC,1
+2559,National Championships Chile U23 - Road Race 2017,NC,1
+2560,National Championships Mexico - Road Race 2017,NC,1
+2561,Tour of the Gila 2017,2.2,5
+2562,National Championships Argentina - ITT 2017,NC,1
+2563,National Championships Argentina U23 - ITT 2017,NC,1
+2564,National Championships Argentina U23 - Road Race 2017,NC,1
+2565,National Championships Argentina - Road Race 2017,NC,1
+2566,Campeonato Panamericano de Ruta - ITT 2017,CC,1
+2567,Campeonato Panamericano de Ruta U23 - ITT 2017,CC,1
+2568,Campeonato Panamericano de Ruta U23 - Road Race 2017,CC,1
+2569,Campeonato Panamericano de Ruta - Road Race 2017,CC,1
+2570,National Championships Bolivia - ITT 2017,NC,1
+2571,National Championships Bolivia U23 - ITT 2017,NC,1
+2572,National Championships Bolivia - Road Race 2017,NC,1
+2573,National Championships Bolivia U23 - Road Race 2017,NC,1
+2574,Winston Salem Cycling Classic 2017,1.1,1
+2575,Grand Prix Cycliste de Saguenay 2017,2.2,4
+2576,Tour de Beauce 2017,2.2,6
+2577,National Championships Cuba - ITT 2017,NC,1
+2578,National Championships Cuba U23 - ITT 2017,NC,1
+2579,National Championships Cuba - Road Race 2017,NC,1
+2580,National Championships Cuba U23 - Road Race 2017,NC,1
+2581,National Championships Puerto Rico - ITT 2017,NC,1
+2582,National Championships Puerto Rico U23 - ITT 2017,NC,1
+2583,National Championships Belize - ITT 2017,NC,1
+2584,National Championships Bermuda - ITT 2017,NC,1
+2585,National Championships Guatemala - ITT 2017,NC,1
+2586,National Championships Guatemala U23 - ITT 2017,NC,1
+2587,National Championships Costa Rica - ITT 2017,NC,1
+2588,National Championships Dominican Republic - ITT 2017,NC,1
+2589,National Championships Guyana - ITT 2017,NC,1
+2590,National Championships Panama - ITT 2017,NC,1
+2591,National Championships Venezuela - ITT 2017,NC,1
+2592,National Championships Antigua and Barbuda - ITT 2017,NC,1
+2593,National Championships El Salvador - ITT 2017,NC,1
+2594,National Championships El Salvador U23 - ITT 2017,NC,1
+2595,National Championships Guatemala - Road Race 2017,NC,1
+2596,National Championships United States - ITT 2017,NC,1
+2597,National Championships Antigua and Barbuda - Road Race 2017,NC,1
+2598,National Championships Belize - Road Race 2017,NC,1
+2599,National Championships Canada - Road Race 2017,NC,1
+2600,National Championships Costa Rica - Road Race 2017,NC,1
+2601,National Championships Dominican Republic - Road Race 2017,NC,1
+2602,National Championships Dominican Republic U23 - Road Race 2017,NC,1
+2603,National Championships El Salvador - Road Race 2017,NC,1
+2604,National Championships Guyana - Road Race 2017,NC,1
+2605,National Championships Panama - Road Race 2017,NC,1
+2606,National Championships Puerto Rico - Road Race 2017,NC,1
+2607,National Championships United States - Road Race 2017,NC,1
+2608,National Championships Venezuela - Road Race 2017,NC,1
+2609,National Championships Canada - ITT 2017,NC,1
+2610,National Championships United States U23 - ITT 2017,NC,1
+2611,National Championships United States U23 - Road Race 2017,NC,1
+2612,National Championships Aruba - ITT 2017,NC,1
+2613,National Championships Aruba U23 - ITT 2017,NC,1
+2614,National Championships Aruba U23 - Road Race 2017,NC,1
+2615,National Championships Bermuda - Road Race 2017,NC,1
+2616,White Spot / Delta Road Race 2017,1.2,1
+2617,Cascade Cycling Classic 2017,2.2,5
+2618,Tour Cycliste International de la Guadeloupe 2017,2.2,12
+2619,The Larry H.Miller Tour of Utah 2017,2.HC,7
+2620,Vuelta a Colombia 2017,2.2,12
+2621,Colorado Classic 2017,2.HC,4
+2622,National Championships Brazil - ITT 2017,NC,1
+2623,National Championships Brazil U23 - ITT 2017,NC,1
+2624,Tour of Alberta 2017,2.1,4
+2625,National Championships Ecuador - ITT 2017,NC,1
+2626,National Championships Ecuador - Road Race 2017,NC,1
+2627,National Championships Ecuador U23 - Road Race 2017,NC,1
+2628,Tobago Cycling Classic 2017,1.2,1
+2629,Vuelta Ciclista de Chile 2017,2.2,6
+2630,Vuelta a Guatemala 2017,2.2,11
+2631,Vuelta Ciclista a Venezuela 2017,2.2,10
+2632,Vuelta Ciclista Internacional a Costa Rica 2017,2.2,10
