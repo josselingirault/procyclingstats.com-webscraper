@@ -1,0 +1,1122 @@
+,Race_Name,Category,Number_stages
+0,Santos Tour Down Under 2012,WT,6
+1,Paris - Nice 2012,2.UWT,8
+2,Tirreno-Adriatico 2012,WT,7
+3,Milano-Sanremo 2012,WT,1
+4,Volta Ciclista a Catalunya 2012,WT,7
+5,E3 Prijs Vlaanderen 2012,WT,1
+6,Gent - Wevelgem 2012,WT,1
+7,Ronde van Vlaanderen / Tour des Flandres 2012,WT,1
+8,Vuelta Ciclista al Pais Vasco 2012,2.UWT,6
+9,Paris - Roubaix 2012,WT,1
+10,Amstel Gold Race 2012,WT,1
+11,La Flèche Wallonne 2012,WT,1
+12,Liège - Bastogne - Liège 2012,WT,1
+13,Tour de Romandie 2012,WT,6
+14,Giro d'Italia 2012,WT,21
+15,Critérium du Dauphiné 2012,WT,8
+16,Tour de Suisse 2012,WT,9
+17,Tour de France 2012,WT,21
+18,Tour de Pologne 2012,WT,7
+19,Eneco Tour 2012,2.UWT,7
+20,Clasica Ciclista San Sebastian 2012,WT,1
+21,Vuelta a España 2012,WT,21
+22,Vattenfall Cyclassics 2012,WT,1
+23,GP Ouest France - Plouay 2012,WT,1
+24,Grand Prix Cycliste de Quebec 2012,WT,1
+25,Grand Prix Cycliste de Montréal 2012,WT,1
+26,Il Lombardia 2012,WT,1
+27,Tour of Beijing 2012,WT,5
+28,UCI TTT World Championships Men 2012,WC,1
+29,UCI TTT World Championships Women 2012,WC,1
+30,World Championships MJ - ITT 2012,WC,1
+31,World Championships U23 - ITT 2012,WC,1
+32,World Championships WE - ITT 2012,WC,1
+33,World Championships WJ - ITT 2012,WC,1
+34,World Championships - ITT 2012,WC,1
+35,World Championships WJ - Road Race 2012,WC,1
+36,World Championships U23 - Road Race 2012,WC,1
+37,World Championships - Road Race 2012,WC,1
+38,World Championships MJ - Road Race 2012,WC,1
+39,National Championships South Africa - ITT 2012,NC,1
+40,National Championships South Africa - Road Race 2012,NC,1
+41,Tour du Cameroun 2012,2.2,8
+42,Tour d'Algérie 2012,2.2,5
+43,Circuit d\'Alger 2012,1.2,1
+44,Tour du Maroc 2012,2.2,10
+45,National Championships Namibia - Road Race 2012,NC,1
+46,National Championships Namibia - ITT 2012,NC,1
+47,Les Challenges Phosphatiers-Challenge Khouribga 2012,1.2,1
+48,Les Challenges Phosphatiers-Challenge Youssoufia 2012,1.2,1
+49,Les Challenges Phosphatiers-Challenge Ben Guerir 2012,1.2,1
+50,La Tropicale Amissa Bongo 2012,2.1,6
+51,Challenge Du Prince - Trophée Princier 2012,1.2,1
+52,Challenge du Prince - Trophée de l'Anniversaire 2012,1.2,1
+53,Challenge Du Prince - Trophée de la Maison Royale 2012,1.2,1
+54,Tour of Eritrea 2012,2.2,5
+55,National Championships Tunisia - ITT 2012,NC,1
+56,Kwita Izina Cycling Tour 2012,2.2,3
+57,National Championships Burkina Faso - Road Race 2012,NC,1
+58,National Championships Algeria - ITT 2012,NC,1
+59,National Championships Algeria - Road Race 2012,NC,1
+60,National Championships Eritrea - ITT 2012,NC,1
+61,National Championships Morocco - ITT 2012,NC,1
+62,National Championships Eritrea - Road Race 2012,NC,1
+63,National Championships Morocco - Road Race 2012,NC,1
+64,National Championships Tunisia - Road Race 2012,NC,1
+65,National Championships Uganda - Road Race 2012,NC,1
+66,Grand Prix Chantal Biya 2012,2.2,4
+67,Tour du Faso 2012,2.2,10
+68,National Championships Rwanda - Road Race 2012,NC,1
+69,African Continental Championships TTT 2012,CC,1
+70,African Continental Championships - ITT 2012,CC,1
+71,African Continental Championships - Road Race 2012,CC,1
+72,Tour of Rwanda 2012,2.2,9
+73,Tour de Langkawi 2012,2.HC,10
+74,Tour de Taiwan 2012,2.1,7
+75,Princess Maha Chakri Sirindhorn's Cup Tour of Thailand 2012,2.2,6
+76,Le Tour de Filipinas 2012,2.2,4
+77,Tour de Korea 2012,2.2,8
+78,Tour of Borneo 2012,2.2,5
+79,National Championships Japan - Road Race 2012,NC,1
+80,Jelajah Malaysia 2012,2.2,6
+81,International Azerbaïjan Tour 2012,2.2,6
+82,Tour of Japan 2012,2.2,6
+83,Tour de Kumano 2012,2.2,4
+84,Tour of Singkarak 2012,2.2,7
+85,National Championships Japan - ITT 2012,NC,1
+86,Polygon Tour de Jakarta 2012,1.2,1
+87,National Championships Israel - ITT 2012,NC,1
+88,National Championships Kazakhstan - ITT 2012,NC,1
+89,National Championships Uzbekistan - ITT 2012,NC,1
+90,National Championships Israel - Road Race 2012,NC,1
+91,National Championships Kyrgyzstan - ITT 2012,NC,1
+92,National Championships Malaysia - ITT 2012,NC,1
+93,National Championships Singapore - ITT 2012,NC,1
+94,National Championships Hong Kong - Road Race 2012,NC,1
+95,National Championships Kazakhstan - Road Race 2012,NC,1
+96,National Championships Kyrgyzstan - Road Race 2012,NC,1
+97,National Championships Malaysia - Road Race 2012,NC,1
+98,National Championships Singapore - Road Race 2012,NC,1
+99,National Championships South Korea - Road Race 2012,NC,1
+100,National Championships Uzbekistan - Road Race 2012,NC,1
+101,Tour of Qinghai Lake 2012,2.HC,13
+102,Tour of East Java 2012,2.2,4
+103,Tour of China I 2012,2.1,6
+104,Tour de Hokkaido 2012,2.2,3
+105,Tour of China II 2012,2.1,6
+106,Butra Heidelberg Cement Tour dé Brunei 2012,2.2,5
+107,National Championships India - ITT 2012,NC,1
+108,National Championships India - Road Race 2012,NC,1
+109,Tour of Hainan 2012,2.HC,9
+110,Japan Cup Cycle Road Race 2012,1.HC,1
+111,Tour of Taihu Lake 2012,2.1,8
+112,Tour of Fuzhou 2012,2.2,3
+113,Tour de Okinawa 2012,1.2,1
+114,Banyuwangi Tour de Ijen 2012,2.2,3
+115,ADC Tour of Vietnam 2012,2.2,5
+116,Grand Prix Cycliste La Marseillaise 2012,1.1,1
+117,Etoile de Bessèges 2012,2.1,6
+118,GP Costa Degli Etruschi 2012,1.1,1
+119,Trofeo Palma de Mallorca 2012,1.1,1
+120,Trofeo Migjorn 2012,1.1,1
+121,Trofeo Deià 2012,1.1,1
+122,Tour Méditerranéen Cycliste Professionnel 2012,2.1,4
+123,Giro della Provincia di reggio Calabria 2012,2.1,2
+124,Volta ao Algarve 2012,2.1,5
+125,Tour Cycliste International du Haut Var 2012,2.1,2
+126,Trofeo Laigueglia 2012,1.1,1
+127,Omloop Het Nieuwsblad 2012,1.HC,1
+128,Gp Citté di Lugano 2012,1.1,1
+129,Beverbeek Classic 2012,1.2,1
+130,Ster van Zwolle 2012,1.2,1
+131,Kuurne-Bruxelles-Kuurne 2012,1.1,1
+132,Les Boucles du Sud Ardèche - Souvenir F. Delpech 2012,1.1,1
+133,Gp Samyn 2012,1.1,1
+134,Driedaagse van West-Vlaanderen 2012,2.1,3
+135,Vuelta ciclista a la region de Murcia 2012,2.1,2
+136,Montepaschi Strade Bianche - Eroica Toscana 2012,1.1,1
+137,Grand Prix De La Ville De Lillers Souvenir Bruno C 2012,1.2,1
+138,Trofeo Zssdi - Unione dei Circoli sportivi 2012,1.2,1
+139,Dwars door Drenthe 2012,1.1,1
+140,Albert Achterhes Pet Ronde van Drenthe 2012,1.1,1
+141,Dorpenomloop Rucphen 2012,1.2,1
+142,Omloop van het Waasland 2012,1.2,1
+143,Paris-Troyes 2012,1.2,1
+144,Porec Trophy - Trofej Porec 2012,1.2,1
+145,Trofeo Franco Balestra Memorial Metelli 2012,1.2,1
+146,Nokere-Koerse 2012,1.1,1
+147,Istarsko proljece - Istrian Spring Trophy 2012,2.2,4
+148,Handzame Classic 2012,1.1,1
+149,Classic Loire Atlantique 2012,1.1,1
+150,Cholet-Pays de Loire 2012,1.1,1
+151,Gran Premio San Giuseppe 2012,1.2,1
+152,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2012,1.2,1
+153,Tour de Normandie 2012,2.2,8
+154,Settimana Internazionale Coppi e Bartali 2012,2.1,6
+155,Dwars door Vlaanderen 2012,1.1,1
+156,Volta ao Alentejo/Crédito Agrícola Costa Azul 2012,2.2,4
+157,Critérium International 2012,2.HC,3
+158,Driedaagse De Panne-Koksijde 2012,2.HC,4
+159,Route Adélie de Vitré 2012,1.1,1
+160,Le Triptyque des Monts et Châteaux 2012,2.2,4
+161,Gran Premio Miguel Indurain 2012,1.HC,1
+162,Volta Limburg Classic 2012,1.1,1
+163,Flèche d'Emeraude - Saint Malo 2012,1.1,1
+164,Grand Prix de la Ville de Nogent-sur-Oise 2012,1.2,1
+165,Trofeo Piva Banca Popolare di Vicenza 2012,1.2U23,1
+166,Circuit cycliste Sarthe - Pays de la Loire 2012,2.1,5
+167,Scheldeprijs 2012,1.HC,1
+168,Grand Prix of Sochi 2012,2.2,5
+169,Grand Prix Pino Cerami 2012,1.1,1
+170,Circuit des Ardennes International 2012,2.2,4
+171,Klasika Primavera de Amorebieta 2012,1.1,1
+172,Rund um Köln 2012,1.1,1
+173,Dwars door het Hageland 2012,1.2,1
+174,Giro del Belvedere 2012,1.2U,1
+175,Paris-Camembert 2012,1.1,1
+176,GP Palio del Recioto 2012,1.2U,1
+177,De Brabantse Pijl - La Flèche Brabançonne 2012,1.HC,1
+178,Tour du Loir-et-Cher 'E. Provost' 2012,2.2,5
+179,GP de Denain Porte du Hainaut 2012,1.1,1
+180,Vuelta a Castilla y Leon 2012,2.1,3
+181,Tour du Finistère 2012,1.1,1
+182,Liège - Bastogne - Liège U23 2012,1.2U,1
+183,Trofeo Edil C 2012,1.2,1
+184,Giro dell'Appennino 2012,1.1,1
+185,Tro-Bro Léon 2012,1.1,1
+186,Grand Prix of Donetsk 2012,1.2,1
+187,Zellik - Galmaarden 2012,1.2,1
+188,Giro del Trentino 2012,2.HC,4
+189,Grand Prix of Adygeya 2012,2.2,5
+190,Arno Wallaard Memorial 2012,1.2,1
+191,Banja Luka - Belgrade I 2012,1.2,1
+192,Presidential Cycling Tour of Turkey 2012,2.HC,8
+193,Vuelta Ciclista a La Rioja 2012,1.1,1
+194,Banja Luka-Belgrade II 2012,1.2,1
+195,Ronde van Noord-Holland 2012,1.2,1
+196,Val d\'Ille U Classic 35 - Souvenir Julien 2012,1.2,1
+197,Gran Premio della Liberazione 2012,1.2U,1
+198,Le Tour de Bretagne Cycliste - Trophée des Granitiers 2012,2.2,7
+199,Vuelta Asturias Julio Alvarez Mendo 2012,2.1,4
+200,GP Industria & Artigianato 2012,1.1,1
+201,Giro della Toscana 2012,1.1,1
+202,GP Industrie del Marmo 2012,1.2,1
+203,Himmerland Rundt 2012,1.2,1
+204,Paris - Mantes-en-Yvelines 2012,1.2,1
+205,Rutland - Melton International CiCLE Classic 2012,1.2,1
+206,Rund um den Finanzplatz Eschborn-Frankfurt 2012,1.HC,1
+207,Grote Prijs 1 Mei - Ereprijs Victor de Bruyne 2012,1.2,1
+208,Mayor Cup 2012,1.2,1
+209,Memorial Andrzeja Trochanowskiego 2012,1.2,1
+210,Rund um den Finanzplatz Eschborn-Frankfurt 2012,1.2U,1
+211,Trofeo Papà Cervi Coppa 1° Maggio 2012,1.2,1
+212,Giro della Regione Friuli Venezia Giulia 2012,2.2,5
+213,Memorial of Oleg Dyachenko 2012,1.2,1
+214,Carpathia Couriers Paths 2012,2.2U,4
+215,Grand Prix of Moscow 2012,1.2,1
+216,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2012,2.HC,5
+217,Szlakiem Grodòw Piastowskich 2012,2.1,4
+218,Grand Prix Dobrich I 2012,1.2,1
+219,Ronde van Overijssel 2012,2.2,2
+220,Vuelta a la Comunidad de Madrid 2012,2.1,2
+221,Five Rings of Moscow 2012,2.2,5
+222,Circuit de Wallonie 2012,1.2,1
+223,Circuito del Porto - Trofeo Arvedi 2012,1.2,1
+224,Grand Prix Dobrich II 2012,1.2,1
+225,Omloop der Kempen 2012,1.2,1
+226,Heydar Aliyev Anniversary Tour 2012,2.2U,5
+227,Rhône-Alpes Isère Tour 2012,2.2,4
+228,Tour of Malopolska 2012,2.2,3
+229,Tour de Picardie 2012,2.1,3
+230,Scandinavian Race in Uppsala 1909-2012 2012,1.2,1
+231,Rogaland GP 2012,1.1,1
+232,Royal Smilde Olympia’s Tour 2012,2.2,7
+233,National Championships Austria - ITT 2012,NC,1
+234,Circuit de Lorraine Professionnel 2012,2.1,5
+235,Glava Tour of Norway 2012,2.1,5
+236,Flèche du Sud 2012,2.2,5
+237,International Tour of Hellas 2012,2.2,5
+238,Ronde van Limburg 2012,1.2,1
+239,Tour de Berlin 2012,2.2U,5
+240,Jurmala GP 2012,1.1,1
+241,Sparkassen Neuseenclassics - Rund um die Braunkohle 2012,1.1,1
+242,An Post Ras 2012,2.2,8
+243,Grand Prix Criquielion 2012,1.2,1
+244,Bayern-Rundfahrt 2012,2.HC,5
+245,Tour of Belgium 2012,2.HC,5
+246,Tour of Trakya 2012,2.2,4
+247,Tallinn-Tartu Grand Prix 2012,1.1,1
+248,Grand Prix de Plumelec-Morbihan 2012,1.1,1
+249,SEB Tartu Grand Prix 2012,1.1,1
+250,Tour de Gironde 2012,2.2,3
+251,Boucles de l'Aulne - Châteaulin 2012,1.1,1
+252,GP Industria e Commercio - Tr. Città di San Vendemiano 2012,1.2U,1
+253,Paris-Roubaix Espoirs 2012,1.2U,1
+254,Race Horizon Park 2012,1.2,1
+255,Skoda-Tour de Luxembourg 2012,2.HC,5
+256,Trofeo Melinda - Val di Non 2012,1.1,1
+257,Romanian Cycling Tour 2012,2.2,9
+258,Trofeo Alcide Degasperi 2012,1.2,1
+259,Coppa della Pace - Trofeo F.lli Anelli 2012,1.2,1
+260,Grand Prix Südkärnten 2012,1.2,1
+261,Memorial Philippe Van Coningsloo 2012,1.2,1
+262,Riga Grand Prix 2012,1.2,1
+263,Okolo Slovenska 2012,2.2,5
+264,GP du canton d'Argovie / GP Gippingen 2012,1.1,1
+265,Ronde de l'Oise 2012,2.2,4
+266,National Championships Slovenia - ITT 2012,NC,1
+267,Giro Ciclistico d'Italia 2012,2.2,10
+268,National Championships Slovenia MJ - ITT 2012,NC,1
+269,Ronde van Zeeland Seaports 2012,1.1,1
+270,Internationale Thüringen-Rundfahrt U23 2012,2.2U,7
+271,Garmin ProRace 2012,1.1,1
+272,National Championships Macedonia - ITT 2012,NC,1
+273,National Championships Denmark U23 - Road Race 2012,NC,1
+274,Route du Sud - la Depêche du Midi 2012,2.1,4
+275,Ster ZLM Toer GP Jan van Heeswijk 2012,2.1,4
+276,Tour de Slovénie 2012,2.1,4
+277,Boucles de la Mayenne 2012,2.2,4
+278,National Championships Finland - ITT 2012,NC,1
+279,National Championships Finland - Road Race 2012,NC,1
+280,Flèche Ardennaise 2012,1.2,1
+281,National Championships Norway U23 - Road Race 2012,NC,1
+282,Halle-Ingooigem 2012,1.1,1
+283,National Championships Estonia - ITT 2012,NC,1
+284,National Championships Netherlands - ITT 2012,NC,1
+285,National Championships Switzerland - ITT 2012,NC,1
+286,National Championships Czech Republic - ITT 2012,NC,1
+287,National Championships Denmark - ITT 2012,NC,1
+288,National Championships France - ITT 2012,NC,1
+289,National Championships Hungary - ITT 2012,NC,1
+290,National Championships Ireland - ITT 2012,NC,1
+291,National Championships Latvia - ITT 2012,NC,1
+292,National Championships Luxembourg - ITT 2012,NC,1
+293,National Championships Norway - ITT 2012,NC,1
+294,National Championships Poland - ITT 2012,NC,1
+295,National Championships Slovakia - ITT 2012,NC,1
+296,National Championships Luxembourg 2012,NC,1
+297,National Championships Poland U23 - ITT 2012,NC,1
+298,National Championships  Estonia - Road Race 2012,NC,1
+299,National Championships Azerbaijan - ITT 2012,NC,1
+300,National Championships Belarus - ITT 2012,NC,1
+301,National Championships Croatia - ITT 2012,NC,1
+302,National Championships Georgia - ITT 2012,NC,1
+303,National Championships Germany - ITT 2012,NC,1
+304,National Championships Greece - ITT 2012,NC,1
+305,National Championships Lithuania - ITT 2012,NC,1
+306,National Championships Romania - ITT 2012,NC,1
+307,National Championships Russia - ITT 2012,NC,1
+308,National Championships Spain - ITT 2012,NC,1
+309,National Championships Turkey - ITT 2012,NC,1
+310,National Championships Ukraine - ITT 2012,NC,1
+311,National TT Championships Portugal 2012,NC,1
+312,National Championships Spain - Road Race 2012,NC,1
+313,National Championships Italy - Road Race 2012,NC,1
+314,National Championships Italy U23 - Road Race 2012,NC,1
+315,National Championships Latvia - Road Race 2012,NC,1
+316,National Championships Moldova - ITT 2012,NC,1
+317,National Championships Serbia - ITT 2012,NC,1
+318,National Championships Turkey - Road Race 2012,NC,1
+319,National Championships Poland U23 - Road Race 2012,NC,1
+320,National Championships Austria - Road Race 2012,NC,1
+321,National Championships Azerbaijan - Road Race 2012,NC,1
+322,National Championships Belarus - Road Race 2012,NC,1
+323,National Championships Belgium - Road Race 2012,NC,1
+324,National Championships Croatia - Road Race 2012,NC,1
+325,National Championships Czech Republic - Road Race 2012,NC,1
+326,National Championships Denmark - Road Race 2012,NC,1
+327,National Championships France - Road Race 2012,NC,1
+328,National Championships Georgia - Road Race 2012,NC,1
+329,National Championships Germany - Road Race 2012,NC,1
+330,National Championships Great Britain - Road Race 2012,NC,1
+331,National Championships Greece - Road Race 2012,NC,1
+332,National Championships Hungary - Road Race 2012,NC,1
+333,National Championships Ireland - Road Race 2012,NC,1
+334,National Championships Italy - ITT 2012,NC,1
+335,National Championships Lithuania - Road Race 2012,NC,1
+336,National Championships Luxembourg - Road Race 2012,NC,1
+337,National Championships Macedonia - Road Race 2012,NC,1
+338,National Championships Moldova - Road Race 2012,NC,1
+339,National Championships Netherlands - Road Race 2012,NC,1
+340,National Championships Norway - Road Race 2012,NC,1
+341,National Championships Poland - Road Race 2012,NC,1
+342,National Championships Romania - Road Race 2012,NC,1
+343,National Championships Russia - Road Race 2012,NC,1
+344,National Championships Serbia - Road Race 2012,NC,1
+345,National Championships Slovakia - Road Race 2012,NC,1
+346,National Championships Slovenia - Road Race 2012,NC,1
+347,National Championships Spain - Road Race 2012,NC,1
+348,National Championships Sweden - Road Race 2012,NC,1
+349,National Championships Switzerland - Road Race 2012,NC,1
+350,National Championships Ukraine - Road Race 2012,NC,1
+351,National Championships Italy U23 - ITT 2012,NC,1
+352,National Championships Sweden - ITT 2012,NC,1
+353,Internationale Wielertrofee Jong Maar Moedig I.W.T 2012,1.2,1
+354,Czech Cycling Tour 2012,2.2,4
+355,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2012,1.2,1
+356,Int. Osterreich-Rundfahrt-Tour of Austria 2012,2.HC,8
+357,National Championships Bulgaria - Road Race 2012,NC,1
+358,National Championships Albania - Road Race 2012,NC,1
+359,Course Cycliste de Solidarnosc et des Champions Olympiques 2012,2.1,6
+360,Sibiu Cycling Tour 2012,2.2,5
+361,Giro del Medio Brenta 2012,1.2,1
+362,GP de Pont a Marcq - La Ronde Pévèloise 2012,1.2,1
+363,GP van de stad Geel 2012,1.2,1
+364,GP Int. Torres Vedras - Trofeu Joaquim Agostinho 2012,2.2,4
+365,GP Nobili Rubinetterie Coppa Citta di Stresa 2012,1.1,1
+366,Giro Ciclistico della Valle d'Aosta Mont Blanc 2012,2.2U,7
+367,Tour de Wallonie 2012,2.HC,5
+368,Central European Tour Miskolc GP 2012,1.2,1
+369,Central European Tour Budapest GP 2012,1.2,1
+370,Grand Prix de la ville de Pérenchies 2012,1.2,1
+371,Tour Alsace 2012,2.2,6
+372,Prueba Villafranca-Ordiziako Klasika 2012,1.1,1
+373,Dookola Mazowsza 2012,2.2,4
+374,Kreiz Breizh Elites 2012,2.2,4
+375,La Poly Normande 2012,1.1,1
+376,Trofeo Matteotti 2012,1.1,1
+377,Circuito de Getxo 'Memorial Ricardo Otxoa' 2012,1.1,1
+378,Vuelta a Burgos 2012,2.HC,5
+379,Paris - Corrèze 2012,2.1,2
+380,Antwerpse Havenpijl 2012,1.2,1
+381,Trofeo Internazionale Bastianelli 2012,1.2,1
+382,Tour de l'Ain - La route du progrès 2012,2.1,6
+383,Vuelta Ciclista a León 2012,2.2,5
+384,La Mi-Août en Bretagne 2012,2.2,4
+385,Tour of Szeklerland 2012,2.2,5
+386,G.P. Camaiore 2012,1.1,1
+387,Memorial Henryka Lasaka 2012,1.2,1
+388,National Championships Iceland - Road Race 2012,NC,1
+389,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni 2012,1.2U,1
+390,Puchar Uzdrowisk Karpackich 2012,1.2,1
+391,Tour du Limousin 2012,2.HC,4
+392,Volta a Portugal em Bicicleta 2012,2.1,11
+393,GP Banca di Legnano - Coppa Bernocchi 2012,1.1,1
+394,GP Capodarco - Comunità di Capodarco 2012,1.2,1
+395,Coppa Agostoni - Giro della Brianza 2012,1.1,1
+396,Dutch Food Valley Classic 2012,1.1,1
+397,Tre Valli Varesine 2012,1.HC,1
+398,National Championships Bosnia and Herzegovina - Road Race 2012,NC,1
+399,Grand Prix Kralovehradeckeho kraje 2012,1.2,1
+400,National Championships France MJ - Road Race 2012,NC,1
+401,Puchar Ministra Obrony Narodowej 2012,1.2,1
+402,Chateauroux Classic de l'Indre Trophee Fenioux 2012,1.1,1
+403,GP Stad Zottegem 2012,1.1,1
+404,Tour du Poitou Charentes 2012,2.1,5
+405,Baltic Chain Tour 2012,2.2,5
+406,Grand Prix des Marbriers 2012,1.2,1
+407,Post Danmark Rundt 2012,2.HC,6
+408,Druivenkoers - Overijse 2012,1.1,1
+409,GP Industria Commercio Artigianato Carnaghese 2012,1.1,1
+410,83th Giro Del Veneto - Coppa Placci 2012,1.1,1
+411,Schaal Sels 2012,1.1,1
+412,Ljubljana - Zagreb 2012,1.2,1
+413,Ronde van Midden-Nederland 2012,1.2,1
+414,World Ports Classic 2012,2.1,2
+415,Grote Prijs Jef Scherens - Rondom Leuven 2012,1.1,1
+416,National Championships Great Britain - ITT 2012,NC,1
+417,Tour du Doubs - Conseil General 2012,1.1,1
+418,Kernen Omloop Echt-Susteren 2012,1.2,1
+419,Memorial Davide Fardelli - Cronometro Individuale 2012,1.2,1
+420,National Championships Great Britain -  ITT 2012,NC,1
+421,Giro di Padania 2012,2.1,6
+422,Memorial Rik Van Steenbergen 2012,1.1,1
+423,Okolo Jižních Čech 2012,2.2,4
+424,Paris-Bruxelles 2012,1.HC,1
+425,GP de Fourmies - La Voix du Nord 2012,1.HC,1
+426,Tour of Britain 2012,2.1,8
+427,Chrono Champenois Masculin International 2012,1.2,1
+428,Tour of Bulgaria 2012,2.2,8
+429,Grand Prix de Wallonie 2012,1.1,1
+430,Grand Prix de la Somme « Conseil Général 80 » 2012,1.1,1
+431,Kampioenschap van Vlaanderen 2012,1.1,1
+432,GP Impanis - Van Petegem 2012,1.1,1
+433,Memorial Marco Pantani - Trofeo Sidermac 2012,1.1,1
+434,GP Industria & Commercio di Prato 2012,1.1,1
+435,Grand Prix d'Isbergues - Pas de Calais 2012,1.1,1
+436,Tour Bohemia 2012,1.2,1
+437,Trofeo G. Bianchin 2012,1.2,1
+438,Omloop van het Houtland 2012,1.1,1
+439,Tour of Vojvodina I 2012,1.2,1
+440,De Kustpijl 2012,1.2,1
+441,Tour of Vojvodina II 2012,1.2,1
+442,Gooikse Pijl 2012,1.2,1
+443,Ruota d'Oro - GP Festa del Perdono 2012,1.2,1
+444,Milano-Torino 2012,1.HC,1
+445,Gran Piemonte 2012,1.HC,1
+446,Eurométropole Tour 2012,2.1,4
+447,Duo Normand 2012,1.1,1
+448,Binche-Tournai-Binche/ Mémorial Frank Vandenbroucke 2012,1.1,1
+449,Sparkassen Münsterland Giro 2012,1.1,1
+450,Gran Premio Città di Peccioli - Coppa Sabatini 2012,1.1,1
+451,Paris-Bourges 2012,1.1,1
+452,Giro dell'Emilia 2012,1.HC,1
+453,Piccolo Giro di Lombardia 2012,1.2,1
+454,Paris - Tours 2012,1.HC,1
+455,Gran Premio Bruno Beghelli 2012,1.1,1
+456,Paris-Tours Espoirs 2012,1.2U,1
+457,Nationale Sluitingprijs Putte - Kapellen 2012,1.1,1
+458,Tour de Vendée 2012,1.HC,1
+459,Chrono des Nations 2012,1.1,1
+460,National Championships New Zealand - ITT 2012,NC,1
+461,National Championships Australia - Road Race 2012,NC,1
+462,National Championships New Zealand - Road Race 2012,NC,1
+463,National Championships Australia - ITT 2012,NC,1
+464,New Zealand Cycle Classic 2012,2.2,5
+465,Oceania Cycling Championships - ITT 2012,CC,1
+466,Oceania Cycling Championships - Road Race 2012,CC,1
+467,Vuelta Ciclista De Chile 2012,2.2,11
+468,Copa América De Ciclismo 2012,1.2,1
+469,Vuelta al Tachira en Bicicleta 2012,2.2,10
+470,Tour de San Luis 2012,2.1,7
+471,Vuelta Independencia Nacional 2012,2.2,11
+472,Rutas de América 2012,2.2,7
+473,Pan American Championships - ITT 2012,CC,1
+474,Pan American Championships - Road Race 2012,CC,1
+475,Vuelta Mexico Telmex 2012,2.2,8
+476,Vuelta Ciclista al Uruguay 2012,2.2,10
+477,National Championships Argentina - ITT 2012,NC,1
+478,National Championships Argentina - Road Race 2012,NC,1
+479,Tour of the Battenkill 2012,1.2,1
+480,Tour of the Gila 2012,2.2,5
+481,Amgen Tour of California 2012,2.HC,8
+482,Vuelta a Guatemala 2012,2.2,8
+483,National Championships Mexico - ITT 2012,NC,1
+484,National Championships United States - ITT 2012,NC,1
+485,National Championships Mexico - Road Race 2012,NC,1
+486,National Championships United States - Road Race 2012,NC,1
+487,TD Bank International Cycling Championship 2012,1.HC,1
+488,National Championships Suriname - ITT 2012,NC,1
+489,Vuelta Pilsen a Colombia 2012,2.2,12
+490,National Championships Canada - ITT 2012,NC,1
+491,National Championships Panama - ITT 2012,NC,1
+492,National Championships Aruba - ITT 2012,NC,1
+493,National Championships Brazil - ITT 2012,NC,1
+494,National Championships Canada - Road Race 2012,NC,1
+495,National Championships Costa Rica - ITT 2012,NC,1
+496,National Championships Curaçao - ITT 2012,NC,1
+497,National Championships Saint Kitts and Nevis - ITT 2012,NC,1
+498,National Championships Venezuela - ITT 2012,NC,1
+499,National Championships United States U23 - Road Race 2012,NC,1
+500,National Championships Aruba - Road Race 2012,NC,1
+501,National Championships Brazil - Road Race 2012,NC,1
+502,National Championships Costa Rica - Road Race 2012,NC,1
+503,National Championships Cuba - Road Race 2012,NC,1
+504,National Championships Curaçao - Road Race 2012,NC,1
+505,National Championships Dominican Republic - Road Race 2012,NC,1
+506,National Championships El Salvador - ITT 2012,NC,1
+507,National Championships Panama - Road Race 2012,NC,1
+508,National Championships Saint Kitts and Nevis - Road Race 2012,NC,1
+509,National Championships Saint Lucia - Road Race 2012,NC,1
+510,National Championships Suriname - Road Race 2012,NC,1
+511,National Championships Venezuela - Road Race 2012,NC,1
+512,National Championships Puerto Rico - ITT 2012,NC,1
+513,Vuelta Ciclista a Venezuela 2012,2.2,10
+514,Tour of Elk Grove 2012,2.1,3
+515,Tour Cycliste International de la Guadeloupe 2012,2.2,11
+516,Tour of Utah 2012,2.1,6
+517,USA Pro Cycling Challenge 2012,2.HC,7
+518,Tour do Rio 2012,2.2,5
+519,Thompson Bucks County Classic 2012,1.2,1
+520,Tobago Cycling Classic 2012,1.2,1
+521,Tour do Brasil Volta Ciclística de São Paulo-Internacional 2012,2.2,8
+522,Vuelta a Bolivia 2012,2.2,12
+523,National Championships Colombia - ITT 2012,NC,1
+524,National Championships Colombia - Road Race 2012,NC,1
+525,Vuelta Mundo Maya 2012,2.2,8
+526,Vuelta Internacional a Costa Rica 2012,2.2,12
+527,Santos Tour Down Under 2013,WT,6
+528,Paris - Nice 2013,2.UWT,8
+529,Tirreno-Adriatico 2013,WT,7
+530,Milano-Sanremo 2013,WT,1
+531,Volta Ciclista a Catalunya 2013,WT,7
+532,E3 Prijs Vlaanderen - Harelbeke 2013,WT,1
+533,Gent - Wevelgem 2013,WT,1
+534,Ronde van Vlaanderen / Tour des Flandres 2013,WT,1
+535,Vuelta Ciclista al Pais Vasco 2013,2.UWT,6
+536,Paris - Roubaix 2013,WT,1
+537,Amstel Gold Race 2013,WT,1
+538,La Flèche Wallonne 2013,WT,1
+539,Liège - Bastogne - Liège 2013,WT,1
+540,Tour de Romandie 2013,WT,6
+541,Giro d'Italia 2013,WT,21
+542,Critérium du Dauphiné 2013,WT,8
+543,Tour de Suisse 2013,WT,9
+544,Tour de France 2013,WT,21
+545,Clasica Ciclista San Sebastian 2013,WT,1
+546,Tour de Pologne 2013,WT,7
+547,Eneco Tour 2013,2.UWT,7
+548,Vuelta a España 2013,WT,21
+549,Vattenfall Cyclassics 2013,WT,1
+550,GP Ouest France - Plouay 2013,WT,1
+551,Grand Prix Cycliste de Québec 2013,WT,1
+552,Grand Prix Cycliste de Montréal 2013,WT,1
+553,Il Lombardia 2013,WT,1
+554,Tour of Beijing 2013,WT,5
+555,World Championships - TTT 2013,WC,1
+556,World Championships - ITT 2013,WC,1
+557,World Championships U23 - Road Race 2013,WC,1
+558,World Championships - Road Race 2013,WC,1
+559,La Tropicale Amissa Bongo 2013,2.1,7
+560,Fenkel Northern Redsea 2013,2.2,2
+561,Tour of Eritrea 2013,2.2,4
+562,Circuit of Asmara 2013,1.2,1
+563,Les Challenges de la Marche Verte - GP Sakia El Hamra 2013,1.2,1
+564,Les Challenges de la Marche Verte - GP Oued Eddahab 2013,1.2,1
+565,National Championships South Africa - ITT 2013,NC,1
+566,Les Challenges de la Marche Verte - GP Al Massira 2013,1.2,1
+567,National Championships Namibia - ITT 2013,NC,1
+568,National Championships South-Africa TTT 2013,NC,1
+569,National Championships Namibia - Road Race 2013,NC,1
+570,National Championships South Africa - Road Race 2013,NC,1
+571,National Championships South-Africa U23 - Road Race 2013,NC,1
+572,Tour d'Algérie 2013,2.2,7
+573,Circuit d'Alger 2013,1.2,1
+574,Tour de Tipaza 2013,2.2,3
+575,Tour de Blida 2013,2.2,3
+576,Tour du Maroc 2013,2.2,10
+577,Mzansi Tour 2013,2.2,5
+578,Challenge du Prince - Trophée Princier 2013,1.2,1
+579,Challenge du Prince - Trophée de l'Anniversaire 2013,1.2,1
+580,Challenge du Prince - Trophée de la Maison Royale 2013,1.2,1
+581,National Championships Eritrea - ITT 2013,NC,1
+582,National Championships Eritrea - Road Race 2013,NC,1
+583,National Championships Algeria - ITT 2013,NC,1
+584,National Championships Algeria - Road Race 2013,NC,1
+585,National Championships Morocco - ITT 2013,NC,1
+586,National Championships Morocco - Road Race 2013,NC,1
+587,National Championships Burkina Faso - Road Race 2013,NC,1
+588,National Championships Ivory Coast - Road Race 2013,NC,1
+589,National Championships Rwanda - Road Race 2013,NC,1
+590,National Championships Tunisia - ITT 2013,NC,1
+591,National Championships Gabon - ITT 2013,NC,1
+592,National Championships Zimbabwe - Road Race 2013,NC,1
+593,National Championships Gabon - Road Race 2013,NC,1
+594,National Championships Tunisia - Road Race 2013,NC,1
+595,National Championships Ethiopia - ITT 2013,NC,1
+596,National Championships Ethiopia - Road Race 2013,NC,1
+597,Grand Prix Chantal Biya 2013,2.2,4
+598,Tour du Faso 2013,2.2,10
+599,Tour of Rwanda 2013,2.2,8
+600,African Continental Championships - TTT 2013,CC,1
+601,African Continental Championships - ITT 2013,CC,1
+602,African Continental Championships - Road Race 2013,CC,1
+603,Tour of Qatar 2013,2.HC,6
+604,Tour of Oman 2013,2.HC,6
+605,Tour de Langkawi 2013,2.HC,10
+606,Asian Cycling Championships - c.l.m. ind. / ind. TT - MU 2013,CC,1
+607,Asian Cycling Championships - ITT 2013,CC,1
+608,Asian Cycling Championships - en ligne / ind. road race - MU 2013,CC,1
+609,Asian Cycling Championships - Road Race 2013,CC,1
+610,Tour de Taiwan 2013,2.1,7
+611,The Maha Chackri Sirindhorn's Cup Tour of Thailand 2013,2.2,6
+612,Le Tour de Filipinas 2013,2.2,4
+613,Melaka Governor's Cup 2013,1.2,1
+614,National Championship United Arab Emirates -  ITT 2013,NC,1
+615,Tour of Japan 2013,2.1,6
+616,Tour of Iran (Azarbaijan) 2013,Azarbaijan),6
+617,National Championships Philippines - Road Race 2013,NC,1
+618,National Championships Philippines - ITT 2013,NC,1
+619,Tour de Kumano 2013,2.2,4
+620,Tour of Singkarak 2013,2.2,7
+621,National Championships Japan - ITT 2013,NC,1
+622,Tour de Korea 2013,2.2,8
+623,National Championships Japan U23 - ITT 2013,NC,1
+624,National Championships Lebanon - ITT 2013,NC,1
+625,National Championships Kazakhstan - ITT 2013,NC,1
+626,National Championships Uzbekistan - ITT 2013,NC,1
+627,National Championships Iran - ITT 2013,NC,1
+628,National Championships Kazakhstan - Road Race 2013,NC,1
+629,National Championships Malaysia - Road Race 2013,NC,1
+630,National Championships Iran - Road Race 2013,NC,1
+631,National Championships Japan - Road Race 2013,NC,1
+632,National Championships Malaysia - ITT 2013,NC,1
+633,National Championships South Korea - Road Race 2013,NC,1
+634,National Championships Uzbekistan - Road Race 2013,NC,1
+635,National Championships Uzbekistan U23 - ITT 2013,NC,1
+636,National Championships Israel - ITT 2013,NC,1
+637,Jelajah Malaysia 2013,2.2,5
+638,National Championships Hong Kong - Road Race 2013,NC,1
+639,National Championships Thailand - Road Race 2013,NC,1
+640,National Championships Hong Kong - ITT 2013,NC,1
+641,Tour of Qinghai Lake 2013,2.HC,13
+642,Tour of Borneo 2013,2.2,5
+643,Tour of East Java 2013,2.2,3
+644,Tour of China I 2013,2.1,6
+645,Tour de Hokkaido 2013,2.2,3
+646,National Championships Taiwan - Road Race 2013,NC,1
+647,National Championships Taiwan - ITT 2013,NC,1
+648,Tour of China II 2013,2.1,6
+649,Tour of Almaty 2013,1.2,1
+650,Japan Cup Cycle Road Race 2013,1.HC,1
+651,Tour of Hainan 2013,2.HC,9
+652,National Championships India - Road Race 2013,NC,1
+653,National Championships India - ITT 2013,NC,1
+654,Tour of Taihu Lake 2013,2.1,9
+655,Banyuwangi Tour de Ijen 2013,2.2,4
+656,Tour de Okinawa 2013,1.2,1
+657,Tour of Nanjing 2013,1.2,1
+658,Tour of Fuzhou 2013,2.2,3
+659,Sharjah International Cycling Tour 2013,2.2,4
+660,Tour of Al Zubarah 2013,2.2,4
+661,"CFI International race 1, Mumbai 2013",1.2,1
+662,South East Asian Games - Road Race 2013,JR,1
+663,"CFI International race 2, Jaipur 2013",1.2,1
+664,"CFI International race 3, Dehli 2013",1.2,1
+665,Grand Prix Cycliste la Marseillaise 2013,1.1,1
+666,Etoile de Bessèges 2013,2.1,6
+667,Trofeo Palma 2013,1.1,1
+668,Trofeo Migjorn 2013,1.1,1
+669,"Trofeo Serra de Tramuntana, Deià-Lluc 2013",1.1,1
+670,Tour Méditerranéen Cycliste Professionnel 2013,2.1,5
+671,Trofeo Alcúdia-Can Picafort-Playa de Muro 2013,1.1,1
+672,Volta ao Algarve 2013,2.1,4
+673,Tour Cycliste International du Haut Var Matin 2013,2.1,2
+674,Trofeo Laigueglia 2013,1.1,1
+675,Vuelta a Andalucia Ruta Ciclista Del Sol 2013,2.1,4
+676,Omloop Het Nieuwsblad Elite 2013,1.HC,1
+677,La Drôme Classic 2013,1.1,1
+678,Vuelta Ciclista a Murcia 2013,1.1,1
+679,Beverbeek Classic 2013,1.2,1
+680,Clasica de Almeria 2013,1.HC,1
+681,Classic Sud Ardèche - Souvenir Francis Delpech 2013,1.1,1
+682,GP Città di Lugano 2013,1.1,1
+683,Le Samyn 2013,1.1,1
+684,G.P. Camaiore 2013,1.1,1
+685,Driedaagse van West-Vlaanderen 2013,2.1,3
+686,Strade Bianche 2013,1.1,1
+687,Ster van Zwolle 2013,1.2,1
+688,Roma Maxima 2013,1.1,1
+689,Grand Prix de la Ville de Lillers Souvenir Bruno Comini 2013,1.2,1
+690,Trofej Umag - Umag Trophy 2013,1.2,1
+691,Albert Achterhes Pet Ronde van Drenthe 2013,1.1,1
+692,De Weiert Dwars door Drenthe 2013,1.1,1
+693,Omloop van het Waasland 2013,1.2,1
+694,Paris-Troyes 2013,1.2,1
+695,Porec Trophy - Trofej Porec 2013,1.2,1
+696,Rabobank Dorpenomloop Rucphen 2013,1.2,1
+697,Nokere Koerse-Danilith Classic 2013,1.1,1
+698,GP Nobili Rubinetterie-Coppa Papà Carlo-Coppa Città di Stresa 2013,1.1,1
+699,Istarsko proljece - Istrian Spring Trophy 2013,2.2,4
+700,Handzame Classic 2013,1.1,1
+701,Classic Loire Atlantique 2013,1.1,1
+702,Cholet-Pays de Loire 2013,1.1,1
+703,Gran Premio San Giuseppe 2013,1.2,1
+704,Grand Prix de la Ville de Nogent-sur-Oise 2013,1.2,1
+705,Tour de Normandie 2013,2.2,7
+706,Dwars door Vlaanderen 2013,1.HC,1
+707,Settimana Internazionale Coppi e Bartali 2013,2.1,6
+708,Volta ao Alentejo/Crédito Agricola Costa Azul 2013,2.2,5
+709,Critérium International 2013,2.HC,3
+710,Kosice-Miskolc 2013,1.2,1
+711,Driedaagse De Panne-Koksijde 2013,2.HC,4
+712,Route Adélie de Vitré 2013,1.1,1
+713,Le Triptyque des Monts et Châteaux 2013,2.2,4
+714,Gran Premio Miguel Indurain 2013,1.1,1
+715,Volta Limburg Classic 2013,1.1,1
+716,Boucle de l'Artois  - Trophée Arras Leader 2013,2.2,3
+717,Val d'Ille Classic - Souvenir Julien Ditlecadet 2013,1.1,1
+718,Vuelta Ciclista a La Rioja 2013,1.1,1
+719,Giro del Belvedere di Villa di Cordignano 2013,1.2U,1
+720,Circuit Cycliste Sarthe - Pays de la Loire 2013,2.1,5
+721,GP Palio del Recioto 2013,1.2U,1
+722,Scheldeprijs 2013,1.HC,1
+723,Grand Prix of Sochi 2013,2.2,5
+724,Grand Prix Pino Cerami 2013,1.1,1
+725,Circuit des Ardennes International 2013,2.2,4
+726,Klasika Primavera de Amorebieta 2013,1.1,1
+727,GP Sencur 2013,1.2,1
+728,Trofeo Piva Banca Popolare di Vicenza 2013,1.2U23,1
+729,Paris-Camembert 2013,1.1,1
+730,De Brabantse Pijl - La Flèche Brabançonne 2013,1.HC,1
+731,Tour du Loir et Cher E Provost 2013,2.2,5
+732,GP de Denain Porte du Hainaut 2013,1.1,1
+733,Vuelta a Castilla y Leon 2013,2.1,3
+734,Tour du Finistère 2013,1.1,1
+735,Liège - Bastogne - Liège U23 2013,1.2U,1
+736,Trofeo Edil C 2013,1.2,1
+737,Tro-Bro Léon 2013,1.1,1
+738,Grand Prix of Donetsk 2013,1.2,1
+739,Giro del Trentino 2013,2.HC,5
+740,Grand Prix of Adygeya 2013,2.2,5
+741,Arno Wallaard Memorial 2013,1.2,1
+742,Banja Luka Belgrade I 2013,1.2,1
+743,Grand Prix Herning 2013,1.2,1
+744,National Championships Colombia U23 - Road Race 2013,NC,1
+745,Presidential Cycling Tour of Turkey 2013,2.HC,8
+746,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux 2013,1.1,1
+747,Banja Luka-Belgrade II 2013,1.2,1
+748,Int. Ronde van Noord-Holland 2013,1.2,1
+749,Paris - Mantes-en-Yvelines 2013,1.2,1
+750,Rutland - Melton International CiCLE Classic 2013,1.2,1
+751,Gran Premio della Liberazione 2013,1.2U,1
+752,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle 2013,2.2,7
+753,Skive-Løbet 2013,1.2,1
+754,GP Industria & Artigianato 2013,1.1,1
+755,Himmerland Rundt 2013,1.2,1
+756,Zuid Oost Drenthe Classic I 2013,1.2,1
+757,Giro della Toscana 2013,1.1,1
+758,Destination Thy 2013,1.2,1
+759,GP Industrie del Marmo 2013,1.2,1
+760,Zuid Oost Drenthe Classic II 2013,1.2,1
+761,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais 2013,2.HC,5
+762,Rund um den Finanzplatz Eschborn-Frankfurt 2013,1.HC,1
+763,Carpathian Couriers Race U-23 2013,2.2U,5
+764,Grote Prijs 1 Mei - Ereprijs Victor de Bruyne 2013,1.2,1
+765,Mayor Cup 2013,1.2,1
+766,Memorial Andrzeja Trochanowskiego 2013,1.2,1
+767,Rund um den Finanzplatz Eschborn-Frankfurt (U23) 2013,U23),1
+768,Tour de Azerbaijan 2013,2.2,5
+769,Memorial of Oleg Dyachenko 2013,1.2,1
+770,Szlakiem Grodòw Piastowskich 2013,2.1,4
+771,Grand Prix of Moscow 2013,1.2,1
+772,Vuelta a la Comunidad de Madrid 2013,1.1,1
+773,Berner Rundfahrt / Tour de Berne 2013,1.2,1
+774,Hadeland GP 2013,1.2,1
+775,Ronde van Overijssel 2013,1.2,1
+776,Circuit de Wallonie 2013,1.2,1
+777,Circuito del Porto - Trofeo Arvedi 2013,1.2,1
+778,Five rings of Moscow 2013,2.2,5
+779,Ringerike GP 2013,1.2,1
+780,Flèche du Sud 2013,2.2,5
+781,Giro della Regione Friuli Venezia Giulia 2013,2.2,5
+782,National Championships Austria - ITT 2013,NC,1
+783,Rhône-Alpes Isère Tour 2013,2.2,4
+784,Ronde van Limburg 2013,1.2,1
+785,Tour de Berlin 2013,2.2U,5
+786,Tour de Picardie 2013,2.1,3
+787,Vuelta Asturias Julio Alvarez Mendo 2013,2.1,2
+788,Classic Beograd - Cacak 2013,1.2,1
+789,Scandinavian Race in Uppsala 1909-2013 2013,1.2,1
+790,National Championships Cyprus - Road Race 2013,NC,1
+791,Rund um Köln 2013,1.1,1
+792,Royal Smilde Olympia's Tour 2013,2.2,7
+793,Glava Tour of Norway 2013,2.1,5
+794,Ronde de l\'Isard 2013,2.2U,4
+795,Grand Prix Criquielion 2013,1.2,1
+796,National Championships Italy U23 - ITT 2013,NC,1
+797,Paris-Arras Tour 2013,2.2,2
+798,An Post Ras 2013,2.2,8
+799,Simac Omloop der Kempen 2013,1.2,1
+800,Baloise Belgium Tour 2013,2.HC,5
+801,Bayern-Rundfahrt 2013,2.HC,5
+802,Tour de Gironde 2013,2.2,4
+803,Race Horizon Park 1 2013,1.2,1
+804,Grand Prix de Plumelec-Morbihan 2013,1.1,1
+805,Course de la Paix U23 / Závod Míru U23 2013,2.2U,3
+806,Boucles de l'Aulne - Châteaulin 2013,1.1,1
+807,Race Horizon Park 2 2013,1.2,1
+808,Tr. Città di San Vendemiano - GP Industria e Commercio 2013,1.2U,1
+809,Tour of Estonia 2013,2.1,4
+810,National Championships Denmark U23 - ITT 2013,NC,1
+811,Ronde van Zeeland Seaports 2013,1.1,1
+812,Coppa della Pace - Trofeo F.lli Anelli 2013,1.2,1
+813,Grand Prix Südkärnten 2013,1.2,1
+814,Memorial Philippe Van Coningsloo 2013,1.2,1
+815,Trofeo Alcide Degasperi 2013,1.2,1
+816,National Championships Denmark U23 - Road Race 2013,NC,1
+817,National Championships Germany U23 - Road Race 2013,NC,1
+818,Okolo Slovenska 2013,2.2,6
+819,National Championships Netherlands U23 - ITT 2013,NC,1
+820,GP du canton d'Argovie / GP Gippingen 2013,1.1,1
+821,Ronde de l'Oise 2013,2.2,4
+822,National Championships Slovenia - ITT 2013,NC,1
+823,Riga - Jurmala Grand Prix 2013,1.1,1
+824,Internationale Thüringen-Rundfahrt U23 2013,2.2U,8
+825,National Championships Switzerland U23 - Road Race 2013,NC,1
+826,Garmin ProRace Berlin 2013,1.1,1
+827,Jurmala Grand Prix 2013,1.1,1
+828,National Championships Macedonia - ITT 2013,NC,1
+829,Int. Raiffeisen Grand Prix Judendorf/Straßengel 2013,1.2,1
+830,Tour de Serbie 2013,2.2,6
+831,Skoda-Tour de Luxembourg 2013,2.HC,5
+832,Ster ZLM Toer GP Jan van Heeswijk 2013,2.1,5
+833,Route du Sud - la Depêche du Midi 2013,2.1,4
+834,Tour de Slovénie 2013,2.1,4
+835,Boucles de la Mayenne 2013,2.2,4
+836,Tour des Pays de Savoie 2013,2.2,4
+837,Tour of Malopolska 2013,2.2,3
+838,Oberösterreichrundfahrt 2013,2.2,3
+839,Flèche Ardennaise 2013,1.2,1
+840,National Championships Norway U23 - Road Race 2013,NC,1
+841,Halle-Ingooigem 2013,1.1,1
+842,National Championships Netherlands - ITT 2013,NC,1
+843,National Championships Switzerland - ITT 2013,NC,1
+844,National Championships Switzerland U23 - ITT 2013,NC,1
+845,National Championships Azerbaijan - ITT 2013,NC,1
+846,National Championships Denmark - ITT 2013,NC,1
+847,National Championships Estonia - ITT 2013,NC,1
+848,National Championships France - ITT 2013,NC,1
+849,National Championships Great Britain - ITT 2013,NC,1
+850,National Championships Hungary - ITT 2013,NC,1
+851,National Championships Ireland - ITT 2013,NC,1
+852,National Championships Latvia - ITT 2013,NC,1
+853,National Championships Luxembourg - ITT 2013,NC,1
+854,National Championships Norway - ITT 2013,NC,1
+855,National Championships Poland - ITT 2013,NC,1
+856,National Championships Sweden - ITT 2013,NC,1
+857,National Championships Turkey - ITT 2013,NC,1
+858,National Championships Ukraine - ITT 2013,NC,1
+859,National Championships Ukraine U23 - ITT 2013,NC,1
+860,National Championships Estonia U23 - ITT 2013,NC,1
+861,National Championships Great Britain U23 - ITT 2013,NC,1
+862,National Championships Hungary U23 - ITT 2013,NC,1
+863,National Championships Ireland U23 - ITT 2013,NC,1
+864,National Championships Latvia U23 - ITT 2013,NC,1
+865,National Championships Poland U23 - ITT 2013,NC,1
+866,National Championships Russia U23 - ITT 2013,NC,1
+867,National Championships Spain U23 - ITT 2013,NC,1
+868,National Championships Azerbaijan - Road Race 2013,NC,1
+869,National Championships Belarus - ITT 2013,NC,1
+870,National Championships Czech Republic - ITT 2013,NC,1
+871,National Championships Czech Republic U23 - ITT 2013,NC,1
+872,National Championships Georgia - ITT 2013,NC,1
+873,National Championships Germany - ITT 2013,NC,1
+874,National Championships Greece - ITT 2013,NC,1
+875,National Championships Lithuania - ITT 2013,NC,1
+876,National Championships Portugal - ITT 2013,NC,1
+877,National Championships Russia - ITT 2013,NC,1
+878,National Championships Serbia - ITT 2013,NC,1
+879,National Championships Slovakia - ITT 2013,NC,1
+880,National Championships Spain - ITT 2013,NC,1
+881,National Championships Turkey - Road Race 2013,NC,1
+882,National Championships Germany U23 - ITT 2013,NC,1
+883,National Championships Portugal U23 - ITT 2013,NC,1
+884,National Championships Slovakia U23 - ITT 2013,NC,1
+885,National Championships Spain U23 - Road Race 2013,NC,1
+886,National Championships Croatia - ITT 2013,NC,1
+887,National Championships Estonia - Road Race 2013,NC,1
+888,National Championships Hungary - Road Race 2013,NC,1
+889,National Championships Italy - Road Race 2013,NC,1
+890,National Championships Latvia - Road Race 2013,NC,1
+891,National Championships Moldova - ITT 2013,NC,1
+892,National Championships Romania - ITT 2013,NC,1
+893,National Championships Romania U23 - ITT 2013,NC,1
+894,National Championships Serbia - Road Race 2013,NC,1
+895,National Championships Greece U23 - ITT 2013,NC,1
+896,National Championships Italy U23 - Road Race 2013,NC,1
+897,National Championships Latvia U23 - Road Race 2013,NC,1
+898,National Championships Moldova U23 - ITT 2013,NC,1
+899,National Championships Netherlands U23 - Road Race 2013,NC,1
+900,National Championships Poland U23 - Road Race 2013,NC,1
+901,National Championships Portugal U23 - Road Race 2013,NC,1
+902,National Championships Russia U23 - Road Race 2013,NC,1
+903,National Championships Ukraine U23 - Road Race 2013,NC,1
+904,National Championships Austria - Road Race 2013,NC,1
+905,National Championships Belarus - Road Race 2013,NC,1
+906,National Championships Belgium - Road Race 2013,NC,1
+907,National Championships Bulgaria - Road Race 2013,NC,1
+908,National Championships Croatia - Road Race 2013,NC,1
+909,National Championships Czech Republic - Road Race 2013,NC,1
+910,National Championships Denmark - Road Race 2013,NC,1
+911,National Championships France - Road Race 2013,NC,1
+912,National Championships Georgia - Road Race 2013,NC,1
+913,National Championships Germany - Road Race 2013,NC,1
+914,National Championships Great Britain - Road Race 2013,NC,1
+915,National Championships Greece - Road Race 2013,NC,1
+916,National Championships Ireland - Road Race 2013,NC,1
+917,National Championships Italy - ITT 2013,NC,1
+918,National Championships Lithuania - Road Race 2013,NC,1
+919,National Championships Luxembourg - Road Race 2013,NC,1
+920,National Championships Netherlands - Road Race 2013,NC,1
+921,National Championships Norway - Road Race 2013,NC,1
+922,National Championships Poland - Road Race 2013,NC,1
+923,National Championships Portugal - Road Race 2013,NC,1
+924,National Championships Romania - Road Race 2013,NC,1
+925,National Championships Russia - Road Race 2013,NC,1
+926,National Championships Slovakia - Road Race 2013,NC,1
+927,National Championships Slovenia - Road Race 2013,NC,1
+928,National Championships Spain - Road Race 2013,NC,1
+929,National Championships Sweden - Road Race 2013,NC,1
+930,National Championships Switzerland - Road Race 2013,NC,1
+931,National Championships Ukraine - Road Race 2013,NC,1
+932,National Championships Bulgaria - ITT 2013,NC,1
+933,Course Cycliste de Solidarnosc et des Champions Olympiques 2013,2.1,4
+934,Internationale Wielertrofee Jong Maar Moedig I.W.T. 2013,1.2,1
+935,National Championships Finland - ITT 2013,NC,1
+936,National Championships Finland U23 - ITT 2013,NC,1
+937,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs 2013,1.2,1
+938,Int. Österreich-Rundfahrt-Tour of Austria 2013,2.HC,8
+939,National Championships Bosnia and Herzegovina - Road Race 2013,NC,1
+940,National Championships Finland - Road Race 2013,NC,1
+941,National Championships Macedonia - Road Race 2013,NC,1
+942,Romanian Cycling Tour 2013,2.2,7
+943,Vuelta a la Comunidad de Madrid Sub 23 2013,2.2U,2
+944,Giro del Medio Brenta 2013,1.2,1
+945,GP de Pont à Marcq - La Ronde Pévèloise 2013,1.2,1
+946,Giro Ciclistico della Valle d'Aosta Mont Blanc 2013,2.2U,6
+947,Sibiu Cycling Tour 2013,2.1,5
+948,Czech Cycling Tour 2013,2.2,4
+949,GP van de stad Geel 2013,1.2,1
+950,Giro dell'Appennino 2013,1.1,1
+951,European Championships U23 - ITT 2013,CC,1
+952,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho 2013,2.2,3
+953,Tour de Wallonie 2013,2.HC,5
+954,Central European Tour Miskolc GP 2013,1.2,1
+955,European Championships U23 - Road Race 2013,CC,1
+956,Central European Tour Budapest GP 2013,1.2,1
+957,Dookola Mazowsza 2013,2.2,6
+958,Tour Alsace 2013,2.2,6
+959,Prueba Villafranca-Ordiziako Klasika 2013,1.1,1
+960,GP Kranj 2013,1.2,1
+961,Kreiz Breizh Elites 2013,2.2,4
+962,La Poly Normande 2013,1.1,1
+963,National Championships Iceland - Road Race 2013,NC,1
+964,Trofeo Matteotti 2013,1.1,1
+965,Grand Prix de la ville de Pérenchies 2013,1.2,1
+966,National Championships Albania - Road Race 2013,NC,1
+967,Post Danmark Rundt - Tour of Denmark 2013,2.HC,6
+968,Circuito de Getxo 'Memorial Ricardo Otxoa' 2013,1.1,1
+969,Vuelta Ciclista a León 2013,2.2,3
+970,Tour Cycliste International de la Guadeloupe 2013,2.2,11
+971,Ride London Classic 2013,1.1,1
+972,Antwerpse Havenpijl 2013,1.2,1
+973,Trofeo Internazionale Bastianelli 2013,1.2,1
+974,Vuelta a Burgos 2013,2.HC,5
+975,Volta a Portugal em Bicicleta Liberty Seguros 2013,2.1,11
+976,Arctic Race of Norway 2013,2.1,4
+977,Tour of Szeklerland 2013,2.2,4
+978,Tour de l'Ain 2013,2.1,5
+979,Memorial Henryka Lasaka 2013,1.2,1
+980,National Championships Belgium - ITT 2013,NC,1
+981,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara 2013,1.2U,1
+982,National Championships Belgium U23 - ITT 2013,NC,1
+983,Puchar Uzdrowisk Karpackich 2013,1.2,1
+984,Tour des Fjords 2013,2.1,4
+985,GP Capodarco - Comunità di Capodarco 2013,1.2,1
+986,Grand Prix Kralovehradeckeho kraje 2013,1.2,1
+987,Puchar Ministra Obrony Narodowej 2013,1.2,1
+988,Baltic Chain Tour 2013,2.2,6
+989,GP Stad Zottegem 2013,1.1,1
+990,Tour du Limousin 2013,2.1,4
+991,Grand Prix des Marbriers 2013,1.2,1
+992,Coppa Agostoni - Giro delle Brianze 2013,1.1,1
+993,Druivenkoers - Overijse 2013,1.1,1
+994,GP Banca di Legnano - Coppa Bernocchi 2013,1.1,1
+995,National Championships France U23 - ITT 2013,NC,1
+996,Tre Valli Varesine 2013,1.HC,1
+997,Dutch Food Valley Classic 2013,1.1,1
+998,Châteauroux Classic de l\'Indre Trophée Fenioux 2013,1.1,1
+999,National Championships Belgium U23 - Road Race 2013,NC,1
+1000,National Championships France U23 - Road Race 2013,NC,1
+1001,Tour du Poitou Charentes 2013,2.1,5
+1002,World Ports Classic 2013,2.1,2
+1003,Memorial Marco Pantani 2013,1.1,1
+1004,Schaal Sels 2013,1.1,1
+1005,Croatia - Slovenia 2013,1.2,1
+1006,Rabo Ronde van Midden-Nederland 2013,1.2,1
+1007,Tour of Bulgaria 2013,2.2,6
+1008,"Settimana Ciclistica Lombarda by Bergamasca, Memorial Adriano Rodoni 2013",2.1,3
+1009,Okolo Jižních Čech 2013,2.2,4
+1010,Brussels Cycling Classic 2013,1.HC,1
+1011,GP de Fourmies / La Voix du Nord 2013,1.HC,1
+1012,Kernen Omloop Echt-Susteren 2013,1.2,1
+1013,De Kustpijl 2013,1.2,1
+1014,Tour du Jura 2013,1.2,1
+1015,Grote Prijs Jef Scherens - Rondom Leuven 2013,1.1,1
+1016,Tour du Doubs - Conseil Général 2013,1.1,1
+1017,Tour of Britain 2013,2.1,8
+1018,Chrono Champenois Masculin International 2013,1.2,1
+1019,Rabo Baronie Breda Classic 2013,1.2,1
+1020,Grand Prix de Wallonie 2013,1.1,1
+1021,Grand Prix de la Somme « Conseil Général 80» 2013,1.1,1
+1022,Kampioenschap van Vlaanderen 2013,1.1,1
+1023,GP Costa Degli Etruschi 2013,1.1,1
+1024,GP Impanis - Van Petegem 2013,1.1,1
+1025,Tour Bohemia 2013,1.2,1
+1026,GP Industria & Commercio di Prato 2013,1.1,1
+1027,Grand Prix d\'Isbergues - Pas de Calais 2013,1.1,1
+1028,World Championships U23 - ITT 2013,WC,1
+1029,Ruota d'Oro - GP Festa del Perdono 2013,1.2U,1
+1030,Omloop van het Houtland Lichtervelde 2013,1.1,1
+1031,Tour du Gévaudan Languedoc-Roussillon 2013,2.2,2
+1032,Duo Normand 2013,1.1,1
+1033,Gooikse Pijl 2013,1.2,1
+1034,Milano-Torino 2013,1.HC,1
+1035,Sparkassen Münsterland Giro 2013,1.1,1
+1036,Tour de l\'Eurométropole 2013,2.1,4
+1037,Piccolo Giro di Lombardia 2013,1.2,1
+1038,Tour de Vendée 2013,1.HC,1
+1039,Binche-Chimay-Binche / Mémorial Frank Vandenbroucke 2013,1.1,1
+1040,Gran Premio Città di Peccioli - Coppa Sabatini 2013,1.1,1
+1041,Paris-Bourges 2013,1.1,1
+1042,Giro dell'Emilia 2013,1.HC,1
+1043,Paris - Tours 2013,1.HC,1
+1044,Gran Premio Bruno Beghelli 2013,1.1,1
+1045,Paris-Tours Espoirs 2013,1.2U,1
+1046,Nationale Sluitingprijs - Putte - Kapellen 2013,1.1,1
+1047,Chrono des Nations 2013,1.1,1
+1048,Chrono des Nations U23 2013,1.2U,1
+1049,National Championships Australia - ITT 2013,NC,1
+1050,National Championships Australia U23 - ITT 2013,NC,1
+1051,National Championships New Zealand - ITT 2013,NC,1
+1052,National Championships New Zealand - ITT 2013,NC,1
+1053,National Championships Australia - Road Race 2013,NC,1
+1054,National Championships Australia - Road Race 2013,NC,1
+1055,National Championships New Zealand - Road Race 2013,NC,1
+1056,New Zealand Cycle Classic 2013,2.2,5
+1057,Oceania Continental Championships - ITT 2013,CC,1
+1058,Oceania Continental Championships U23 - ITT 2013,CC,1
+1059,Oceania Cycling Championships - en ligne / ind. road race - ME 2013,CC,1
+1060,Copa América de Ciclismo 2013,1.2,1
+1061,Vuelta al Tachira en Bicicleta 2013,2.2,10
+1062,National Championships Uruguay - ITT 2013,NC,1
+1063,National Championships Uruguay - Road Race 2013,NC,1
+1064,Tour de San Luis 2013,2.1,7
+1065,National Championships Argentina - ITT 2013,NC,1
+1066,National Championships Argentina - Road Race 2013,NC,1
+1067,National Championships Colombia - ITT 2013,NC,1
+1068,National Championships Colombia U23 - ITT 2013,NC,1
+1069,National Championships Colombia 2013,NC,1
+1070,Vuelta a Guatemala 2013,2.2,8
+1071,Tour of the Gila 2013,2.2,5
+1072,Champ. Panaméricain c.l.m. ind. / Panamerican Champ. ind. TT - MU 2013,CC,1
+1073,Champ. Panaméricain c.l.m. ind. / Panamerican Champ. ind. TT 2013,CC,1
+1074,Pan American Championships - Road Race U23 2013,CC,1
+1075,Pan American Games - Road Race 2013,CC,1
+1076,Amgen Tour of California 2013,2.HC,8
+1077,National Championships United States WE - ITT 2013,NC,1
+1078,National Championships United States WE - Road Race 2013,NC,1
+1079,The Philadelphia Cycling Classic 2013,1.2,1
+1080,National Championships Bolivia - ITT 2013,NC,1
+1081,National Championships Bolivia - Road Race 2013,NC,1
+1082,National Championships Puerto Rico - Road Race 2013,NC,1
+1083,Vuelta a Colombia 2013,2.2,14
+1084,Tour de Beauce 2013,2.2,6
+1085,National Championships Costa Rica - ITT 2013,NC,1
+1086,National Championships Belize - ITT 2013,NC,1
+1087,National Championships Bermuda - Road Race 2013,NC,1
+1088,National Championships Canada - ITT 2013,NC,1
+1089,National Championships Canada - Road Race 2013,NC,1
+1090,National Championships Curaçao - ITT 2013,NC,1
+1091,National Championships Mexico - ITT 2013,NC,1
+1092,National Championships Venezuela - ITT 2013,NC,1
+1093,National Championships Belize - Road Race 2013,NC,1
+1094,National Championships Costa Rica - Road Race 2013,NC,1
+1095,National Championships Guatemala - ITT 2013,NC,1
+1096,National Championships Mexico - Road Race 2013,NC,1
+1097,National Championships Venezuela - Road Race 2013,NC,1
+1098,National Championships Panama - ITT 2013,NC,1
+1099,National Championships Brazil - ITT 2013,NC,1
+1100,National Championships El Salvador - ITT 2013,NC,1
+1101,National Championships Brazil - Road Race 2013,NC,1
+1102,National Championships El Salvador - Road Race 2013,NC,1
+1103,National Championships Guatemala - Road Race 2013,NC,1
+1104,National Championships Panama - Road Race 2013,NC,1
+1105,National Championships United States U23 - Road Race 2013,NC,1
+1106,National Championships United States U23 - ITT 2013,NC,1
+1107,Tour de Delta 2013,1.2,1
+1108,Vuelta Ciclista a Venezuela 2013,2.2,10
+1109,Tour of Elk Grove 2013,2.1,3
+1110,The Larry H.Miller Tour of Utah 2013,2.1,6
+1111,Ruta del Centro	 2013,2.2,6
+1112,"Vuelta al Sur de Bolivia (Sucre, Potosi) 2013","Sucre, Potosi)",5
+1113,USA Pro Challenge 2013,2.HC,7
+1114,Tour do Rio 2013,2.2,5
+1115,Tour of Alberta 2013,2.1,6
+1116,Bucks County Classic 2013,1.2,1
+1117,Tobago Cycling Classic 2013,1.2,1
+1118,Vuelta a Bolivia 2013,2.2,12
+1119,National Championships Paraguay - ITT 2013,NC,1
+1120,Vuelta Kolbi a Costa Rica 2013,2.2,12
